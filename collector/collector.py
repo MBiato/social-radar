@@ -157,12 +157,12 @@ def collect_instagram(metrics: dict) -> bool:
             if item.get('media_type') in ('VIDEO', 'REELS'):
                 try:
                     rv = requests.get(f'{base}/{item["id"]}/insights', params={
-                        'metric':       'plays,reach',
+                        'metric':       'views,reach,shares,saved',
                         'access_token': token,
                     }, timeout=10)
                     if rv.ok:
                         for m in rv.json().get('data', []):
-                            if m['name'] == 'plays':
+                            if m['name'] == 'views':
                                 views = m.get('values', [{}])[-1].get('value', 0)
                 except Exception:
                     pass
