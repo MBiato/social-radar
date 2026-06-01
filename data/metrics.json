@@ -3,13 +3,13 @@
     "snapshots": [
       {
         "date": "2026-06-01",
-        "followers": 937114,
+        "followers": 937161,
         "following": 1094,
         "media_count": 6281,
         "views": 0,
         "reach": 0,
         "impressions": 0,
-        "likes": 144685
+        "likes": 146801
       }
     ],
     "posts": [
@@ -17,9 +17,10 @@
         "id": "17976037272019259",
         "date": "2026-06-01",
         "caption": "AGENDA DE PROGRAMAS DA SEMANA! 🔥🚀",
+        "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 15,
+        "likes": 19,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -28,10 +29,15 @@
         "id": "18320961496286312",
         "date": "2026-06-01",
         "caption": "A ARBITRAGEM ACERTOU OU ERROU?\n\nO gol anulado da Chapecoense contra o Palmeiras, em São Paulo, foi tema de debate na Cha",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#TexacoNoCharla"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 1713,
-        "comments": 307,
+        "likes": 1854,
+        "comments": 327,
         "shares": 0,
         "saves": 0
       },
@@ -39,10 +45,15 @@
         "id": "17888762292545766",
         "date": "2026-06-01",
         "caption": "JÁ PENSOU, TRICOLOR? 🇭🇺\n\nPhill montou o caminho na Libertadores para o Fluminense conquistar o bicampeonato.\n\n#Sportingb",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#TexacoNoCharla"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 773,
-        "comments": 18,
+        "likes": 825,
+        "comments": 19,
         "shares": 0,
         "saves": 0
       },
@@ -50,10 +61,15 @@
         "id": "17910730566223062",
         "date": "2026-06-01",
         "caption": "OI, BOA NOITE!\n\nTeve gol(aço) do Rayan no Maracanã e a torcida foi junto na comemoração. O moleque merece chance no time",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#TexacoNoCharla"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 2872,
-        "comments": 68,
+        "likes": 3216,
+        "comments": 74,
         "shares": 0,
         "saves": 0
       },
@@ -61,10 +77,15 @@
         "id": "18329611756269960",
         "date": "2026-06-01",
         "caption": "O TRICOLOR BARROU O BANDEIRÃO! 🤣\n\nO torcedor viu um bandeirão vermelho e preto subindo no Setor Sul, onde fica a torcida",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#TexacoNoCharla"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 6954,
-        "comments": 507,
+        "likes": 7519,
+        "comments": 547,
         "shares": 0,
         "saves": 0
       },
@@ -72,10 +93,16 @@
         "id": "17906501370253687",
         "date": "2026-06-01",
         "caption": "“O PAQUETÁ É IMPORTANTE PRA SELEÇÃO”\n\nEnzo fala sobre a dinâmica do time de Ancelotti com e sem Paquetá no meio de campo",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#TexcoNoCharla",
+          "#CDQ339"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 1419,
-        "comments": 125,
+        "likes": 1500,
+        "comments": 135,
         "shares": 0,
         "saves": 0
       },
@@ -83,9 +110,15 @@
         "id": "18364666018227238",
         "date": "2026-06-01",
         "caption": "\"MAIS DE 90 FIOS DE NYLON PASSANDO NAQUELE JOELHO!\" \n\nFilé comentou sobre a lesão do Ronaldo no joelho na Inter de Milão",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#MelittaNoCharla",
+          "#AssaiNoCharla"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 1704,
+        "likes": 1798,
         "comments": 26,
         "shares": 0,
         "saves": 0
@@ -94,10 +127,16 @@
         "id": "18414575827177865",
         "date": "2026-06-01",
         "caption": "\"VAI SER MUITO DIFERENTE. ELE VAI SER PROTAGONISTA!\" 🇭🇺\n\nQuem aí tá ansioso pra ver o Hulk atuar com a camisa do Fluzão?",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#MelittaNoCharla",
+          "#AssaiNoCharla"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 5293,
-        "comments": 118,
+        "likes": 5518,
+        "comments": 119,
         "shares": 0,
         "saves": 0
       },
@@ -105,9 +144,15 @@
         "id": "17870999391617762",
         "date": "2026-06-01",
         "caption": "NEYMAR ESTARÁ À DISPOSIÇÃO DO ANCELOTTI? 👀\n\nFilé falou sobre a lesão do camisa 10 da seleção brasileira, explicou as eta",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#MelittaNoCharla",
+          "#AssaiNoCharla"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 2309,
+        "likes": 2368,
         "comments": 44,
         "shares": 0,
         "saves": 0
@@ -116,9 +161,12 @@
         "id": "18125824411714708",
         "date": "2026-06-01",
         "caption": "Charla #730 - Nilton Petrone Filé\n\nFisioterapeuta do Fluminense e um dos maia renomados do mundo, Filé é o convidado de ",
+        "tags": [
+          "#730"
+        ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 654,
+        "likes": 661,
         "comments": 25,
         "shares": 0,
         "saves": 0
@@ -127,10 +175,16 @@
         "id": "17929679028312621",
         "date": "2026-06-01",
         "caption": "É DIA DE GÊNIO NO CHARLA!\n\nUm dos mais renomados fisioterapeutas do mundo, Nilton Petrone Filé estará conosco hoje, às 1",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#MelittaNoCharla",
+          "#AssaiNoCharla"
+        ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 1226,
-        "comments": 26,
+        "likes": 1243,
+        "comments": 27,
         "shares": 0,
         "saves": 0
       },
@@ -138,9 +192,12 @@
         "id": "17975078954882275",
         "date": "2026-06-01",
         "caption": "COMO SERÁ O SÃO PAULO PÓS-COPA?\n\nBetão falou sobre o tricolor paulista após a derrota de 1 a 0 para o Remo, no Mangueirã",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 1125,
+        "likes": 1129,
         "comments": 21,
         "shares": 0,
         "saves": 0
@@ -149,9 +206,12 @@
         "id": "18459239284129645",
         "date": "2026-06-01",
         "caption": "A BOA FASE DO REMO VAI CONTINUAR? 👀\n\n#CharlaNoPremiere",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 2820,
+        "likes": 2849,
         "comments": 85,
         "shares": 0,
         "saves": 0
@@ -160,10 +220,13 @@
         "id": "18212887159336828",
         "date": "2026-06-01",
         "caption": "DONO DA ZAGA!\n\nTchamba foi fundamental na vitória do Remo! O homem estava em todas as partes do campo. \n\n#CharlaNoPremie",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 6141,
-        "comments": 190,
+        "likes": 6186,
+        "comments": 192,
         "shares": 0,
         "saves": 0
       },
@@ -171,10 +234,13 @@
         "id": "18085453481634129",
         "date": "2026-06-01",
         "caption": "TÁ LIBERADA A QUINTA SÉRIE? 🤣\n\n#CharlaNoPremiere",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 3637,
-        "comments": 123,
+        "likes": 3689,
+        "comments": 124,
         "shares": 0,
         "saves": 0
       },
@@ -182,10 +248,13 @@
         "id": "18008686679909312",
         "date": "2026-06-01",
         "caption": "\"JUSTÍSSIMO O RESULTADO, REMO FOI SUPERIOR\"\n\nJuliana Duller falou sobre a derrota do São Paulo antes da parada pra Copa ",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 651,
-        "comments": 28,
+        "likes": 664,
+        "comments": 29,
         "shares": 0,
         "saves": 0
       },
@@ -193,10 +262,13 @@
         "id": "18113043328856794",
         "date": "2026-06-01",
         "caption": "QUE NOITE DO IVAN!\n\nO São Paulo tentou, mas era dia do goleirão do Remo pegar até pensamento. Que partida espetacular do",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 31760,
-        "comments": 811,
+        "likes": 31912,
+        "comments": 818,
         "shares": 0,
         "saves": 0
       },
@@ -204,10 +276,13 @@
         "id": "18131546812569856",
         "date": "2026-06-01",
         "caption": "MARCELINHO SENSACIONAL! 🔥🏟️\n\nO REMO É PRA QUEM ACREDITA! Aos 48min, Marcelinho soltou o pé, venceu o goleiro do São Paul",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 48645,
-        "comments": 1569,
+        "likes": 48801,
+        "comments": 1575,
         "shares": 0,
         "saves": 0
       },
@@ -215,9 +290,12 @@
         "id": "18100598239871825",
         "date": "2026-06-01",
         "caption": "NÃO PODE FURAR!\n\nO lance até foi parado por impedimento depois, mas não pode errar esse chute, Manga! 😂\n\n#CharlaNoPremie",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 511,
+        "likes": 512,
         "comments": 21,
         "shares": 0,
         "saves": 0
@@ -226,9 +304,12 @@
         "id": "18097027028231605",
         "date": "2026-06-01",
         "caption": "SERÁ QUE DEU RUIM? 😂\n\nIvan defendeu o chute com o rosto e aí a resenha sobre harmonização facial rolou solta. Boa sorte,",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 2373,
+        "likes": 2383,
         "comments": 74,
         "shares": 0,
         "saves": 0
@@ -237,9 +318,10 @@
         "id": "18468524779097933",
         "date": "2026-06-01",
         "caption": "O MOLEQUE JOGOU MUITO E FOI PARABENIZADO! \n\nRayan foi autor de um golaço na goleada do Brasil pra cima do Panamá.",
+        "tags": [],
         "type": "VIDEO",
         "views": 0,
-        "likes": 10634,
+        "likes": 10678,
         "comments": 75,
         "shares": 0,
         "saves": 0
@@ -248,10 +330,11 @@
         "id": "18113133511859110",
         "date": "2026-06-01",
         "caption": "CRAQUE TEM QUE SER ASSIM! \n\nNeymar ovacionado no Maracanã depois da goleada do Brasil em cima do Panamá.",
+        "tags": [],
         "type": "VIDEO",
         "views": 0,
-        "likes": 8295,
-        "comments": 316,
+        "likes": 8309,
+        "comments": 317,
         "shares": 0,
         "saves": 0
       },
@@ -259,9 +342,12 @@
         "id": "17970667694900922",
         "date": "2026-06-01",
         "caption": "DEFESA ESPETACULAR!\n\nExcelente oportunidade para o São Paulo abrir o placar, mas Ivan com o rosto salvou o Remo. Que def",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 3161,
+        "likes": 3168,
         "comments": 79,
         "shares": 0,
         "saves": 0
@@ -270,9 +356,12 @@
         "id": "18120243004706571",
         "date": "2026-05-31",
         "caption": "O CLIMA É ESSE!\n\nFesta absurda no Mangueirão e o clima tomou conta do estúdio! BORA QUE BORA!\n\n#CharlaNoPremiere",
+        "tags": [
+          "#CharlaNoPremiere"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 18706,
+        "likes": 18814,
         "comments": 209,
         "shares": 0,
         "saves": 0
@@ -281,10 +370,13 @@
         "id": "17933295630271796",
         "date": "2026-05-31",
         "caption": "O RAYAN É F*&$@!\n\nO moleque aproveitou o mole da defesa do Panamá e fez um golaço na saída do goleirão!\n\n#CharlaNaCopa",
+        "tags": [
+          "#CharlaNaCopa"
+        ],
         "type": "VIDEO",
         "views": 0,
-        "likes": 8590,
-        "comments": 129,
+        "likes": 8637,
+        "comments": 131,
         "shares": 0,
         "saves": 0
       }
@@ -298,5 +390,5 @@
     "snapshots": [],
     "posts": []
   },
-  "updated_at": "2026-06-01T22:18:06.493442"
+  "updated_at": "2026-06-01T22:37:05.110839"
 }
