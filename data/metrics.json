@@ -3,13 +3,13 @@
     "snapshots": [
       {
         "date": "2026-06-01",
-        "followers": 937169,
-        "following": 1094,
+        "followers": 937253,
+        "following": 1095,
         "media_count": 6281,
         "views": 0,
         "reach": 0,
         "impressions": 0,
-        "likes": 147364
+        "likes": 151455
       }
     ],
     "posts": [
@@ -20,8 +20,8 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 21,
-        "comments": 0,
+        "likes": 25,
+        "comments": 1,
         "shares": 0,
         "saves": 0
       },
@@ -35,9 +35,9 @@
           "#TexacoNoCharla"
         ],
         "type": "VIDEO",
-        "views": 39386,
-        "likes": 1886,
-        "comments": 330,
+        "views": 44586,
+        "likes": 2138,
+        "comments": 380,
         "shares": 0,
         "saves": 0
       },
@@ -51,9 +51,9 @@
           "#TexacoNoCharla"
         ],
         "type": "VIDEO",
-        "views": 19832,
-        "likes": 835,
-        "comments": 19,
+        "views": 21949,
+        "likes": 939,
+        "comments": 24,
         "shares": 0,
         "saves": 0
       },
@@ -67,9 +67,9 @@
           "#TexacoNoCharla"
         ],
         "type": "VIDEO",
-        "views": 31537,
-        "likes": 3302,
-        "comments": 74,
+        "views": 36605,
+        "likes": 3933,
+        "comments": 82,
         "shares": 0,
         "saves": 0
       },
@@ -83,9 +83,9 @@
           "#TexacoNoCharla"
         ],
         "type": "VIDEO",
-        "views": 153853,
-        "likes": 7673,
-        "comments": 559,
+        "views": 171372,
+        "likes": 8603,
+        "comments": 615,
         "shares": 0,
         "saves": 0
       },
@@ -100,9 +100,9 @@
           "#CDQ339"
         ],
         "type": "VIDEO",
-        "views": 30339,
-        "likes": 1518,
-        "comments": 135,
+        "views": 32456,
+        "likes": 1671,
+        "comments": 141,
         "shares": 0,
         "saves": 0
       },
@@ -117,9 +117,9 @@
           "#AssaiNoCharla"
         ],
         "type": "VIDEO",
-        "views": 26931,
-        "likes": 1819,
-        "comments": 28,
+        "views": 29868,
+        "likes": 2056,
+        "comments": 32,
         "shares": 0,
         "saves": 0
       },
@@ -134,9 +134,9 @@
           "#AssaiNoCharla"
         ],
         "type": "VIDEO",
-        "views": 58032,
-        "likes": 5585,
-        "comments": 120,
+        "views": 63234,
+        "likes": 6090,
+        "comments": 136,
         "shares": 0,
         "saves": 0
       },
@@ -151,8 +151,8 @@
           "#AssaiNoCharla"
         ],
         "type": "VIDEO",
-        "views": 36966,
-        "likes": 2383,
+        "views": 38962,
+        "likes": 2556,
         "comments": 44,
         "shares": 0,
         "saves": 0
@@ -166,8 +166,8 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 663,
-        "comments": 26,
+        "likes": 673,
+        "comments": 27,
         "shares": 0,
         "saves": 0
       },
@@ -183,8 +183,8 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 1249,
-        "comments": 27,
+        "likes": 1280,
+        "comments": 28,
         "shares": 0,
         "saves": 0
       },
@@ -196,8 +196,8 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 15402,
-        "likes": 1133,
+        "views": 15621,
+        "likes": 1149,
         "comments": 21,
         "shares": 0,
         "saves": 0
@@ -210,9 +210,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 20467,
-        "likes": 2860,
-        "comments": 85,
+        "views": 20931,
+        "likes": 2940,
+        "comments": 87,
         "shares": 0,
         "saves": 0
       },
@@ -224,9 +224,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 70937,
-        "likes": 6198,
-        "comments": 193,
+        "views": 72170,
+        "likes": 6301,
+        "comments": 197,
         "shares": 0,
         "saves": 0
       },
@@ -238,9 +238,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 50058,
-        "likes": 3703,
-        "comments": 124,
+        "views": 51092,
+        "likes": 3794,
+        "comments": 126,
         "shares": 0,
         "saves": 0
       },
@@ -252,9 +252,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 16972,
-        "likes": 668,
-        "comments": 29,
+        "views": 17305,
+        "likes": 692,
+        "comments": 31,
         "shares": 0,
         "saves": 0
       },
@@ -266,9 +266,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 427574,
-        "likes": 31951,
-        "comments": 821,
+        "views": 432305,
+        "likes": 32223,
+        "comments": 829,
         "shares": 0,
         "saves": 0
       },
@@ -280,9 +280,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 570711,
-        "likes": 48845,
-        "comments": 1575,
+        "views": 576889,
+        "likes": 49170,
+        "comments": 1582,
         "shares": 0,
         "saves": 0
       },
@@ -294,9 +294,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 46626,
-        "likes": 512,
-        "comments": 21,
+        "views": 47287,
+        "likes": 519,
+        "comments": 22,
         "shares": 0,
         "saves": 0
       },
@@ -308,8 +308,8 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 83406,
-        "likes": 2385,
+        "views": 83990,
+        "likes": 2414,
         "comments": 74,
         "shares": 0,
         "saves": 0
@@ -320,8 +320,8 @@
         "caption": "O MOLEQUE JOGOU MUITO E FOI PARABENIZADO! \n\nRayan foi autor de um golaço na goleada do Brasil pra cima do Panamá.",
         "tags": [],
         "type": "VIDEO",
-        "views": 105737,
-        "likes": 10695,
+        "views": 106550,
+        "likes": 10766,
         "comments": 75,
         "shares": 0,
         "saves": 0
@@ -332,9 +332,9 @@
         "caption": "CRAQUE TEM QUE SER ASSIM! \n\nNeymar ovacionado no Maracanã depois da goleada do Brasil em cima do Panamá.",
         "tags": [],
         "type": "VIDEO",
-        "views": 62455,
-        "likes": 8310,
-        "comments": 317,
+        "views": 62797,
+        "likes": 8338,
+        "comments": 319,
         "shares": 0,
         "saves": 0
       },
@@ -346,9 +346,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 143747,
-        "likes": 3170,
-        "comments": 79,
+        "views": 144459,
+        "likes": 3185,
+        "comments": 83,
         "shares": 0,
         "saves": 0
       },
@@ -360,9 +360,9 @@
           "#CharlaNoPremiere"
         ],
         "type": "VIDEO",
-        "views": 204867,
-        "likes": 18852,
-        "comments": 209,
+        "views": 206734,
+        "likes": 19043,
+        "comments": 210,
         "shares": 0,
         "saves": 0
       },
@@ -374,9 +374,9 @@
           "#CharlaNaCopa"
         ],
         "type": "VIDEO",
-        "views": 62490,
-        "likes": 8661,
-        "comments": 131,
+        "views": 63626,
+        "likes": 8761,
+        "comments": 132,
         "shares": 0,
         "saves": 0
       }
@@ -390,5 +390,5 @@
     "snapshots": [],
     "posts": []
   },
-  "updated_at": "2026-06-01T22:42:37.249261"
+  "updated_at": "2026-06-01T23:22:08.078213"
 }
