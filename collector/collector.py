@@ -95,11 +95,11 @@ def collect_instagram(metrics: dict) -> bool:
     if not token:
         return False
 
-    base = 'https://graph.instagram.com/v19.0'
+    base = 'https://graph.facebook.com/v19.0'
 
     # Dados do perfil
     try:
-        r = requests.get(f'{base}/me', params={
+        r = requests.get(f'{base}/17841445654660624', params={
             'fields':       'followers_count,follows_count,media_count,biography',
             'access_token': token,
         }, timeout=15)
@@ -143,7 +143,7 @@ def collect_instagram(metrics: dict) -> bool:
     # Posts recentes
     posts = []
     try:
-        r = requests.get(f'{base}/me/media', params={
+        r = requests.get(f'{base}/17841445654660624/media', params={
             'fields':       'id,caption,media_type,timestamp,like_count,comments_count',
             'limit':        25,
             'access_token': token,
@@ -171,6 +171,7 @@ def collect_instagram(metrics: dict) -> bool:
                 'id':       item['id'],
                 'date':     d,
                 'caption':  (item.get('caption') or '')[:120],
+                'tags':     [w for w in (item.get('caption') or '').split() if w.startswith('#')][:10],
                 'type':     item.get('media_type', 'IMAGE'),
                 'views':    views,
                 'likes':    item.get('like_count',    0),
