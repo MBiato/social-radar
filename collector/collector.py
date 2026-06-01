@@ -23,7 +23,7 @@ load_dotenv(Path(__file__).parent / '.env')
 
 DATA_FILE   = Path(__file__).parent.parent / 'data' / 'metrics.json'
 LOG_FMT     = '%(asctime)s [%(levelname)s] %(message)s'
-MAX_POSTS   = 30   # máximo de posts por plataforma no JSON
+MAX_POSTS   = 2000   # máximo de posts por plataforma no JSON
 
 logging.basicConfig(level=logging.INFO, format=LOG_FMT)
 log = logging.getLogger('sr-collector')
@@ -143,13 +143,20 @@ def collect_instagram(metrics: dict) -> bool:
     # Posts recentes
     posts = []
     try:
-        r = requests.get(f'{base}/17841445654660624/media', params={
-            'fields':       'id,caption,media_type,timestamp,like_count,comments_count',
-            'limit':        25,
-            'access_token': token,
-        }, timeout=15)
-        r.raise_for_status()
-        for item in r.json().get('data', []):
+        url = f'{base}/17841445654660624/media'
+        params = {'fields':'id,caption,media_type,timestamp,like_count,comments_count','limit':100,'access_token':token}
+        all_items = []
+        page = 0
+        while url and page < 20:
+            r = requests.get(url, params=params, timeout=30)
+            r.raise_for_status()
+            rd = r.json()
+            all_items.extend(rd.get('data', []))
+            url = rd.get('paging', {}).get('next')
+            params = {}
+            page += 1
+            log.info(f'Instagram media: página {page}, {len(all_items)} posts acumulados')
+        for item in all_items:
             d     = item['timestamp'][:10]
             views = 0
 
