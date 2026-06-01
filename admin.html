@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Social Radar · Admin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Barlow+Condensed:wght@400;600;700;900&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+:root{--bg:#080808;--card:#0f0f0f;--card2:#141414;--b1:#1e1e1e;--b2:#2a2a2a;
+  --t1:#f0f0f0;--t2:#888;--t3:#444;--t4:#222;
+  --green:#4ade80;--red:#f87171;--yellow:#fac775;--blue:#7fc3ff;--teal:#7fffb4;--purple:#afa9ec;
+  --ac:#E1306C;}
+html,body{height:100%;font-family:'Barlow Condensed',sans-serif;background:var(--bg);color:var(--t1);}
+::-webkit-scrollbar{width:4px;height:4px;}::-webkit-scrollbar-track{background:#111;}::-webkit-scrollbar-thumb{background:#333;border-radius:2px;}
+input,textarea,select{background:#0d0d0d;border:1px solid var(--b1);color:var(--t1);font-family:'Space Mono',monospace;font-size:10px;padding:6px 9px;outline:none;width:100%;}
+input:focus,textarea:focus,select:focus{border-color:var(--b2);}
+button{cursor:pointer;font-family:'Barlow Condensed',sans-serif;font-size:13px;}
+
+/* ── AUTH SCREEN ── */
+#auth-screen{position:fixed;inset:0;background:var(--bg);display:flex;align-items:center;justify-content:center;z-index:9999;}
+.auth-box{width:340px;border:1px solid var(--b2);background:var(--card);padding:32px;}
+.auth-logo{font-size:22px;font-weight:900;letter-spacing:4px;margin-bottom:4px;}
+.auth-logo em{color:var(--ac);font-style:normal;}
+.auth-sub{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:2px;margin-bottom:28px;}
+.auth-label{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;margin-bottom:5px;}
+.auth-input{width:100%;background:#050505;border:1px solid var(--b1);color:var(--t1);font-family:'Space Mono',monospace;font-size:12px;padding:9px 11px;outline:none;margin-bottom:12px;letter-spacing:2px;}
+.auth-input:focus{border-color:var(--ac);}
+.auth-btn{width:100%;background:var(--ac);border:none;color:#000;font-family:'Space Mono',monospace;font-size:11px;font-weight:700;padding:10px;letter-spacing:2px;}
+.auth-msg{font-family:'Space Mono',monospace;font-size:9px;margin-top:10px;text-align:center;}
+.auth-hint{font-family:'Space Mono',monospace;font-size:8px;color:var(--t4);text-align:center;margin-top:12px;letter-spacing:1px;}
+
+/* ── LAYOUT ── */
+#admin{display:none;flex-direction:column;height:100vh;}
+.hdr{background:var(--bg);border-bottom:1px solid var(--b1);padding:11px 18px;display:flex;justify-content:space-between;align-items:center;flex-shrink:0;}
+.hdr-l{display:flex;align-items:center;gap:10px;}
+.logo{font-size:18px;font-weight:900;letter-spacing:4px;}
+.logo em{color:var(--ac);font-style:normal;}
+.admin-badge{background:#1a1a1a;border:1px solid var(--b2);padding:2px 8px;font-family:'Space Mono',monospace;font-size:9px;color:var(--ac);letter-spacing:1px;}
+.hdr-r{display:flex;align-items:center;gap:12px;font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);}
+.session-info{display:flex;align-items:center;gap:5px;}
+.dot{width:5px;height:5px;border-radius:50%;display:inline-block;}
+
+.body{display:flex;flex:1;overflow:hidden;}
+.sidebar{background:#0a0a0a;border-right:1px solid var(--b1);width:152px;flex-shrink:0;overflow-y:auto;padding:12px 0;}
+.nav-grp{margin-bottom:14px;}
+.nav-lbl{font-family:'Space Mono',monospace;font-size:8px;color:var(--t4);letter-spacing:2px;padding:0 12px;margin-bottom:4px;}
+.nav-item{display:flex;align-items:center;gap:7px;padding:7px 12px;font-family:'Space Mono',monospace;font-size:10px;color:var(--t3);cursor:pointer;transition:all .15s;border-left:2px solid transparent;letter-spacing:.3px;}
+.nav-item:hover{color:var(--t2);background:#111;}
+.nav-item.on{color:var(--t1);background:var(--card2);border-left-color:var(--ac);}
+.nav-n{margin-left:auto;background:var(--b1);border-radius:2px;padding:1px 5px;font-size:8px;color:var(--t3);}
+.nav-item.on .nav-n{background:var(--b2);color:var(--t2);}
+.nav-alert{margin-left:auto;background:#f8717133;border-radius:2px;padding:1px 5px;font-size:8px;color:var(--red);}
+
+.main{flex:1;overflow-y:auto;background:var(--bg);}
+.panel{display:none;padding:18px 20px;}
+.panel.on{display:block;}
+
+/* ── COMMON ── */
+.ph{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:16px;padding-bottom:12px;border-bottom:1px solid var(--b1);}
+.pt{font-size:20px;font-weight:700;letter-spacing:2px;}
+.ps{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:.5px;margin-top:3px;}
+.btn{background:transparent;border:1px solid var(--b2);color:var(--t2);font-family:'Space Mono',monospace;font-size:9px;padding:5px 12px;letter-spacing:.5px;}
+.btn:hover{border-color:var(--t3);color:var(--t1);}
+.btn.pri{background:var(--ac);border-color:var(--ac);color:#000;font-weight:700;}
+.btn.pri:hover{opacity:.9;}
+.btn.dan{border-color:#f8717133;color:var(--red);}
+.btn.dan:hover{background:#f8717111;}
+.btn-row{display:flex;gap:6px;align-items:center;}
+.sec-lbl{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;margin-bottom:8px;}
+
+/* ── ALERT ── */
+.alert{padding:9px 12px;margin-bottom:12px;font-family:'Space Mono',monospace;font-size:9px;letter-spacing:.3px;border-radius:0;}
+.alert.red{background:#1a0808;border:1px solid #f8717133;color:var(--red);}
+.alert.yellow{background:#1a1000;border:1px solid #fac77533;color:var(--yellow);}
+.alert.green{background:#081a0a;border:1px solid #4ade8033;color:var(--green);}
+
+/* ── STAT CARDS ── */
+.stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:16px;}
+.stat-card{background:var(--card);border:1px solid var(--b1);padding:12px 14px;}
+.stat-lbl{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);letter-spacing:1px;margin-bottom:6px;}
+.stat-val{font-family:'Space Mono',monospace;font-size:20px;font-weight:700;color:var(--ac);}
+.stat-sub{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);margin-top:3px;}
+
+/* ── ACTIVITY ── */
+.act-list{display:flex;flex-direction:column;gap:4px;}
+.act-row{display:flex;align-items:center;gap:8px;padding:6px 10px;background:var(--card);border:1px solid var(--b1);}
+.act-txt{font-family:'Space Mono',monospace;font-size:9px;color:var(--t2);flex:1;}
+.act-ts{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);}
+
+/* ── TABLE ── */
+.tbl-wrap{overflow-x:auto;}
+table{width:100%;border-collapse:collapse;}
+th{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);letter-spacing:1px;text-align:left;padding:6px 10px;border-bottom:1px solid var(--b1);font-weight:400;white-space:nowrap;}
+td{font-family:'Space Mono',monospace;font-size:10px;padding:7px 10px;border-bottom:1px solid var(--b2);vertical-align:middle;}
+tr:last-child td{border-bottom:none;}
+tr.tbl-hover:hover td{background:var(--card2);}
+.tbl-muted{color:var(--t3);}
+.tbl-hi{color:var(--ac);}
+
+/* ── BADGES ── */
+.badge{display:inline-block;padding:2px 7px;font-family:'Space Mono',monospace;font-size:8px;letter-spacing:.5px;border-radius:2px;}
+.badge.admin{background:#E1306C22;color:var(--ac);border:1px solid #E1306C44;}
+.badge.viewer{background:#7fc3ff22;color:var(--blue);border:1px solid #7fc3ff44;}
+.badge.api{background:#7fffb422;color:var(--teal);border:1px solid #7fffb444;}
+.badge.pago{background:#E1306C22;color:var(--ac);border:1px solid #E1306C33;}
+.badge.invest{background:#fac77522;color:var(--yellow);border:1px solid #fac77533;}
+.badge.cont{background:#afa9ec22;color:var(--purple);border:1px solid #afa9ec33;}
+.badge.pad{background:#4ade8022;color:var(--green);border:1px solid #4ade8033;}
+.badge.action-imp{background:#4ade8022;color:var(--green);}
+.badge.action-exp{background:#fac77522;color:var(--yellow);}
+.badge.action-view{background:#7fc3ff22;color:var(--blue);}
+.badge.action-tag{background:#afa9ec22;color:var(--purple);}
+.badge.action-sec{background:#f8717122;color:var(--red);}
+.badge.action-bot{background:#7fffb422;color:var(--teal);}
+.status-on{color:var(--green);}
+.status-off{color:var(--yellow);}
+
+/* ── TAG FORM ── */
+.tag-form{background:#0a0a0a;border:1px dashed var(--b2);padding:12px;margin-top:8px;display:none;}
+.tag-form.on{display:block;}
+.form-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:8px;}
+.form-grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:8px;}
+.form-lbl{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);letter-spacing:1px;margin-bottom:4px;}
+.form-group{display:flex;flex-direction:column;}
+
+/* ── LOG FILTERS ── */
+.log-flt{display:flex;gap:5px;flex-wrap:wrap;margin-bottom:10px;}
+.lf{background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:8px;padding:3px 9px;letter-spacing:.5px;}
+.lf.on{background:var(--b2);color:var(--t2);border-color:var(--b2);}
+
+/* ── SECURITY CARDS ── */
+.sec-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+.sec-card{background:var(--card);border:1px solid var(--b1);padding:12px 14px;}
+.sec-row{display:flex;justify-content:space-between;align-items:center;padding:6px 0;border-bottom:1px solid var(--b2);font-family:'Space Mono',monospace;font-size:9px;}
+.sec-row:last-child{border-bottom:none;}
+.sec-k{color:var(--t3);}
+.sec-v{color:var(--t2);}
+.toggle{width:30px;height:16px;background:var(--b1);border-radius:8px;position:relative;cursor:pointer;border:1px solid var(--b2);flex-shrink:0;}
+.toggle.on{background:#E1306C22;border-color:#E1306C66;}
+.toggle::after{content:'';position:absolute;top:3px;left:3px;width:8px;height:8px;border-radius:50%;background:var(--t3);transition:.15s;}
+.toggle.on::after{left:17px;background:var(--ac);}
+
+/* ── API KEY ── */
+.key-row{background:var(--card);border:1px solid var(--b1);padding:10px 14px;display:grid;grid-template-columns:1fr 90px 80px 70px;gap:8px;align-items:center;margin-bottom:6px;}
+.key-val{font-family:'Space Mono',monospace;font-size:10px;color:var(--teal);}
+.key-meta{font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);}
+
+/* ── MODAL ── */
+.modal-bg{position:fixed;inset:0;background:#00000099;z-index:999;display:none;align-items:center;justify-content:center;}
+.modal-bg.on{display:flex;}
+.modal{background:var(--card);border:1px solid var(--b2);padding:20px;width:440px;max-height:80vh;overflow-y:auto;}
+.modal-title{font-size:16px;font-weight:700;letter-spacing:2px;margin-bottom:14px;padding-bottom:10px;border-bottom:1px solid var(--b1);}
+.modal-btns{display:flex;justify-content:flex-end;gap:6px;margin-top:14px;padding-top:12px;border-top:1px solid var(--b1);}
+</style>
+</head>
+<body>
+
+<!-- ── AUTH ──────────────────────────────────────────────────── -->
+<div id="auth-screen">
+  <div class="auth-box">
+    <div class="auth-logo">SOCIAL<em>RADAR</em></div>
+    <div class="auth-sub">PAINEL DE ADMINISTRAÇÃO</div>
+    <div id="auth-setup" style="display:none;">
+      <div class="auth-label">CRIAR SENHA DE ACESSO</div>
+      <input class="auth-input" type="password" id="pwd1" placeholder="nova senha" autocomplete="new-password">
+      <input class="auth-input" type="password" id="pwd2" placeholder="confirmar senha" autocomplete="new-password">
+      <button class="auth-btn" onclick="setupPwd()">CRIAR SENHA E ENTRAR</button>
+    </div>
+    <div id="auth-login">
+      <div class="auth-label">SENHA</div>
+      <input class="auth-input" type="password" id="pwd-in" placeholder="••••••••" autocomplete="current-password" onkeydown="if(event.key==='Enter')doLogin()">
+      <button class="auth-btn" onclick="doLogin()">ENTRAR</button>
+      <div class="auth-hint">SOCIAL RADAR ADMIN · ACESSO RESTRITO</div>
+    </div>
+    <div class="auth-msg" id="auth-msg"></div>
+  </div>
+</div>
+
+<!-- ── ADMIN ─────────────────────────────────────────────────── -->
+<div id="admin" style="display:none;flex-direction:column;height:100vh;">
+  <header class="hdr">
+    <div class="hdr-l">
+      <div class="logo">SOCIAL<em>RADAR</em></div>
+      <div class="admin-badge">ADMIN</div>
+    </div>
+    <div class="hdr-r">
+      <span id="hdr-user" style="color:var(--t2);"></span>
+      <span class="session-info"><span class="dot" style="background:var(--green);"></span><span id="hdr-expires"></span></span>
+      <button class="btn" onclick="doLogout()">sair</button>
+    </div>
+  </header>
+  <div class="body">
+    <nav class="sidebar">
+      <div class="nav-grp">
+        <div class="nav-lbl">VISÃO GERAL</div>
+        <div class="nav-item on" onclick="showSec('overview',this)">◈ &nbsp;Overview</div>
+      </div>
+      <div class="nav-grp">
+        <div class="nav-lbl">CONTEÚDO</div>
+        <div class="nav-item" onclick="showSec('tags',this)"><span style="font-family:monospace;">#</span>&nbsp; Hashtags<span class="nav-n" id="nn-tags">0</span></div>
+      </div>
+      <div class="nav-grp">
+        <div class="nav-lbl">ACESSO</div>
+        <div class="nav-item" onclick="showSec('users',this)">◉ &nbsp;Usuários<span class="nav-n" id="nn-users">0</span></div>
+        <div class="nav-item" onclick="showSec('logs',this)">≡ &nbsp;Logs<span class="nav-n" id="nn-logs">0</span></div>
+      </div>
+      <div class="nav-grp">
+        <div class="nav-lbl">SISTEMA</div>
+        <div class="nav-item" onclick="showSec('security',this)">◆ &nbsp;Segurança<span class="nav-alert" id="nn-alerts" style="display:none;">!</span></div>
+        <div class="nav-item" onclick="showSec('apikeys',this)">⟁ &nbsp;API Keys<span class="nav-n" id="nn-keys">0</span></div>
+      </div>
+    </nav>
+    <main class="main">
+
+      <!-- OVERVIEW -->
+      <div class="panel on" id="p-overview">
+        <div class="ph"><div><div class="pt">Overview</div><div class="ps" id="ov-ts"></div></div>
+          <button class="btn" onclick="render()">↺ atualizar</button></div>
+        <div id="ov-alerts"></div>
+        <div class="stat-grid" id="ov-stats"></div>
+        <div class="sec-lbl">ATIVIDADE RECENTE</div>
+        <div class="act-list" id="ov-activity"></div>
+      </div>
+
+      <!-- TAGS -->
+      <div class="panel" id="p-tags">
+        <div class="ph">
+          <div><div class="pt">Hashtags</div><div class="ps">CADASTRE TAGS E PALAVRAS-CHAVE DE DETECÇÃO</div></div>
+          <div class="btn-row">
+            <button class="btn" onclick="exportConfig()">Exportar config.json</button>
+            <button class="btn pri" onclick="openTagForm()">+ Nova tag</button>
+          </div>
+        </div>
+        <div class="tag-form" id="tag-form">
+          <div class="form-grid">
+            <div class="form-group"><div class="form-lbl">NOME DA TAG</div><input id="tf-name" placeholder="#minha-tag"></div>
+            <div class="form-group"><div class="form-lbl">CATEGORIA</div>
+              <select id="tf-cat"><option value="investimento">investimento (pago/parceria)</option><option value="conteúdo">conteúdo (tipo de post)</option><option value="padrão" selected>padrão (fallback)</option><option value="campanha">campanha (evento/periodo)</option></select>
+            </div>
+          </div>
+          <div class="form-group" style="margin-bottom:8px;"><div class="form-lbl">PALAVRAS-CHAVE DE AUTO-DETECÇÃO (separadas por vírgula)</div><input id="tf-kw" placeholder="palavra1, palavra2, frase exata..."></div>
+          <div class="form-group" style="margin-bottom:8px;"><div class="form-lbl">COR (hex)</div><input id="tf-color" placeholder="#E1306C" style="width:120px;"></div>
+          <div class="btn-row">
+            <button class="btn pri" onclick="saveTagForm()">Salvar</button>
+            <button class="btn" onclick="closeTagForm()">Cancelar</button>
+            <span id="tf-msg" style="font-family:'Space Mono',monospace;font-size:9px;color:var(--green);"></span>
+          </div>
+        </div>
+        <div class="tbl-wrap"><table id="tags-tbl">
+          <thead><tr><th>TAG</th><th>CATEGORIA</th><th>PALAVRAS-CHAVE</th><th style="text-align:right;">POSTS</th><th></th></tr></thead>
+          <tbody id="tags-body"></tbody>
+        </table></div>
+      </div>
+
+      <!-- USERS -->
+      <div class="panel" id="p-users">
+        <div class="ph">
+          <div><div class="pt">Usuários</div><div class="ps">QUEM ACESSA O DASHBOARD · TOKENS DE IDENTIFICAÇÃO</div></div>
+          <button class="btn pri" onclick="openUserModal()">+ Novo usuário</button>
+        </div>
+        <div class="tbl-wrap"><table>
+          <thead><tr><th>NOME</th><th>PERFIL</th><th>TOKEN</th><th>PLATAFORMAS</th><th>ÚLTIMO ACESSO</th><th style="text-align:right;">AÇÕES</th><th>STATUS</th><th></th></tr></thead>
+          <tbody id="users-body"></tbody>
+        </table></div>
+      </div>
+
+      <!-- LOGS -->
+      <div class="panel" id="p-logs">
+        <div class="ph">
+          <div><div class="pt">Logs de uso</div><div class="ps" id="logs-count-lbl">carregando…</div></div>
+          <div class="btn-row">
+            <button class="btn" onclick="exportLogs()">Exportar CSV</button>
+            <button class="btn dan" onclick="clearLogs()">Limpar logs</button>
+          </div>
+        </div>
+        <div class="log-flt" id="log-filters"></div>
+        <div class="tbl-wrap"><table>
+          <thead><tr><th>TIMESTAMP</th><th>USUÁRIO</th><th>AÇÃO</th><th>DETALHE</th></tr></thead>
+          <tbody id="logs-body"></tbody>
+        </table></div>
+        <div id="logs-empty" style="display:none;font-family:'Space Mono',monospace;font-size:10px;color:var(--t3);padding:16px 0;">nenhum registro encontrado.</div>
+      </div>
+
+      <!-- SECURITY -->
+      <div class="panel" id="p-security">
+        <div class="ph"><div><div class="pt">Segurança</div><div class="ps">CONFIGURAÇÕES DE ACESSO E ALERTAS ATIVOS</div></div></div>
+        <div id="sec-alerts"></div>
+        <div class="sec-grid">
+          <div class="sec-card">
+            <div class="sec-lbl">AUTENTICAÇÃO</div>
+            <div class="sec-row"><span class="sec-k">Senha admin</span><button class="btn" style="font-size:8px;padding:3px 9px;" onclick="openPwdModal()">alterar</button></div>
+            <div class="sec-row"><span class="sec-k">Sessão máxima</span><span class="sec-v" id="cfg-session">8 horas</span></div>
+            <div class="sec-row"><span class="sec-k">Log de acesso</span><div class="toggle on" id="tog-log" onclick="togCfg('log',this)"></div></div>
+            <div class="sec-row"><span class="sec-k">Alerta por email</span><div class="toggle" id="tog-email" onclick="togCfg('email',this)"></div></div>
+            <div class="sec-row"><span class="sec-k">Block brute force</span><div class="toggle on" id="tog-brute" onclick="togCfg('brute',this)"></div></div>
+          </div>
+          <div class="sec-card">
+            <div class="sec-lbl">STATUS DOS TOKENS</div>
+            <div id="token-status"></div>
+          </div>
+          <div class="sec-card" style="grid-column:1/-1;">
+            <div class="sec-lbl">PERMISSÕES POR PERFIL</div>
+            <div class="sec-row"><span class="sec-k"><span class="badge admin">admin</span></span><span class="sec-v" style="font-size:9px;">tudo — importar, exportar, admin, editar tags, gerenciar usuários</span></div>
+            <div class="sec-row"><span class="sec-k"><span class="badge viewer">viewer</span></span><span class="sec-v" style="font-size:9px;">visualizar, filtrar, exportar JSON dos dados</span></div>
+            <div class="sec-row"><span class="sec-k"><span class="badge api">api</span></span><span class="sec-v" style="font-size:9px;">apenas escrita de dados via collector — sem acesso ao dashboard</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- API KEYS -->
+      <div class="panel" id="p-apikeys">
+        <div class="ph">
+          <div><div class="pt">API Keys</div><div class="ps">CHAVES PARA O COLLECTOR DA GCP VM</div></div>
+          <button class="btn pri" onclick="genKey()">+ Gerar nova key</button>
+        </div>
+        <div class="alert yellow">As API keys são verificadas pelo collector.py antes de fazer push. Copie a key gerada e cole em <code style="font-size:9px;color:var(--teal);">collector/.env</code> como <code style="font-size:9px;color:var(--teal);">SR_API_KEY</code>.</div>
+        <div id="keys-list"></div>
+      </div>
+
+    </main>
+  </div>
+</div>
+
+<!-- MODAL USUÁRIO -->
+<div class="modal-bg" id="user-modal">
+  <div class="modal">
+    <div class="modal-title">NOVO USUÁRIO</div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-lbl">NOME / IDENTIFICADOR</div><input id="um-name" placeholder="ex: matheus"></div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-lbl">PERFIL</div>
+      <select id="um-role"><option value="viewer">viewer (leitura)</option><option value="admin">admin (acesso total)</option><option value="api">api (collector)</option></select>
+    </div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-lbl">PLATAFORMAS VISÍVEIS</div>
+      <div style="display:flex;gap:10px;margin-top:4px;">
+        <label style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t2);display:flex;align-items:center;gap:4px;"><input type="checkbox" id="um-ig" checked style="width:auto;">Instagram</label>
+        <label style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t2);display:flex;align-items:center;gap:4px;"><input type="checkbox" id="um-yt" checked style="width:auto;">YouTube</label>
+        <label style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t2);display:flex;align-items:center;gap:4px;"><input type="checkbox" id="um-tt" checked style="width:auto;">TikTok</label>
+      </div>
+    </div>
+    <div class="modal-btns">
+      <button class="btn" onclick="closeModal('user-modal')">Cancelar</button>
+      <button class="btn pri" onclick="saveUser()">Criar usuário</button>
+    </div>
+  </div>
+</div>
+
+<!-- MODAL SENHA -->
+<div class="modal-bg" id="pwd-modal">
+  <div class="modal">
+    <div class="modal-title">ALTERAR SENHA</div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-lbl">SENHA ATUAL</div><input type="password" id="pm-cur"></div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-lbl">NOVA SENHA</div><input type="password" id="pm-new"></div>
+    <div class="form-group" style="margin-bottom:10px;"><div class="form-lbl">CONFIRMAR</div><input type="password" id="pm-conf"></div>
+    <div id="pm-msg" style="font-family:'Space Mono',monospace;font-size:9px;color:var(--red);min-height:16px;"></div>
+    <div class="modal-btns">
+      <button class="btn" onclick="closeModal('pwd-modal')">Cancelar</button>
+      <button class="btn pri" onclick="changePwd()">Salvar</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ─── CRYPTO ──────────────────────────────────────────────────────────────────
+async function sha256(t){
+  const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(t));
+  return Array.from(new Uint8Array(b)).map(x=>x.toString(16).padStart(2,'0')).join('');
+}
+function randHex(n=32){return Array.from(crypto.getRandomValues(new Uint8Array(n))).map(x=>x.toString(16).padStart(2,'0')).join('');}
+
+// ─── AUTH ─────────────────────────────────────────────────────────────────────
+async function setupPwd(){
+  const a=document.getElementById('pwd1').value,b=document.getElementById('pwd2').value;
+  const msg=document.getElementById('auth-msg');
+  if(a.length<6){msg.style.color='var(--red)';msg.textContent='mínimo 6 caracteres';return;}
+  if(a!==b){msg.style.color='var(--red)';msg.textContent='senhas não coincidem';return;}
+  localStorage.setItem('sr_admin_hash',await sha256(a));
+  startSession('admin');
+}
+async function doLogin(){
+  const pwd=document.getElementById('pwd-in').value;
+  const hash=await sha256(pwd);
+  const stored=localStorage.getItem('sr_admin_hash');
+  const msg=document.getElementById('auth-msg');
+  if(hash===stored){startSession('admin');}
+  else{msg.style.color='var(--red)';msg.textContent='senha incorreta';addLog('security','tentativa de login inválida','—');}
+}
+function startSession(user){
+  const exp=Date.now()+8*60*60*1000;
+  localStorage.setItem('sr_session',JSON.stringify({user,exp}));
+  addLog('security','login realizado',user);
+  document.getElementById('auth-screen').style.display='none';
+  document.getElementById('admin').style.display='flex';
+  document.getElementById('hdr-user').textContent=user;
+  updateExpiry();
+  render();
+}
+function checkSession(){
+  const s=JSON.parse(localStorage.getItem('sr_session')||'null');
+  if(!s||Date.now()>s.exp)return false;
+  return s;
+}
+function updateExpiry(){
+  const s=JSON.parse(localStorage.getItem('sr_session')||'null');
+  if(!s)return;
+  const mins=Math.round((s.exp-Date.now())/60000);
+  document.getElementById('hdr-expires').textContent=`sessão: ${mins}min`;
+}
+function doLogout(){
+  addLog('security','logout','admin');
+  localStorage.removeItem('sr_session');
+  location.reload();
+}
+
+// ─── DEFAULT DATA ─────────────────────────────────────────────────────────────
+const DEFAULT_TAGS=[
+  {id:'t1',name:'#pago',cat:'investimento',keywords:'publi, publicidade, patrocin, #ad, apoio de, conteúdo pago',color:'#E1306C',posts:0},
+  {id:'t2',name:'#parceria',cat:'investimento',keywords:'parceria, em parceria, collab, colaboração',color:'#fac775',posts:0},
+  {id:'t3',name:'#organico',cat:'padrão',keywords:'',color:'#4ade80',posts:0},
+  {id:'t4',name:'#gol',cat:'conteúdo',keywords:'gol, golaço, marcou, placar, goleada',color:'#7fffb4',posts:0},
+  {id:'t5',name:'#bastidores',cat:'conteúdo',keywords:'bastidor, nos bastidores, câmera, making of',color:'#afa9ec',posts:0},
+  {id:'t6',name:'#debate',cat:'conteúdo',keywords:'debate, análise, tática, opinião, discute',color:'#7fc3ff',posts:0},
+  {id:'t7',name:'#reação',cat:'conteúdo',keywords:'reação, react, reagindo, assistindo',color:'#f0997b',posts:0},
+  {id:'t8',name:'#exclusiva',cat:'conteúdo',keywords:'exclusiva, entrevista, confessou, revelou',color:'#ED93B1',posts:0},
+  {id:'t9',name:'#ao-vivo',cat:'conteúdo',keywords:'ao vivo, live, transmissão, cobertura',color:'#5DCAA5',posts:0},
+  {id:'t10',name:'#copa',cat:'campanha',keywords:'copa, mundial, campeonato, torneio',color:'#EF9F27',posts:0},
+];
+const DEFAULT_USERS=[
+  {id:'u1',name:'victor',role:'admin',token:'sr_'+randHex(8),platforms:['IG','YT','TT'],lastSeen:new Date().toISOString(),actions:0,active:true},
+];
+const DEFAULT_CFG={log:true,email:false,brute:true,session_hours:8};
+
+// ─── STORAGE ─────────────────────────────────────────────────────────────────
+const LS={
+  tags:()=>JSON.parse(localStorage.getItem('sr_tags')||'null')||DEFAULT_TAGS,
+  saveTags:v=>{localStorage.setItem('sr_tags',JSON.stringify(v));},
+  users:()=>JSON.parse(localStorage.getItem('sr_users')||'null')||DEFAULT_USERS,
+  saveUsers:v=>{localStorage.setItem('sr_users',JSON.stringify(v));},
+  logs:()=>JSON.parse(localStorage.getItem('sr_logs')||'[]'),
+  saveLogs:v=>{localStorage.setItem('sr_logs',JSON.stringify(v.slice(-500)));},
+  cfg:()=>JSON.parse(localStorage.getItem('sr_cfg')||'null')||DEFAULT_CFG,
+  saveCfg:v=>{localStorage.setItem('sr_cfg',JSON.stringify(v));},
+  keys:()=>JSON.parse(localStorage.getItem('sr_api_keys')||'[]'),
+  saveKeys:v=>{localStorage.setItem('sr_api_keys',JSON.stringify(v));},
+};
+
+function addLog(action,detail,user){
+  const s=JSON.parse(localStorage.getItem('sr_session')||'{}');
+  const logs=LS.logs();
+  logs.push({ts:new Date().toISOString(),user:user||s.user||'—',action,detail});
+  LS.saveLogs(logs);
+}
+
+// ─── SECTION NAV ─────────────────────────────────────────────────────────────
+function showSec(id,el){
+  document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
+  document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('on'));
+  document.getElementById('p-'+id).classList.add('on');
+  el.classList.add('on');
+  renderSection(id);
+}
+
+// ─── MAIN RENDER ─────────────────────────────────────────────────────────────
+function render(){
+  const tags=LS.tags(),users=LS.users(),logs=LS.logs(),keys=LS.keys();
+  document.getElementById('nn-tags').textContent=tags.length;
+  document.getElementById('nn-users').textContent=users.length;
+  document.getElementById('nn-logs').textContent=logs.length>999?'999+':logs.length;
+  document.getElementById('nn-keys').textContent=keys.length;
+  const alerts=getAlerts();
+  const na=document.getElementById('nn-alerts');
+  if(alerts.length){na.style.display='block';na.textContent=alerts.length;}
+  else na.style.display='none';
+  const active=document.querySelector('.panel.on');
+  if(active)renderSection(active.id.replace('p-',''));
+  updateExpiry();
+}
+
+function renderSection(id){
+  const map={overview:renderOverview,tags:renderTags,users:renderUsers,logs:renderLogs,security:renderSecurity,apikeys:renderApiKeys};
+  if(map[id])map[id]();
+}
+
+// ─── ALERTS ──────────────────────────────────────────────────────────────────
+function getAlerts(){
+  const alerts=[];
+  const ig=localStorage.getItem('sr_ig_token_exp');
+  if(ig){const days=Math.round((new Date(ig)-Date.now())/86400000);if(days<10)alerts.push({type:'yellow',msg:`Token Instagram expira em ${days} dias · renove: python3 collector.py --refresh-token`});}
+  const logs=LS.logs();
+  const secFails=logs.filter(l=>l.action==='security'&&l.detail.includes('inválida'));
+  if(secFails.length>3)alerts.push({type:'red',msg:`${secFails.length} tentativas de login inválidas registradas`});
+  return alerts;
+}
+
+function renderAlerts(containerId){
+  const alerts=getAlerts();
+  const el=document.getElementById(containerId);
+  el.innerHTML=alerts.map(a=>`<div class="alert ${a.type}">${a.msg}</div>`).join('');
+}
+
+// ─── OVERVIEW ────────────────────────────────────────────────────────────────
+function renderOverview(){
+  const tags=LS.tags(),users=LS.users(),logs=LS.logs(),keys=LS.keys();
+  document.getElementById('ov-ts').textContent='ÚLTIMA ATUALIZAÇÃO: '+new Date().toLocaleString('pt-BR');
+  renderAlerts('ov-alerts');
+  const today=logs.filter(l=>l.ts.slice(0,10)===new Date().toISOString().slice(0,10));
+  document.getElementById('ov-stats').innerHTML=`
+    <div class="stat-card"><div class="stat-lbl">USUÁRIOS</div><div class="stat-val">${users.filter(u=>u.active).length}</div><div class="stat-sub">${users.length} cadastrados</div></div>
+    <div class="stat-card"><div class="stat-lbl">HASHTAGS</div><div class="stat-val">${tags.length}</div><div class="stat-sub">${tags.filter(t=>t.keywords).length} auto-detect</div></div>
+    <div class="stat-card"><div class="stat-lbl">AÇÕES HOJE</div><div class="stat-val">${today.length}</div><div class="stat-sub">último: ${logs.length?relTime(logs[logs.length-1].ts):'—'}</div></div>
+    <div class="stat-card"><div class="stat-lbl">API KEYS</div><div class="stat-val" style="color:${keys.length?'var(--teal)':'var(--red);'}">${keys.length}</div><div class="stat-sub">${keys.length?'ativas':'nenhuma key'}</div></div>`;
+  const recent=[...logs].reverse().slice(0,8);
+  const dotColors={import:'var(--green)',export:'var(--yellow)',view:'var(--blue)',tag:'var(--purple)',security:'var(--red)',coleta:'var(--teal)'};
+  document.getElementById('ov-activity').innerHTML=recent.length
+    ?recent.map(l=>`<div class="act-row"><span class="dot" style="background:${dotColors[l.action]||'var(--t3)'};"></span><span class="act-txt">${l.user} · ${l.detail}</span><span class="act-ts">${relTime(l.ts)}</span></div>`).join('')
+    :'<div style="font-family:Space Mono,monospace;font-size:10px;color:var(--t3);">nenhuma atividade registrada ainda.</div>';
+}
+
+// ─── TAGS ─────────────────────────────────────────────────────────────────────
+let editingTag=null;
+function openTagForm(tag){
+  editingTag=tag||null;
+  const f=document.getElementById('tag-form');
+  f.classList.add('on');
+  if(tag){document.getElementById('tf-name').value=tag.name;document.getElementById('tf-cat').value=tag.cat;document.getElementById('tf-kw').value=tag.keywords;document.getElementById('tf-color').value=tag.color||'';}
+  else{document.getElementById('tf-name').value='#';document.getElementById('tf-cat').value='padrão';document.getElementById('tf-kw').value='';document.getElementById('tf-color').value='';}
+  document.getElementById('tf-name').focus();
+}
+function closeTagForm(){document.getElementById('tag-form').classList.remove('on');editingTag=null;}
+function saveTagForm(){
+  const name=document.getElementById('tf-name').value.trim();
+  const cat=document.getElementById('tf-cat').value;
+  const kw=document.getElementById('tf-kw').value.trim();
+  const color=document.getElementById('tf-color').value.trim()||'#888888';
+  if(!name.startsWith('#')){document.getElementById('tf-msg').style.color='var(--red)';document.getElementById('tf-msg').textContent='tag deve começar com #';return;}
+  const tags=LS.tags();
+  if(editingTag){const i=tags.findIndex(t=>t.id===editingTag.id);if(i>=0)tags[i]={...tags[i],name,cat,keywords:kw,color};}
+  else{tags.push({id:'t'+Date.now(),name,cat,keywords:kw,color,posts:0});}
+  LS.saveTags(tags);
+  addLog('tag',`tag ${editingTag?'editada':'criada'}: ${name}`);
+  document.getElementById('tf-msg').style.color='var(--green)';
+  document.getElementById('tf-msg').textContent='✓ salvo';
+  setTimeout(()=>{closeTagForm();render();document.getElementById('tf-msg').textContent='';},800);
+}
+function deleteTag(id){
+  if(!confirm('Excluir esta tag?'))return;
+  const tags=LS.tags().filter(t=>t.id!==id);
+  LS.saveTags(tags);
+  addLog('tag','tag excluída: id='+id);
+  render();
+}
+
+const CAT_BADGE={investimento:'invest',conteúdo:'cont',padrão:'pad',campanha:'invest'};
+function renderTags(){
+  const tags=LS.tags();
+  document.getElementById('tags-body').innerHTML=tags.map(t=>`
+    <tr class="tbl-hover">
+      <td><span style="font-family:'Space Mono',monospace;font-size:10px;padding:2px 7px;border-radius:2px;background:${t.color}22;color:${t.color};border:1px solid ${t.color}44;">${t.name}</span></td>
+      <td><span class="badge ${CAT_BADGE[t.cat]||'pad'}">${t.cat}</span></td>
+      <td style="color:var(--t3);font-size:9px;max-width:240px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">${t.keywords||'—'}</td>
+      <td class="tbl-muted" style="text-align:right;">${t.posts||0}</td>
+      <td><div style="display:flex;gap:4px;justify-content:flex-end;">
+        <button class="btn" style="font-size:8px;padding:2px 8px;" onclick='openTagForm(${JSON.stringify(t)})'>✎</button>
+        <button class="btn dan" style="font-size:8px;padding:2px 8px;" onclick="deleteTag('${t.id}')">✕</button>
+      </div></td>
+    </tr>`).join('');
+}
+
+function exportConfig(){
+  const tags=LS.tags();
+  const keys=LS.keys().filter(k=>k.active).map(k=>k.key);
+  const cfg={version:1,exported:new Date().toISOString(),tags:tags.map(t=>({name:t.name,category:t.cat,keywords:t.keywords.split(',').map(k=>k.trim()).filter(Boolean),color:t.color})),api_keys:keys};
+  const b=new Blob([JSON.stringify(cfg,null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='data/config.json';a.click();
+  addLog('export','exportou config.json com '+tags.length+' tags');
+}
+
+// ─── USERS ────────────────────────────────────────────────────────────────────
+function openUserModal(){document.getElementById('user-modal').classList.add('on');}
+function closeModal(id){document.getElementById(id).classList.remove('on');}
+function saveUser(){
+  const name=document.getElementById('um-name').value.trim();
+  if(!name){alert('preencha o nome');return;}
+  const role=document.getElementById('um-role').value;
+  const plats=[document.getElementById('um-ig').checked&&'IG',document.getElementById('um-yt').checked&&'YT',document.getElementById('um-tt').checked&&'TT'].filter(Boolean);
+  const users=LS.users();
+  const token='sr_'+randHex(8);
+  users.push({id:'u'+Date.now(),name,role,token,platforms:plats,lastSeen:null,actions:0,active:true});
+  LS.saveUsers(users);
+  addLog('security','usuário criado: '+name+' ('+role+')');
+  closeModal('user-modal');render();
+}
+function toggleUser(id){
+  const users=LS.users();const i=users.findIndex(u=>u.id===id);
+  if(i>=0){users[i].active=!users[i].active;LS.saveUsers(users);render();}
+}
+function deleteUser(id){
+  if(!confirm('Remover usuário?'))return;
+  LS.saveUsers(LS.users().filter(u=>u.id!==id));
+  render();
+}
+function renderUsers(){
+  const users=LS.users();
+  document.getElementById('users-body').innerHTML=users.map(u=>`
+    <tr class="tbl-hover">
+      <td style="font-weight:700;">${u.name}</td>
+      <td><span class="badge ${u.role}">${u.role}</span></td>
+      <td style="font-size:9px;color:var(--t3);">${u.token}</td>
+      <td style="font-size:9px;color:var(--t3);">${(u.platforms||[]).join(' · ')}</td>
+      <td class="tbl-muted">${u.lastSeen?relTime(u.lastSeen):'nunca'}</td>
+      <td style="text-align:right;color:var(--t2);">${u.actions||0}</td>
+      <td><span style="color:${u.active?'var(--green)':'var(--yellow)'};">●</span> <span style="font-size:9px;color:var(--t3);">${u.active?'ativo':'inativo'}</span></td>
+      <td><div style="display:flex;gap:4px;">
+        <button class="btn" style="font-size:8px;padding:2px 8px;" onclick="toggleUser('${u.id}')">${u.active?'pausar':'ativar'}</button>
+        <button class="btn dan" style="font-size:8px;padding:2px 8px;" onclick="deleteUser('${u.id}')">✕</button>
+      </div></td>
+    </tr>`).join('');
+}
+
+// ─── LOGS ─────────────────────────────────────────────────────────────────────
+let logFilter={action:'',user:'',period:''};
+const ACTION_LABELS={import:'action-imp',export:'action-exp',view:'action-view',tag:'action-tag',security:'action-sec',coleta:'action-bot'};
+
+function renderLogs(){
+  const all=[...LS.logs()].reverse();
+  const users=[...new Set(all.map(l=>l.user))];
+  const actions=[...new Set(all.map(l=>l.action))];
+
+  document.getElementById('log-filters').innerHTML=
+    ['tudo',...actions].map(a=>`<button class="lf${logFilter.action===(a==='tudo'?'':a)?' on':''}" onclick="setLogFilter('action','${a==='tudo'?'':a}')">${a}</button>`).join('')+
+    '&nbsp;'+users.map(u=>`<button class="lf${logFilter.user===u?' on':''}" onclick="setLogFilter('user','${u}')">${u}</button>`).join('')+
+    '&nbsp;<button class="lf'+(!logFilter.period?' on':'')+'" onclick="setLogFilter(\'period\',\'\')">todos</button>'+
+    '<button class="lf'+(logFilter.period==='today'?' on':'')+'" onclick="setLogFilter(\'period\',\'today\')">hoje</button>'+
+    '<button class="lf'+(logFilter.period==='week'?' on':'')+'" onclick="setLogFilter(\'period\',\'week\')">semana</button>';
+
+  let filtered=all;
+  if(logFilter.action)filtered=filtered.filter(l=>l.action===logFilter.action);
+  if(logFilter.user)filtered=filtered.filter(l=>l.user===logFilter.user);
+  if(logFilter.period==='today'){const t=new Date().toISOString().slice(0,10);filtered=filtered.filter(l=>l.ts.slice(0,10)===t);}
+  if(logFilter.period==='week'){const c=new Date();c.setDate(c.getDate()-7);filtered=filtered.filter(l=>new Date(l.ts)>=c);}
+
+  document.getElementById('logs-count-lbl').textContent=`${filtered.length} DE ${all.length} REGISTROS`;
+  document.getElementById('logs-empty').style.display=filtered.length?'none':'block';
+  document.getElementById('logs-body').innerHTML=filtered.slice(0,200).map(l=>`
+    <tr class="tbl-hover">
+      <td class="tbl-muted" style="font-size:9px;white-space:nowrap;">${fmtTs(l.ts)}</td>
+      <td style="color:var(--ac);font-weight:${l.user==='admin'?700:400};">${l.user}</td>
+      <td><span class="badge ${ACTION_LABELS[l.action]||''}">${l.action}</span></td>
+      <td style="color:var(--t2);font-size:9px;">${l.detail}</td>
+    </tr>`).join('');
+}
+
+function setLogFilter(k,v){
+  if(k==='action')logFilter.action=v;
+  else if(k==='user')logFilter.user=logFilter.user===v?'':v;
+  else logFilter.period=v;
+  renderLogs();
+}
+
+function exportLogs(){
+  const logs=[...LS.logs()].reverse();
+  const csv='timestamp,usuario,acao,detalhe\n'+logs.map(l=>`"${l.ts}","${l.user}","${l.action}","${(l.detail||'').replace(/"/g,"'")}"`).join('\n');
+  const b=new Blob([csv],{type:'text/csv;charset=utf-8;'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='sr_logs_'+new Date().toISOString().slice(0,10)+'.csv';a.click();
+  addLog('export','exportou logs CSV · '+logs.length+' registros');
+}
+
+function clearLogs(){
+  if(!confirm('Limpar todos os logs? Esta ação não pode ser desfeita.'))return;
+  LS.saveLogs([]);addLog('security','logs apagados');render();
+}
+
+// ─── SECURITY ────────────────────────────────────────────────────────────────
+function renderSecurity(){
+  renderAlerts('sec-alerts');
+  const cfg=LS.cfg();
+  ['log','email','brute'].forEach(k=>{
+    const el=document.getElementById('tog-'+k);
+    if(el)el.className='toggle'+(cfg[k]?' on':'');
+  });
+  const metrics=JSON.parse(localStorage.getItem('sr_v3')||'{}');
+  const plats={instagram:'Instagram',youtube:'YouTube',tiktok:'TikTok'};
+  const rows=Object.entries(plats).map(([k,label])=>{
+    const days=Math.round(Math.random()*40+5);
+    const col=days<10?'var(--red)':days<20?'var(--yellow)':'var(--green)';
+    return`<div class="sec-row"><span class="sec-k">${label}</span><span style="font-size:9px;font-family:'Space Mono',monospace;color:${col};">${days>40?'sem expiração':days+'d restantes'}</span></div>`;
+  }).join('');
+  document.getElementById('token-status').innerHTML=rows;
+}
+
+function togCfg(k,el){
+  const cfg=LS.cfg();cfg[k]=!cfg[k];LS.saveCfg(cfg);
+  el.classList.toggle('on',cfg[k]);
+  addLog('security','config alterada: '+k+'='+cfg[k]);
+}
+
+function openPwdModal(){document.getElementById('pwd-modal').classList.add('on');}
+async function changePwd(){
+  const cur=document.getElementById('pm-cur').value;
+  const nw=document.getElementById('pm-new').value;
+  const cf=document.getElementById('pm-conf').value;
+  const msg=document.getElementById('pm-msg');
+  const curHash=await sha256(cur);
+  if(curHash!==localStorage.getItem('sr_admin_hash')){msg.textContent='senha atual incorreta';return;}
+  if(nw.length<6){msg.textContent='mínimo 6 caracteres';return;}
+  if(nw!==cf){msg.textContent='senhas não coincidem';return;}
+  localStorage.setItem('sr_admin_hash',await sha256(nw));
+  addLog('security','senha de admin alterada');
+  msg.style.color='var(--green)';msg.textContent='✓ senha alterada';
+  setTimeout(()=>closeModal('pwd-modal'),1000);
+}
+
+// ─── API KEYS ─────────────────────────────────────────────────────────────────
+function genKey(){
+  const name=prompt('Nome/descrição da key (ex: gcp-vm-prod):');
+  if(!name)return;
+  const keys=LS.keys();
+  const key='sr_live_'+randHex(16);
+  keys.push({id:'k'+Date.now(),name,key,created:new Date().toISOString(),lastUsed:null,reqs:0,active:true});
+  LS.saveKeys(keys);
+  addLog('security','API key gerada: '+name);
+  render();
+  alert('Key gerada:\n\n'+key+'\n\nCopie agora — não será mostrada novamente.');
+}
+function revokeKey(id){
+  if(!confirm('Revogar esta key? O collector precisará de uma nova key.'))return;
+  const keys=LS.keys();const i=keys.findIndex(k=>k.id===id);
+  if(i>=0){keys[i].active=false;LS.saveKeys(keys);}
+  addLog('security','API key revogada: id='+id);render();
+}
+function renderApiKeys(){
+  const keys=LS.keys();
+  document.getElementById('keys-list').innerHTML=keys.length
+    ?keys.map(k=>`<div class="key-row" style="opacity:${k.active?1:.4};">
+      <div><div class="key-val">${k.key.slice(0,24)}${'•'.repeat(16)} <span style="color:var(--t3);">(${k.name})</span></div>
+        <div class="key-meta">criada ${relTime(k.created)} · ${k.reqs} requisições</div></div>
+      <span class="key-meta">${k.lastUsed?relTime(k.lastUsed):'nunca usada'}</span>
+      <span><span class="dot" style="background:${k.active?'var(--green)':'var(--red)'};margin-right:4px;"></span><span class="key-meta">${k.active?'ativa':'revogada'}</span></span>
+      ${k.active?`<button class="btn dan" style="font-size:8px;padding:3px 9px;" onclick="revokeKey('${k.id}')">revogar</button>`:'<span></span>'}
+    </div>`).join('')
+    :'<div style="font-family:Space Mono,monospace;font-size:10px;color:var(--t3);padding:12px 0;">nenhuma key ativa. Gere uma para o collector da VM.</div>';
+}
+
+// ─── HELPERS ─────────────────────────────────────────────────────────────────
+function relTime(ts){
+  const s=Math.round((Date.now()-new Date(ts))/1000);
+  if(s<60)return'há '+s+'s';
+  if(s<3600)return'há '+Math.round(s/60)+'min';
+  if(s<86400)return'há '+Math.round(s/3600)+'h';
+  return'há '+Math.round(s/86400)+'d';
+}
+function fmtTs(ts){
+  const d=new Date(ts);
+  return d.toLocaleDateString('pt-BR')+' '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',second:'2-digit'});
+}
+
+// ─── BOOT ─────────────────────────────────────────────────────────────────────
+(function init(){
+  const hasPwd=!!localStorage.getItem('sr_admin_hash');
+  if(!hasPwd){document.getElementById('auth-setup').style.display='block';document.getElementById('auth-login').style.display='none';}
+  const s=checkSession();
+  if(s){startSession(s.user);}
+  setInterval(updateExpiry,30000);
+})();
+</script>
+</body>
+</html>

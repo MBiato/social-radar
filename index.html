@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Social Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Barlow+Condensed:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;}
+:root{
+  --bg:#080808;--card:#0f0f0f;--card2:#141414;
+  --b1:#1e1e1e;--b2:#2a2a2a;
+  --t1:#f0f0f0;--t2:#888;--t3:#444;--t4:#222;
+  --green:#4ade80;--red:#f87171;--ac:#E1306C;
+}
+html{scroll-behavior:smooth;}
+body{background:var(--bg);color:var(--t1);font-family:'Barlow Condensed',sans-serif;min-height:100vh;font-size:14px;}
+::-webkit-scrollbar{width:4px;height:4px;}
+::-webkit-scrollbar-track{background:#111;}
+::-webkit-scrollbar-thumb{background:#333;border-radius:2px;}
+
+/* WRAP */
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px 48px;}
+
+/* HEADER */
+.hdr{border-bottom:1px solid var(--b1);padding:14px 20px;display:flex;justify-content:space-between;align-items:center;position:sticky;top:0;background:var(--bg);z-index:100;}
+.logo{font-size:20px;font-weight:900;letter-spacing:4px;line-height:1;}
+.logo em{color:var(--ac);font-style:normal;}
+.hdr-meta{font-family:'Space Mono',monospace;font-size:9px;color:var(--t4);letter-spacing:2px;margin-top:3px;}
+.hdr-r{display:flex;align-items:center;gap:10px;}
+.badge{border:1px solid var(--b1);padding:3px 10px;display:flex;align-items:center;gap:5px;}
+.badge .dot{width:5px;height:5px;border-radius:50%;background:var(--green);animation:pulse 2s infinite;}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.3;}}
+.badge span{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;}
+
+/* BUTTONS */
+.btn{background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:9px;padding:5px 12px;cursor:pointer;letter-spacing:1px;transition:all .15s;}
+.btn:hover{border-color:var(--b2);color:var(--t2);}
+.btn.ac{background:var(--ac);border-color:var(--ac);color:#000;font-weight:700;}
+.btn.sm{padding:3px 9px;font-size:9px;}
+.btn.sm.ac{background:var(--ac);border-color:var(--ac);color:#000;}
+
+/* IMPORT */
+.import-wrap{background:var(--card);border-bottom:1px solid var(--b1);padding:16px 20px;display:none;}
+.import-inner{max-width:1280px;margin:0 auto;}
+.import-label{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;margin-bottom:8px;}
+.import-ta{width:100%;background:#050505;border:1px solid var(--b1);color:#7fffb4;font-family:'Space Mono',monospace;font-size:10px;padding:10px;resize:vertical;outline:none;line-height:1.7;}
+.import-ta:focus{border-color:var(--b2);}
+.import-row{display:flex;align-items:center;gap:8px;margin-top:8px;flex-wrap:wrap;}
+.imp-msg{font-family:'Space Mono',monospace;font-size:10px;}
+
+/* SECTION */
+.section{background:var(--card);border:1px solid var(--b1);padding:16px 18px;margin-bottom:12px;}
+.sec-title{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:2px;text-transform:uppercase;margin-bottom:12px;}
+.sec-hdr{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;}
+
+/* PLATFORM CARDS */
+.plat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:12px;}
+.plat-card{background:var(--card);border:1px solid var(--b1);padding:14px 16px;cursor:pointer;transition:border-color .2s;}
+.plat-card.active{border-color:var(--ac);}
+.plat-card:hover:not(.active){border-color:var(--b2);}
+.plat-name{font-family:'Space Mono',monospace;font-size:9px;letter-spacing:2px;margin-bottom:8px;}
+.plat-val{font-family:'Space Mono',monospace;font-size:24px;font-weight:700;line-height:1;margin-bottom:3px;}
+.plat-sub{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);}
+.plat-gr{font-family:'Space Mono',monospace;font-size:9px;margin-top:5px;}
+
+/* CONTROLS */
+.controls{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;flex-wrap:wrap;gap:8px;padding-bottom:10px;border-bottom:1px solid var(--b1);}
+.tabs{display:flex;}
+.tab{background:transparent;border:none;border-bottom:2px solid transparent;padding:6px 18px;font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;letter-spacing:2px;color:var(--t3);cursor:pointer;margin-bottom:-1px;transition:all .15s;}
+.tab.active{color:var(--t1);border-bottom-color:var(--ac);}
+.tab:hover:not(.active){color:var(--t2);}
+.period-grp{display:flex;gap:4px;}
+
+/* KPI GRID */
+.kpi-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:12px;}
+.kpi-card{background:var(--card);border:1px solid var(--b1);padding:14px 16px;}
+.kpi-label{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;margin-bottom:7px;}
+.kpi-val{font-family:'Space Mono',monospace;font-size:22px;font-weight:700;line-height:1;color:var(--ac);margin-bottom:5px;}
+.kpi-cmp{font-family:'Space Mono',monospace;font-size:9px;display:flex;align-items:center;gap:4px;}
+.kpi-sub{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);margin-top:2px;}
+.arrow-up{color:var(--green);}
+.arrow-dn{color:var(--red);}
+
+/* CHART GRID */
+.chart-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px;}
+.chart-wrap{position:relative;}
+
+/* HEATMAP */
+.hm-wrap{position:relative;overflow-x:auto;}
+.hm-tooltip{position:absolute;background:#1a1a1a;border:1px solid var(--b2);padding:6px 10px;font-family:'Space Mono',monospace;font-size:9px;color:var(--t1);pointer-events:none;display:none;z-index:10;white-space:nowrap;letter-spacing:.5px;}
+
+/* TAGS */
+.tag-bar{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:12px;}
+.tag{font-family:'Space Mono',monospace;font-size:9px;padding:3px 9px;border:1px solid var(--b1);color:var(--t3);cursor:pointer;letter-spacing:.5px;transition:all .15s;border-radius:2px;}
+.tag:hover{border-color:var(--b2);color:var(--t2);}
+.tag.on{background:var(--ac);border-color:var(--ac);color:#000;font-weight:700;}
+.tag-pill{font-family:'Space Mono',monospace;font-size:8px;padding:1px 5px;border-radius:2px;background:var(--b1);color:var(--t3);margin-left:3px;}
+
+/* RANKINGS */
+.rank-btns{display:flex;gap:4px;flex-wrap:wrap;}
+.sort-btn{font-family:'Space Mono',monospace;font-size:8px;padding:3px 8px;border:1px solid var(--b1);color:var(--t3);cursor:pointer;letter-spacing:.5px;transition:all .15s;}
+.sort-btn:hover{border-color:var(--b2);color:var(--t2);}
+.sort-btn.ac{background:var(--ac);border-color:var(--ac);color:#000;}
+table{width:100%;border-collapse:collapse;table-layout:fixed;}
+th{font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);letter-spacing:1px;text-align:left;padding:6px 8px;border-bottom:1px solid var(--b1);font-weight:400;}
+td{font-family:'Space Mono',monospace;font-size:10px;padding:7px 8px;border-bottom:1px solid var(--b2);vertical-align:middle;}
+tr:last-child td{border-bottom:none;}
+tr:hover td{background:var(--card2);}
+.td-hi{color:var(--ac);}
+.td-mu{color:var(--t3);}
+.td-cap{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--t2);}
+.td-vir{color:#7fffb4;}
+.td-sav{color:#7fc3ff;}
+.pos1{color:var(--ac);font-weight:700;}
+
+/* FOOTER */
+.footer{display:flex;justify-content:space-between;align-items:center;padding-top:14px;border-top:1px solid var(--b1);flex-wrap:wrap;gap:8px;}
+.footer-txt{font-family:'Space Mono',monospace;font-size:9px;color:var(--t4);letter-spacing:1px;}
+
+/* RESP */
+@media(max-width:900px){.kpi-grid{grid-template-columns:repeat(2,1fr);}.chart-grid{grid-template-columns:1fr;}}
+@media(max-width:600px){.plat-grid{grid-template-columns:1fr;}.kpi-grid{grid-template-columns:1fr 1fr;}}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="hdr">
+  <div>
+    <div class="logo">SOCIAL<em id="logo-em">RADAR</em></div>
+    <div class="hdr-meta">PERSONAL MONITORING DASHBOARD</div>
+  </div>
+  <div class="hdr-r">
+    <div class="badge"><span class="dot"></span><span id="upd-txt">—</span></div>
+    <a href="admin.html" style="border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:9px;padding:5px 12px;letter-spacing:1px;text-decoration:none;">⚙ admin</a><button class="btn" onclick="toggleImport()">⬆ importar</button>
+  </div>
+</header>
+
+<!-- IMPORT PANEL -->
+<div class="import-wrap" id="imp-panel">
+  <div class="import-inner">
+    <div class="import-label">JSON DO COLLECTOR (único ou array de plataformas)</div>
+    <textarea class="import-ta" id="imp-json" rows="7"
+      placeholder='{"platform":"instagram","date":"2026-05-26","snapshot":{"followers":13500,"views":45000,"likes":1200,"comments":85},"posts":[{"id":"abc","published_at":"2026-05-26T19:30:00","caption":"...","type":"REEL","tags":["#pago","#gol"],"views":82000,"likes":4200,"comments":310,"shares":1100,"saves":890}]}'></textarea>
+    <div class="import-row">
+      <button class="btn" onclick="handleImport()">Importar</button>
+      <button class="btn" onclick="showTpl()">Modelo JSON</button>
+      <button class="btn" onclick="exportData()">Exportar atual</button>
+      <button class="btn" onclick="resetDemo()">Reset demo</button>
+      <span class="imp-msg" id="imp-msg"></span>
+    </div>
+  </div>
+</div>
+
+<div class="wrap" style="padding-top:20px;">
+
+  <!-- PLATFORM CARDS -->
+  <div class="plat-grid" id="plat-cards"></div>
+
+  <!-- CONTROLS -->
+  <div class="controls">
+    <div class="tabs" id="tabs">
+      <button class="tab active" id="tab-instagram" onclick="setPlatform('instagram')">INSTAGRAM</button>
+      <button class="tab" id="tab-youtube" onclick="setPlatform('youtube')">YOUTUBE</button>
+      <button class="tab" id="tab-tiktok" onclick="setPlatform('tiktok')">TIKTOK</button>
+    </div>
+    <div class="period-grp">
+      <button class="btn sm" id="pd-7"  onclick="setPeriod('7')">7D</button>
+      <button class="btn sm ac" id="pd-30" onclick="setPeriod('30')">30D</button>
+      <button class="btn sm" id="pd-90" onclick="setPeriod('90')">90D</button>
+    </div>
+  </div>
+
+  <!-- KPI ROW -->
+  <div class="kpi-grid" id="kpi-row"></div>
+
+  <!-- CHARTS -->
+  <div class="chart-grid">
+    <div class="section" style="margin-bottom:0;">
+      <div class="sec-title">CRESCIMENTO DE SEGUIDORES</div>
+      <div class="chart-wrap" style="height:185px;"><canvas id="ch-followers"></canvas></div>
+    </div>
+    <div class="section" style="margin-bottom:0;">
+      <div class="sec-title">VIEWS DIÁRIAS</div>
+      <div class="chart-wrap" style="height:185px;"><canvas id="ch-views"></canvas></div>
+    </div>
+  </div>
+  <div style="margin-bottom:12px;"></div>
+
+  <!-- VELOCIDADE DE CRESCIMENTO -->
+  <div class="section">
+    <div class="sec-hdr">
+      <div class="sec-title" style="margin-bottom:0;">VELOCIDADE DE CRESCIMENTO · SEGUIDORES/DIA</div>
+      <div style="display:flex;gap:14px;font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);">
+        <span style="display:flex;align-items:center;gap:5px;"><span style="width:10px;height:10px;background:var(--ac);display:inline-block;"></span>Dia com post</span>
+        <span style="display:flex;align-items:center;gap:5px;"><span style="width:10px;height:10px;background:var(--ac);opacity:.35;display:inline-block;"></span>Crescimento</span>
+        <span style="display:flex;align-items:center;gap:5px;"><span style="width:10px;height:10px;background:#f87171;opacity:.5;display:inline-block;"></span>Perda</span>
+      </div>
+    </div>
+    <div class="chart-wrap" style="height:160px;"><canvas id="ch-velocity"></canvas></div>
+  </div>
+
+  <!-- HEATMAP -->
+  <div class="section">
+    <div class="sec-hdr">
+      <div class="sec-title" style="margin-bottom:0;">MAPA DE CALOR · MELHOR DIA × HORÁRIO</div>
+      <div style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);">média de views por slot · hover para detalhes</div>
+    </div>
+    <div class="hm-wrap" id="hm-wrap">
+      <div class="hm-tooltip" id="hm-tip"></div>
+      <div id="hm-svg"></div>
+    </div>
+    <div style="display:flex;align-items:center;gap:8px;margin-top:10px;">
+      <span style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);">sem dados</span>
+      <div id="hm-legend" style="display:flex;gap:2px;"></div>
+      <span style="font-family:'Space Mono',monospace;font-size:9px;color:var(--t3);">pico</span>
+    </div>
+  </div>
+
+  <!-- RANKINGS -->
+  <div class="section">
+    <div class="sec-hdr">
+      <div class="sec-title" style="margin-bottom:0;">RANKING DE POSTS</div>
+      <div class="rank-btns" id="sort-btns">
+        <button class="sort-btn ac" id="srt-views"    onclick="setRankBy('views')">VIEWS</button>
+        <button class="sort-btn"    id="srt-likes"    onclick="setRankBy('likes')">LIKES</button>
+        <button class="sort-btn"    id="srt-virality" onclick="setRankBy('virality')">VIRALITY %</button>
+        <button class="sort-btn"    id="srt-saves"    onclick="setRankBy('saves')">SAVES</button>
+        <button class="sort-btn"    id="srt-comments" onclick="setRankBy('comments')">COMENT.</button>
+      </div>
+    </div>
+    <div class="tag-bar" id="tag-bar"></div>
+    <div id="rankings-tbl"></div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div class="footer-txt" id="ftr-src">FONTE: data/metrics.json</div>
+    <div class="footer-txt">SOCIAL RADAR · <span id="ftr-yr"></span></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+// ─── CONFIG ──────────────────────────────────────────────────────────────────
+const PLATS = {
+  instagram:{ label:'Instagram', color:'#E1306C' },
+  youtube:  { label:'YouTube',   color:'#FF3333' },
+  tiktok:   { label:'TikTok',    color:'#25F4EE' },
+};
+const DAYS_PT = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+const ALL_TAGS = ['#pago','#parceria','#organico','#ao-vivo','#exclusiva','#bastidores','#gol','#debate','#reação','#copa'];
+
+// ─── STATE ───────────────────────────────────────────────────────────────────
+let metrics  = null;
+let platform = 'instagram';
+let period   = '30';
+let rankBy   = 'views';
+let activeTags = new Set();
+let charts   = { follower:null, views:null, velocity:null };
+
+// ─── HELPERS ─────────────────────────────────────────────────────────────────
+const fmt = n => {
+  if(n==null||isNaN(n))return'—';
+  if(n>=1e6)return(n/1e6).toFixed(1)+'M';
+  if(n>=1000)return(n/1000).toFixed(1)+'K';
+  return String(Math.round(n));
+};
+const pctChg = (cur,prev) => prev && prev!==0 ? ((cur-prev)/Math.abs(prev)*100) : null;
+const virScore  = p => p.views>0&&p.shares>0 ? (p.shares/p.views*100) : 0;
+const saveRate  = p => p.views>0&&p.saves>0  ? (p.saves/p.views*100)  : 0;
+const ac  = () => PLATS[platform].color;
+const qs  = id => document.getElementById(id);
+const ds  = d  => d.toISOString().slice(0,10);
+const setAC = c => document.documentElement.style.setProperty('--ac',c);
+
+function lerpColor(c1,c2,t){
+  const h = s => parseInt(s,16);
+  const r1=h(c1.slice(1,3)),g1=h(c1.slice(3,5)),b1=h(c1.slice(5,7));
+  const r2=h(c2.slice(1,3)),g2=h(c2.slice(3,5)),b2=h(c2.slice(5,7));
+  return `rgb(${Math.round(r1+(r2-r1)*t)},${Math.round(g1+(g2-g1)*t)},${Math.round(b1+(b2-b1)*t)})`;
+}
+
+// ─── DEMO DATA ───────────────────────────────────────────────────────────────
+const CAPS = [
+  'Gol histórico! Veja o lance completo','Bastidores exclusivos da transmissão',
+  'Análise tática: o que deu errado','Entrevista exclusiva com o técnico',
+  'Os 10 melhores momentos da rodada','Polêmica: confira o lance completo',
+  'Reação da torcida que parou o país','Preview do clássico de amanhã',
+  'Classificação atualizada ao vivo','Momento inédito nas câmeras da Cazé',
+];
+const DEMO_TAGS = [['#organico'],['#gol'],['#pago','#parceria'],['#bastidores'],['#exclusiva'],['#debate'],['#organico','#ao-vivo'],['#reação'],['#copa'],['#gol','#pago']];
+
+function randHour(){
+  const r=Math.random();
+  if(r<.3)return 12+Math.floor(Math.random()*3);   // 12-14
+  if(r<.7)return 18+Math.floor(Math.random()*4);   // 18-21
+  if(r<.85)return 7+Math.floor(Math.random()*3);    // 7-9
+  return Math.floor(Math.random()*24);
+}
+
+function generateDemo(){
+  const bases={instagram:13200,youtube:48500,tiktok:9400};
+  const data={updated_at:new Date().toISOString(),_demo:true};
+  Object.keys(PLATS).forEach(p=>{
+    let f=bases[p];
+    const snaps=[];
+    for(let i=89;i>=0;i--){
+      const d=new Date();d.setDate(d.getDate()-i);
+      f+=Math.floor(Math.random()*180)-28;if(f<50)f=50;
+      snaps.push({date:ds(d),followers:f,
+        views:Math.floor(Math.random()*65000)+7000,
+        reach:Math.floor(Math.random()*52000)+5500,
+        likes:Math.floor(Math.random()*2800)+180,
+        comments:Math.floor(Math.random()*220)+12,
+        shares:Math.floor(Math.random()*460)+40,
+        saves:Math.floor(Math.random()*620)+60});
+    }
+    const posts=Array.from({length:28},(_,i)=>{
+      const d=new Date();d.setDate(d.getDate()-Math.floor(Math.random()*90));
+      const h=randHour();
+      const pub=new Date(d);pub.setHours(h,Math.floor(Math.random()*60),0);
+      const v=Math.floor(Math.random()*190000)+4000;
+      const l=Math.floor(v*(Math.random()*.06+.01));
+      return{
+        id:`${p}_d${i}`,date:ds(d),
+        published_at:pub.toISOString(),
+        caption:CAPS[i%CAPS.length],
+        type:p==='youtube'?'VIDEO':['REEL','IMAGE','STORY'][i%3],
+        tags:DEMO_TAGS[i%DEMO_TAGS.length],
+        views:v,likes:l,
+        comments:Math.floor(l*(.08+Math.random()*.1)),
+        shares:Math.floor(l*(.15+Math.random()*.2)),
+        saves:Math.floor(l*(.2+Math.random()*.25)),
+      };
+    }).sort((a,b)=>b.date.localeCompare(a.date));
+    data[p]={snapshots:snaps,posts};
+  });
+  return data;
+}
+
+// ─── LOAD ─────────────────────────────────────────────────────────────────────
+async function init(){
+  try{
+    const r=await fetch('./data/metrics.json?t='+Date.now());
+    if(!r.ok)throw new Error();
+    metrics=await r.json();
+    qs('ftr-src').textContent='FONTE: data/metrics.json (produção)';
+  }catch{
+    const c=localStorage.getItem('sr_v3');
+    metrics=c?JSON.parse(c):generateDemo();
+    qs('ftr-src').textContent=metrics._demo?'FONTE: dados de demonstração':'FONTE: localStorage';
+  }
+  if(metrics.updated_at){
+    const d=new Date(metrics.updated_at);
+    qs('upd-txt').textContent='atualizado '+d.toLocaleDateString('pt-BR')+' '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});
+  }
+  qs('ftr-yr').textContent=new Date().getFullYear();
+  render();
+}
+
+function saveLocal(){try{localStorage.setItem('sr_v3',JSON.stringify(metrics));}catch{}}
+
+// ─── DATA SELECTORS ──────────────────────────────────────────────────────────
+function cutoff(days){const c=new Date();c.setDate(c.getDate()-days);return c;}
+
+function getSnaps(days){
+  const c=cutoff(days||parseInt(period));
+  return(metrics[platform]?.snapshots||[]).filter(s=>new Date(s.date)>=c);
+}
+
+function getPrevSnaps(){
+  const days=parseInt(period);
+  const c1=cutoff(days),c2=cutoff(days*2);
+  return(metrics[platform]?.snapshots||[]).filter(s=>{const d=new Date(s.date);return d>=c2&&d<c1;});
+}
+
+function getFilteredPosts(){
+  const days=parseInt(period),c=cutoff(days);
+  let posts=(metrics[platform]?.posts||[]).filter(p=>new Date(p.date)>=c);
+  if(activeTags.size>0)
+    posts=posts.filter(p=>[...(p.tags||[])].some(t=>activeTags.has(t)));
+  posts=posts.sort((a,b)=>{
+    if(rankBy==='virality')return virScore(b)-virScore(a);
+    if(rankBy==='saves')return(b.saves||0)-(a.saves||0);
+    return(b[rankBy]||0)-(a[rankBy]||0);
+  });
+  return posts.slice(0,15);
+}
+
+function getAllTags(){
+  const tags=new Set();
+  (metrics[platform]?.posts||[]).forEach(p=>(p.tags||[]).forEach(t=>tags.add(t)));
+  return [...tags].sort();
+}
+
+function buildHeatmap(){
+  const mat=Array.from({length:7},()=>Array.from({length:24},()=>({n:0,total:0})));
+  (metrics[platform]?.posts||[]).forEach(p=>{
+    if(!p.published_at)return;
+    const d=new Date(p.published_at);
+    const day=d.getDay(),hr=d.getHours();
+    mat[day][hr].n++;mat[day][hr].total+=(p.views||0);
+  });
+  return mat.map(row=>row.map(c=>({n:c.n,avg:c.n?Math.round(c.total/c.n):0})));
+}
+
+function buildVelocity(){
+  const snaps=getSnaps();
+  const days=parseInt(period),c=cutoff(days);
+  const postDays=new Set((metrics[platform]?.posts||[]).filter(p=>new Date(p.date)>=c).map(p=>p.date?.slice(5)));
+  const vel=[];
+  for(let i=1;i<snaps.length;i++){
+    const delta=snaps[i].followers-snaps[i-1].followers;
+    vel.push({date:snaps[i].date.slice(5),delta,hasPost:postDays.has(snaps[i].date.slice(5))});
+  }
+  return vel;
+}
+
+// ─── SETTERS ─────────────────────────────────────────────────────────────────
+function setPlatform(p){
+  platform=p;setAC(ac());
+  qs('logo-em').style.color=ac();
+  Object.keys(PLATS).forEach(k=>qs('tab-'+k).classList.toggle('active',k===p));
+  activeTags.clear();
+  render();
+}
+
+function setPeriod(p){
+  period=p;
+  ['7','30','90'].forEach(v=>qs('pd-'+v).classList.toggle('ac',v===p));
+  render();
+}
+
+function setRankBy(r){
+  rankBy=r;
+  ['views','likes','virality','saves','comments'].forEach(v=>qs('srt-'+v).classList.toggle('ac',v===r));
+  renderRankings();
+}
+
+function toggleTag(t){
+  activeTags.has(t)?activeTags.delete(t):activeTags.add(t);
+  renderTagBar();renderRankings();
+}
+
+// ─── IMPORT / EXPORT ─────────────────────────────────────────────────────────
+function toggleImport(){const p=qs('imp-panel');p.style.display=p.style.display==='none'?'block':'none';}
+
+function showTpl(){
+  qs('imp-json').value=JSON.stringify({
+    platform:'instagram',date:ds(new Date()),
+    snapshot:{followers:13500,views:45000,reach:38000,likes:1200,comments:85,shares:230,saves:340},
+    posts:[{id:'post_id',published_at:new Date().toISOString(),caption:'Legenda do post',type:'REEL',
+      tags:['#organico','#gol'],views:82000,likes:4200,comments:310,shares:1100,saves:890}]
+  },null,2);
+}
+
+function exportData(){
+  const b=new Blob([JSON.stringify(metrics,null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(b);
+  a.download='metrics_'+ds(new Date())+'.json';a.click();
+}
+
+function resetDemo(){if(confirm('Resetar para dados de demonstração?')){metrics=generateDemo();saveLocal();render();}}
+
+function handleImport(){
+  const msg=qs('imp-msg');
+  try{
+    const data=JSON.parse(qs('imp-json').value);
+    const items=Array.isArray(data)?data:[data];
+    if(!metrics)metrics=generateDemo();
+    items.forEach(item=>{
+      const{platform:p,date,snapshot,posts:np}=item;
+      if(!metrics[p])return;
+      if(snapshot){
+        const idx=metrics[p].snapshots.findIndex(s=>s.date===date);
+        const sn={date,...snapshot};
+        if(idx>=0)metrics[p].snapshots[idx]=sn;else metrics[p].snapshots.push(sn);
+        metrics[p].snapshots.sort((a,b)=>a.date.localeCompare(b.date));
+      }
+      if(np){
+        np.forEach(post=>{
+          const idx=metrics[p].posts.findIndex(pp=>pp.id===post.id);
+          if(idx>=0)metrics[p].posts[idx]=post;else metrics[p].posts.push(post);
+        });
+        metrics[p].posts.sort((a,b)=>b.date.localeCompare(a.date));
+      }
+    });
+    metrics.updated_at=new Date().toISOString();
+    delete metrics._demo;
+    saveLocal();render();
+    msg.textContent='✓ importado com sucesso';msg.style.color='var(--green)';
+    qs('imp-json').value='';
+    setTimeout(()=>msg.textContent='',4000);
+  }catch(e){msg.textContent='✗ '+e.message;msg.style.color='var(--red)';}
+}
+
+// ─── RENDER: PLATFORM CARDS ──────────────────────────────────────────────────
+function renderPlatCards(){
+  qs('plat-cards').innerHTML=Object.entries(PLATS).map(([k,cfg])=>{
+    const m=metrics?.[k];
+    const last=m?.snapshots[m.snapshots.length-1];
+    const prev=m?.snapshots[m.snapshots.length-8];
+    const gr=(last&&prev)?last.followers-prev.followers:0;
+    const isA=k===platform;
+    return`<div class="plat-card${isA?' active':''}" onclick="setPlatform('${k}')" style="${isA?`border-color:${cfg.color};`:''}">
+      <div class="plat-name" style="color:${isA?cfg.color:'var(--t3)'};">${cfg.label.toUpperCase()}</div>
+      <div class="plat-val" style="color:${isA?cfg.color:'var(--t1)'};">${fmt(last?.followers)}</div>
+      <div class="plat-sub">seguidores</div>
+      <div class="plat-gr" style="color:${gr>=0?'var(--green)':'var(--red)'};">${gr>=0?'+':''}${fmt(gr)} (7d)</div>
+    </div>`;
+  }).join('');
+}
+
+// ─── RENDER: KPIs with comparison ────────────────────────────────────────────
+function renderKPIs(){
+  const cur=getSnaps(),prev=getPrevSnaps();
+  const last=cur[cur.length-1],first=cur[0];
+  const plast=prev[prev.length-1],pfirst=prev[0];
+  const n=Math.max(cur.length,1);const col=ac();
+
+  const sum=(arr,k)=>arr.reduce((a,s)=>a+(s[k]||0),0);
+
+  const kpis=[
+    {label:'SEGUIDORES',
+     cur:last?.followers||0,prev:plast?.followers||0,
+     sub:(last&&first?(last.followers-first.followers>=0?'+':'')+fmt(last.followers-first.followers):'')+' no período',
+     fmt:true},
+    {label:'VIEWS TOTAIS',
+     cur:sum(cur,'views'),prev:sum(prev,'views'),
+     sub:fmt(Math.round(sum(cur,'views')/n))+'/dia em média',fmt:true},
+    {label:'REACH TOTAL',
+     cur:sum(cur,'reach')||Math.round(sum(cur,'views')*.82),
+     prev:sum(prev,'reach')||Math.round(sum(prev,'views')*.82),
+     sub:'alcance orgânico',fmt:true},
+    {label:'ENGAJAMENTO',
+     cur:sum(cur,'likes')+sum(cur,'comments'),
+     prev:sum(prev,'likes')+sum(prev,'comments'),
+     sub:fmt(Math.round((sum(cur,'likes')+sum(cur,'comments'))/n))+'/dia',fmt:true},
+  ];
+
+  qs('kpi-row').innerHTML=kpis.map(k=>{
+    const delta=pctChg(k.cur,k.prev);
+    const up=delta!=null&&delta>=0;
+    const arrow=delta==null?'':`<span class="${up?'arrow-up':'arrow-dn'}">${up?'↑':'↓'}${Math.abs(delta).toFixed(1)}%</span>`;
+    const prevTxt=delta!=null?`vs ${fmt(k.prev)} período ant.`:'sem dados anteriores';
+    return`<div class="kpi-card">
+      <div class="kpi-label">${k.label}</div>
+      <div class="kpi-val" style="color:${col};">${fmt(k.cur)}</div>
+      <div class="kpi-cmp">${arrow}<span style="color:var(--t3);font-size:9px;">${prevTxt}</span></div>
+      <div class="kpi-sub">${k.sub}</div>
+    </div>`;
+  }).join('');
+}
+
+// ─── RENDER: CHARTS ──────────────────────────────────────────────────────────
+function renderCharts(){
+  const snaps=getSnaps();const col=ac();
+  const isDark=true;
+  let rd=snaps;
+  if(snaps.length>35){const st=Math.ceil(snaps.length/35);rd=snaps.filter((_,i)=>i%st===0||i===snaps.length-1);}
+  const labels=rd.map(s=>s.date.slice(5));
+  const gc='rgba(255,255,255,0.04)',tc='#444';
+  const base={responsive:true,maintainAspectRatio:false,
+    plugins:{legend:{display:false},tooltip:{backgroundColor:'#1a1a1a',borderColor:col,borderWidth:1,
+      titleColor:'#888',bodyColor:'#f0f0f0',
+      titleFont:{family:'Space Mono',size:9},bodyFont:{family:'Space Mono',size:10}}},
+    scales:{
+      x:{grid:{display:false},ticks:{maxTicksLimit:7,font:{family:'Space Mono',size:9},color:tc}},
+      y:{grid:{color:gc},ticks:{font:{family:'Space Mono',size:9},color:tc,callback:v=>fmt(v)}}}};
+
+  if(charts.follower)charts.follower.destroy();
+  charts.follower=new Chart(qs('ch-followers'),{type:'line',data:{labels,
+    datasets:[{data:rd.map(s=>s.followers),borderColor:col,backgroundColor:col+'18',
+      fill:true,tension:.35,pointRadius:0,borderWidth:2}]},options:base});
+
+  if(charts.views)charts.views.destroy();
+  charts.views=new Chart(qs('ch-views'),{type:'bar',data:{labels,
+    datasets:[{data:rd.map(s=>s.views),backgroundColor:col+'66',borderColor:col,
+      borderWidth:1,borderRadius:2}]},options:base});
+}
+
+// ─── RENDER: VELOCITY ────────────────────────────────────────────────────────
+function renderVelocity(){
+  const vel=buildVelocity();const col=ac();
+  const labels=vel.map(v=>v.date);
+  const gc='rgba(255,255,255,0.04)',tc='#444';
+
+  if(charts.velocity)charts.velocity.destroy();
+  charts.velocity=new Chart(qs('ch-velocity'),{
+    type:'bar',
+    data:{labels,datasets:[{
+      data:vel.map(v=>v.delta),
+      backgroundColor:vel.map(v=>v.hasPost?col:v.delta>=0?col+'50':'#f8717150'),
+      borderColor:vel.map(v=>v.hasPost?col:v.delta>=0?col+'99':'#f8717199'),
+      borderWidth:1,borderRadius:2,
+    }]},
+    options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false},tooltip:{backgroundColor:'#1a1a1a',borderColor:col,borderWidth:1,
+        titleColor:'#888',bodyColor:'#f0f0f0',
+        titleFont:{family:'Space Mono',size:9},bodyFont:{family:'Space Mono',size:10},
+        callbacks:{label:ctx=>`${ctx.raw>=0?'+':''}${ctx.raw} seguidores`+(vel[ctx.dataIndex]?.hasPost?' · post publicado':'')}
+      }},
+      scales:{
+        x:{grid:{display:false},ticks:{maxTicksLimit:8,font:{family:'Space Mono',size:9},color:tc}},
+        y:{grid:{color:gc},ticks:{font:{family:'Space Mono',size:9},color:tc,callback:v=>(v>=0?'+':'')+v}}
+      }
+    }
+  });
+}
+
+// ─── RENDER: HEATMAP ─────────────────────────────────────────────────────────
+function renderHeatmap(){
+  const mat=buildHeatmap();const col=ac();
+  const maxAvg=Math.max(...mat.flat().map(c=>c.avg),1);
+  const CW=38,CH=26,LW=34,TH=20,PAD=4;
+  const W=LW+24*CW+PAD,H=TH+7*CH+PAD;
+  const tip=qs('hm-tip');
+
+  let svg=`<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="font-family:'Space Mono',monospace;">`;
+  // Hour labels (every 3h)
+  for(let h=0;h<24;h+=3){
+    const x=LW+h*CW+CW/2;
+    svg+=`<text x="${x}" y="${TH-5}" text-anchor="middle" fill="#333" font-size="9">${h}h</text>`;
+  }
+  // Day rows
+  for(let d=0;d<7;d++){
+    const y=TH+d*CH;
+    svg+=`<text x="${LW-6}" y="${y+CH/2+4}" text-anchor="end" fill="#444" font-size="9">${DAYS_PT[d]}</text>`;
+    for(let h=0;h<24;h++){
+      const x=LW+h*CW;
+      const cell=mat[d][h];
+      const t=cell.avg/maxAvg;
+      const fillColor=t<0.01?'#1a1a1a':lerpColor('#2a2a2a',col,t);
+      const avg=cell.avg,n=cell.n;
+      svg+=`<rect x="${x+1}" y="${y+1}" width="${CW-2}" height="${CH-2}" fill="${fillColor}" rx="2"
+        data-day="${d}" data-hr="${h}" data-avg="${avg}" data-n="${n}"
+        style="cursor:${n>0?'pointer':'default'};"
+        onmouseenter="showHMTip(event,${d},${h},${avg},${n})"
+        onmouseleave="hideHMTip()"/>`;
+    }
+  }
+  svg+='</svg>';
+  qs('hm-svg').innerHTML=svg;
+
+  // Legend
+  const steps=8;
+  qs('hm-legend').innerHTML=Array.from({length:steps},(_,i)=>{
+    const t=i/(steps-1);
+    const c=t<0.01?'#1a1a1a':lerpColor('#2a2a2a',col,t);
+    return`<div style="width:16px;height:10px;background:${c};border-radius:2px;"></div>`;
+  }).join('');
+}
+
+function showHMTip(e,day,hr,avg,n){
+  if(!n)return;
+  const tip=qs('hm-tip');
+  const rect=qs('hm-svg').getBoundingClientRect();
+  const er=e.target.getBoundingClientRect();
+  tip.style.display='block';
+  tip.style.left=(er.left-rect.left+er.width/2)+'px';
+  tip.style.top=(er.top-rect.top-38)+'px';
+  tip.innerHTML=`${DAYS_PT[day]} · ${hr}h &nbsp;|&nbsp; ${fmt(avg)} views médias &nbsp;|&nbsp; ${n} post${n>1?'s':''}`;
+}
+function hideHMTip(){qs('hm-tip').style.display='none';}
+
+// ─── RENDER: TAG BAR ─────────────────────────────────────────────────────────
+function renderTagBar(){
+  const tags=getAllTags();
+  if(!tags.length){qs('tag-bar').innerHTML='<span style="font-family:Space Mono,monospace;font-size:9px;color:var(--t4);">nenhuma tag nos posts deste período</span>';return;}
+  qs('tag-bar').innerHTML=tags.map(t=>`<span class="tag${activeTags.has(t)?' on':''}" onclick="toggleTag('${t}')">${t}</span>`).join('');
+}
+
+// ─── RENDER: RANKINGS ────────────────────────────────────────────────────────
+function renderRankings(){
+  const posts=getFilteredPosts();const col=ac();
+  if(!posts.length){
+    qs('rankings-tbl').innerHTML='<p style="font-family:Space Mono,monospace;font-size:10px;color:var(--t3);padding:12px 0;">Nenhum post neste período ou tag.</p>';
+    return;
+  }
+  const thead=`<thead><tr>
+    <th style="width:24px;">#</th>
+    <th style="width:46px;">Data</th>
+    <th style="width:44px;">Tipo</th>
+    <th>Post</th>
+    <th style="width:120px;">Tags</th>
+    <th style="width:56px;">Views</th>
+    <th style="width:50px;">Likes</th>
+    <th style="width:56px;color:#7fffb4;">Viral%</th>
+    <th style="width:54px;color:#7fc3ff;">Save%</th>
+    <th style="width:52px;">Coment.</th>
+  </tr></thead>`;
+  const tbody=`<tbody>${posts.map((p,i)=>{
+    const vir=virScore(p).toFixed(1);
+    const sav=saveRate(p).toFixed(1);
+    const tags=(p.tags||[]).map(t=>`<span class="tag-pill">${t}</span>`).join('');
+    return`<tr>
+      <td class="${i===0?'pos1':'td-mu'}">${i+1}</td>
+      <td class="td-mu">${p.date?.slice(5)||'—'}</td>
+      <td class="td-mu" style="font-size:9px;">${p.type||'—'}</td>
+      <td class="td-cap">${p.caption||'—'}</td>
+      <td style="font-size:9px;">${tags}</td>
+      <td class="${rankBy==='views'?'td-hi':''}">${fmt(p.views)}</td>
+      <td class="${rankBy==='likes'?'td-hi':''}">${fmt(p.likes)}</td>
+      <td class="${rankBy==='virality'?'':'td-vir'}" style="${rankBy==='virality'?`color:${col};font-weight:700;`:''}">${vir}%</td>
+      <td class="${rankBy==='saves'?'':'td-sav'}" style="${rankBy==='saves'?`color:${col};font-weight:700;`:''}">${sav}%</td>
+      <td class="${rankBy==='comments'?'td-hi':''}">${fmt(p.comments)}</td>
+    </tr>`;
+  }).join('')}</tbody>`;
+  qs('rankings-tbl').innerHTML=`<table>${thead}${tbody}</table>`;
+}
+
+// ─── MAIN RENDER ─────────────────────────────────────────────────────────────
+function render(){
+  setAC(ac());
+  qs('logo-em').style.color=ac();
+  renderPlatCards();
+  renderKPIs();
+  renderCharts();
+  renderVelocity();
+  renderHeatmap();
+  renderTagBar();
+  renderRankings();
+}
+
+// ─── BOOT ────────────────────────────────────────────────────────────────────
+setAC(PLATS.instagram.color);
+init();
+</script>
+
+<script>
+// ─── LOGGING (compartilhado com admin.html) ──────────────────────────────────
+(function(){
+  // Identifica o viewer (prompt na primeira visita)
+  if(!localStorage.getItem('sr_viewer_name')){
+    const name = prompt('Olá! Como quer ser identificado nos logs?\nDigite seu nome ou pressione Cancelar para continuar anônimo.','');
+    localStorage.setItem('sr_viewer_name', name||'anônimo');
+  }
+  window.SR_USER = localStorage.getItem('sr_viewer_name') || 'anônimo';
+
+  window.srLog = function(action, detail){
+    try{
+      const logs = JSON.parse(localStorage.getItem('sr_logs')||'[]');
+      logs.push({ts:new Date().toISOString(), user:window.SR_USER, action, detail});
+      localStorage.setItem('sr_logs', JSON.stringify(logs.slice(-500)));
+    }catch(e){}
+  };
+
+  // Patch: sobrescreve setores para logar automaticamente
+  const origSetPlatform = window.setPlatform;
+  window.setPlatform = function(p){
+    srLog('view','plataforma: '+p);
+    return origSetPlatform(p);
+  };
+  const origHandleImport = window.handleImport;
+  window.handleImport = function(){
+    srLog('import','importação manual via painel');
+    return origHandleImport();
+  };
+  const origExportData = window.exportData;
+  window.exportData = function(){
+    srLog('export','exportou metrics.json');
+    return origExportData();
+  };
+
+  srLog('view','dashboard carregado · ' + new Date().toLocaleString('pt-BR'));
+})();
+</script>
+
+</body>
+</html>
