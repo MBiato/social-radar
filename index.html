@@ -278,12 +278,12 @@ tr:hover td{background:#1a1a1a;}
         <button class="btn primary" onclick="gerarRelatorio()" style="font-size:10px;padding:4px 12px;">↓ Exportar Planilha</button>
       </div>
       <div class="sort-row">
-        <button class="sort-btn active" id="srt-views" onclick="setRankBy('views')">Views</button>
+        <button class="sort-btn active" id="srt-date" onclick="setRankBy('date')" style="border-color:var(--orange);color:var(--orange);">↓ Mais Recentes</button>
+        <button class="sort-btn" id="srt-views" onclick="setRankBy('views')">Views</button>
         <button class="sort-btn" id="srt-likes" onclick="setRankBy('likes')">Likes</button>
         <button class="sort-btn" id="srt-virality" onclick="setRankBy('virality')">Virality%</button>
         <button class="sort-btn" id="srt-saves" onclick="setRankBy('saves')">Saves</button>
         <button class="sort-btn" id="srt-comments" onclick="setRankBy('comments')">Coment.</button>
-        <button class="sort-btn" id="srt-date" onclick="setRankBy('date')">↓ Recentes</button>
         <button class="sort-btn" id="srt-date" onclick="setRankBy('date')">Cronológico</button>
       </div>
     </div>
@@ -335,7 +335,7 @@ const SPONSORS=[
   {label:'Absolut',tag:'#AbsolutNoCharla'},
   {label:'Clear',tag:'#ClearNoCharla'},
 ];
-let metrics=null,platform='instagram',period='30',rankBy='views',activeTags=new Set(),charts={follower:null,views:null,velocity:null},tagDropdownOpen=false,dateStart=null,dateEnd=null;
+let metrics=null,platform='instagram',period='30',rankBy='date',activeTags=new Set(),charts={follower:null,views:null,velocity:null},tagDropdownOpen=false,dateStart=null,dateEnd=null;
 const fmt=n=>{if(n==null||isNaN(n))return'—';if(n>=1e6)return(n/1e6).toFixed(1)+'M';if(n>=1000)return(n/1000).toFixed(1)+'K';return String(Math.round(n));};
 const pctChg=(cur,prev)=>prev&&prev!==0?((cur-prev)/Math.abs(prev)*100):null;
 const virScore=p=>p.views>0&&p.shares>0?(p.shares/p.views*100):0;
