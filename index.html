@@ -658,12 +658,12 @@ init();
 function gerarRelatorio(){
   const posts=getFilteredPosts();
   if(!posts.length){alert('Nenhum post encontrado com os filtros atuais.');return;}
-  
-  const sponsor=activeTags.size>0?[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(', '):'Todos os patrocinadores';
-  const {start,end}=getDateRange();
+  if(!activeTags.size){alert('Selecione um patrocinador no filtro de hashtag antes de gerar o relatório.');return;}
+  const sponsorName=[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(' + ');
+  const sponsorTag=[...activeTags].join(' ');
+  const{start,end}=getDateRange();
   const fmtDate=d=>d.toLocaleDateString('pt-BR');
   const periodo=`${fmtDate(start)} a ${fmtDate(end)}`;
-  
   const totalViews=posts.reduce((a,p)=>a+(p.views||0),0);
   const totalLikes=posts.reduce((a,p)=>a+(p.likes||0),0);
   const totalComments=posts.reduce((a,p)=>a+(p.comments||0),0);
@@ -671,82 +671,44 @@ function gerarRelatorio(){
   const avgViral=(posts.reduce((a,p)=>a+virScore(p),0)/posts.length).toFixed(2);
   const reels=posts.filter(p=>p.type==='REELS'||p.type==='VIDEO').length;
   const imgs=posts.filter(p=>p.type==='IMAGE').length;
-
-  let txt=`RELATÓRIO DE PATROCINADOR — CHARLA PODCAST
-`;
-  txt+=`${'='.repeat(50)}
-
-`;
-  txt+=`Patrocinador: ${sponsor}
-`;
-  txt+=`Período: ${periodo}
-`;
-  txt+=`Plataforma: ${PLATS[platform].label}
-`;
-  txt+=`
-${'─'.repeat(50)}
-`;
-  txt+=`RESUMO
-`;
-  txt+=`${'─'.repeat(50)}
-`;
-  txt+=`Total de posts: ${posts.length} (${reels} reels/vídeos, ${imgs} imagens)
-`;
-  txt+=`Total de views: ${fmt(totalViews)}
-`;
-  txt+=`Total de likes: ${fmt(totalLikes)}
-`;
-  txt+=`Total de comentários: ${fmt(totalComments)}
-`;
-  txt+=`Total de compartilhamentos: ${fmt(totalShares)}
-`;
-  txt+=`Virality score médio: ${avgViral}%
-`;
-  txt+=`Média de views por post: ${fmt(Math.round(totalViews/posts.length))}
-`;
-  txt+=`
-${'─'.repeat(50)}
-`;
-  txt+=`POSTS (${posts.length})
-`;
-  txt+=`${'─'.repeat(50)}
-`;
-  
-  posts.forEach((p,i)=>{
-    txt+=`
-${i+1}. ${p.date||'—'} · ${p.type||'—'}
-`;
-    txt+=`   Caption: ${(p.caption||'—').slice(0,100)}${(p.caption||'').length>100?'...':''}
-`;
-    if(p.url||p.link)txt+=`   Link: ${p.url||p.link}
-`;
-    txt+=`   Views: ${fmt(p.views||0)} · Likes: ${fmt(p.likes||0)} · Comentários: ${fmt(p.comments||0)}
-`;
-    if(p.tags?.length)txt+=`   Hashtags: ${p.tags.join(' ')}
-`;
+  const XLSX=window.XLSX;
+  if(!XLSX){alert('Biblioteca XLSX nao carregada. Recarregue a pagina.');return;}
+  const wb=XLSX.utils.book_new();
+  const resumoData=[
+    ['CHARLA PODCAST - RELATORIO DE PATROCINADOR'],[''],
+    ['Patrocinador',sponsorName],['Hashtag(s)',sponsorTag],
+    ['Periodo',periodo],['Plataforma',PLATS[platform].label],
+    ['Gerado em',new Date().toLocaleString('pt-BR')],[''],
+    ['METRICAS GERAIS'],
+    ['Total de posts',posts.length],['Reels / Videos',reels],['Imagens',imgs],
+    ['Total de views',totalViews],['Total de likes',totalLikes],
+    ['Total de comentarios',totalComments],['Total de compartilhamentos',totalShares],
+    ['Media de views por post',Math.round(totalViews/posts.length)],
+    ['Virality score medio',parseFloat(avgViral)+'%'],[''],
+    ['TOP 3 POSTS POR VIEWS'],['#','Data','Tipo','Views','Likes','Link'],
+  ];
+  [...posts].sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,3).forEach((p,i)=>{
+    resumoData.push([i+1,p.date||'-',p.type||'-',p.views||0,p.likes||0,p.url||'-']);
   });
-  
-  txt+=`
-${'='.repeat(50)}
-`;
-  txt+=`Gerado em: ${new Date().toLocaleString('pt-BR')}
-`;
-  txt+=`Charla Radar · ALM Content
-`;
-  
-  qs('report-content').textContent=txt;
-  qs('report-modal').style.display='flex';
-  window._reportTxt=txt;
+  const wsResumo=XLSX.utils.aoa_to_sheet(resumoData);
+  wsResumo['!cols']=[{wch:30},{wch:50}];
+  XLSX.utils.book_append_sheet(wb,wsResumo,'Resumo');
+  const postsHeader=[['#','Data','Tipo','Caption','Hashtags','Views','Likes','Comentarios','Compartilhamentos','Virality %','Link']];
+  const postsRows=posts.map((p,i)=>[
+    i+1,p.date||'-',p.type||'-',(p.caption||'').slice(0,200),
+    (p.tags||[]).join(' '),p.views||0,p.likes||0,p.comments||0,p.shares||0,
+    parseFloat(virScore(p).toFixed(2)),p.url||'-',
+  ]);
+  const wsPosts=XLSX.utils.aoa_to_sheet([...postsHeader,...postsRows]);
+  wsPosts['!cols']=[{wch:4},{wch:12},{wch:10},{wch:60},{wch:30},{wch:12},{wch:10},{wch:14},{wch:18},{wch:12},{wch:45}];
+  XLSX.utils.book_append_sheet(wb,wsPosts,'Posts');
+  const nomeSponsor=sponsorName.replace(/[^a-zA-Z0-9]/g,'_');
+  const nomeArquivo='Charla_'+nomeSponsor+'_'+fmtDate(start).replace(/\//g,'-')+'_'+fmtDate(end).replace(/\//g,'-')+'.xlsx';
+  XLSX.writeFile(wb,nomeArquivo);
 }
 
 function closeModal(){qs('report-modal').style.display='none';}
-function copiarRelatorio(){navigator.clipboard.writeText(window._reportTxt||'');alert('Copiado!');}
-function baixarRelatorio(){
-  const sponsor=[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join('_')||'todos';
-  const nome=`relatorio_${sponsor}_${ds(new Date())}.txt`;
-  const b=new Blob([window._reportTxt||''],{type:'text/plain'});
-  const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=nome;a.click();
-}
+
 
 (function(){
   if(!localStorage.getItem('sr_viewer_name')){const name=prompt('Como quer ser identificado nos logs?','');localStorage.setItem('sr_viewer_name',name||'anônimo');}
