@@ -273,7 +273,7 @@ tr:hover td{background:#1a1a1a;}
     <div class="rankings-hdr">
       <div style="display:flex;align-items:center;gap:12px;">
         <div class="panel-label">Ranking de posts</div>
-        <button class="btn primary" onclick="gerarRelatorio()" style="font-size:10px;padding:4px 12px;">↓ Gerar Relatório</button>
+        <button class="btn primary" onclick="gerarRelatorio()" style="font-size:10px;padding:4px 12px;">↓ Exportar Planilha</button>
       </div>
       <div class="sort-row">
         <button class="sort-btn active" id="srt-views" onclick="setRankBy('views')">Views</button>
@@ -313,13 +313,13 @@ tr:hover td{background:#1a1a1a;}
       <div class="report-preview" id="report-content"></div>
     </div>
     <div class="modal-footer">
-      <button class="btn" onclick="copiarRelatorio()">📋 Copiar</button>
-      <button class="btn primary" onclick="baixarRelatorio()">↓ Baixar .txt</button>
+      <button class="btn" onclick="closeModal()">Fechar</button>
     </div>
   </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script>
 const PLATS={instagram:{label:'Instagram',color:'#FF5A1F'},youtube:{label:'YouTube',color:'#FF3333'},tiktok:{label:'TikTok',color:'#25F4EE'}};
 const DAYS_PT=['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
