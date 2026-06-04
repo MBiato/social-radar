@@ -682,7 +682,7 @@ function gerarRelatorio(){
     ['METRICAS GERAIS'],
     ['Total de posts',posts.length],['Reels / Videos',reels],['Imagens',imgs],
     ['Total de views',totalViews],['Total de likes',totalLikes],
-    ['Total de comentarios',totalComments],['Total de compartilhamentos',totalShares],
+    ['Total de comentarios',totalComments],
     ['Media de views por post',Math.round(totalViews/posts.length)],
     ['Virality score medio',parseFloat(avgViral)+'%'],[''],
     ['TOP 3 POSTS POR VIEWS'],['#','Data','Tipo','Views','Likes','Link'],
@@ -693,14 +693,13 @@ function gerarRelatorio(){
   const wsResumo=XLSX.utils.aoa_to_sheet(resumoData);
   wsResumo['!cols']=[{wch:30},{wch:50}];
   XLSX.utils.book_append_sheet(wb,wsResumo,'Resumo');
-  const postsHeader=[['#','Data','Tipo','Caption','Hashtags','Views','Likes','Comentarios','Compartilhamentos','Virality %','Link']];
+  const postsHeader=[['#','Data','Tipo','Caption','Hashtags','Views','Likes','Comentarios','Link']];
   const postsRows=posts.map((p,i)=>[
     i+1,p.date||'-',p.type||'-',(p.caption||'').slice(0,200),
-    (p.tags||[]).join(' '),p.views||0,p.likes||0,p.comments||0,p.shares||0,
-    parseFloat(virScore(p).toFixed(2)),p.url||'-',
+    (p.tags||[]).join(' '),p.views||0,p.likes||0,p.comments||0,p.url||'-',
   ]);
   const wsPosts=XLSX.utils.aoa_to_sheet([...postsHeader,...postsRows]);
-  wsPosts['!cols']=[{wch:4},{wch:12},{wch:10},{wch:60},{wch:30},{wch:12},{wch:10},{wch:14},{wch:18},{wch:12},{wch:45}];
+  wsPosts['!cols']=[{wch:4},{wch:12},{wch:10},{wch:60},{wch:30},{wch:12},{wch:10},{wch:14},{wch:45}];
   XLSX.utils.book_append_sheet(wb,wsPosts,'Posts');
   const nomeSponsor=sponsorName.replace(/[^a-zA-Z0-9]/g,'_');
   const nomeArquivo='Charla_'+nomeSponsor+'_'+fmtDate(start).replace(/\//g,'-')+'_'+fmtDate(end).replace(/\//g,'-')+'.xlsx';
