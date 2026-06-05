@@ -169,7 +169,45 @@ tr:hover td{background:#1a1a1a;}
 .section-divider-label{font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;letter-spacing:2px;color:var(--t4);text-transform:uppercase;}
 
 @media(max-width:900px){.kpi-grid{grid-template-columns:repeat(2,1fr);}.chart-grid{grid-template-columns:1fr;}.plat-strip{grid-template-columns:1fr;}}
+.ins-post{background:var(--card);border:1px solid var(--b1);margin-bottom:10px;}
+.ins-post-inner{padding:14px 16px;display:flex;align-items:flex-start;gap:14px;}
+.ins-score{display:flex;flex-direction:column;align-items:center;gap:3px;flex-shrink:0;width:44px;}
+.ins-score-num{font-family:'Barlow Condensed',sans-serif;font-size:24px;font-weight:900;line-height:1;}
+.ins-score-lbl{font-size:8px;font-weight:700;color:var(--t3);letter-spacing:1px;text-transform:uppercase;}
+.ins-body{flex:1;min-width:0;}
+.ins-meta{display:flex;align-items:center;gap:6px;margin-bottom:5px;flex-wrap:wrap;}
+.ins-title{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;color:var(--t1);margin-bottom:5px;line-height:1.3;}
+.ins-stats{display:flex;gap:14px;margin-bottom:10px;}
+.ins-cols{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:8px;}
+.ins-col{padding:8px 10px;border-radius:2px;}
+.ins-col-lbl{font-size:9px;font-weight:700;letter-spacing:1px;text-transform:uppercase;margin-bottom:4px;}
+.ins-col-txt{font-size:10px;color:var(--t2);line-height:1.5;}
+.ins-col-sug{font-size:10px;color:var(--t3);line-height:1.5;margin-top:4px;font-style:italic;}
+.ins-bom{background:#22c55e11;border:1px solid #22c55e22;}
+.ins-bom .ins-col-lbl{color:#22c55e;}
+.ins-medio{background:#FF5A1F11;border:1px solid #FF5A1F22;}
+.ins-medio .ins-col-lbl{color:#FF5A1F;}
+.ins-ruim{background:#ef444411;border:1px solid #ef444422;}
+.ins-ruim .ins-col-lbl{color:#ef4444;}
+.ins-alerta-box{background:#ef444411;border:1px solid #ef444433;padding:8px 12px;margin-top:8px;font-size:10px;color:var(--t2);line-height:1.6;}
+.ins-alerta-box strong{color:#ef4444;}
 .modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,.8);z-index:200;display:flex;align-items:center;justify-content:center;padding:20px;}
+.yt-import-btn{background:transparent;border:1px solid #ff0000;color:#ff0000;font-family:'Barlow Condensed',sans-serif;font-size:11px;font-weight:700;letter-spacing:1px;padding:4px 12px;cursor:pointer;text-transform:uppercase;transition:all .15s;}
+.yt-import-btn:hover{background:#ff0000;color:#fff;}
+.yt-table{width:100%;border-collapse:collapse;}
+.yt-table th{font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;color:var(--t3);letter-spacing:2px;padding:8px 10px;border-bottom:1px solid var(--b1);text-align:left;text-transform:uppercase;}
+.yt-table td{font-size:11px;padding:8px 10px;border-bottom:1px solid var(--b1);vertical-align:middle;}
+.yt-table tr:last-child td{border-bottom:none;}
+.yt-table tr:hover td{background:var(--card2);}
+.yt-thumb{width:80px;height:45px;object-fit:cover;border-radius:2px;}
+.yt-title{color:var(--t2);font-size:11px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:300px;}
+.yt-num{font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;color:var(--t1);}
+.yt-status{font-family:'Barlow Condensed',sans-serif;font-size:9px;font-weight:700;letter-spacing:1px;padding:2px 6px;text-transform:uppercase;}
+.yt-ok{background:#22c55e22;color:#22c55e;border:1px solid #22c55e44;}
+.yt-loading{background:#FF5A1F22;color:#FF5A1F;border:1px solid #FF5A1F44;}
+.yt-error{background:#ef444422;color:#ef4444;border:1px solid #ef444444;}
+.sponsor-select{background:var(--card2);border:1px solid var(--b2);color:var(--t1);font-family:'Barlow Condensed',sans-serif;font-size:11px;font-weight:600;padding:4px 8px;cursor:pointer;outline:none;}
+.sponsor-select:focus{border-color:var(--orange);}
 .modal{background:#1a1a1a;border:1px solid var(--b2);width:100%;max-width:800px;max-height:90vh;display:flex;flex-direction:column;}
 .modal-hdr{display:flex;justify-content:space-between;align-items:center;padding:16px 20px;border-bottom:1px solid var(--b2);}
 .modal-title{font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:900;letter-spacing:2px;text-transform:uppercase;}
@@ -218,6 +256,7 @@ tr:hover td{background:#1a1a1a;}
       <button class="tab active" id="tab-instagram" onclick="setPlatform('instagram')">Instagram</button>
       <button class="tab" id="tab-youtube" onclick="setPlatform('youtube')">YouTube</button>
       <button class="tab" id="tab-tiktok" onclick="setPlatform('tiktok')">TikTok</button>
+      <button class="tab" id="tab-insights" onclick="setPlatform('insights')" style="color:#FF5A1F;border-left:1px solid var(--b1);margin-left:8px;padding-left:20px;">Insights do Charles</button>
     </div>
     <div class="date-range-wrap">
       <button class="pd-btn" id="pd-7" onclick="setPeriod('7')">7D</button>
@@ -276,6 +315,7 @@ tr:hover td{background:#1a1a1a;}
       <div style="display:flex;align-items:center;gap:12px;">
         <div class="panel-label">Ranking de posts</div>
         <button class="btn primary" onclick="gerarRelatorio()" style="font-size:10px;padding:4px 12px;">↓ Exportar Planilha</button>
+        <button class="yt-import-btn" onclick="abrirYTImport()" id="yt-import-btn">▶ Importar YouTube</button>
       </div>
       <div class="sort-row">
         <button class="sort-btn active" id="srt-date" onclick="setRankBy('date')" style="border-color:var(--orange);color:var(--orange);">↓ Mais Recentes</button>
@@ -299,9 +339,84 @@ tr:hover td{background:#1a1a1a;}
     <div class="table-wrap"><div id="rankings-tbl"></div></div>
   </div>
 
+  <div id="insights-panel" style="display:none;">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;flex-wrap:wrap;gap:10px;">
+      <div>
+        <div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);letter-spacing:2px;text-transform:uppercase;margin-bottom:4px;">Insights do Charles</div>
+        <div style="font-family:'Barlow Condensed',sans-serif;font-size:22px;font-weight:900;color:var(--t1);" id="ins-date-title">Carregando...</div>
+      </div>
+      <div style="display:flex;gap:8px;">
+        <div style="display:flex;gap:4px;" id="ins-plat-filter">
+          <button class="pd-btn active" id="ins-all" onclick="filtrarInsights('all')">Todos</button>
+          <button class="pd-btn" id="ins-instagram" onclick="filtrarInsights('instagram')">Instagram</button>
+          <button class="pd-btn" id="ins-youtube" onclick="filtrarInsights('youtube')">YouTube</button>
+        </div>
+        <div style="display:flex;gap:4px;" id="ins-score-filter">
+          <button class="pd-btn" id="ins-melhores" onclick="filtrarInsightsScore('melhores')">Melhores</button>
+          <button class="pd-btn" id="ins-alertas" onclick="filtrarInsightsScore('alertas')">Alertas</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="kpi-grid" id="ins-kpis" style="margin-bottom:20px;"></div>
+
+    <div class="section" id="ins-resumo" style="margin-bottom:20px;"></div>
+
+    <div class="rankings-panel" id="ins-posts-panel">
+      <div class="rankings-hdr">
+        <div class="panel-label">Análise de todos os posts</div>
+      </div>
+      <div id="ins-posts-list" style="padding:12px 20px;"></div>
+    </div>
+  </div>
+
   <div class="footer">
     <div class="footer-txt" id="ftr-src">Fonte: data/metrics.json</div>
     <div class="footer-txt">Charla Radar · <span id="ftr-yr"></span></div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="yt-import-modal" style="display:none;" onclick="if(event.target===this)closeYTImport()">
+  <div class="modal" style="max-width:900px;">
+    <div class="modal-hdr">
+      <div class="modal-title">▶ Importar Vídeos do YouTube</div>
+      <button class="btn" onclick="closeYTImport()">✕ Fechar</button>
+    </div>
+    <div class="modal-body">
+      <div style="margin-bottom:16px;">
+        <div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);letter-spacing:2px;text-transform:uppercase;margin-bottom:8px;">Cole os links dos vídeos (um por linha)</div>
+        <textarea id="yt-links-input" style="width:100%;background:#0d0d0d;border:1px solid var(--b1);color:#7fffb4;font-family:monospace;font-size:11px;padding:10px;resize:vertical;outline:none;line-height:1.7;min-height:100px;" placeholder="https://www.youtube.com/watch?v=abc123&#10;https://youtu.be/def456&#10;https://www.youtube.com/watch?v=ghi789"></textarea>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap;">
+        <button class="btn primary" onclick="buscarVideosYT()" id="yt-fetch-btn">🔍 Buscar métricas</button>
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;">Patrocinador para todos:</span>
+          <select class="sponsor-select" id="yt-sponsor-all">
+            <option value="">— selecionar —</option>
+          </select>
+          <button class="btn" onclick="aplicarSponsorTodos()" style="font-size:10px;padding:4px 10px;">Aplicar a todos</button>
+        </div>
+        <span id="yt-fetch-status" style="font-size:11px;color:var(--t3);"></span>
+      </div>
+      <div id="yt-results-wrap" style="overflow-x:auto;display:none;">
+        <table class="yt-table" id="yt-results-table">
+          <thead><tr>
+            <th style="width:90px;">Thumb</th>
+            <th>Título</th>
+            <th style="width:80px;">Views</th>
+            <th style="width:70px;">Likes</th>
+            <th style="width:80px;">Coment.</th>
+            <th style="width:140px;">Patrocinador</th>
+            <th style="width:70px;">Status</th>
+          </tr></thead>
+          <tbody id="yt-results-body"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" onclick="closeYTImport()">Cancelar</button>
+      <button class="btn primary" onclick="salvarVideosYT()" id="yt-save-btn" style="display:none;">✓ Salvar no Dashboard</button>
+    </div>
   </div>
 </div>
 
@@ -489,7 +604,20 @@ function buildVelocity(){
   return vel;
 }
 
-function setPlatform(p){platform=p;setAC(ac());Object.keys(PLATS).forEach(k=>qs('tab-'+k).classList.toggle('active',k===p));activeTags.clear();render();}
+function setPlatform(p){
+  if(p==='insights'){
+    ['instagram','youtube','tiktok','insights'].forEach(k=>qs('tab-'+k)&&qs('tab-'+k).classList.toggle('active',k==='insights'));
+    qs('insights-panel').style.display='block';
+    document.querySelectorAll('.plat-strip,.controls-bar,.kpi-grid,.chart-grid,.section,.rankings-panel').forEach(el=>el.style.display='none');
+    loadInsights();
+    return;
+  }
+  qs('insights-panel').style.display='none';
+  document.querySelectorAll('.plat-strip,.controls-bar,.kpi-grid,.chart-grid,.section,.rankings-panel').forEach(el=>el.style.display='');
+  platform=p;setAC(ac());
+  ['instagram','youtube','tiktok','insights'].forEach(k=>qs('tab-'+k)&&qs('tab-'+k).classList.toggle('active',k===p));
+  activeTags.clear();render();
+}
 function setPeriod(p){
   period=p;dateStart=null;dateEnd=null;
   ['7','30','90'].forEach(v=>qs('pd-'+v).classList.toggle('active',v===p));
@@ -651,71 +779,194 @@ function renderRankings(){
 function render(){setAC(ac());renderPlatCards();renderKPIs();renderCharts();renderVelocity();renderHeatmap();renderRankings();}
 
 document.addEventListener('click',e=>{if(!e.target.closest('.tag-dropdown-wrap')){tagDropdownOpen=false;const m=qs('tag-dd-menu');if(m)m.classList.remove('open');}});
+// ── SENHA DE ACESSO ──
+(function(){
+  const SENHA = 'Charla@Dashboard.2026!';
+  const ok = sessionStorage.getItem('charla_auth');
+  if(!ok){
+    const input = prompt('Charla Radar — Digite a senha de acesso:');
+    if(input !== SENHA){
+      document.body.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;background:#0a0a0a;flex-direction:column;gap:16px;"><div style="font-family:Barlow Condensed,sans-serif;font-size:32px;font-weight:900;color:#FF5A1F;letter-spacing:3px;">CHARLA RADAR</div><div style="font-size:14px;color:#555;letter-spacing:1px;">Acesso negado</div></div>';
+      throw new Error('Acesso negado');
+    }
+    sessionStorage.setItem('charla_auth', '1');
+  }
+})();
+
 setAC(PLATS.instagram.color);
 init();
 </script>
 <script>
+function getPostsByPlatformAndSponsor(plat){
+  const{start,end}=getDateRange();
+  let posts=(metrics[plat]?.posts||[]).filter(p=>{const d=new Date(p.date);return d>=start&&d<=end;});
+  if(activeTags.size>0)posts=posts.filter(p=>[...(p.tags||[])].some(t=>activeTags.has(t)));
+  return posts.sort((a,b)=>b.date.localeCompare(a.date));
+}
+
 function gerarRelatorio(){
-  const posts=getFilteredPosts();
-  if(!posts.length){alert('Nenhum post encontrado com os filtros atuais.');return;}
-  if(!activeTags.size){alert('Selecione um patrocinador no filtro de hashtag antes de gerar o relatório.');return;}
+  if(!activeTags.size){alert('Selecione um patrocinador no filtro de hashtag antes de gerar o relatorio.');return;}
+  const XLSX=window.XLSX;
+  if(!XLSX){alert('Biblioteca XLSX nao carregada. Recarregue a pagina.');return;}
   const sponsorName=[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(' + ');
   const sponsorTag=[...activeTags].join(' ');
   const{start,end}=getDateRange();
   const fmtDate=d=>d.toLocaleDateString('pt-BR');
   const periodo=`${fmtDate(start)} a ${fmtDate(end)}`;
-  const totalViews=posts.reduce((a,p)=>a+(p.views||0),0);
-  const totalLikes=posts.reduce((a,p)=>a+(p.likes||0),0);
-  const totalComments=posts.reduce((a,p)=>a+(p.comments||0),0);
-  const totalShares=posts.reduce((a,p)=>a+(p.shares||0),0);
-  const avgViral=(posts.reduce((a,p)=>a+virScore(p),0)/posts.length).toFixed(2);
-  const reels=posts.filter(p=>p.type==='REELS'||p.type==='VIDEO').length;
-  const imgs=posts.filter(p=>p.type==='IMAGE').length;
-  const XLSX=window.XLSX;
-  if(!XLSX){alert('Biblioteca XLSX nao carregada. Recarregue a pagina.');return;}
+  const igPosts=getPostsByPlatformAndSponsor('instagram');
+  const ytPosts=getPostsByPlatformAndSponsor('youtube');
+  const ttPosts=getPostsByPlatformAndSponsor('tiktok');
+  const allPosts=[...igPosts,...ytPosts,...ttPosts];
+  if(!allPosts.length){alert('Nenhum post encontrado com os filtros atuais.');return;}
   const wb=XLSX.utils.book_new();
+  const sumV=p=>p.reduce((a,x)=>a+(x.views||0),0);
+  const sumL=p=>p.reduce((a,x)=>a+(x.likes||0),0);
+  const sumC=p=>p.reduce((a,x)=>a+(x.comments||0),0);
   const resumoData=[
     ['CHARLA PODCAST - RELATORIO DE PATROCINADOR'],[''],
     ['Patrocinador',sponsorName],['Hashtag(s)',sponsorTag],
-    ['Periodo',periodo],['Plataforma',PLATS[platform].label],
-    ['Gerado em',new Date().toLocaleString('pt-BR')],[''],
-    ['METRICAS GERAIS'],
-    ['Total de posts',posts.length],['Reels / Videos',reels],['Imagens',imgs],
-    ['Total de views',totalViews],['Total de likes',totalLikes],
-    ['Total de comentarios',totalComments],
-    ['Media de views por post',Math.round(totalViews/posts.length)],
-    ['Virality score medio',parseFloat(avgViral)+'%'],[''],
-    ['TOP 3 POSTS POR VIEWS'],['#','Data','Tipo','Views','Likes','Link'],
+    ['Periodo',periodo],['Gerado em',new Date().toLocaleString('pt-BR')],[''],
+    ['RESUMO GERAL'],
+    ['','Posts','Views','Interacoes'],
+    ['Instagram',igPosts.length,sumV(igPosts),sumL(igPosts)+sumC(igPosts)],
+    ['YouTube',ytPosts.length,sumV(ytPosts),sumL(ytPosts)+sumC(ytPosts)],
+    ['TikTok',ttPosts.length,sumV(ttPosts),sumL(ttPosts)+sumC(ttPosts)],
+    ['TOTAL',allPosts.length,sumV(allPosts),sumL(allPosts)+sumC(allPosts)],[''],
+    ['TOP 3 POSTS POR VIEWS'],
+    ['#','Plataforma','Data','Titulo/Caption','Views','Likes','Link'],
   ];
-  [...posts].sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,3).forEach((p,i)=>{
-    resumoData.push([i+1,p.date||'-',p.type||'-',p.views||0,p.likes||0,p.url||'-']);
+  [...allPosts].sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,3).forEach((p,i)=>{
+    const plat=igPosts.includes(p)?'Instagram':ytPosts.includes(p)?'YouTube':'TikTok';
+    resumoData.push([i+1,plat,p.date||'-',(p.caption||'-').slice(0,80),p.views||0,p.likes||0,p.url||'-']);
   });
   const wsResumo=XLSX.utils.aoa_to_sheet(resumoData);
-  wsResumo['!cols']=[{wch:30},{wch:50}];
+  wsResumo['!cols']=[{wch:20},{wch:10},{wch:12},{wch:50},{wch:12},{wch:10},{wch:45}];
   XLSX.utils.book_append_sheet(wb,wsResumo,'Resumo');
-  const postsHeader=[['#','Data','Tipo','Caption','Hashtags','Views','Likes','Comentarios','Link']];
-  const postsRows=posts.map((p,i)=>[
-    i+1,p.date||'-',p.type||'-',(p.caption||'').slice(0,200),
-    (p.tags||[]).join(' '),p.views||0,p.likes||0,p.comments||0,p.url||'-',
-  ]);
-  const wsPosts=XLSX.utils.aoa_to_sheet([...postsHeader,...postsRows]);
-  wsPosts['!cols']=[{wch:4},{wch:12},{wch:10},{wch:60},{wch:30},{wch:12},{wch:10},{wch:14},{wch:45}];
-  XLSX.utils.book_append_sheet(wb,wsPosts,'Posts');
+  if(igPosts.length){
+    const ws=XLSX.utils.aoa_to_sheet([
+      ['Link','Data','Tipo','Caption','Hashtags','Views','Interacoes'],
+      ...igPosts.map(p=>[
+        p.url||'-',p.date||'-',p.type||'-',
+        (p.caption||'').slice(0,200),(p.tags||[]).join(' '),
+        p.views||0,(p.likes||0)+(p.comments||0),
+      ])
+    ]);
+    ws['!cols']=[{wch:45},{wch:12},{wch:10},{wch:60},{wch:30},{wch:12},{wch:14}];
+    XLSX.utils.book_append_sheet(wb,ws,'Instagram');
+  }
+  if(ytPosts.length){
+    const ws=XLSX.utils.aoa_to_sheet([
+      ['Link','Data','Titulo','Hashtags','Impressoes','Views','Watch Time (min)','Unique Viewers','Interacoes'],
+      ...ytPosts.map(p=>[
+        p.url||'-',p.date||'-',
+        (p.caption||'').slice(0,200),(p.tags||[]).join(' '),
+        '','',p.views||0,'',
+        (p.likes||0)+(p.comments||0),
+      ])
+    ]);
+    ws['!cols']=[{wch:45},{wch:12},{wch:60},{wch:30},{wch:14},{wch:12},{wch:16},{wch:16},{wch:12}];
+    XLSX.utils.book_append_sheet(wb,ws,'YouTube');
+  }
+  if(ttPosts.length){
+    const ws=XLSX.utils.aoa_to_sheet([
+      ['Link','Data','Caption','Hashtags','Views','Interacoes'],
+      ...ttPosts.map(p=>[
+        p.url||'-',p.date||'-',
+        (p.caption||'').slice(0,200),(p.tags||[]).join(' '),
+        p.views||0,(p.likes||0)+(p.comments||0),
+      ])
+    ]);
+    ws['!cols']=[{wch:45},{wch:12},{wch:60},{wch:30},{wch:12},{wch:14}];
+    XLSX.utils.book_append_sheet(wb,ws,'TikTok');
+  }
   const nomeSponsor=sponsorName.replace(/[^a-zA-Z0-9]/g,'_');
-  const nomeArquivo='Charla_'+nomeSponsor+'_'+fmtDate(start).replace(/\//g,'-')+'_'+fmtDate(end).replace(/\//g,'-')+'.xlsx';
-  XLSX.writeFile(wb,nomeArquivo);
+  XLSX.writeFile(wb,'Charla_'+nomeSponsor+'_'+fmtDate(start).replace(/[/]/g,'-')+'_'+fmtDate(end).replace(/[/]/g,'-')+'.xlsx');
 }
-
-function closeModal(){qs('report-modal').style.display='none';}
-
-
-(function(){
-  if(!localStorage.getItem('sr_viewer_name')){const name=prompt('Como quer ser identificado nos logs?','');localStorage.setItem('sr_viewer_name',name||'anônimo');}
-  window.SR_USER=localStorage.getItem('sr_viewer_name')||'anônimo';
-  window.srLog=function(action,detail){try{const logs=JSON.parse(localStorage.getItem('sr_logs')||'[]');logs.push({ts:new Date().toISOString(),user:window.SR_USER,action,detail});localStorage.setItem('sr_logs',JSON.stringify(logs.slice(-500)));}catch(e){}};
-  const orig=window.setPlatform;window.setPlatform=function(p){srLog('view','plataforma: '+p);return orig(p);};
-  srLog('view','dashboard carregado · '+new Date().toLocaleString('pt-BR'));
-})();
 </script>
 </body>
-</html>
+</html>// ── INSIGHTS DO CHARLES ──
+let insightsData=null,insightsPlatFilter='all',insightsScoreFilter='all';
+
+async function loadInsights(){
+  if(!insightsData){
+    try{
+      const r=await fetch('./data/insights.json?t='+Date.now());
+      if(!r.ok)throw new Error();
+      insightsData=await r.json();
+    }catch{
+      qs('ins-date-title').textContent='Insights ainda não gerados';
+      qs('ins-kpis').innerHTML='<div style="grid-column:1/-1;padding:20px;font-size:12px;color:var(--t3);">Os insights são gerados automaticamente todo dia às 7h pelo Charles.</div>';
+      qs('ins-resumo').innerHTML='';qs('ins-posts-list').innerHTML='';return;
+    }
+  }
+  renderInsights();
+}
+function filtrarInsights(f){
+  insightsPlatFilter=f;
+  ['all','instagram','youtube'].forEach(v=>{const el=qs('ins-'+v);if(el)el.classList.toggle('active',v===f);});
+  renderInsightsPosts();
+}
+function filtrarInsightsScore(f){
+  insightsScoreFilter=insightsScoreFilter===f?'all':f;
+  ['melhores','alertas'].forEach(v=>{const el=qs('ins-'+v);if(el)el.classList.toggle('active',insightsScoreFilter===v);});
+  renderInsightsPosts();
+}
+function renderInsights(){
+  if(!insightsData)return;
+  const d=new Date(insightsData.date+'T12:00:00');
+  qs('ins-date-title').textContent='Posts de '+d.toLocaleDateString('pt-BR',{weekday:'long',day:'2-digit',month:'long',year:'numeric'});
+  const s=insightsData.summary||{};
+  qs('ins-kpis').innerHTML=[
+    {label:'Posts analisados',val:s.total_posts||0,sub:'Instagram + YouTube',color:'var(--orange)'},
+    {label:'Score médio',val:(s.score_medio||0)+'/10',sub:s.score_medio>=7?'acima da média':'abaixo da média',color:s.score_medio>=7?'var(--green)':'var(--red)'},
+    {label:'Alertas',val:s.total_alertas||0,sub:'posts abaixo da média',color:'var(--red)'},
+    {label:'Melhor post',val:fmt(s.melhor_post_views||0)+' views',sub:(s.melhor_post_caption||'—').slice(0,40),color:'var(--orange)'},
+  ].map(k=>`<div class="kpi-card"><div class="kpi-label">${k.label}</div><div class="kpi-val" style="color:${k.color};font-size:24px;">${k.val}</div><div class="kpi-sub">${k.sub}</div></div>`).join('');
+  qs('ins-resumo').innerHTML=`<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+    <div>
+      <div class="panel-title" style="margin-bottom:10px;">Insight principal do dia</div>
+      <div style="font-size:12px;color:var(--t2);line-height:1.8;">${s.insight_principal||'—'}</div>
+      <div class="panel-title" style="margin-top:14px;margin-bottom:8px;">Padrões identificados</div>
+      ${(s.padroes||[]).map((p,i)=>`<div style="display:flex;align-items:flex-start;gap:8px;margin-bottom:6px;"><div style="width:6px;height:6px;border-radius:50%;background:${i===0?'var(--green)':i===1?'var(--orange)':'var(--red)'};margin-top:5px;flex-shrink:0;"></div><div style="font-size:11px;color:var(--t2);line-height:1.5;">${p}</div></div>`).join('')}
+    </div>
+    <div>
+      <div class="panel-title" style="margin-bottom:10px;">Recomendação para amanhã</div>
+      <div style="background:#FF5A1F11;border:1px solid #FF5A1F33;padding:12px 14px;font-size:12px;color:var(--t2);line-height:1.8;">${s.recomendacao_amanha||'—'}</div>
+    </div>
+  </div>`;
+  renderInsightsPosts();
+}
+function renderInsightsPosts(){
+  if(!insightsData)return;
+  let posts=insightsData.posts||[];
+  if(insightsPlatFilter!=='all')posts=posts.filter(p=>p.platform===insightsPlatFilter);
+  if(insightsScoreFilter==='melhores')posts=posts.filter(p=>(p.analysis?.score||0)>=7);
+  if(insightsScoreFilter==='alertas')posts=posts.filter(p=>p.analysis?.status==='alerta');
+  posts=[...posts].sort((a,b)=>(b.analysis?.score||0)-(a.analysis?.score||0));
+  if(!posts.length){qs('ins-posts-list').innerHTML='<p style="font-size:12px;color:var(--t3);padding:10px 0;">Nenhum post encontrado.</p>';return;}
+  const nc=n=>n==='bom'?'ins-bom':n==='ruim'?'ins-ruim':'ins-medio';
+  const sc=s=>s>=8?'var(--green)':s>=5?'var(--orange)':'var(--red)';
+  const pp=p=>p==='instagram'?'<span class="type-pill type-reel">Instagram</span>':p==='youtube'?'<span class="type-pill type-video">YouTube</span>':'<span class="type-pill type-image">TikTok</span>';
+  qs('ins-posts-list').innerHTML=posts.map(p=>{
+    const a=p.analysis||{};
+    return`<div class="ins-post" style="border-left:3px solid ${sc(a.score||0)};">
+      <div class="ins-post-inner">
+        <div class="ins-score"><div class="ins-score-num" style="color:${sc(a.score||0)};">${a.score||'?'}</div><div class="ins-score-lbl">score</div></div>
+        <div class="ins-body">
+          <div class="ins-meta">${pp(p.platform)}<span class="type-pill type-image">${p.type||'—'}</span><span style="font-size:10px;color:var(--t3);">${p.date||'—'}</span>${a.status==='alerta'?'<span style="background:#ef444422;color:#ef4444;border:1px solid #ef444444;font-size:9px;font-weight:700;padding:1px 6px;text-transform:uppercase;">Alerta</span>':''}${a.status==='destaque'?'<span style="background:#22c55e22;color:#22c55e;border:1px solid #22c55e44;font-size:9px;font-weight:700;padding:1px 6px;text-transform:uppercase;">Destaque</span>':''}</div>
+          <div class="ins-title">${(p.caption||'—').slice(0,120)}</div>
+          <div class="ins-stats"><span style="font-size:11px;color:var(--orange);font-weight:700;">${fmt(p.views||0)} views</span><span style="font-size:11px;color:var(--t3);">${fmt(p.likes||0)} likes</span><span style="font-size:11px;color:var(--t3);">${fmt(p.comments||0)} coment.</span>${p.url?`<a href="${p.url}" target="_blank" style="font-size:11px;color:var(--orange);">ver post</a>`:''}</div>
+          <div style="font-size:11px;color:var(--t2);line-height:1.6;font-style:italic;margin-bottom:8px;">${a.resumo||''}</div>
+          <div class="ins-cols">
+            <div class="ins-col ${nc(a.thumb?.nota)}"><div class="ins-col-lbl">Thumb</div><div class="ins-col-txt">${a.thumb?.analise||'—'}</div><div class="ins-col-sug">${a.thumb?.sugestao||''}</div></div>
+            <div class="ins-col ${nc(a.titulo?.nota)}"><div class="ins-col-lbl">Título / Hook</div><div class="ins-col-txt">${a.titulo?.analise||'—'}</div><div class="ins-col-sug">${a.titulo?.sugestao||''}</div></div>
+            <div class="ins-col ${nc(a.legenda?.nota)}"><div class="ins-col-lbl">Legenda</div><div class="ins-col-txt">${a.legenda?.analise||'—'}</div><div class="ins-col-sug">${a.legenda?.sugestao||''}</div></div>
+          </div>
+          ${a.causa_baixa?`<div class="ins-alerta-box"><strong>Possível causa:</strong> ${a.causa_baixa}</div>`:''}
+        </div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+
