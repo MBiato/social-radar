@@ -134,7 +134,9 @@ tr:hover td{background:var(--card2);}
   </div>
   <div class="hdr-r">
     <div class="badge"><span class="dot"></span><span id="upd-txt">—</span></div>
-    <button class="btn" id="collect-btn" onclick="dispararColeta()" style="background:var(--ac);border-color:var(--ac);color:#000;font-size:9px;padding:5px 12px;">⚡ Coletar agora</button><button class="btn" id="refresh-btn" onclick="refreshData()" style="font-size:9px;padding:5px 12px;">↻ Recarregar</button><a href="admin.html" style="border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:9px;padding:5px 12px;letter-spacing:1px;text-decoration:none;">⚙ admin</a><button class="btn" onclick="toggleImport()">⬆ importar</button>
+    <button id="collect-btn" onclick="dispararColeta()" class="btn" style="background:var(--ac);color:#000;border-color:var(--ac);">⚡ COLETAR</button>
+    <button id="refresh-btn" onclick="refreshData()" class="btn">↻</button>
+    <a href="admin.html" style="border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:9px;padding:5px 12px;letter-spacing:1px;text-decoration:none;">⚙ admin</a><button class="btn" onclick="toggleImport()">⬆ importar</button>
   </div>
 </header>
 
@@ -165,16 +167,16 @@ tr:hover td{background:var(--card2);}
       <button class="tab active" id="tab-instagram" onclick="setPlatform('instagram')">INSTAGRAM</button>
       <button class="tab" id="tab-youtube" onclick="setPlatform('youtube')">YOUTUBE</button>
       <button class="tab" id="tab-tiktok" onclick="setPlatform('tiktok')">TIKTOK</button>
-      <button class="tab" id="tab-insights" onclick="setPlatform('insights')" style="color:var(--ac);border-left:1px solid var(--b1);margin-left:8px;padding-left:16px;">✦ INSIGHTS DO CHARLES</button>
+      <button class="tab" id="tab-insights" onclick="setPlatform('insights')" style="color:var(--ac);border-left:1px solid var(--b1);margin-left:8px;padding-left:14px;">✦ CHARLES</button>
     </div>
     <div class="period-grp" style="display:flex;align-items:center;gap:4px;flex-wrap:wrap;">
       <button class="btn sm" id="pd-7" onclick="setPeriod('7')">7D</button>
       <button class="btn sm ac" id="pd-30" onclick="setPeriod('30')">30D</button>
       <button class="btn sm" id="pd-90" onclick="setPeriod('90')">90D</button>
-      <span style="width:1px;height:16px;background:var(--b1);margin:0 4px;display:inline-block;"></span>
-      <input type="date" id="date-start" onchange="setCustomPeriod()" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-size:9px;padding:4px 6px;font-family:'Space Mono',monospace;outline:none;cursor:pointer;">
-      <span style="font-size:9px;color:var(--t3);">até</span>
-      <input type="date" id="date-end" onchange="setCustomPeriod()" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-size:9px;padding:4px 6px;font-family:'Space Mono',monospace;outline:none;cursor:pointer;">
+      <span style="width:1px;height:14px;background:var(--b1);margin:0 4px;display:inline-block;"></span>
+      <input type="date" id="date-start" onchange="setCustomPeriod()" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-size:9px;padding:3px 6px;font-family:'Space Mono',monospace;outline:none;">
+      <span style="font-size:9px;color:var(--t3);">→</span>
+      <input type="date" id="date-end" onchange="setCustomPeriod()" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-size:9px;padding:3px 6px;font-family:'Space Mono',monospace;outline:none;">
     </div>
   </div>
 
@@ -227,10 +229,10 @@ tr:hover td{background:var(--card2);}
   <!-- RANKINGS -->
   <div class="section">
     <div class="sec-hdr">
-      <div style="display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-        <div class="sec-title" style="margin-bottom:0;">RANKING DE POSTS</div>
-        <button onclick="gerarRelatorio()" style="background:var(--ac);border:1px solid var(--ac);color:#000;font-family:'Space Mono',monospace;font-size:8px;padding:4px 10px;cursor:pointer;letter-spacing:.5px;">↓ EXPORTAR PLANILHA</button>
-        <button onclick="abrirYTImport()" style="background:transparent;border:1px solid #ff0000;color:#ff0000;font-family:'Space Mono',monospace;font-size:8px;padding:4px 10px;cursor:pointer;letter-spacing:.5px;">▶ IMPORTAR YOUTUBE</button>
+      <div class="sec-title" style="margin-bottom:0;">RANKING DE POSTS</div>
+      <div style="display:flex;align-items:center;gap:5px;flex-wrap:wrap;margin-bottom:6px;">
+        <button onclick="gerarRelatorio()" class="btn sm" style="background:var(--ac);color:#000;border-color:var(--ac);">↓ PLANILHA</button>
+        <button onclick="abrirYTImport()" class="btn sm" style="border-color:#f00;color:#f00;">▶ IMPORTAR YT</button>
       </div>
       <div class="rank-btns" id="sort-btns">
         <button class="sort-btn ac" id="srt-date" onclick="setRankBy('date')" style="background:var(--ac);border-color:var(--ac);color:#000;">↓ RECENTES</button>
@@ -241,74 +243,74 @@ tr:hover td{background:var(--card2);}
         <button class="sort-btn" id="srt-comments" onclick="setRankBy('comments')">COMENT.</button>
       </div>
     </div>
-    <div style="display:flex;align-items:center;gap:8px;padding:8px 0;flex-wrap:wrap;">
-      <span style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);letter-spacing:.5px;">FILTRAR:</span>
+    <div style="display:flex;align-items:center;gap:6px;padding:6px 0;flex-wrap:wrap;">
+      <span style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);">FILTRAR:</span>
       <div style="position:relative;">
-        <button onclick="toggleTagDropdown()" style="background:var(--b1);border:1px solid var(--b2);color:var(--t2);font-family:'Space Mono',monospace;font-size:8px;padding:4px 10px;cursor:pointer;">PATROCINADOR ▾</button>
-        <div id="tag-dd-menu" style="position:absolute;top:calc(100% + 4px);left:0;background:#111;border:1px solid var(--b2);z-index:50;min-width:200px;max-height:250px;overflow-y:auto;display:none;"></div>
+        <button onclick="toggleTagDropdown()" class="btn sm">PATROCINADOR ▾</button>
+        <div id="tag-dd-menu" style="position:absolute;top:calc(100% + 2px);left:0;background:#111;border:1px solid var(--b2);z-index:50;min-width:200px;max-height:240px;overflow-y:auto;display:none;"></div>
       </div>
-      <div id="active-tags-display" style="display:flex;flex-wrap:wrap;gap:4px;"></div>
+      <div id="active-tags-display" style="display:flex;flex-wrap:wrap;gap:3px;"></div>
       <span id="tag-clear-btn" onclick="clearTags()" style="display:none;font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);cursor:pointer;">✕ limpar</span>
     </div>
     <div id="rankings-tbl"></div>
   </div>
 
-  <!-- INSIGHTS DO CHARLES -->
+  <!-- INSIGHTS -->
   <div id="insights-panel" style="display:none;">
-    <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap;">
-      <button onclick="setPlatform('instagram')" style="background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:8px;padding:4px 10px;cursor:pointer;">← DASHBOARD</button>
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;flex-wrap:wrap;">
+      <button onclick="setPlatform('instagram')" class="btn sm">← DASHBOARD</button>
       <div>
-        <div style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);letter-spacing:.5px;margin-bottom:4px;">INSIGHTS DO CHARLES</div>
-        <div style="font-size:18px;font-weight:700;color:var(--t1);" id="ins-date-title">Carregando...</div>
+        <div style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);">INSIGHTS DO CHARLES</div>
+        <div style="font-size:15px;font-weight:700;" id="ins-date-title">Carregando...</div>
       </div>
-      <div style="margin-left:auto;display:flex;gap:4px;flex-wrap:wrap;">
+      <div style="margin-left:auto;display:flex;gap:3px;flex-wrap:wrap;">
         <button class="sort-btn ac" id="ins-all" onclick="filtrarInsights('all')">TODOS</button>
-        <button class="sort-btn" id="ins-instagram" onclick="filtrarInsights('instagram')">INSTAGRAM</button>
-        <button class="sort-btn" id="ins-youtube" onclick="filtrarInsights('youtube')">YOUTUBE</button>
+        <button class="sort-btn" id="ins-instagram" onclick="filtrarInsights('instagram')">IG</button>
+        <button class="sort-btn" id="ins-youtube" onclick="filtrarInsights('youtube')">YT</button>
         <button class="sort-btn" id="ins-melhores" onclick="filtrarInsightsScore('melhores')">MELHORES</button>
         <button class="sort-btn" id="ins-alertas" onclick="filtrarInsightsScore('alertas')">ALERTAS</button>
       </div>
     </div>
-    <div class="kpi-row" id="ins-kpis" style="margin-bottom:16px;"></div>
-    <div class="section" id="ins-resumo" style="margin-bottom:16px;"></div>
+    <div class="kpi-grid" id="ins-kpis" style="margin-bottom:12px;"></div>
+    <div class="section" id="ins-resumo" style="margin-bottom:12px;"></div>
     <div class="section">
       <div class="sec-hdr"><div class="sec-title" style="margin-bottom:0;">ANÁLISE DE POSTS</div></div>
-      <div id="ins-posts-list"></div>
+      <div id="ins-posts-list" style="padding-top:6px;"></div>
     </div>
   </div>
 
-  <!-- MODAL YOUTUBE IMPORT -->
-  <div id="yt-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.85);z-index:200;display:none;align-items:center;justify-content:center;padding:20px;">
-    <div style="background:#111;border:1px solid var(--b2);width:100%;max-width:860px;max-height:90vh;display:flex;flex-direction:column;">
-      <div style="display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:1px solid var(--b2);">
-        <span style="font-family:'Space Mono',monospace;font-size:10px;letter-spacing:1px;">▶ IMPORTAR VÍDEOS DO YOUTUBE</span>
-        <button onclick="fecharYTImport()" style="background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:8px;padding:3px 8px;cursor:pointer;">✕ FECHAR</button>
+  <!-- MODAL YT -->
+  <div id="yt-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.88);z-index:200;align-items:center;justify-content:center;padding:16px;">
+    <div style="background:#111;border:1px solid var(--b2);width:100%;max-width:820px;max-height:90vh;display:flex;flex-direction:column;">
+      <div style="display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border-bottom:1px solid var(--b2);">
+        <span style="font-family:'Space Mono',monospace;font-size:9px;letter-spacing:1px;">▶ IMPORTAR VÍDEOS DO YOUTUBE</span>
+        <button onclick="fecharYTImport()" class="btn sm">✕</button>
       </div>
-      <div style="padding:16px 18px;overflow-y:auto;flex:1;">
-        <div style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);letter-spacing:.5px;margin-bottom:6px;">COLE OS LINKS DOS VÍDEOS (UM POR LINHA)</div>
-        <textarea id="yt-links-input" rows="5" style="width:100%;background:#0a0a0a;border:1px solid var(--b1);color:#7fffb4;font-family:monospace;font-size:10px;padding:8px;resize:vertical;outline:none;" placeholder="https://www.youtube.com/watch?v=abc123&#10;https://youtu.be/def456"></textarea>
-        <div style="display:flex;align-items:center;gap:8px;margin-top:10px;flex-wrap:wrap;">
-          <button id="yt-fetch-btn" onclick="buscarVideosYT()" style="background:var(--ac);border:1px solid var(--ac);color:#000;font-family:'Space Mono',monospace;font-size:8px;padding:5px 12px;cursor:pointer;">🔍 BUSCAR MÉTRICAS</button>
-          <select id="yt-sponsor-all" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-family:'Space Mono',monospace;font-size:8px;padding:4px 8px;cursor:pointer;"><option value="">— patrocinador para todos —</option></select>
-          <button onclick="aplicarSponsorTodos()" style="background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:8px;padding:4px 8px;cursor:pointer;">APLICAR A TODOS</button>
+      <div style="padding:14px;overflow-y:auto;flex:1;">
+        <div style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);margin-bottom:5px;">COLE OS LINKS (UM POR LINHA)</div>
+        <textarea id="yt-links-input" rows="4" style="width:100%;background:#0a0a0a;border:1px solid var(--b1);color:#7fffb4;font-family:monospace;font-size:10px;padding:8px;resize:vertical;outline:none;" placeholder="https://www.youtube.com/watch?v=abc123"></textarea>
+        <div style="display:flex;align-items:center;gap:6px;margin-top:8px;flex-wrap:wrap;">
+          <button id="yt-fetch-btn" onclick="buscarVideosYT()" class="btn sm" style="background:var(--ac);color:#000;border-color:var(--ac);">🔍 BUSCAR</button>
+          <select id="yt-sponsor-all" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-family:'Space Mono',monospace;font-size:8px;padding:3px 6px;outline:none;"><option value="">— patrocinador para todos —</option></select>
+          <button onclick="aplicarSponsorTodos()" class="btn sm">APLICAR A TODOS</button>
           <span id="yt-fetch-status" style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);"></span>
         </div>
-        <div id="yt-results-wrap" style="display:none;margin-top:14px;overflow-x:auto;">
-          <table style="width:100%;border-collapse:collapse;">
-            <thead><tr>
-              <th style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:left;">THUMB</th>
-              <th style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:left;">TÍTULO</th>
-              <th style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:right;">VIEWS</th>
-              <th style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:right;">LIKES</th>
-              <th style="font-family:'Space Mono',monospace;font-size:8px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);">PATROCINADOR</th>
+        <div id="yt-results-wrap" style="display:none;margin-top:12px;overflow-x:auto;">
+          <table style="width:100%;border-collapse:collapse;font-family:'Space Mono',monospace;font-size:8px;">
+            <thead><tr style="border-bottom:1px solid var(--b1);">
+              <th style="padding:5px 8px;color:var(--t3);text-align:left;">THUMB</th>
+              <th style="padding:5px 8px;color:var(--t3);text-align:left;">TÍTULO</th>
+              <th style="padding:5px 8px;color:var(--t3);text-align:right;">VIEWS</th>
+              <th style="padding:5px 8px;color:var(--t3);text-align:right;">LIKES</th>
+              <th style="padding:5px 8px;color:var(--t3);">PATROCINADOR</th>
             </tr></thead>
             <tbody id="yt-results-body"></tbody>
           </table>
         </div>
       </div>
-      <div style="padding:10px 18px;border-top:1px solid var(--b2);display:flex;gap:8px;justify-content:flex-end;">
-        <button onclick="fecharYTImport()" style="background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:'Space Mono',monospace;font-size:8px;padding:5px 12px;cursor:pointer;">CANCELAR</button>
-        <button id="yt-save-btn" onclick="salvarVideosYT()" style="display:none;background:var(--ac);border:1px solid var(--ac);color:#000;font-family:'Space Mono',monospace;font-size:8px;padding:5px 12px;cursor:pointer;">✓ SALVAR NO DASHBOARD</button>
+      <div style="padding:10px 14px;border-top:1px solid var(--b2);display:flex;gap:6px;justify-content:flex-end;">
+        <button onclick="fecharYTImport()" class="btn sm">CANCELAR</button>
+        <button id="yt-save-btn" onclick="salvarVideosYT()" class="btn sm" style="display:none;background:var(--ac);color:#000;border-color:var(--ac);">✓ SALVAR</button>
       </div>
     </div>
   </div>
@@ -333,19 +335,12 @@ const DAYS_PT = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
 const ALL_TAGS = ['#pago','#parceria','#organico','#ao-vivo','#exclusiva','#bastidores','#gol','#debate','#reação','#copa'];
 
 // ─── STATE ───────────────────────────────────────────────────────────────────
-const SPONSORS=[
-  {label:'Forneria',tag:'#ForneriaNoCharla'},
-  {label:'Sportingbet',tag:'#SportingbetNoCharla'},
-  {label:'Melitta',tag:'#MelittaNoCharla'},
-  {label:'Brahma',tag:'#BrahmaNoCharla'},
-  {label:'Texaco',tag:'#TexacoNoCharla'},
-  {label:'Assaí',tag:'#AssaiNoCharla'},
-  {label:'Absolut',tag:'#AbsolutNoCharla'},
-  {label:'Clear',tag:'#ClearNoCharla'},
-];
-const YT_API_KEY='AIzaSyCW_fYojoSlwQFioCM8aaXzGoTCJ87LU58';
-let metrics=null,platform='instagram',period='30',rankBy='date',activeTags=new Set(),charts={follower:null,views:null,velocity:null};
-let tagDropdownOpen=false,dateStart=null,dateEnd=null,currentPage=0,ytVideos=[],insightsData=null,insightsPlatFilter='all',insightsScoreFilter='all';
+let metrics  = null;
+let platform = 'instagram';
+let period   = '30';
+let rankBy   = 'views';
+let activeTags = new Set();
+let charts   = { follower:null, views:null, velocity:null };
 
 // ─── HELPERS ─────────────────────────────────────────────────────────────────
 const fmt = n => {
@@ -451,14 +446,10 @@ function saveLocal(){try{localStorage.setItem('sr_v3',JSON.stringify(metrics));}
 
 // ─── DATA SELECTORS ──────────────────────────────────────────────────────────
 function cutoff(days){const c=new Date();c.setDate(c.getDate()-days);return c;}
-function getDateRange(){
-  if(dateStart&&dateEnd)return{start:new Date(dateStart+'T00:00:00'),end:new Date(dateEnd+'T23:59:59')};
-  const end=new Date();const start=cutoff(parseInt(period));return{start,end};
-}
 
 function getSnaps(days){
-  const{start,end}=getDateRange();
-  return(metrics[platform]?.snapshots||[]).filter(s=>{const d=new Date(s.date);return d>=start&&d<=end;});
+  const c=cutoff(days||parseInt(period));
+  return(metrics[platform]?.snapshots||[]).filter(s=>new Date(s.date)>=c);
 }
 
 function getPrevSnaps(){
@@ -468,16 +459,16 @@ function getPrevSnaps(){
 }
 
 function getFilteredPosts(){
-  const{start,end}=getDateRange();
-  let posts=(metrics[platform]?.posts||[]).filter(p=>{const d=new Date(p.date);return d>=start&&d<=end;});
-  if(activeTags.size>0)posts=posts.filter(p=>[...(p.tags||[])].some(t=>activeTags.has(t)));
+  const days=parseInt(period),c=cutoff(days);
+  let posts=(metrics[platform]?.posts||[]).filter(p=>new Date(p.date)>=c);
+  if(activeTags.size>0)
+    posts=posts.filter(p=>[...(p.tags||[])].some(t=>activeTags.has(t)));
   posts=posts.sort((a,b)=>{
-    if(rankBy==='date')return b.date.localeCompare(a.date);
     if(rankBy==='virality')return virScore(b)-virScore(a);
     if(rankBy==='saves')return(b.saves||0)-(a.saves||0);
     return(b[rankBy]||0)-(a[rankBy]||0);
   });
-  return posts;
+  return posts.slice(0,15);
 }
 
 function getAllTags(){
@@ -511,40 +502,22 @@ function buildVelocity(){
 
 // ─── SETTERS ─────────────────────────────────────────────────────────────────
 function setPlatform(p){
-  if(p==='insights'){
-    ['instagram','youtube','tiktok','insights'].forEach(k=>{const el=qs('tab-'+k);if(el)el.classList.toggle('active',k==='insights');});
-    qs('insights-panel').style.display='block';
-    document.querySelectorAll('.controls,.kpi-row,.chart-row,.hm-section,.section').forEach(el=>{if(el.id!=='insights-panel'&&el.id!=='ins-resumo')el.style.display='none';});
-    loadInsights();return;
-  }
-  qs('insights-panel').style.display='none';
-  document.querySelectorAll('.controls,.kpi-row,.chart-row,.hm-section,.section').forEach(el=>el.style.removeProperty('display'));
-  platform=p;setAC(ac());currentPage=0;
+  platform=p;setAC(ac());
   qs('logo-em').style.color=ac();
-  ['instagram','youtube','tiktok','insights'].forEach(k=>{const el=qs('tab-'+k);if(el)el.classList.toggle('active',k===p);});
-  activeTags.clear();render();
+  Object.keys(PLATS).forEach(k=>qs('tab-'+k).classList.toggle('active',k===p));
+  activeTags.clear();
+  render();
 }
 
 function setPeriod(p){
-  period=p;dateStart=null;dateEnd=null;currentPage=0;
+  period=p;
   ['7','30','90'].forEach(v=>qs('pd-'+v).classList.toggle('ac',v===p));
-  const ds=qs('date-start'),de=qs('date-end');if(ds)ds.value='';if(de)de.value='';
   render();
-}
-function setCustomPeriod(){
-  const s=qs('date-start')?.value,e=qs('date-end')?.value;
-  if(!s||!e)return;if(new Date(s)>new Date(e)){qs('date-end').value=s;return;}
-  dateStart=s;dateEnd=e;currentPage=0;
-  ['7','30','90'].forEach(v=>qs('pd-'+v).classList.remove('ac'));render();
 }
 
 function setRankBy(r){
-  rankBy=r;currentPage=0;
-  ['views','likes','virality','saves','comments','date'].forEach(v=>{
-    const el=qs('srt-'+v);if(!el)return;
-    el.classList.toggle('ac',v===r);
-    if(v==='date'){el.style.background=r==='date'?'var(--ac)':'';el.style.color=r==='date'?'#000':'';el.style.borderColor=r==='date'?'var(--ac)':'';}
-  });
+  rankBy=r;
+  ['views','likes','virality','saves','comments'].forEach(v=>qs('srt-'+v).classList.toggle('ac',v===r));
   renderRankings();
 }
 
@@ -783,266 +756,42 @@ function renderTagBar(){
 
 // ─── RENDER: RANKINGS ────────────────────────────────────────────────────────
 function renderRankings(){
-  renderTagDropdown();renderActiveTags();
-  const allPosts=getFilteredPosts();const col=ac();
-  if(!allPosts.length){qs('rankings-tbl').innerHTML='<p style="font-family:Space Mono,monospace;font-size:10px;color:var(--t3);padding:12px 0;">Nenhum post neste período ou tag.</p>';return;}
-  const PAGE=30;const totalPages=Math.ceil(allPosts.length/PAGE);
-  if(currentPage>=totalPages)currentPage=0;
-  const posts=allPosts.slice(currentPage*PAGE,(currentPage+1)*PAGE);
-  const thead='<thead><tr><th style="width:24px;">#</th><th style="width:46px;">Data</th><th style="width:44px;">Tipo</th><th>Post</th><th style="width:120px;">Tags</th><th style="width:56px;">Views</th><th style="width:50px;">Likes</th><th style="width:56px;color:#7fffb4;">Viral%</th><th style="width:54px;color:#7fc3ff;">Save%</th><th style="width:52px;">Coment.</th></tr></thead>';
-  const tbody='<tbody>'+posts.map((p,i)=>{
-    const vir=virScore(p).toFixed(1),sav=saveRate(p).toFixed(1);
-    const tags=(p.tags||[]).slice(0,3).map(t=>'<span class="tag-pill">'+t+'</span>').join('')+(p.tags?.length>3?'<span class="tag-pill">+'+((p.tags||[]).length-3)+'</span>':'');
-    const gi=currentPage*PAGE+i+1;
-    return'<tr><td class="'+(gi===1?'pos1':'td-mu')+'">'+gi+'</td><td class="td-mu">'+(p.date?.slice(5)||'—')+'</td><td class="td-mu" style="font-size:9px;">'+(p.type||'—')+'</td><td class="td-cap">'+(p.caption||'—')+'</td><td style="font-size:9px;">'+tags+'</td><td class="'+(rankBy==='views'?'td-hi':'')+'">'+(fmt(p.views))+'</td><td class="'+(rankBy==='likes'?'td-hi':'')+'">'+(fmt(p.likes))+'</td><td class="'+(rankBy==='virality'?'':'td-vir')+'" style="'+(rankBy==='virality'?'color:'+col+';font-weight:700;':'')+'">'+(vir)+'%</td><td class="'+(rankBy==='saves'?'':'td-sav')+'" style="'+(rankBy==='saves'?'color:'+col+';font-weight:700;':'')+'">'+(sav)+'%</td><td class="'+(rankBy==='comments'?'td-hi':'')+'">'+(fmt(p.comments))+'</td></tr>';
-  }).join('')+'</tbody>';
-  const pag=totalPages>1?'<div style="display:flex;align-items:center;justify-content:space-between;padding:10px 0;margin-top:8px;border-top:1px solid var(--b1);"><button onclick="changePage(-1)" '+(currentPage===0?'disabled style="opacity:.3"':'')+' style="background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:Space Mono,monospace;font-size:8px;padding:4px 10px;cursor:pointer;">← ANTERIOR</button><span style="font-family:Space Mono,monospace;font-size:8px;color:var(--t3);">PÁG '+(currentPage+1)+' DE '+totalPages+' · '+allPosts.length+' POSTS</span><button onclick="changePage(1)" '+(currentPage>=totalPages-1?'disabled style="opacity:.3"':'')+' style="background:transparent;border:1px solid var(--b1);color:var(--t3);font-family:Space Mono,monospace;font-size:8px;padding:4px 10px;cursor:pointer;">PRÓXIMA →</button></div>':'';
-  qs('rankings-tbl').innerHTML='<table>'+thead+tbody+'</table>'+pag;
-}
-function changePage(dir){
-  const total=Math.ceil(getFilteredPosts().length/30);
-  currentPage=Math.max(0,Math.min(currentPage+dir,total-1));
-  renderRankings();
-  qs('rankings-tbl')?.scrollIntoView({behavior:'smooth',block:'start'});
-}
-
-// ─── TAG DROPDOWN ─────────────────────────────────────────────────────────────
-function renderTagDropdown(){
-  const menu=qs('tag-dd-menu');if(!menu)return;
-  menu.innerHTML=SPONSORS.map(s=>'<div onclick="toggleTag(''+s.tag+'')" style="padding:6px 12px;font-family:Space Mono,monospace;font-size:8px;color:'+(activeTags.has(s.tag)?'var(--ac)':'var(--t2)')+';cursor:pointer;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--b1);">'+s.label+'<span style="font-size:7px;color:var(--t3);">'+s.tag+'</span>'+(activeTags.has(s.tag)?'<span style="color:var(--ac);">✓</span>':'')+'</div>').join('');
-}
-function toggleTagDropdown(){
-  tagDropdownOpen=!tagDropdownOpen;
-  const menu=qs('tag-dd-menu');if(menu)menu.style.display=tagDropdownOpen?'block':'none';
-}
-function toggleTag(t){
-  activeTags.has(t)?activeTags.delete(t):activeTags.add(t);
-  currentPage=0;renderTagDropdown();renderActiveTags();renderRankings();
-}
-function clearTags(){activeTags.clear();currentPage=0;renderTagDropdown();renderActiveTags();renderRankings();}
-function renderActiveTags(){
-  const d=qs('active-tags-display'),cb=qs('tag-clear-btn');if(!d)return;
-  if(!activeTags.size){d.innerHTML='';if(cb)cb.style.display='none';return;}
-  if(cb)cb.style.display='inline';
-  d.innerHTML=[...activeTags].map(t=>'<span style="background:var(--ac);color:#000;font-family:Space Mono,monospace;font-size:7px;padding:2px 8px;cursor:pointer;display:inline-flex;align-items:center;gap:4px;" onclick="toggleTag(''+t+'')">'+t+' ✕</span>').join('');
-}
-document.addEventListener('click',e=>{if(!e.target.closest('#tag-dd-menu')&&!e.target.closest('button[onclick*="toggleTagDropdown"]')){tagDropdownOpen=false;const m=qs('tag-dd-menu');if(m)m.style.display='none';}});
-
-// ─── COLETA + REFRESH ─────────────────────────────────────────────────────────
-function getWorkflowToken(){return localStorage.getItem('sr_workflow_token')||'';}
-async function dispararColeta(){
-  const btn=qs('collect-btn');
-  if(!getWorkflowToken()){const t=prompt('Cole seu GitHub Token (workflow):');if(!t)return;localStorage.setItem('sr_workflow_token',t);}
-  btn.textContent='⚡ Coletando...';btn.disabled=true;
-  try{
-    const resp=await fetch('https://api.github.com/repos/MBiato/social-radar/actions/workflows/main.yml/dispatches',{
-      method:'POST',headers:{'Authorization':'Bearer '+getWorkflowToken(),'Accept':'application/vnd.github+json','Content-Type':'application/json'},
-      body:JSON.stringify({ref:'main'}),
-    });
-    if(resp.status===204){btn.textContent='✓ Coletando...';btn.style.background='var(--green)';setTimeout(async()=>{await refreshData();btn.textContent='⚡ Coletar agora';btn.style.background='';btn.disabled=false;},180000);}
-    else throw new Error(resp.status);
-  }catch(e){btn.textContent='✗ Erro';setTimeout(()=>{btn.textContent='⚡ Coletar agora';btn.style.background='';btn.disabled=false;},3000);}
-}
-async function refreshData(){
-  const btn=qs('refresh-btn');if(btn){btn.textContent='↻ ...';btn.disabled=true;}
-  try{
-    const r=await fetch('./data/metrics.json?t='+Date.now());if(!r.ok)throw new Error();
-    metrics=await r.json();
-    if(metrics.updated_at){const d=new Date(metrics.updated_at);qs('upd-txt').textContent='atualizado '+d.toLocaleDateString('pt-BR')+' '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});}
-    render();if(btn){btn.textContent='✓';setTimeout(()=>{btn.textContent='↻ Recarregar';btn.disabled=false;},2000);}
-  }catch(e){if(btn){btn.textContent='✗';setTimeout(()=>{btn.textContent='↻ Recarregar';btn.disabled=false;},2000);}}
-}
-
-// ─── YOUTUBE IMPORT ───────────────────────────────────────────────────────────
-function abrirYTImport(){
-  const sel=qs('yt-sponsor-all');
-  if(sel)sel.innerHTML='<option value="">— patrocinador para todos —</option>'+SPONSORS.map(s=>'<option value="'+s.tag+'">'+s.label+'</option>').join('');
-  ytVideos=[];
-  const modal=qs('yt-modal');if(modal)modal.style.display='flex';
-  const res=qs('yt-results-wrap');if(res)res.style.display='none';
-  const save=qs('yt-save-btn');if(save)save.style.display='none';
-  const inp=qs('yt-links-input');if(inp)inp.value='';
-  qs('yt-fetch-status').textContent='';
-}
-function fecharYTImport(){const m=qs('yt-modal');if(m)m.style.display='none';}
-function extractVideoId(url){const m=url.match(/(?:v=|youtu\.be\/|\/embed\/)([a-zA-Z0-9_-]{11})/);return m?m[1]:null;}
-async function buscarVideosYT(){
-  const btn=qs('yt-fetch-btn'),status=qs('yt-fetch-status');
-  const input=(qs('yt-links-input')?.value||'').trim();
-  if(!input){alert('Cole pelo menos um link.');return;}
-  const ids=[...new Set(input.split('\n').map(l=>extractVideoId(l.trim())).filter(Boolean))];
-  if(!ids.length){alert('Nenhum link válido.');return;}
-  btn.disabled=true;btn.textContent='BUSCANDO...';status.textContent='Buscando '+ids.length+' vídeos...';
-  ytVideos=[];
-  try{
-    for(let i=0;i<ids.length;i+=50){
-      const batch=ids.slice(i,i+50);
-      const url='https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id='+batch.join(',')+'&key='+YT_API_KEY;
-      const r=await fetch(url);const data=await r.json();
-      if(data.error)throw new Error(data.error.message);
-      data.items.forEach(item=>ytVideos.push({id:item.id,title:item.snippet.title,date:item.snippet.publishedAt.slice(0,10),thumb:'https://img.youtube.com/vi/'+item.id+'/mqdefault.jpg',views:parseInt(item.statistics.viewCount||0),likes:parseInt(item.statistics.likeCount||0),comments:parseInt(item.statistics.commentCount||0),url:'https://www.youtube.com/watch?v='+item.id,tags:[],type:'VIDEO',sponsor:''}));
-    }
-    renderYTResults();status.textContent='✓ '+ytVideos.length+' vídeos encontrados';
-    qs('yt-results-wrap').style.display='block';qs('yt-save-btn').style.display='inline-block';
-  }catch(e){status.textContent='✗ Erro: '+e.message;}
-  finally{btn.disabled=false;btn.textContent='🔍 BUSCAR MÉTRICAS';}
-}
-function renderYTResults(){
-  const tbody=qs('yt-results-body');if(!tbody)return;
-  tbody.innerHTML=ytVideos.map((v,i)=>'<tr style="border-bottom:1px solid var(--b1);"><td><img src="'+v.thumb+'" style="width:80px;height:45px;object-fit:cover;"></td><td style="font-size:10px;color:var(--t2);padding:6px 8px;"><div>'+v.title.slice(0,60)+'</div><div style="font-size:8px;color:var(--t3);margin-top:2px;">'+v.date+' · <a href="'+v.url+'" target="_blank" style="color:var(--ac);">ver</a></div></td><td style="font-family:Space Mono,monospace;font-size:10px;text-align:right;padding:0 8px;">'+fmt(v.views)+'</td><td style="font-family:Space Mono,monospace;font-size:10px;text-align:right;padding:0 8px;">'+fmt(v.likes)+'</td><td style="padding:0 8px;"><select onchange="ytVideos['+i+'].tags=[this.value];ytVideos['+i+'].sponsor=this.value;" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-family:Space Mono,monospace;font-size:8px;padding:3px 6px;width:100%;"><option value="">— nenhum —</option>'+SPONSORS.map(s=>'<option value="'+s.tag+'" '+(v.sponsor===s.tag?'selected':'')+'>'+s.label+'</option>').join('')+'</select></td></tr>').join('');
-}
-function aplicarSponsorTodos(){
-  const val=qs('yt-sponsor-all')?.value;if(!val)return;
-  ytVideos.forEach(v=>{v.tags=[val];v.sponsor=val;});renderYTResults();
-}
-function salvarVideosYT(){
-  if(!metrics.youtube)metrics.youtube={snapshots:[],posts:[]};
-  let s=0,a=0;
-  ytVideos.forEach(v=>{
-    const post={id:'yt_'+v.id,date:v.date,caption:v.title,url:v.url,tags:v.tags||[],type:'VIDEO',views:v.views,likes:v.likes,comments:v.comments,shares:0,saves:0};
-    const idx=metrics.youtube.posts.findIndex(p=>p.id===post.id);
-    if(idx>=0){metrics.youtube.posts[idx]=post;a++;}else{metrics.youtube.posts.push(post);s++;}
-  });
-  metrics.youtube.posts.sort((a,b)=>b.date.localeCompare(a.date));
-  try{localStorage.setItem('sr_v3',JSON.stringify(metrics));}catch{}
-  render();fecharYTImport();alert('✓ '+s+' adicionados, '+a+' atualizados!');
-}
-
-// ─── MULTI-PLATFORM REPORT ────────────────────────────────────────────────────
-function getPostsByPlatformAndSponsor(plat){
-  const{start,end}=getDateRange();
-  let posts=(metrics[plat]?.posts||[]).filter(p=>{const d=new Date(p.date);return d>=start&&d<=end;});
-  if(activeTags.size>0)posts=posts.filter(p=>[...(p.tags||[])].some(t=>activeTags.has(t)));
-  return posts.sort((a,b)=>b.date.localeCompare(a.date));
-}
-function gerarRelatorio(){
-  if(!activeTags.size){alert('Selecione um patrocinador antes de gerar o relatório.');return;}
-  const XLSX=window.XLSX;if(!XLSX){alert('Biblioteca XLSX não carregada. Recarregue a página.');return;}
-  const sponsorName=[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(' + ');
-  const sponsorTag=[...activeTags].join(' ');
-  const{start,end}=getDateRange();
-  const fmtDate=d=>d.toLocaleDateString('pt-BR');
-  const periodo=fmtDate(start)+' a '+fmtDate(end);
-  const igP=getPostsByPlatformAndSponsor('instagram');
-  const ytP=getPostsByPlatformAndSponsor('youtube');
-  const ttP=getPostsByPlatformAndSponsor('tiktok');
-  const all=[...igP,...ytP,...ttP];
-  if(!all.length){alert('Nenhum post encontrado.');return;}
-  const wb=XLSX.utils.book_new();
-  const sv=p=>p.reduce((a,x)=>a+(x.views||0),0);
-  const sl=p=>p.reduce((a,x)=>a+(x.likes||0),0);
-  const sc=p=>p.reduce((a,x)=>a+(x.comments||0),0);
-  const resumo=[
-    ['CHARLA PODCAST - RELATORIO DE PATROCINADOR'],[''],
-    ['Patrocinador',sponsorName],['Hashtag(s)',sponsorTag],['Periodo',periodo],['Gerado em',new Date().toLocaleString('pt-BR')],[''],
-    ['RESUMO GERAL'],['','Posts','Views','Interacoes'],
-    ['Instagram',igP.length,sv(igP),sl(igP)+sc(igP)],
-    ['YouTube',ytP.length,sv(ytP),sl(ytP)+sc(ytP)],
-    ['TikTok',ttP.length,sv(ttP),sl(ttP)+sc(ttP)],
-    ['TOTAL',all.length,sv(all),sl(all)+sc(all)],[''],
-    ['TOP 3 POR VIEWS'],['#','Plataforma','Data','Titulo/Caption','Views','Interacoes','Link'],
-  ];
-  [...all].sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,3).forEach((p,i)=>{
-    const plat=igP.includes(p)?'Instagram':ytP.includes(p)?'YouTube':'TikTok';
-    resumo.push([i+1,plat,p.date||'-',(p.caption||'-').slice(0,80),p.views||0,(p.likes||0)+(p.comments||0),p.url||'-']);
-  });
-  const wsR=XLSX.utils.aoa_to_sheet(resumo);wsR['!cols']=[{wch:20},{wch:12},{wch:12},{wch:50},{wch:12},{wch:12},{wch:45}];
-  XLSX.utils.book_append_sheet(wb,wsR,'Resumo');
-  if(igP.length){
-    const ws=XLSX.utils.aoa_to_sheet([['Link','Data','Tipo','Caption','Hashtags','Views','Interacoes'],...igP.map(p=>[p.url||'-',p.date||'-',p.type||'-',(p.caption||'').slice(0,200),(p.tags||[]).join(' '),p.views||0,(p.likes||0)+(p.comments||0)])]);
-    ws['!cols']=[{wch:45},{wch:12},{wch:10},{wch:60},{wch:30},{wch:12},{wch:14}];
-    XLSX.utils.book_append_sheet(wb,ws,'Instagram');
+  const posts=getFilteredPosts();const col=ac();
+  if(!posts.length){
+    qs('rankings-tbl').innerHTML='<p style="font-family:Space Mono,monospace;font-size:10px;color:var(--t3);padding:12px 0;">Nenhum post neste período ou tag.</p>';
+    return;
   }
-  if(ytP.length){
-    const ws=XLSX.utils.aoa_to_sheet([['Link','Data','Titulo','Hashtags','Impressoes','Views','Watch Time','Unique Viewers','Interacoes'],...ytP.map(p=>[p.url||'-',p.date||'-',(p.caption||'').slice(0,200),(p.tags||[]).join(' '),'',p.views||0,'','', (p.likes||0)+(p.comments||0)])]);
-    ws['!cols']=[{wch:45},{wch:12},{wch:60},{wch:30},{wch:14},{wch:12},{wch:16},{wch:16},{wch:12}];
-    XLSX.utils.book_append_sheet(wb,ws,'YouTube');
-  }
-  if(ttP.length){
-    const ws=XLSX.utils.aoa_to_sheet([['Link','Data','Caption','Hashtags','Views','Interacoes'],...ttP.map(p=>[p.url||'-',p.date||'-',(p.caption||'').slice(0,200),(p.tags||[]).join(' '),p.views||0,(p.likes||0)+(p.comments||0)])]);
-    ws['!cols']=[{wch:45},{wch:12},{wch:60},{wch:30},{wch:12},{wch:14}];
-    XLSX.utils.book_append_sheet(wb,ws,'TikTok');
-  }
-  const nome=sponsorName.replace(/[^a-zA-Z0-9]/g,'_');
-  XLSX.writeFile(wb,'Charla_'+nome+'_'+fmtDate(start).replace(/[/]/g,'-')+'_'+fmtDate(end).replace(/[/]/g,'-')+'.xlsx');
+  const thead=`<thead><tr>
+    <th style="width:24px;">#</th>
+    <th style="width:46px;">Data</th>
+    <th style="width:44px;">Tipo</th>
+    <th>Post</th>
+    <th style="width:120px;">Tags</th>
+    <th style="width:56px;">Views</th>
+    <th style="width:50px;">Likes</th>
+    <th style="width:56px;color:#7fffb4;">Viral%</th>
+    <th style="width:54px;color:#7fc3ff;">Save%</th>
+    <th style="width:52px;">Coment.</th>
+  </tr></thead>`;
+  const tbody=`<tbody>${posts.map((p,i)=>{
+    const vir=virScore(p).toFixed(1);
+    const sav=saveRate(p).toFixed(1);
+    const tags=(p.tags||[]).map(t=>`<span class="tag-pill">${t}</span>`).join('');
+    return`<tr>
+      <td class="${i===0?'pos1':'td-mu'}">${i+1}</td>
+      <td class="td-mu">${p.date?.slice(5)||'—'}</td>
+      <td class="td-mu" style="font-size:9px;">${p.type||'—'}</td>
+      <td class="td-cap">${p.caption||'—'}</td>
+      <td style="font-size:9px;">${tags}</td>
+      <td class="${rankBy==='views'?'td-hi':''}">${fmt(p.views)}</td>
+      <td class="${rankBy==='likes'?'td-hi':''}">${fmt(p.likes)}</td>
+      <td class="${rankBy==='virality'?'':'td-vir'}" style="${rankBy==='virality'?`color:${col};font-weight:700;`:''}">${vir}%</td>
+      <td class="${rankBy==='saves'?'':'td-sav'}" style="${rankBy==='saves'?`color:${col};font-weight:700;`:''}">${sav}%</td>
+      <td class="${rankBy==='comments'?'td-hi':''}">${fmt(p.comments)}</td>
+    </tr>`;
+  }).join('')}</tbody>`;
+  qs('rankings-tbl').innerHTML=`<table>${thead}${tbody}</table>`;
 }
-
-// ─── INSIGHTS DO CHARLES ──────────────────────────────────────────────────────
-async function loadInsights(){
-  if(!insightsData){
-    try{const r=await fetch('./data/insights.json?t='+Date.now());if(!r.ok)throw new Error();insightsData=await r.json();}
-    catch{qs('ins-date-title').textContent='Insights ainda nao gerados';qs('ins-kpis').innerHTML='<div style="padding:16px;font-family:Space Mono,monospace;font-size:9px;color:var(--t3);">Os insights sao gerados automaticamente todo dia as 7h pelo Charles.</div>';qs('ins-resumo').innerHTML='';qs('ins-posts-list').innerHTML='';return;}
-  }
-  renderInsights();
-}
-function filtrarInsights(f){
-  insightsPlatFilter=f;
-  ['all','instagram','youtube'].forEach(v=>{const el=qs('ins-'+v);if(el)el.classList.toggle('ac',v===f);});
-  renderInsightsPosts();
-}
-function filtrarInsightsScore(f){
-  insightsScoreFilter=insightsScoreFilter===f?'all':f;
-  ['melhores','alertas'].forEach(v=>{const el=qs('ins-'+v);if(el)el.classList.toggle('ac',insightsScoreFilter===v);});
-  renderInsightsPosts();
-}
-function renderInsights(){
-  if(!insightsData)return;
-  const d=new Date(insightsData.date+'T12:00:00');
-  qs('ins-date-title').textContent='Posts de '+d.toLocaleDateString('pt-BR',{weekday:'long',day:'2-digit',month:'long',year:'numeric'});
-  const s=insightsData.summary||{};
-  qs('ins-kpis').innerHTML=[
-    {l:'Posts analisados',v:s.total_posts||0,s:'Instagram + YouTube',c:'var(--ac)'},
-    {l:'Score médio',v:(s.score_medio||0)+'/10',s:s.score_medio>=7?'acima da media':'abaixo da media',c:s.score_medio>=7?'#22c55e':'#ef4444'},
-    {l:'Alertas',v:s.total_alertas||0,s:'posts abaixo da media',c:'#ef4444'},
-    {l:'Melhor post',v:fmt(s.melhor_post_views||0)+' views',s:(s.melhor_post_caption||'—').slice(0,35),c:'var(--ac)'},
-  ].map(k=>'<div class="kpi-card"><div class="kpi-lbl">'+k.l+'</div><div class="kpi-val" style="color:'+k.c+';">'+k.v+'</div><div class="kpi-sub">'+k.s+'</div></div>').join('');
-  const padroes=(s.padroes||[]).map((p,i)=>'<div style="display:flex;gap:8px;margin-bottom:5px;align-items:flex-start;"><div style="width:5px;height:5px;border-radius:50%;background:'+(i===0?'#22c55e':i===1?'var(--ac)':'#ef4444')+';margin-top:4px;flex-shrink:0;"></div><div style="font-size:9px;color:var(--t2);line-height:1.5;">'+p+'</div></div>').join('');
-  qs('ins-resumo').innerHTML='<div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;"><div><div class="sec-title" style="margin-bottom:8px;">INSIGHT PRINCIPAL</div><div style="font-size:9px;color:var(--t2);line-height:1.7;">'+(s.insight_principal||'—')+'</div><div class="sec-title" style="margin-top:12px;margin-bottom:8px;">PADRÕES</div>'+padroes+'</div><div><div class="sec-title" style="margin-bottom:8px;">RECOMENDAÇÃO PARA AMANHÃ</div><div style="background:var(--b1);border:1px solid var(--b2);padding:10px 12px;font-size:9px;color:var(--t2);line-height:1.7;">'+(s.recomendacao_amanha||'—')+'</div></div></div>';
-  renderInsightsPosts();
-}
-function renderInsightsPosts(){
-  if(!insightsData)return;
-  let posts=insightsData.posts||[];
-  if(insightsPlatFilter!=='all')posts=posts.filter(p=>p.platform===insightsPlatFilter);
-  if(insightsScoreFilter==='melhores')posts=posts.filter(p=>(p.analysis?.score||0)>=7);
-  if(insightsScoreFilter==='alertas')posts=posts.filter(p=>p.analysis?.status==='alerta');
-  posts=[...posts].sort((a,b)=>(b.analysis?.score||0)-(a.analysis?.score||0));
-  if(!posts.length){qs('ins-posts-list').innerHTML='<p style="font-size:9px;color:var(--t3);padding:10px 0;font-family:Space Mono,monospace;">Nenhum post encontrado.</p>';return;}
-  const nc=n=>n==='bom'?'#22c55e':n==='ruim'?'#ef4444':'var(--ac)';
-  const sc=s=>s>=8?'#22c55e':s>=5?'var(--ac)':'#ef4444';
-  const pp=p=>p==='instagram'?'[IG]':p==='youtube'?'[YT]':'[TT]';
-  qs('ins-posts-list').innerHTML=posts.map(p=>{
-    const a=p.analysis||{};
-    const alertaBadge=a.status==='alerta'?'<span style="background:#ef444420;color:#ef4444;border:1px solid #ef444440;font-size:7px;font-family:Space Mono,monospace;padding:1px 5px;">ALERTA</span>':'';
-    const destBadge=a.status==='destaque'?'<span style="background:#22c55e20;color:#22c55e;border:1px solid #22c55e40;font-size:7px;font-family:Space Mono,monospace;padding:1px 5px;">DESTAQUE</span>':'';
-    const causaBox=a.causa_baixa?'<div style="background:#ef444410;border:1px solid #ef444430;padding:8px 10px;margin-top:8px;font-size:9px;color:var(--t2);line-height:1.5;"><strong style="color:#ef4444;">Possível causa:</strong> '+a.causa_baixa+'</div>':'';
-    const col=['thumb','titulo','legenda'].map(k=>'<div style="padding:7px 9px;background:'+nc(a[k]?.nota)+'15;border:1px solid '+nc(a[k]?.nota)+'30;"><div style="font-size:7px;font-family:Space Mono,monospace;font-weight:700;color:'+nc(a[k]?.nota)+';margin-bottom:3px;">'+(k==='titulo'?'TÍTULO':k.toUpperCase())+'</div><div style="font-size:9px;color:var(--t2);line-height:1.4;">'+(a[k]?.analise||'—')+'</div><div style="font-size:8px;color:var(--t3);font-style:italic;margin-top:3px;">'+(a[k]?.sugestao||'')+'</div></div>').join('');
-    return'<div style="border-left:3px solid '+sc(a.score||0)+';background:var(--b1);margin-bottom:8px;"><div style="padding:12px 14px;display:flex;gap:12px;"><div style="display:flex;flex-direction:column;align-items:center;flex-shrink:0;width:36px;"><div style="font-size:20px;font-weight:700;color:'+sc(a.score||0)+';line-height:1;">'+(a.score||'?')+'</div><div style="font-size:7px;color:var(--t3);font-family:Space Mono,monospace;">SCORE</div></div><div style="flex:1;min-width:0;"><div style="display:flex;align-items:center;gap:5px;margin-bottom:4px;flex-wrap:wrap;"><span style="font-size:8px;font-family:Space Mono,monospace;color:var(--t3);">'+pp(p.platform)+'</span><span style="font-size:8px;font-family:Space Mono,monospace;color:var(--t3);">'+(p.type||'')+'</span><span style="font-size:8px;color:var(--t3);">'+(p.date||'')+'</span>'+alertaBadge+destBadge+'</div><div style="font-size:11px;font-weight:700;color:var(--t1);margin-bottom:4px;line-height:1.3;">'+(p.caption||'—').slice(0,120)+'</div><div style="display:flex;gap:12px;margin-bottom:8px;"><span style="font-size:9px;color:var(--ac);">'+fmt(p.views||0)+' views</span><span style="font-size:9px;color:var(--t3);">'+fmt(p.likes||0)+' likes</span><span style="font-size:9px;color:var(--t3);">'+fmt(p.comments||0)+' coment.</span>'+(p.url?'<a href="'+p.url+'" target="_blank" style="font-size:9px;color:var(--ac);">ver post</a>':'')+'</div><div style="font-size:9px;color:var(--t2);line-height:1.5;font-style:italic;margin-bottom:8px;">'+(a.resumo||'')+'</div><div style="display:grid;grid-template-columns:repeat(3,1fr);gap:6px;">'+col+'</div>'+causaBox+'</div></div></div>';
-  }).join('');
-}
-
-// ─── SENHA DE ACESSO ──────────────────────────────────────────────────────────
-(function(){
-  const SENHA='Charla@Dashboard.2026!';
-  const ok=sessionStorage.getItem('charla_auth');
-  if(!ok){
-    const input=prompt('Charla Radar — Digite a senha de acesso:');
-    if(input!==SENHA){document.body.innerHTML='<div style="display:flex;align-items:center;justify-content:center;height:100vh;background:#0a0a0a;flex-direction:column;gap:16px;"><div style="font-family:Space Mono,monospace;font-size:20px;color:var(--ac);">CHARLA RADAR</div><div style="font-size:11px;color:#555;font-family:Space Mono,monospace;">acesso negado</div></div>';throw new Error();}
-    sessionStorage.setItem('charla_auth','1');
-  }
-})();
-
-// ─── INIT ─────────────────────────────────────────────────────────────────────
-async function initLoad(){
-  try{const r=await fetch('./data/metrics.json?t='+Date.now());if(!r.ok)throw new Error();metrics=await r.json();}
-  catch{const c=localStorage.getItem('sr_v3');metrics=c?JSON.parse(c):generateDemo();}
-  if(metrics?.updated_at){const d=new Date(metrics.updated_at);qs('upd-txt').textContent='atualizado '+d.toLocaleDateString('pt-BR')+' '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});}
-  const today=new Date(),ago30=new Date();ago30.setDate(today.getDate()-30);
-  const f2=d=>d.toISOString().slice(0,10);
-  const de=qs('date-end'),ds=qs('date-start');if(de)de.value=f2(today);if(ds)ds.value=f2(ago30);
-  render();
-}
-initLoad();
 
 // ─── MAIN RENDER ─────────────────────────────────────────────────────────────
 function render(){
@@ -1058,8 +807,328 @@ function render(){
 }
 
 // ─── BOOT ────────────────────────────────────────────────────────────────────
+
+// ═══ CONFIGURAÇÕES ═══
+const SPONSORS=[
+  {label:'Forneria',tag:'#ForneriaNoCharla'},
+  {label:'Sportingbet',tag:'#SportingbetNoCharla'},
+  {label:'Melitta',tag:'#MelittaNoCharla'},
+  {label:'Brahma',tag:'#BrahmaNoCharla'},
+  {label:'Texaco',tag:'#TexacoNoCharla'},
+  {label:'Assaí',tag:'#AssaiNoCharla'},
+  {label:'Absolut',tag:'#AbsolutNoCharla'},
+  {label:'Clear',tag:'#ClearNoCharla'},
+];
+const YT_KEY='AIzaSyCW_fYojoSlwQFioCM8aaXzGoTCJ87LU58';
+let tagOpen=false,dateStart=null,dateEnd=null,curPage=0,ytVids=[],insData=null,insPlatF='all',insScoreF='all';
+
+// ═══ DATE RANGE ═══
+function getRange(){
+  if(dateStart&&dateEnd)return{s:new Date(dateStart+'T00:00:00'),e:new Date(dateEnd+'T23:59:59')};
+  const e=new Date(),s=cutoff(parseInt(period));return{s,e};
+}
+
+// ═══ SENHA ═══
+(function(){
+  if(!sessionStorage.getItem('ca')){
+    const p=prompt('Charla Radar — senha:');
+    if(p!=='Charla@Dashboard.2026!'){
+      document.body.innerHTML='<div style="display:flex;height:100vh;align-items:center;justify-content:center;background:#0d0d0d;font-family:Space Mono,monospace;color:#555;font-size:10px;">acesso negado</div>';
+      throw new Error('auth');
+    }
+    sessionStorage.setItem('ca','1');
+  }
+})();
+
+// ═══ OVERRIDE getSnaps ═══
+const _gs=getSnaps;
+getSnaps=function(d){
+  const{s,e}=getRange();
+  return(metrics[platform]?.snapshots||[]).filter(x=>{const dd=new Date(x.date);return dd>=s&&dd<=e;});
+};
+
+// ═══ OVERRIDE getFilteredPosts ═══
+const _gfp=getFilteredPosts;
+getFilteredPosts=function(){
+  const{s,e}=getRange();
+  let posts=(metrics[platform]?.posts||[]).filter(p=>{const d=new Date(p.date);return d>=s&&d<=e;});
+  if(activeTags.size>0)posts=posts.filter(p=>[...(p.tags||[])].some(t=>activeTags.has(t)));
+  return posts.sort((a,b)=>{
+    if(rankBy==='date')return b.date.localeCompare(a.date);
+    if(rankBy==='virality')return virScore(b)-virScore(a);
+    if(rankBy==='saves')return(b.saves||0)-(a.saves||0);
+    return(b[rankBy]||0)-(a[rankBy]||0);
+  });
+};
+
+// ═══ OVERRIDE setPeriod ═══
+const _sp=setPeriod;
+setPeriod=function(p){
+  period=p;dateStart=null;dateEnd=null;curPage=0;
+  ['7','30','90'].forEach(v=>qs('pd-'+v)?.classList.toggle('ac',v===p));
+  const ds=qs('date-start'),de=qs('date-end');
+  if(ds)ds.value='';if(de)de.value='';
+  render();
+};
+function setCustomPeriod(){
+  const s=qs('date-start')?.value,e=qs('date-end')?.value;
+  if(!s||!e)return;
+  if(new Date(s)>new Date(e)){qs('date-end').value=s;return;}
+  dateStart=s;dateEnd=e;curPage=0;
+  ['7','30','90'].forEach(v=>qs('pd-'+v)?.classList.remove('ac'));
+  render();
+}
+
+// ═══ OVERRIDE setPlatform ═══
+const _spl=setPlatform;
+setPlatform=function(p){
+  if(p==='insights'){
+    ['instagram','youtube','tiktok','insights'].forEach(k=>{const el=qs('tab-'+k);if(el)el.classList.toggle('active',k==='insights');});
+    qs('insights-panel').style.display='block';
+    document.querySelectorAll('.wrap > .plat-grid, .wrap > .controls, .wrap > .kpi-grid, .wrap > .chart-grid, .wrap > .hm-section, .wrap > .section').forEach(el=>el.style.display='none');
+    loadInsights();return;
+  }
+  qs('insights-panel').style.display='none';
+  document.querySelectorAll('.wrap > .plat-grid, .wrap > .controls, .wrap > .kpi-grid, .wrap > .chart-grid, .wrap > .hm-section, .wrap > .section').forEach(el=>el.style.removeProperty('display'));
+  _spl(p);
+};
+
+// ═══ OVERRIDE setRankBy ═══
+const _srb=setRankBy;
+setRankBy=function(r){
+  rankBy=r;curPage=0;
+  document.querySelectorAll('.sort-btn').forEach(b=>{b.classList.remove('ac');b.style.background='';b.style.color='';b.style.borderColor='';});
+  const el=qs('srt-'+r);
+  if(el){el.classList.add('ac');if(r==='date'){el.style.background='var(--ac)';el.style.color='#000';el.style.borderColor='var(--ac)';}}
+  renderRankings();
+};
+
+// ═══ OVERRIDE renderRankings com paginação ═══
+const _rr=renderRankings;
+renderRankings=function(){
+  renderTagDropdown();renderActiveTags();
+  const all=getFilteredPosts();const col=ac();
+  if(!all.length){qs('rankings-tbl').innerHTML='<p style="font-family:Space Mono,monospace;font-size:9px;color:var(--t3);padding:10px 0;">Nenhum post neste período ou filtro.</p>';return;}
+  const PAGE=30,tot=Math.ceil(all.length/PAGE);
+  if(curPage>=tot)curPage=0;
+  const posts=all.slice(curPage*PAGE,(curPage+1)*PAGE);
+  const thead='<thead><tr><th style="width:22px;">#</th><th style="width:44px;">Data</th><th style="width:42px;">Tipo</th><th>Post</th><th style="width:110px;">Tags</th><th style="width:54px;">Views</th><th style="width:48px;">Likes</th><th style="width:52px;color:#7fffb4;">Viral%</th><th style="width:50px;color:#7fc3ff;">Save%</th><th style="width:50px;">Coment.</th></tr></thead>';
+  const tbody='<tbody>'+posts.map((p,i)=>{
+    const vir=virScore(p).toFixed(1),sav=saveRate(p).toFixed(1),gi=curPage*PAGE+i+1;
+    const tags=(p.tags||[]).slice(0,3).map(t=>'<span class="tag-pill">'+t+'</span>').join('')+(p.tags?.length>3?'<span class="tag-pill">+'+(p.tags.length-3)+'</span>':'');
+    return'<tr><td class="'+(gi===1?'pos1':'td-mu')+'">'+gi+'</td><td class="td-mu">'+(p.date?.slice(5)||'—')+'</td><td class="td-mu" style="font-size:9px;">'+(p.type||'—')+'</td><td class="td-cap">'+(p.caption||'—')+'</td><td>'+tags+'</td><td class="'+(rankBy==='views'?'td-hi':'')+'">'+(fmt(p.views))+'</td><td class="'+(rankBy==='likes'?'td-hi':'')+'">'+(fmt(p.likes))+'</td><td class="'+(rankBy==='virality'?'':'td-vir')+'" style="'+(rankBy==='virality'?'color:'+col+';font-weight:700;':'')+'">'+(vir)+'%</td><td class="'+(rankBy==='saves'?'':'td-sav')+'" style="'+(rankBy==='saves'?'color:'+col+';font-weight:700;':'')+'">'+(sav)+'%</td><td class="'+(rankBy==='comments'?'td-hi':'')+'">'+(fmt(p.comments))+'</td></tr>';
+  }).join('')+'</tbody>';
+  const pag=tot>1?'<div style="display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-top:1px solid var(--b1);margin-top:4px;"><button onclick="changePage(-1)" class="btn sm" '+(curPage===0?'disabled style="opacity:.3"':'')+'>← ANTERIOR</button><span style="font-family:Space Mono,monospace;font-size:8px;color:var(--t3);">PÁG '+(curPage+1)+'/'+tot+' · '+all.length+' POSTS</span><button onclick="changePage(1)" class="btn sm" '+(curPage>=tot-1?'disabled style="opacity:.3"':'')+'>PRÓXIMA →</button></div>':'';
+  qs('rankings-tbl').innerHTML='<table>'+thead+tbody+'</table>'+pag;
+};
+function changePage(d){const t=Math.ceil(getFilteredPosts().length/30);curPage=Math.max(0,Math.min(curPage+d,t-1));renderRankings();qs('rankings-tbl')?.scrollIntoView({behavior:'smooth',block:'start'});}
+
+// ═══ TAG DROPDOWN ═══
+function renderTagDropdown(){
+  const m=qs('tag-dd-menu');if(!m)return;
+  m.innerHTML=SPONSORS.map(s=>'<div onclick="toggleTag(\''+s.tag+'\')" style="padding:5px 10px;font-family:Space Mono,monospace;font-size:8px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--b1);color:'+(activeTags.has(s.tag)?'var(--ac)':'var(--t2)')+';">'+s.label+'<span style="font-size:7px;color:var(--t3);margin-left:8px;">'+s.tag+(activeTags.has(s.tag)?' ✓':'')+'</span></div>').join('');
+}
+function toggleTagDropdown(){tagOpen=!tagOpen;const m=qs('tag-dd-menu');if(m)m.style.display=tagOpen?'block':'none';}
+function toggleTag(t){activeTags.has(t)?activeTags.delete(t):activeTags.add(t);curPage=0;renderTagDropdown();renderActiveTags();renderRankings();}
+function clearTags(){activeTags.clear();curPage=0;renderTagDropdown();renderActiveTags();renderRankings();}
+function renderActiveTags(){
+  const d=qs('active-tags-display'),cb=qs('tag-clear-btn');if(!d)return;
+  if(!activeTags.size){d.innerHTML='';if(cb)cb.style.display='none';return;}
+  if(cb)cb.style.display='inline';
+  d.innerHTML=[...activeTags].map(t=>'<span onclick="toggleTag(\''+t+'\')" style="background:var(--ac);color:#000;font-family:Space Mono,monospace;font-size:7px;padding:2px 7px;cursor:pointer;margin-right:3px;">'+t+' ✕</span>').join('');
+}
+document.addEventListener('click',function(e){
+  if(!e.target.closest('#tag-dd-menu')&&!e.target.onclick?.toString().includes('toggleTagDropdown')){
+    tagOpen=false;const m=qs('tag-dd-menu');if(m)m.style.display='none';
+  }
+});
+
+// ═══ COLETAR + REFRESH ═══
+function getWFT(){return localStorage.getItem('sr_wft')||'';}
+async function dispararColeta(){
+  const btn=qs('collect-btn');
+  if(!getWFT()){const t=prompt('GitHub Token (workflow):');if(!t)return;localStorage.setItem('sr_wft',t);}
+  if(btn){btn.textContent='...';btn.disabled=true;}
+  try{
+    const r=await fetch('https://api.github.com/repos/MBiato/social-radar/actions/workflows/main.yml/dispatches',{
+      method:'POST',
+      headers:{'Authorization':'Bearer '+getWFT(),'Accept':'application/vnd.github+json','Content-Type':'application/json'},
+      body:JSON.stringify({ref:'main'})
+    });
+    if(r.status===204){if(btn){btn.textContent='✓';btn.style.background='#22c55e';}setTimeout(async()=>{await refreshData();if(btn){btn.textContent='⚡ COLETAR';btn.style.background='var(--ac)';btn.disabled=false;}},180000);}
+    else throw new Error(r.status);
+  }catch{if(btn){btn.textContent='✗';setTimeout(()=>{btn.textContent='⚡ COLETAR';btn.style.background='var(--ac)';btn.disabled=false;},3000);}}
+}
+async function refreshData(){
+  const btn=qs('refresh-btn');if(btn){btn.textContent='...';btn.disabled=true;}
+  try{
+    const r=await fetch('./data/metrics.json?t='+Date.now());if(!r.ok)throw new Error();
+    metrics=await r.json();
+    if(metrics?.updated_at){const d=new Date(metrics.updated_at);qs('upd-txt').textContent=d.toLocaleDateString('pt-BR')+' '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});}
+    render();if(btn){btn.textContent='✓';setTimeout(()=>{btn.textContent='↻';btn.disabled=false;},2000);}
+  }catch{if(btn){btn.textContent='✗';setTimeout(()=>{btn.textContent='↻';btn.disabled=false;},2000);}}
+}
+
+// ═══ YOUTUBE IMPORT ═══
+function abrirYTImport(){
+  const sel=qs('yt-sponsor-all');if(sel)sel.innerHTML='<option value="">— patrocinador —</option>'+SPONSORS.map(s=>'<option value="'+s.tag+'">'+s.label+'</option>').join('');
+  ytVids=[];
+  const m=qs('yt-modal');if(m){m.style.display='flex';}
+  const rw=qs('yt-results-wrap');if(rw)rw.style.display='none';
+  const sb=qs('yt-save-btn');if(sb)sb.style.display='none';
+  const inp=qs('yt-links-input');if(inp)inp.value='';
+  const st=qs('yt-fetch-status');if(st)st.textContent='';
+}
+function fecharYTImport(){const m=qs('yt-modal');if(m)m.style.display='none';}
+function getVID(url){try{const u=new URL(url);if(u.hostname==='youtu.be')return u.pathname.slice(1);const v=u.searchParams.get('v');if(v&&v.length===11)return v;}catch{}const m=url.match(/[?&\/]([a-zA-Z0-9_-]{11})(?:[?&]|$)/);return m?m[1]:null;}
+async function buscarVideosYT(){
+  const btn=qs('yt-fetch-btn'),st=qs('yt-fetch-status');
+  const input=(qs('yt-links-input')?.value||'').trim();
+  if(!input){alert('Cole pelo menos um link.');return;}
+  const ids=[...new Set(input.split('\n').map(l=>getVID(l.trim())).filter(Boolean))];
+  if(!ids.length){alert('Nenhum ID de vídeo encontrado.');return;}
+  if(btn){btn.disabled=true;btn.textContent='BUSCANDO...';}
+  if(st)st.textContent='Buscando '+ids.length+' vídeo(s)...';
+  ytVids=[];
+  try{
+    for(let i=0;i<ids.length;i+=50){
+      const batch=ids.slice(i,i+50);
+      const r=await fetch('https://www.googleapis.com/youtube/v3/videos?part=snippet,statistics&id='+batch.join(',')+'&key='+YT_KEY);
+      const data=await r.json();
+      if(data.error)throw new Error(data.error.message);
+      data.items.forEach(it=>ytVids.push({id:it.id,title:it.snippet.title,date:it.snippet.publishedAt.slice(0,10),thumb:'https://img.youtube.com/vi/'+it.id+'/mqdefault.jpg',views:parseInt(it.statistics.viewCount||0),likes:parseInt(it.statistics.likeCount||0),comments:parseInt(it.statistics.commentCount||0),url:'https://www.youtube.com/watch?v='+it.id,tags:[],type:'VIDEO',sponsor:''}));
+    }
+    renderYTResults();
+    if(st)st.textContent='✓ '+ytVids.length+' encontrados';
+    const rw=qs('yt-results-wrap');if(rw)rw.style.display='block';
+    const sb=qs('yt-save-btn');if(sb)sb.style.display='inline-block';
+  }catch(e){if(st)st.textContent='✗ Erro: '+e.message;}
+  finally{if(btn){btn.disabled=false;btn.textContent='🔍 BUSCAR';}}
+}
+function renderYTResults(){
+  const tb=qs('yt-results-body');if(!tb)return;
+  tb.innerHTML=ytVids.map((v,i)=>'<tr style="border-bottom:1px solid var(--b1);"><td style="padding:4px 6px;"><img src="'+v.thumb+'" style="width:72px;height:40px;object-fit:cover;"></td><td style="font-size:9px;color:var(--t2);padding:4px 8px;"><div>'+v.title.slice(0,55)+'</div><div style="font-size:8px;color:var(--t3);margin-top:2px;">'+v.date+' · <a href="'+v.url+'" target="_blank" style="color:var(--ac);">ver</a></div></td><td style="font-family:Space Mono,monospace;font-size:9px;text-align:right;padding:0 6px;">'+fmt(v.views)+'</td><td style="font-family:Space Mono,monospace;font-size:9px;text-align:right;padding:0 6px;">'+fmt(v.likes)+'</td><td style="padding:0 6px;"><select onchange="ytVids['+i+'].tags=[this.value];ytVids['+i+'].sponsor=this.value;" style="background:var(--b1);border:1px solid var(--b2);color:var(--t1);font-family:Space Mono,monospace;font-size:8px;padding:2px 5px;width:100%;outline:none;"><option value="">— nenhum —</option>'+SPONSORS.map(s=>'<option value="'+s.tag+'" '+(v.sponsor===s.tag?'selected':'')+'>'+s.label+'</option>').join('')+'</select></td></tr>').join('');
+}
+function aplicarSponsorTodos(){const val=qs('yt-sponsor-all')?.value;if(!val)return;ytVids.forEach(v=>{v.tags=[val];v.sponsor=val;});renderYTResults();}
+function salvarVideosYT(){
+  if(!metrics.youtube)metrics.youtube={snapshots:[],posts:[]};
+  let s=0,a=0;
+  ytVids.forEach(v=>{
+    const post={id:'yt_'+v.id,date:v.date,caption:v.title,url:v.url,tags:v.tags||[],type:'VIDEO',views:v.views,likes:v.likes,comments:v.comments,shares:0,saves:0};
+    const idx=metrics.youtube.posts.findIndex(p=>p.id===post.id);
+    if(idx>=0){metrics.youtube.posts[idx]=post;a++;}else{metrics.youtube.posts.push(post);s++;}
+  });
+  metrics.youtube.posts.sort((a,b)=>b.date.localeCompare(a.date));
+  try{localStorage.setItem('sr_v3',JSON.stringify(metrics));}catch{}
+  render();fecharYTImport();alert('✓ '+s+' adicionados, '+a+' atualizados!');
+}
+
+// ═══ RELATÓRIO XLSX ═══
+function getByPS(plat){
+  const{s,e}=getRange();
+  let posts=(metrics[plat]?.posts||[]).filter(p=>{const d=new Date(p.date);return d>=s&&d<=e;});
+  if(activeTags.size>0)posts=posts.filter(p=>[...(p.tags||[])].some(t=>activeTags.has(t)));
+  return posts.sort((a,b)=>b.date.localeCompare(a.date));
+}
+function gerarRelatorio(){
+  if(!activeTags.size){alert('Selecione um patrocinador antes de gerar o relatório.');return;}
+  const XLSX=window.XLSX;if(!XLSX){alert('Recarregue a página e tente novamente.');return;}
+  const sName=[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(' + ');
+  const sTag=[...activeTags].join(' ');
+  const{s,e}=getRange();
+  const fd=d=>d.toLocaleDateString('pt-BR');
+  const per=fd(s)+' a '+fd(e);
+  const igP=getByPS('instagram'),ytP=getByPS('youtube'),ttP=getByPS('tiktok');
+  const all=[...igP,...ytP,...ttP];
+  if(!all.length){alert('Nenhum post encontrado com os filtros atuais.');return;}
+  const wb=XLSX.utils.book_new();
+  const sv=p=>p.reduce((a,x)=>a+(x.views||0),0);
+  const si=p=>p.reduce((a,x)=>a+(x.likes||0)+(x.comments||0),0);
+  const res=[
+    ['CHARLA PODCAST - RELATORIO DE PATROCINADOR'],[''],
+    ['Patrocinador',sName],['Hashtag(s)',sTag],['Periodo',per],['Gerado em',new Date().toLocaleString('pt-BR')],[''],
+    ['RESUMO'],['','Posts','Views','Interacoes'],
+    ['Instagram',igP.length,sv(igP),si(igP)],
+    ['YouTube',ytP.length,sv(ytP),si(ytP)],
+    ['TikTok',ttP.length,sv(ttP),si(ttP)],
+    ['TOTAL',all.length,sv(all),si(all)],[''],
+    ['TOP 3 POR VIEWS'],['#','Plataforma','Data','Caption','Views','Interacoes','Link'],
+  ];
+  [...all].sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,3).forEach((p,i)=>{
+    const pl=igP.includes(p)?'Instagram':ytP.includes(p)?'YouTube':'TikTok';
+    res.push([i+1,pl,p.date||'-',(p.caption||'-').slice(0,80),p.views||0,(p.likes||0)+(p.comments||0),p.url||'-']);
+  });
+  const wsR=XLSX.utils.aoa_to_sheet(res);wsR['!cols']=[{wch:20},{wch:12},{wch:12},{wch:50},{wch:12},{wch:12},{wch:45}];
+  XLSX.utils.book_append_sheet(wb,wsR,'Resumo');
+  if(igP.length){const ws=XLSX.utils.aoa_to_sheet([['Link','Data','Tipo','Caption','Hashtags','Views','Interacoes'],...igP.map(p=>[p.url||'-',p.date||'-',p.type||'-',(p.caption||'').slice(0,200),(p.tags||[]).join(' '),p.views||0,(p.likes||0)+(p.comments||0)])]);ws['!cols']=[{wch:45},{wch:12},{wch:10},{wch:60},{wch:30},{wch:12},{wch:14}];XLSX.utils.book_append_sheet(wb,ws,'Instagram');}
+  if(ytP.length){const ws=XLSX.utils.aoa_to_sheet([['Link','Data','Titulo','Hashtags','Impressoes','Views','Watch Time','Unique Viewers','Interacoes'],...ytP.map(p=>[p.url||'-',p.date||'-',(p.caption||'').slice(0,200),(p.tags||[]).join(' '),'',p.views||0,'','',(p.likes||0)+(p.comments||0)])]);ws['!cols']=[{wch:45},{wch:12},{wch:60},{wch:30},{wch:14},{wch:12},{wch:16},{wch:16},{wch:12}];XLSX.utils.book_append_sheet(wb,ws,'YouTube');}
+  if(ttP.length){const ws=XLSX.utils.aoa_to_sheet([['Link','Data','Caption','Hashtags','Views','Interacoes'],...ttP.map(p=>[p.url||'-',p.date||'-',(p.caption||'').slice(0,200),(p.tags||[]).join(' '),p.views||0,(p.likes||0)+(p.comments||0)])]);ws['!cols']=[{wch:45},{wch:12},{wch:60},{wch:30},{wch:12},{wch:14}];XLSX.utils.book_append_sheet(wb,ws,'TikTok');}
+  const nome=sName.replace(/[^a-zA-Z0-9]/g,'_');
+  XLSX.writeFile(wb,'Charla_'+nome+'_'+fd(s).replace(/\//g,'-')+'_'+fd(e).replace(/\//g,'-')+'.xlsx');
+}
+
+// ═══ INSIGHTS DO CHARLES ═══
+async function loadInsights(){
+  if(!insData){
+    try{const r=await fetch('./data/insights.json?t='+Date.now());if(!r.ok)throw new Error();insData=await r.json();}
+    catch{
+      qs('ins-date-title').textContent='Insights ainda não gerados';
+      qs('ins-kpis').innerHTML='<div class="kpi-card" style="grid-column:1/-1"><div class="kpi-lbl">STATUS</div><div style="font-size:9px;color:var(--t3);margin-top:4px;">Gerados às 7h automaticamente. Clique em ⚡ COLETAR para gerar agora.</div></div>';
+      qs('ins-resumo').innerHTML='';qs('ins-posts-list').innerHTML='';return;
+    }
+  }
+  renderInsights();
+}
+function filtrarInsights(f){insPlatF=f;['all','instagram','youtube'].forEach(v=>{const el=qs('ins-'+v);if(el)el.classList.toggle('ac',v===f);});renderInsightsPosts();}
+function filtrarInsightsScore(f){insScoreF=insScoreF===f?'all':f;['melhores','alertas'].forEach(v=>{const el=qs('ins-'+v);if(el)el.classList.toggle('ac',insScoreF===v);});renderInsightsPosts();}
+function renderInsights(){
+  if(!insData)return;
+  const d=new Date(insData.date+'T12:00:00');
+  qs('ins-date-title').textContent='Posts de '+d.toLocaleDateString('pt-BR',{weekday:'long',day:'2-digit',month:'long',year:'numeric'});
+  const s=insData.summary||{};
+  qs('ins-kpis').innerHTML=[
+    {l:'POSTS ANALISADOS',v:s.total_posts||0,sub:'Instagram + YouTube',c:'var(--ac)'},
+    {l:'SCORE MÉDIO',v:(s.score_medio||0)+'/10',sub:s.score_medio>=7?'acima da média':'abaixo da média',c:s.score_medio>=7?'#22c55e':'#ef4444'},
+    {l:'ALERTAS',v:s.total_alertas||0,sub:'posts abaixo da média',c:'#ef4444'},
+    {l:'MELHOR POST',v:fmt(s.melhor_post_views||0)+' views',sub:(s.melhor_post_caption||'—').slice(0,35),c:'var(--ac)'},
+  ].map(k=>'<div class="kpi-card"><div class="kpi-lbl">'+k.l+'</div><div class="kpi-val" style="color:'+k.c+';">'+k.v+'</div><div class="kpi-sub">'+k.sub+'</div></div>').join('');
+  const pad=(s.padroes||[]).map((p,i)=>'<div style="display:flex;gap:6px;margin-bottom:4px;align-items:flex-start;"><div style="width:5px;height:5px;border-radius:50%;background:'+(i===0?'#22c55e':i===1?'var(--ac)':'#ef4444')+';margin-top:3px;flex-shrink:0;"></div><div style="font-size:9px;color:var(--t2);line-height:1.4;">'+p+'</div></div>').join('');
+  qs('ins-resumo').innerHTML='<div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;"><div><div class="sec-title" style="margin-bottom:6px;">INSIGHT PRINCIPAL</div><div style="font-size:9px;color:var(--t2);line-height:1.6;">'+(s.insight_principal||'—')+'</div><div class="sec-title" style="margin:10px 0 6px;">PADRÕES</div>'+pad+'</div><div><div class="sec-title" style="margin-bottom:6px;">RECOMENDAÇÃO AMANHÃ</div><div style="background:var(--b1);border:1px solid var(--b2);padding:8px 10px;font-size:9px;color:var(--t2);line-height:1.6;">'+(s.recomendacao_amanha||'—')+'</div></div></div>';
+  renderInsightsPosts();
+}
+function renderInsightsPosts(){
+  if(!insData)return;
+  let posts=insData.posts||[];
+  if(insPlatF!=='all')posts=posts.filter(p=>p.platform===insPlatF);
+  if(insScoreF==='melhores')posts=posts.filter(p=>(p.analysis?.score||0)>=7);
+  if(insScoreF==='alertas')posts=posts.filter(p=>p.analysis?.status==='alerta');
+  posts=[...posts].sort((a,b)=>(b.analysis?.score||0)-(a.analysis?.score||0));
+  if(!posts.length){qs('ins-posts-list').innerHTML='<p style="font-size:9px;color:var(--t3);font-family:Space Mono,monospace;">Nenhum post encontrado.</p>';return;}
+  const nc=n=>n==='bom'?'#22c55e':n==='ruim'?'#ef4444':'var(--ac)';
+  const sc=s=>s>=8?'#22c55e':s>=5?'var(--ac)':'#ef4444';
+  const pp=p=>p==='instagram'?'[IG]':p==='youtube'?'[YT]':'[TT]';
+  qs('ins-posts-list').innerHTML=posts.map(p=>{
+    const a=p.analysis||{};
+    const badges=(a.status==='alerta'?'<span style="background:#ef444418;color:#ef4444;border:1px solid #ef444430;font-size:7px;font-family:Space Mono,monospace;padding:1px 4px;">ALERTA</span>':'')+(a.status==='destaque'?'<span style="background:#22c55e18;color:#22c55e;border:1px solid #22c55e30;font-size:7px;font-family:Space Mono,monospace;padding:1px 4px;">DESTAQUE</span>':'');
+    const cols=['thumb','titulo','legenda'].map(k=>'<div style="padding:6px 8px;background:'+nc(a[k]?.nota)+'12;border:1px solid '+nc(a[k]?.nota)+'25;"><div style="font-size:7px;font-family:Space Mono,monospace;font-weight:700;color:'+nc(a[k]?.nota)+';margin-bottom:2px;">'+(k==='titulo'?'TÍTULO/HOOK':k.toUpperCase())+'</div><div style="font-size:9px;color:var(--t2);line-height:1.4;">'+(a[k]?.analise||'—')+'</div><div style="font-size:8px;color:var(--t3);font-style:italic;margin-top:2px;">'+(a[k]?.sugestao||'')+'</div></div>').join('');
+    const causa=a.causa_baixa?'<div style="background:#ef444410;border:1px solid #ef444425;padding:6px 8px;margin-top:6px;font-size:9px;color:var(--t2);line-height:1.4;"><strong style="color:#ef4444;">Possível causa:</strong> '+a.causa_baixa+'</div>':'';
+    return'<div style="border-left:3px solid '+sc(a.score||0)+';background:var(--b1);margin-bottom:8px;padding:10px 12px;display:flex;gap:10px;"><div style="display:flex;flex-direction:column;align-items:center;width:34px;flex-shrink:0;"><div style="font-size:18px;font-weight:700;color:'+sc(a.score||0)+';line-height:1;">'+(a.score||'?')+'</div><div style="font-size:7px;color:var(--t3);font-family:Space Mono,monospace;">SCORE</div></div><div style="flex:1;min-width:0;"><div style="display:flex;align-items:center;gap:4px;margin-bottom:3px;flex-wrap:wrap;"><span style="font-size:8px;color:var(--t3);font-family:Space Mono,monospace;">'+pp(p.platform)+'</span><span style="font-size:8px;color:var(--t3);">'+(p.date||'')+'</span>'+badges+'</div><div style="font-size:11px;font-weight:700;color:var(--t1);margin-bottom:3px;">'+(p.caption||'—').slice(0,120)+'</div><div style="display:flex;gap:10px;margin-bottom:6px;"><span style="font-size:9px;color:var(--ac);">'+fmt(p.views||0)+' views</span><span style="font-size:9px;color:var(--t3);">'+fmt(p.likes||0)+' likes</span><span style="font-size:9px;color:var(--t3);">'+fmt(p.comments||0)+' coment.</span>'+(p.url?'<a href="'+p.url+'" target="_blank" style="font-size:9px;color:var(--ac);">ver</a>':'')+'</div><div style="font-size:9px;color:var(--t2);font-style:italic;margin-bottom:5px;">'+(a.resumo||'')+'</div><div style="display:grid;grid-template-columns:repeat(3,1fr);gap:5px;">'+cols+'</div>'+causa+'</div></div>';
+  }).join('');
+}
+
+// ═══ INIT COM DATAS ═══
 setAC(PLATS.instagram.color);
-init();
+init().then(()=>{
+  const t=new Date(),t30=new Date();t30.setDate(t.getDate()-30);
+  const f=d=>d.toISOString().slice(0,10);
+  const de=qs('date-end'),ds=qs('date-start');
+  if(de)de.value=f(t);if(ds)ds.value=f(t30);
+  rankBy='date';
+  document.querySelectorAll('.sort-btn').forEach(b=>{b.classList.remove('ac');b.style.cssText='';});
+  const el=qs('srt-date');
+  if(el){el.classList.add('ac');el.style.background='var(--ac)';el.style.color='#000';el.style.borderColor='var(--ac)';}
+  renderRankings();
+}).catch(()=>{});
 </script>
 
 <script>
@@ -1080,22 +1149,7 @@ init();
     }catch(e){}
   };
 
-  // Patch: sobrescreve setores para logar automaticamente
-  const origSetPlatform = window.setPlatform;
-  window.setPlatform = function(p){
-    srLog('view','plataforma: '+p);
-    return origSetPlatform(p);
-  };
-  const origHandleImport = window.handleImport;
-  window.handleImport = function(){
-    srLog('import','importação manual via painel');
-    return origHandleImport();
-  };
-  const origExportData = window.exportData;
-  window.exportData = function(){
-    srLog('export','exportou metrics.json');
-    return origExportData();
-  };
+  // log de ações
 
   srLog('view','dashboard carregado · ' + new Date().toLocaleString('pt-BR'));
 })();
