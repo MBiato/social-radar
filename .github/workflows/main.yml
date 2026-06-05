@@ -2,8 +2,8 @@ name: Social Radar Collector
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # Todo dia às 7h horário de Brasília (UTC-3)
-  workflow_dispatch:        # Permite rodar manualmente
+    - cron: '0 10 * * *'
+  workflow_dispatch:
 
 jobs:
   collect:
@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -31,10 +29,17 @@ jobs:
           TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
         run: python3 collector/collector.py
 
+      - name: Run Charles Insights
+        env:
+          ANTHROPIC_API_KEY_CHARLES_INSIGHTS: ${{ secrets.ANTHROPIC_API_KEY_CHARLES_INSIGHTS }}
+        run: python3 insights.py
+
       - name: Commit and push
         run: |
-          git config user.name "Social Radar Bot"
-          git config user.email "bot@charlapodcast.com"
-          git add data/metrics.json
+          git config user.name "Charles Bot"
+          git config user.email "charles@charlapodcast.com"
+          git add data/metrics.json data/insights.json
           git diff --staged --quiet || git commit -m "data: update $(date +'%Y-%m-%d')"
           git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
