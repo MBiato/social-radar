@@ -105,6 +105,17 @@ tr:hover td{background:#1a1a1a;}
 /* HEATMAP */
 .hm-container{overflow-x:auto;padding-bottom:4px;}
 
+/* RANKING COM THUMB */
+.rank-row{display:grid;grid-template-columns:28px 68px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:9px 10px;border-bottom:1px solid var(--b1);}
+.rank-row:last-child{border-bottom:none;}
+.rank-row:hover{background:#1a1a1a;}
+.rank-thumb{width:68px;height:38px;object-fit:cover;border-radius:2px;display:block;background:var(--b2);}
+.rank-thumb-ph{width:68px;height:38px;border-radius:2px;background:var(--b2);display:flex;align-items:center;justify-content:center;}
+.rank-caption{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.rank-meta{font-family:'Barlow',sans-serif;font-size:11px;color:var(--t3);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.rank-val{font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;color:var(--t1);text-align:right;}
+.rank-val.ac{color:var(--ac);}
+
 /* INSIGHTS */
 .ins-post{border-left:3px solid;background:var(--b1);margin-bottom:10px;padding:14px 16px;display:flex;gap:14px;}
 .ins-score-n{font-family:'Barlow Condensed',sans-serif;font-size:26px;font-weight:900;line-height:1;}
@@ -456,14 +467,27 @@ function renderPlatCards() {
     const snaps = metrics[key]?.snapshots || [];
     const last = snaps[snaps.length-1];
     const w = new Date(); w.setDate(w.getDate()-7);
-    const week = snaps.filter(s => new Date(s.date) >= w);
+    const week = snaps.filter(s => new Date(s.date) >= w).slice(-7);
     const delta = week.length >= 2 ? week[week.length-1].followers - week[0].followers : 0;
     const on = platform === key;
+    let spark = '';
+    if(week.length >= 2) {
+      const vals = week.map(s => s.followers);
+      const mn = Math.min(...vals), mx = Math.max(...vals), range = mx - mn || 1;
+      const SW = 72, SH = 24;
+      const pts = vals.map((v,i) => `${((i/(vals.length-1))*SW).toFixed(1)},${(SH-((v-mn)/range)*SH).toFixed(1)}`).join(' ');
+      const col = on ? '#FF5A1F' : delta >= 0 ? '#22c55e' : '#ef4444';
+      const lastY = (SH-((vals[vals.length-1]-mn)/range)*SH).toFixed(1);
+      spark = `<svg width="${SW}" height="${SH}" viewBox="0 0 ${SW} ${SH}" style="display:block;flex-shrink:0;"><polyline points="${pts}" fill="none" stroke="${col}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/><circle cx="${SW}" cy="${lastY}" r="3" fill="${col}"/></svg>`;
+    }
     return `<div class="plat-tile${on?' on':''}" onclick="setPlatform('${key}')">
       <div class="plat-lbl">${labels[key]}</div>
       <div class="plat-val">${fmt(last?.followers)}</div>
       <div class="plat-sub">seguidores</div>
-      <div class="plat-delta" style="color:${delta>=0?'var(--green)':'var(--red)'};">${delta>=0?'+':''}${fmt(delta)} (7d)</div>
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-top:5px;">
+        <div class="plat-delta" style="color:${delta>=0?'var(--green)':'var(--red)'};">${delta>=0?'+':''}${fmt(delta)} (7d)</div>
+        ${spark}
+      </div>
     </div>`;
   }).join('');
 }
@@ -480,15 +504,20 @@ function renderKPIs() {
   const totalEng = posts.reduce((a,p)=>a+(p.likes||0)+(p.comments||0),0);
   const avgViews = snaps.length ? Math.round(totalViews/snaps.length) : 0;
   const avgEng   = snaps.length ? Math.round(totalEng/snaps.length) : 0;
+  const fDelta = (a,b) => { const d=a-b; return (d>=0?'+':'')+fmt(Math.abs(d))+' vs ant.'; };
   const kpis = [
-    { label:'Seguidores',  val:fmt(last?.followers??0),  cmp:pctChg(last?.followers??0,plast?.followers??0), sub:`+${fmt((last?.followers??0)-(first?.followers??0))} no período` },
-    { label:'Views Totais',val:fmt(totalViews),  cmp:pctChg(totalViews,prevViews),   sub:`${fmt(avgViews)}/dia em média` },
-    { label:'Reach Total', val:fmt(totalReach),  cmp:pctChg(totalReach,prevReach),   sub:'alcance orgânico' },
-    { label:'Engajamento', val:fmt(totalEng),    cmp:null,                            sub:`${fmt(avgEng)}/dia em média` },
+    { label:'Seguidores',  val:fmt(last?.followers??0),  cmp:pctChg(last?.followers??0,plast?.followers??0), abs:fDelta(last?.followers??0,plast?.followers??0), sub:`+${fmt((last?.followers??0)-(first?.followers??0))} no período` },
+    { label:'Views Totais',val:fmt(totalViews),  cmp:pctChg(totalViews,prevViews),   abs:fDelta(totalViews,prevViews),  sub:`${fmt(avgViews)}/dia em média` },
+    { label:'Reach Total', val:fmt(totalReach),  cmp:pctChg(totalReach,prevReach),   abs:fDelta(totalReach,prevReach),  sub:'alcance orgânico' },
+    { label:'Engajamento', val:fmt(totalEng),    cmp:null, abs:null,                 sub:`${fmt(avgEng)}/dia em média` },
   ];
   qs('kpi-row').innerHTML = kpis.map(k => {
-    const chg = k.cmp != null ? `<div class="kpi-cmp" style="color:${k.cmp>=0?'var(--green)':'var(--red)'};">${k.cmp>=0?'▲':'▼'} ${Math.abs(k.cmp).toFixed(1)}%</div>` : '';
-    return `<div class="kpi-card"><div class="kpi-lbl">${k.label}</div><div class="kpi-val">${k.val}</div>${chg}<div class="kpi-sub">${k.sub}</div></div>`;
+    let chgHtml = '';
+    if(k.cmp != null) {
+      const absSpan = k.abs ? `<span style="font-size:12px;color:var(--t3);margin-left:5px;">${k.abs}</span>` : '';
+      chgHtml = `<div class="kpi-cmp" style="color:${k.cmp>=0?'var(--green)':'var(--red)'};">${k.cmp>=0?'▲':'▼'} ${Math.abs(k.cmp).toFixed(1)}%${absSpan}</div>`;
+    }
+    return `<div class="kpi-card"><div class="kpi-lbl">${k.label}</div><div class="kpi-val">${k.val}</div>${chgHtml}<div class="kpi-sub">${k.sub}</div></div>`;
   }).join('');
 }
 
@@ -528,54 +557,48 @@ function renderVelocity() {
 // ═══ HEATMAP ═════════════════════════════════════════════
 function renderHeatmap() {
   const posts = metrics[platform]?.posts || [];
-  const postsByDay = {};
-  posts.forEach(p => { postsByDay[p.date] = (postsByDay[p.date]||0)+1; });
-  const { s, e } = getRange();
-  const days = [];
-  const cur = new Date(s);
-  while(cur.getDay() !== 0) cur.setDate(cur.getDate()-1);
-  const endCal = new Date(e);
-  while(endCal.getDay() !== 6) endCal.setDate(endCal.getDate()+1);
-  const tmp = new Date(cur);
-  while(tmp <= endCal) { days.push(ds(tmp)); tmp.setDate(tmp.getDate()+1); }
-  const maxPosts = Math.max(1, ...Object.values(postsByDay));
-  const numWeeks = Math.ceil(days.length/7);
-  const WEEK_DAYS = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
-  const months = [];
-  let lastMonth = -1;
-  for(let w=0;w<numWeeks;w++) {
-    const dt = new Date(days[w*7]);
-    if(dt.getMonth()!==lastMonth) { months.push({col:w,label:dt.toLocaleDateString('pt-BR',{month:'short'}).toUpperCase()}); lastMonth=dt.getMonth(); }
+  const mat = Array.from({length:7}, () => Array.from({length:24}, () => ({n:0, total:0})));
+  posts.forEach(p => {
+    let dt;
+    if(p.published_at) dt = new Date(p.published_at);
+    else if(p.date) dt = new Date(p.date+'T18:00:00');
+    else return;
+    const day = dt.getDay(), hr = dt.getHours();
+    mat[day][hr].n++;
+    mat[day][hr].total += (p.views || 0);
+  });
+  const cells = mat.map(row => row.map(cell => ({n:cell.n, avg: cell.n ? Math.round(cell.total/cell.n) : 0})));
+  const maxAvg = Math.max(1, ...cells.flat().map(cell => cell.avg));
+  const DAYS_PT = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+  const CW = 22, CH = 24;
+  let peakDay=0, peakHr=0, peakVal=0;
+  cells.forEach((row,d) => row.forEach((cell,h) => { if(cell.avg > peakVal){peakVal=cell.avg;peakDay=d;peakHr=h;} }));
+  let html = '<div style="overflow-x:auto;"><div style="display:inline-block;min-width:600px;">';
+  html += '<div style="display:flex;margin-left:38px;margin-bottom:4px;">';
+  for(let h=0;h<24;h++) {
+    if(h%3===0) html += `<div style="width:${CW*3}px;font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);">${h}h</div>`;
   }
-  const monthRow = `<div style="display:grid;grid-template-columns:30px repeat(${numWeeks},16px);gap:2px;margin-bottom:4px;">
-    <div></div>
-    ${Array.from({length:numWeeks},(_,w)=>{const m=months.find(x=>x.col===w);return `<div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);">${m?m.label:''}</div>`;}).join('')}
-  </div>`;
-  const rows = WEEK_DAYS.map((day,di) => {
-    const cells = Array.from({length:numWeeks},(_,w) => {
-      const idx = w*7+di;
-      const d = days[idx];
-      if(!d) return `<div style="width:16px;height:16px;"></div>`;
-      const n = postsByDay[d]||0;
-      const inRange = d >= ds(s) && d <= ds(e);
-      const opacity = !inRange ? 0 : n===0 ? 0.05 : 0.2+(n/maxPosts)*0.8;
-      const bg = n>0&&inRange ? `rgba(255,90,31,${opacity})` : inRange ? 'var(--b1)' : 'transparent';
-      return `<div style="width:16px;height:16px;border-radius:3px;background:${bg};" title="${d}: ${n} post(s)"></div>`;
-    }).join('');
-    return `<div style="display:flex;align-items:center;gap:2px;">
-      <div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);width:28px;flex-shrink:0;">${di===1||di===3||di===5?day:''}</div>
-      ${cells}
-    </div>`;
-  }).join('');
-  qs('hm-container').innerHTML = `<div style="overflow-x:auto;">
-    ${monthRow}
-    <div style="display:flex;flex-direction:column;gap:2px;">${rows}</div>
-    <div style="display:flex;align-items:center;gap:6px;margin-top:8px;">
-      <span style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">Menos</span>
-      ${[0.05,0.3,0.55,0.8,1].map(o=>`<div style="width:12px;height:12px;border-radius:2px;background:rgba(255,90,31,${o});"></div>`).join('')}
-      <span style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">Mais</span>
-    </div>
-  </div>`;
+  html += '</div>';
+  cells.forEach((row,d) => {
+    html += '<div style="display:flex;align-items:center;margin-bottom:2px;">';
+    html += `<div style="width:34px;font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);flex-shrink:0;">${DAYS_PT[d]}</div>`;
+    row.forEach((cell,h) => {
+      const t = cell.avg / maxAvg;
+      const op = cell.avg === 0 ? 0 : Math.max(0.08, 0.15 + t * 0.85);
+      const bg = cell.avg > 0 ? `rgba(255,90,31,${op.toFixed(2)})` : 'var(--b1)';
+      const border = (d===peakDay && h===peakHr) ? 'border:1px solid var(--ac);' : '';
+      const tip = cell.n > 0 ? `${DAYS_PT[d]} ${h}h · ${fmt(cell.avg)} views médias · ${cell.n} post${cell.n>1?'s':''}` : `${DAYS_PT[d]} ${h}h · sem posts`;
+      html += `<div title="${tip}" style="width:${CW}px;height:${CH}px;border-radius:3px;background:${bg};margin:1px;cursor:${cell.n>0?'pointer':'default'};${border}flex-shrink:0;"></div>`;
+    });
+    html += '</div>';
+  });
+  html += '<div style="display:flex;align-items:center;justify-content:space-between;margin-top:10px;flex-wrap:wrap;gap:8px;">';
+  html += '<div style="display:flex;align-items:center;gap:6px;"><span style="font-family:\'Barlow Condensed\',sans-serif;font-size:11px;color:var(--t3);">Menos</span>';
+  [0.08,0.3,0.52,0.74,1].forEach(o => { html += `<div style="width:12px;height:12px;border-radius:2px;background:rgba(255,90,31,${o});"></div>`; });
+  html += '<span style="font-family:\'Barlow Condensed\',sans-serif;font-size:11px;color:var(--t3);">Mais</span></div>';
+  if(peakVal > 0) html += `<span style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">Pico: ${DAYS_PT[peakDay]} ${peakHr}h · ${fmt(peakVal)} views médias</span>`;
+  html += '</div></div></div>';
+  qs('hm-container').innerHTML = html;
 }
 
 // ═══ RANKINGS ════════════════════════════════════════════
@@ -614,33 +637,56 @@ function renderRankings() {
   const tot = Math.ceil(all.length/PAGE_SIZE);
   if(curPage >= tot) curPage = 0;
   const posts = all.slice(curPage*PAGE_SIZE,(curPage+1)*PAGE_SIZE);
+
+  const hdr = `<div style="display:grid;grid-template-columns:28px 68px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:7px 10px;border-bottom:1px solid var(--b1);">
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">#</div>
+    <div></div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;">Post</div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Views</div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Likes</div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Coment.</div>
+  </div>`;
+
   const rows = posts.map((p,i) => {
     const gi = curPage*PAGE_SIZE+i+1;
     const isReel = p.type==='REELS'||p.type==='VIDEO';
-    const typeBadge = `<span style="background:${isReel?'#FF5A1F22':'#22222255'};color:${isReel?'#FF8C5A':'#666'};font-family:'Barlow Condensed',sans-serif;font-size:11px;padding:2px 7px;">${p.type||'—'}</span>`;
-    const tags = (p.tags||[]).slice(0,2).map(t=>`<span class="tag-pill">${t}</span>`).join('') + ((p.tags?.length>2)?`<span class="tag-pill">+${p.tags.length-2}</span>`:'');
-    const link = p.url ? `<a href="${p.url}" target="_blank" style="color:var(--ac);font-family:'Barlow Condensed',sans-serif;font-size:11px;margin-left:6px;">↗</a>` : '';
-    return `<tr>
-      <td class="${gi===1?'td-r1':'td-rn'}">${gi}</td>
-      <td style="font-family:'Barlow Condensed',sans-serif;font-size:13px;color:var(--t3);">${(p.date||'').slice(5)}</td>
-      <td>${typeBadge}</td>
-      <td class="td-cap">${p.caption||'—'}${link}</td>
-      <td>${tags}</td>
-      <td class="${rankBy==='views'?'td-num':''}" style="font-family:'Barlow Condensed',sans-serif;font-size:${rankBy==='views'?'15':'13'}px;color:${rankBy==='views'?'var(--t1)':'var(--t3)'};">${fmt(p.views)}</td>
-      <td class="${rankBy==='likes'?'td-num':''}" style="font-family:'Barlow Condensed',sans-serif;font-size:${rankBy==='likes'?'15':'13'}px;">${fmt(p.likes)}</td>
-      <td class="${rankBy==='comments'?'td-num':''}" style="font-family:'Barlow Condensed',sans-serif;font-size:${rankBy==='comments'?'15':'13'}px;">${fmt(p.comments)}</td>
-    </tr>`;
+    const isYT = !!(p.id?.startsWith('yt_'));
+    const hiV = rankBy==='views', hiL = rankBy==='likes', hiC = rankBy==='comments';
+
+    let thumbHtml;
+    if(isYT) {
+      const vid = (p.id||'').replace('yt_','');
+      thumbHtml = `<img class="rank-thumb" src="https://img.youtube.com/vi/${vid}/mqdefault.jpg" alt="" onerror="this.style.display='none'">`;
+    } else {
+      const col = isReel ? '#FF5A1F' : '#666';
+      const lbl = p.type ? p.type.slice(0,4) : 'IG';
+      thumbHtml = `<div class="rank-thumb-ph"><span style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:${col};">${lbl}</span></div>`;
+    }
+
+    const tag = (p.tags||[]).slice(0,1).map(t=>`<span class="tag-pill">${t}</span>`).join('');
+    const typePill = `<span style="background:${isReel?'#FF5A1F22':'#22222255'};color:${isReel?'#FF8C5A':'#666'};font-family:'Barlow Condensed',sans-serif;font-size:10px;padding:1px 5px;border-radius:2px;">${p.type||'—'}</span>`;
+    const link = p.url ? `<a href="${p.url}" target="_blank" style="color:var(--ac);font-family:'Barlow Condensed',sans-serif;font-size:11px;margin-left:4px;">↗</a>` : '';
+
+    return `<div class="rank-row">
+      <div class="${gi===1?'td-r1':'td-rn'}">${gi}</div>
+      <div>${thumbHtml}</div>
+      <div style="min-width:0;">
+        <div class="rank-caption">${p.caption||'—'}${link}</div>
+        <div class="rank-meta">${(p.date||'').slice(5)} · ${typePill} ${tag}</div>
+      </div>
+      <div class="rank-val${hiV?' ac':''}">${fmt(p.views)}</div>
+      <div class="rank-val${hiL?' ac':''}">${fmt(p.likes)}</div>
+      <div class="rank-val${hiC?' ac':''}">${fmt(p.comments)}</div>
+    </div>`;
   }).join('');
+
   const pag = tot>1 ? `<div class="pag">
     <button onclick="changePage(-1)" class="btn btn-sm"${curPage===0?' disabled style="opacity:.3;pointer-events:none;"':''}>← Anterior</button>
     <span class="pag-info">Página ${curPage+1} de ${tot} · ${all.length} posts</span>
     <button onclick="changePage(1)" class="btn btn-sm"${curPage>=tot-1?' disabled style="opacity:.3;pointer-events:none;"':''}>Próxima →</button>
   </div>` : '';
-  qs('rankings-tbl').innerHTML = `<table>
-    <colgroup><col style="width:32px"><col style="width:62px"><col style="width:65px"><col><col style="width:150px"><col style="width:80px"><col style="width:74px"><col style="width:88px"></colgroup>
-    <thead><tr><th>#</th><th>Data</th><th>Tipo</th><th>Post</th><th>Hashtags</th><th>Views</th><th>Likes</th><th>Coment.</th></tr></thead>
-    <tbody>${rows}</tbody>
-  </table>${pag}`;
+
+  qs('rankings-tbl').innerHTML = hdr + `<div>${rows}</div>` + pag;
 }
 function changePage(d) {
   const tot = Math.ceil(getFilteredPosts().length/PAGE_SIZE);
