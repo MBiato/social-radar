@@ -105,12 +105,10 @@ tr:hover td{background:#1a1a1a;}
 /* HEATMAP */
 .hm-container{overflow-x:auto;padding-bottom:4px;}
 
-/* RANKING COM THUMB */
-.rank-row{display:grid;grid-template-columns:28px 68px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:9px 10px;border-bottom:1px solid var(--b1);}
+/* RANKING */
+.rank-row{display:grid;grid-template-columns:28px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:9px 10px;border-bottom:1px solid var(--b1);}
 .rank-row:last-child{border-bottom:none;}
 .rank-row:hover{background:#1a1a1a;}
-.rank-thumb{width:68px;height:38px;object-fit:cover;border-radius:2px;display:block;background:var(--b2);}
-.rank-thumb-ph{width:68px;height:38px;border-radius:2px;background:var(--b2);display:flex;align-items:center;justify-content:center;}
 .rank-caption{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .rank-meta{font-family:'Barlow',sans-serif;font-size:11px;color:var(--t3);margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
 .rank-val{font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;color:var(--t1);text-align:right;}
@@ -638,9 +636,8 @@ function renderRankings() {
   if(curPage >= tot) curPage = 0;
   const posts = all.slice(curPage*PAGE_SIZE,(curPage+1)*PAGE_SIZE);
 
-  const hdr = `<div style="display:grid;grid-template-columns:28px 68px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:7px 10px;border-bottom:1px solid var(--b1);">
+  const hdr = `<div style="display:grid;grid-template-columns:28px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:7px 10px;border-bottom:1px solid var(--b1);">
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">#</div>
-    <div></div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;">Post</div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Views</div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Likes</div>
@@ -650,26 +647,12 @@ function renderRankings() {
   const rows = posts.map((p,i) => {
     const gi = curPage*PAGE_SIZE+i+1;
     const isReel = p.type==='REELS'||p.type==='VIDEO';
-    const isYT = !!(p.id?.startsWith('yt_'));
     const hiV = rankBy==='views', hiL = rankBy==='likes', hiC = rankBy==='comments';
-
-    let thumbHtml;
-    if(isYT) {
-      const vid = (p.id||'').replace('yt_','');
-      thumbHtml = `<img class="rank-thumb" src="https://img.youtube.com/vi/${vid}/mqdefault.jpg" alt="" onerror="this.style.display='none'">`;
-    } else {
-      const col = isReel ? '#FF5A1F' : '#666';
-      const lbl = p.type ? p.type.slice(0,4) : 'IG';
-      thumbHtml = `<div class="rank-thumb-ph"><span style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:${col};">${lbl}</span></div>`;
-    }
-
     const tag = (p.tags||[]).slice(0,1).map(t=>`<span class="tag-pill">${t}</span>`).join('');
     const typePill = `<span style="background:${isReel?'#FF5A1F22':'#22222255'};color:${isReel?'#FF8C5A':'#666'};font-family:'Barlow Condensed',sans-serif;font-size:10px;padding:1px 5px;border-radius:2px;">${p.type||'—'}</span>`;
     const link = p.url ? `<a href="${p.url}" target="_blank" style="color:var(--ac);font-family:'Barlow Condensed',sans-serif;font-size:11px;margin-left:4px;">↗</a>` : '';
-
     return `<div class="rank-row">
       <div class="${gi===1?'td-r1':'td-rn'}">${gi}</div>
-      <div>${thumbHtml}</div>
       <div style="min-width:0;">
         <div class="rank-caption">${p.caption||'—'}${link}</div>
         <div class="rank-meta">${(p.date||'').slice(5)} · ${typePill} ${tag}</div>
@@ -1020,25 +1003,22 @@ function gerarRelatorio() {
       if(i%2===0){doc.setFillColor('#1a1a1a');doc.rect(MAR,y,CW,rh,'F');}
       const isReel=p.type==='REELS'||p.type==='VIDEO';
       x=MAR+2;
-      // #
       doc.setFont('helvetica','bold'); doc.setFontSize(8);
       doc.setTextColor(i===0?'#FF5A1F':'#666666');
       doc.text(String(i+1),x,y+6.5); x+=igCols[0];
-      // Data
       doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#888888');
       doc.text((p.date||'').slice(5),x,y+6.5); x+=igCols[1];
-      // Tipo
       doc.setFontSize(6); doc.setTextColor(isReel?'#FF8C5A':'#888888');
       doc.text(isReel?'REEL':'IMAGEM',x,y+6.5); x+=igCols[2];
-      // Caption
       doc.setFontSize(7); doc.setTextColor('#cccccc');
       const cap=doc.splitTextToSize((p.caption||'—').slice(0,80),igCols[3]-3)[0];
       doc.text(cap,x,y+6.5); x+=igCols[3];
-      // Link
-      doc.setFontSize(7); doc.setTextColor('#FF5A1F');
-      if(p.url) doc.text('↗ link',x,y+6.5); else doc.setTextColor('#444444'),doc.text('—',x,y+6.5);
+      if(p.url){
+        doc.setFontSize(7); doc.setTextColor('#FF5A1F');
+        doc.text('ver post',x,y+6.5);
+        doc.link(x,y+1,igCols[4]-2,7,{url:p.url});
+      } else { doc.setTextColor('#444444'); doc.text('—',x,y+6.5); }
       x+=igCols[4];
-      // Métricas
       doc.setFont('helvetica','bold'); doc.setFontSize(8); doc.setTextColor('#ffffff');
       doc.text(fmt(p.views||0),x,y+6.5); x+=igCols[5];
       doc.text(fmt(p.likes||0),x,y+6.5); x+=igCols[6];
@@ -1087,29 +1067,29 @@ function gerarRelatorio() {
       const rh=10;
       if(i%2===0){doc.setFillColor('#1a1a1a');doc.rect(MAR,y,CW,rh,'F');}
       x=MAR+2;
-      // #
       doc.setFont('helvetica','bold'); doc.setFontSize(8);
       doc.setTextColor(i===0?'#FF5A1F':'#666666');
       doc.text(String(i+1),x,y+6.5); x+=ytCols[0];
-      // Data
       doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#888888');
       doc.text((p.date||'').slice(5),x,y+6.5); x+=ytCols[1];
-      // Título + link
       doc.setFontSize(7); doc.setTextColor('#cccccc');
-      const title=doc.splitTextToSize((p.caption||'—').slice(0,80),ytCols[2]-3)[0];
+      const title=doc.splitTextToSize((p.caption||'—').slice(0,70),ytCols[2]-3)[0];
       doc.text(title,x,y+5);
-      if(p.url){doc.setTextColor('#FF5A1F');doc.setFontSize(6);doc.text('↗ ver vídeo',x,y+9);}
+      if(p.url){
+        doc.setTextColor('#FF5A1F'); doc.setFontSize(6);
+        doc.text('ver vídeo',x,y+9);
+        doc.link(x,y+1,ytCols[2]-3,8,{url:p.url});
+      }
       x+=ytCols[2];
-      // Impressões, Views, Watch Time, Unique Viewers — sem OAuth mostram —
       doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#444444');
-      doc.text('—',x,y+6.5); x+=ytCols[3]; // Impressões
+      doc.text('—',x,y+6.5); x+=ytCols[3];
       doc.setFont('helvetica','bold'); doc.setTextColor('#ffffff');
-      doc.text(fmt(p.views||0),x,y+6.5); x+=ytCols[4]; // Views
+      doc.text(fmt(p.views||0),x,y+6.5); x+=ytCols[4];
       doc.setFont('helvetica','normal'); doc.setTextColor('#444444');
-      doc.text('—',x,y+6.5); x+=ytCols[5]; // Watch Time
-      doc.text('—',x,y+6.5); x+=ytCols[6]; // Unique Viewers
+      doc.text('—',x,y+6.5); x+=ytCols[5];
+      doc.text('—',x,y+6.5); x+=ytCols[6];
       doc.setFont('helvetica','bold'); doc.setTextColor('#FF5A1F');
-      doc.text(fmt((p.likes||0)+(p.comments||0)),x,y+6.5); // Interações
+      doc.text(fmt((p.likes||0)+(p.comments||0)),x,y+6.5);
       y+=rh;
     });
 
