@@ -2,7 +2,7 @@ name: Social Radar Collector
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 10 * * *'      # Todo dia às 7h BRT (10h UTC)
   workflow_dispatch:
 
 jobs:
@@ -25,10 +25,9 @@ jobs:
       - name: Run collector
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
-          TIKTOK_ACCESS_TOKEN: ${{ secrets.TIKTOK_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID:      ${{ secrets.INSTAGRAM_USER_ID }}
+          YOUTUBE_API_KEY:        ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID:     ${{ secrets.YOUTUBE_CHANNEL_ID }}
         run: python3 collector/collector.py
 
       - name: Run Charles Insights
@@ -36,10 +35,23 @@ jobs:
           ANTHROPIC_API_KEY_CHARLES_INSIGHTS: ${{ secrets.ANTHROPIC_API_KEY_CHARLES_INSIGHTS }}
         run: python3 insights.py
 
+      - name: Run Weekly Report (only on Mondays)
+        if: github.event_name == 'schedule' && startsWith(github.event.schedule, '0 10') && format('{0}', github.event.repository.updated_at) != '' || github.event_name == 'workflow_dispatch'
+        env:
+          ANTHROPIC_API_KEY_CHARLES_INSIGHTS: ${{ secrets.ANTHROPIC_API_KEY_CHARLES_INSIGHTS }}
+        run: |
+          DAY=$(date +%u)
+          if [ "$DAY" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Gerando relatório semanal..."
+            python3 weekly_report.py
+          else
+            echo "Não é segunda-feira, pulando relatório semanal."
+          fi
+
       - name: Commit and push
         run: |
           git config user.name "Charles Bot"
           git config user.email "charles@charlapodcast.com"
-          git add data/metrics.json data/insights.json
+          git add data/
           git diff --staged --quiet || git commit -m "data: update $(date +'%Y-%m-%d')"
           git push
