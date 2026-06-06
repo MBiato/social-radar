@@ -247,11 +247,7 @@ tr:hover td{background:#1a1a1a;}
         <div style="font-family:'Barlow Condensed',sans-serif;font-size:22px;font-weight:900;" id="ins-date-title">Carregando...</div>
       </div>
       <div style="margin-left:auto;display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
-        <div style="position:relative;">
-          <button onclick="toggleHistorico()" class="btn btn-sm" id="hist-btn">📅 Histórico</button>
-          <div id="hist-menu" style="display:none;position:absolute;top:calc(100% + 4px);right:0;background:#111;border:1px solid var(--b2);z-index:50;min-width:180px;max-height:260px;overflow-y:auto;"></div>
-        </div>
-        <button onclick="baixarRelatorioSemanal()" class="btn-primary btn-sm">↓ Relatório Semanal PDF</button>
+
         <button class="sort-btn on" id="ins-all" onclick="filtrarIns('all')">Todos</button>
         <button class="sort-btn" id="ins-instagram" onclick="filtrarIns('instagram')">Instagram</button>
         <button class="sort-btn" id="ins-youtube" onclick="filtrarIns('youtube')">YouTube</button>
