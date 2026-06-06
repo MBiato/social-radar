@@ -825,15 +825,17 @@ function pdfSecTitle(doc,text,y,badge) {
   }
   return y+6;
 }
-function pdfKpis(doc,kpis,y) {
+function pdfKpis(doc,kpis,y,valSize) {
   const w=CW/kpis.length;
+  valSize=valSize||13;
   kpis.forEach((k,i)=>{
     const x=MAR+i*w;
     doc.setFillColor('#1e1e1e'); doc.roundedRect(x,y,w-2,16,1,1,'F');
-    doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#666666');
-    doc.text(k.l.toUpperCase(),x+4,y+5);
-    doc.setFont('helvetica','bold'); doc.setFontSize(13);
-    doc.setTextColor(k.o?'#FF5A1F':'#ffffff'); doc.text(k.v,x+4,y+13);
+    doc.setFont('helvetica','normal'); doc.setFontSize(6.5); doc.setTextColor('#666666');
+    const lbl=doc.getTextWidth(k.l.toUpperCase())>w-6?k.l.toUpperCase().slice(0,10)+'…':k.l.toUpperCase();
+    doc.text(lbl,x+3,y+5);
+    doc.setFont('helvetica','bold'); doc.setFontSize(valSize);
+    doc.setTextColor(k.o?'#FF5A1F':'#ffffff'); doc.text(k.v,x+3,y+13);
   });
   return y+20;
 }
@@ -901,44 +903,191 @@ function gerarRelatorio() {
   if(!activeTags.size){alert('Selecione um patrocinador antes de gerar o relatório.');return;}
   if(!window.jspdf){alert('Recarregue a página.');return;}
   const sName=[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(' + ');
+  const sTag=[...activeTags].join(' · ');
   const{s,e}=getRange();
   const fd=d=>d.toLocaleDateString('pt-BR');
-  const igP=getPostsByPlat('instagram'), ytP=getPostsByPlat('youtube');
+  const igP=getPostsByPlat('instagram');
+  const ytP=getPostsByPlat('youtube');
   const all=[...igP,...ytP,...getPostsByPlat('tiktok')];
-  if(!all.length){alert('Nenhum post encontrado.');return;}
-  const sv=p=>p.reduce((a,x)=>a+(x.views||0),0);
-  const si=p=>p.reduce((a,x)=>a+(x.likes||0)+(x.comments||0),0);
+  if(!all.length){alert('Nenhum post encontrado para este patrocinador no período selecionado.');return;}
+  const sv=arr=>arr.reduce((a,x)=>a+(x.views||0),0);
+  const sl=arr=>arr.reduce((a,x)=>a+(x.likes||0),0);
+  const sc=arr=>arr.reduce((a,x)=>a+(x.comments||0),0);
+  const si=arr=>arr.reduce((a,x)=>a+(x.likes||0)+(x.comments||0),0);
+
   const doc=getPDF();
+
+  // ── CAPA + RESUMO GERAL ──
+  pdfBg(doc);
   pdfHeader(doc,'Relatório de Patrocinador · '+sName,fd(s)+' a '+fd(e));
   let y=35;
-  y=pdfSecTitle(doc,'Resumo Geral',y);
-  y=pdfKpis(doc,[{l:'Total Posts',v:String(all.length),o:true},{l:'Instagram',v:String(igP.length)},{l:'YouTube',v:String(ytP.length)},{l:'Total Views',v:fmt(sv(all)),o:true},{l:'Engajamento',v:fmt(si(all))}],y);
-  if(igP.length){
-    y=pdfSecTitle(doc,'Métricas · Instagram',y,'instagram');
-    y=pdfKpis(doc,[{l:'Posts',v:String(igP.length),o:true},{l:'Views',v:fmt(sv(igP)),o:true},{l:'Likes',v:fmt(igP.reduce((a,p)=>a+(p.likes||0),0))},{l:'Comentários',v:fmt(igP.reduce((a,p)=>a+(p.comments||0),0))},{l:'Engajamento',v:fmt(si(igP))}],y);
-    const igSt=getSponStats(igP);
-    if(Object.keys(igSt).length){
-      y=pdfSecTitle(doc,'Exposição por Patrocinador · Instagram',y);
-      y=pdfTable(doc,['Patrocinador','Posts','Views','Likes','Coment.','Engajamento'],Object.entries(igSt).map(([n,s])=>[n,s.posts,fmt(s.views),fmt(s.likes),fmt(s.comments),fmt(s.likes+s.comments)]),y,[42,18,38,28,24,32]);
-    }
-    y=pdfSecTitle(doc,'Posts · Instagram',y);
-    y=pdfPosts(doc,igP,'instagram',y);
+
+  // Info da marca
+  doc.setFillColor('#1e1e1e'); doc.roundedRect(MAR,y,CW,22,1,1,'F');
+  doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#666666');
+  doc.text('MARCA',MAR+4,y+5); doc.text('HASHTAG',MAR+55,y+5); doc.text('PERÍODO',MAR+115,y+5); doc.text('GERADO EM',MAR+165,y+5);
+  doc.setFont('helvetica','bold'); doc.setFontSize(10); doc.setTextColor('#ffffff');
+  doc.text(sName,MAR+4,y+14);
+  doc.setFontSize(8);
+  doc.text(sTag,MAR+55,y+14);
+  doc.text(fd(s)+' a '+fd(e),MAR+115,y+14);
+  doc.text(new Date().toLocaleDateString('pt-BR'),MAR+165,y+14);
+  y+=28;
+
+  // KPIs gerais
+  doc.setFont('helvetica','bold'); doc.setFontSize(8); doc.setTextColor('#666666');
+  doc.text('RESUMO GERAL',MAR,y); y+=6;
+  y=pdfKpis(doc,[
+    {l:'Total Posts',v:String(all.length),o:true},
+    {l:'Posts Instagram',v:String(igP.length)},
+    {l:'Posts YouTube',v:String(ytP.length)},
+    {l:'Total Views',v:fmt(sv(all)),o:true},
+    {l:'Total Likes',v:fmt(sl(all))},
+    {l:'Total Comentários',v:fmt(sc(all))},
+    {l:'Engajamento Total',v:fmt(si(all)),o:true},
+  ],y,7);
+  y+=4;
+
+  // ── INSTAGRAM ──
+  if(igP.length) {
+    if(y>220){doc.addPage();pdfBg(doc);y=20;}
+    // Badge Instagram
+    doc.setFillColor('#FF5A1F22'); doc.roundedRect(MAR,y,26,7,1,1,'F');
+    doc.setFont('helvetica','bold'); doc.setFontSize(7); doc.setTextColor('#FF5A1F');
+    doc.text('INSTAGRAM',MAR+13,y+4.5,{align:'center'});
+    doc.setFont('helvetica','bold'); doc.setFontSize(9); doc.setTextColor('#ffffff');
+    doc.text('Posts do Período',MAR+30,y+4.5);
+    y+=10;
+
+    // Tabela Instagram
+    const igHeaders=['#','Data','Tipo','Post / Caption','Link','Views','Likes','Coment.','Engaj.'];
+    const igCols=[10,16,14,58,16,18,16,16,18];
+    doc.setFillColor('#252525'); doc.rect(MAR,y,CW,7,'F');
+    doc.setFont('helvetica','bold'); doc.setFontSize(6); doc.setTextColor('#666666');
+    let x=MAR+2;
+    igHeaders.forEach((h,i)=>{doc.text(h.toUpperCase(),x,y+4.5);x+=igCols[i];});
+    y+=7;
+
+    igP.forEach((p,i)=>{
+      if(y>272){doc.addPage();pdfBg(doc);y=20;}
+      const rh=10;
+      if(i%2===0){doc.setFillColor('#1a1a1a');doc.rect(MAR,y,CW,rh,'F');}
+      const isReel=p.type==='REELS'||p.type==='VIDEO';
+      x=MAR+2;
+      // #
+      doc.setFont('helvetica','bold'); doc.setFontSize(8);
+      doc.setTextColor(i===0?'#FF5A1F':'#666666');
+      doc.text(String(i+1),x,y+6.5); x+=igCols[0];
+      // Data
+      doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#888888');
+      doc.text((p.date||'').slice(5),x,y+6.5); x+=igCols[1];
+      // Tipo
+      doc.setFontSize(6); doc.setTextColor(isReel?'#FF8C5A':'#888888');
+      doc.text(isReel?'REEL':'IMAGEM',x,y+6.5); x+=igCols[2];
+      // Caption
+      doc.setFontSize(7); doc.setTextColor('#cccccc');
+      const cap=doc.splitTextToSize((p.caption||'—').slice(0,80),igCols[3]-3)[0];
+      doc.text(cap,x,y+6.5); x+=igCols[3];
+      // Link
+      doc.setFontSize(7); doc.setTextColor('#FF5A1F');
+      if(p.url) doc.text('↗ link',x,y+6.5); else doc.setTextColor('#444444'),doc.text('—',x,y+6.5);
+      x+=igCols[4];
+      // Métricas
+      doc.setFont('helvetica','bold'); doc.setFontSize(8); doc.setTextColor('#ffffff');
+      doc.text(fmt(p.views||0),x,y+6.5); x+=igCols[5];
+      doc.text(fmt(p.likes||0),x,y+6.5); x+=igCols[6];
+      doc.text(fmt(p.comments||0),x,y+6.5); x+=igCols[7];
+      doc.setTextColor('#FF5A1F');
+      doc.text(fmt((p.likes||0)+(p.comments||0)),x,y+6.5);
+      y+=rh;
+    });
+
+    // Subtotais IG
+    y+=3;
+    doc.setFillColor('#1e1e1e'); doc.rect(MAR,y,CW,7,'F');
+    doc.setFont('helvetica','bold'); doc.setFontSize(7); doc.setTextColor('#FF5A1F');
+    doc.text('TOTAL INSTAGRAM',MAR+2,y+4.5);
+    doc.setTextColor('#ffffff');
+    doc.text(fmt(sv(igP)),MAR+120,y+4.5);
+    doc.text(fmt(sl(igP)),MAR+138,y+4.5);
+    doc.text(fmt(sc(igP)),MAR+154,y+4.5);
+    doc.setTextColor('#FF5A1F');
+    doc.text(fmt(si(igP)),MAR+170,y+4.5);
+    y+=12;
   }
-  if(ytP.length){
-    if(y>230){doc.addPage();pdfBg(doc);y=20;}
-    y=pdfSecTitle(doc,'Métricas · YouTube',y,'youtube');
-    y=pdfKpis(doc,[{l:'Vídeos',v:String(ytP.length),o:true},{l:'Views',v:fmt(sv(ytP)),o:true},{l:'Likes',v:fmt(ytP.reduce((a,p)=>a+(p.likes||0),0))},{l:'Comentários',v:fmt(ytP.reduce((a,p)=>a+(p.comments||0),0))},{l:'Engajamento',v:fmt(si(ytP))}],y);
-    const ytSt=getSponStats(ytP);
-    if(Object.keys(ytSt).length){
-      y=pdfSecTitle(doc,'Exposição por Patrocinador · YouTube',y);
-      y=pdfTable(doc,['Patrocinador','Vídeos','Views','Likes','Coment.','Engajamento'],Object.entries(ytSt).map(([n,s])=>[n,s.posts,fmt(s.views),fmt(s.likes),fmt(s.comments),fmt(s.likes+s.comments)]),y,[42,18,38,28,24,32]);
-    }
-    y=pdfSecTitle(doc,'Vídeos · YouTube',y);
-    y=pdfPosts(doc,ytP,'youtube',y);
+
+  // ── YOUTUBE ──
+  if(ytP.length) {
+    if(y>220){doc.addPage();pdfBg(doc);y=20;}
+    // Badge YouTube
+    doc.setFillColor('#ef444422'); doc.roundedRect(MAR,y,26,7,1,1,'F');
+    doc.setFont('helvetica','bold'); doc.setFontSize(7); doc.setTextColor('#ef4444');
+    doc.text('YOUTUBE',MAR+13,y+4.5,{align:'center'});
+    doc.setFont('helvetica','bold'); doc.setFontSize(9); doc.setTextColor('#ffffff');
+    doc.text('Vídeos do Período',MAR+30,y+4.5);
+    y+=10;
+
+    // Tabela YouTube
+    const ytHeaders=['#','Data','Título / Link','Impressões','Views','Watch Time','Unique Viewers','Interações'];
+    const ytCols=[10,16,58,20,18,22,24,14];
+    doc.setFillColor('#252525'); doc.rect(MAR,y,CW,7,'F');
+    doc.setFont('helvetica','bold'); doc.setFontSize(6); doc.setTextColor('#666666');
+    x=MAR+2;
+    ytHeaders.forEach((h,i)=>{doc.text(h.toUpperCase(),x,y+4.5);x+=ytCols[i];});
+    y+=7;
+
+    ytP.forEach((p,i)=>{
+      if(y>272){doc.addPage();pdfBg(doc);y=20;}
+      const rh=10;
+      if(i%2===0){doc.setFillColor('#1a1a1a');doc.rect(MAR,y,CW,rh,'F');}
+      x=MAR+2;
+      // #
+      doc.setFont('helvetica','bold'); doc.setFontSize(8);
+      doc.setTextColor(i===0?'#FF5A1F':'#666666');
+      doc.text(String(i+1),x,y+6.5); x+=ytCols[0];
+      // Data
+      doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#888888');
+      doc.text((p.date||'').slice(5),x,y+6.5); x+=ytCols[1];
+      // Título + link
+      doc.setFontSize(7); doc.setTextColor('#cccccc');
+      const title=doc.splitTextToSize((p.caption||'—').slice(0,80),ytCols[2]-3)[0];
+      doc.text(title,x,y+5);
+      if(p.url){doc.setTextColor('#FF5A1F');doc.setFontSize(6);doc.text('↗ ver vídeo',x,y+9);}
+      x+=ytCols[2];
+      // Impressões, Views, Watch Time, Unique Viewers — sem OAuth mostram —
+      doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#444444');
+      doc.text('—',x,y+6.5); x+=ytCols[3]; // Impressões
+      doc.setFont('helvetica','bold'); doc.setTextColor('#ffffff');
+      doc.text(fmt(p.views||0),x,y+6.5); x+=ytCols[4]; // Views
+      doc.setFont('helvetica','normal'); doc.setTextColor('#444444');
+      doc.text('—',x,y+6.5); x+=ytCols[5]; // Watch Time
+      doc.text('—',x,y+6.5); x+=ytCols[6]; // Unique Viewers
+      doc.setFont('helvetica','bold'); doc.setTextColor('#FF5A1F');
+      doc.text(fmt((p.likes||0)+(p.comments||0)),x,y+6.5); // Interações
+      y+=rh;
+    });
+
+    // Nota OAuth
+    y+=3;
+    doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#444444');
+    doc.text('* Impressões, Watch Time e Unique Viewers disponíveis após integração YouTube Analytics.',MAR,y);
+    y+=6;
+
+    // Subtotais YT
+    doc.setFillColor('#1e1e1e'); doc.rect(MAR,y,CW,7,'F');
+    doc.setFont('helvetica','bold'); doc.setFontSize(7); doc.setTextColor('#ef4444');
+    doc.text('TOTAL YOUTUBE',MAR+2,y+4.5);
+    doc.setTextColor('#ffffff');
+    doc.text(fmt(sv(ytP)),MAR+104,y+4.5);
+    doc.setTextColor('#FF5A1F');
+    doc.text(fmt(si(ytP)),MAR+168,y+4.5);
+    y+=12;
   }
+
   pdfFooter(doc);
   doc.save('Charla_'+sName.replace(/[^a-zA-Z0-9]/g,'_')+'_'+fd(s).replace(/\//g,'-')+'_'+fd(e).replace(/\//g,'-')+'.pdf');
 }
+
 
 // ═══ RELATÓRIO SEMANAL PDF ════════════════════════════════
 async function baixarRelatorioSemanal() {
