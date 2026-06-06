@@ -279,7 +279,12 @@ tr:hover td{background:#1a1a1a;}
         <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:2px;text-transform:uppercase;">Insights do Charles</div>
         <div style="font-family:'Barlow Condensed',sans-serif;font-size:22px;font-weight:900;" id="ins-date-title">Carregando...</div>
       </div>
-      <div style="margin-left:auto;display:flex;gap:4px;flex-wrap:wrap;">
+      <div style="margin-left:auto;display:flex;gap:4px;flex-wrap:wrap;align-items:center;">
+        <div style="position:relative;">
+          <button onclick="toggleHistorico()" class="btn btn-sm" id="hist-btn">📅 Histórico</button>
+          <div id="hist-menu" style="display:none;position:absolute;top:calc(100% + 4px);right:0;background:#111;border:1px solid var(--b2);z-index:50;min-width:180px;max-height:260px;overflow-y:auto;"></div>
+        </div>
+        <button onclick="baixarRelatorioSemanal()" class="btn-primary btn-sm">↓ Relatório Semanal</button>
         <button class="sort-btn on" id="ins-all" onclick="filtrarIns('all')">Todos</button>
         <button class="sort-btn" id="ins-instagram" onclick="filtrarIns('instagram')">Instagram</button>
         <button class="sort-btn" id="ins-youtube" onclick="filtrarIns('youtube')">YouTube</button>
@@ -376,6 +381,8 @@ let dEnd      = null;
 let curPage   = 0;
 let ytVids    = [];
 let insData   = null;
+let insHistory = {};  // cache de insights por data
+let weeklyData = null;
 let insPF     = 'all';
 let insSF     = 'all';
 let charts    = { followers: null, views: null, velocity: null };
@@ -491,6 +498,132 @@ function generateDemo() {
 // ═══════════════════════════════════════════════════════
 // INIT
 // ═══════════════════════════════════════════════════════
+// ═══════════════════════════════════════════════════════
+// HISTÓRICO DE INSIGHTS
+// ═══════════════════════════════════════════════════════
+let histOpen = false;
+
+async function toggleHistorico() {
+  histOpen = !histOpen;
+  const menu = qs('hist-menu');
+  if(!histOpen) { menu.style.display='none'; return; }
+  menu.style.display = 'block';
+  menu.innerHTML = '<div style="padding:8px 14px;font-family:Barlow Condensed,sans-serif;font-size:12px;color:var(--t3);">Carregando...</div>';
+  const available = [];
+  const today = new Date();
+  for(let i=1; i<=30; i++) {
+    const d = new Date(today); d.setDate(d.getDate()-i);
+    const dateStr = d.toISOString().slice(0,10);
+    try {
+      const r = await fetch('./data/insights/'+dateStr+'.json', {method:'HEAD'});
+      if(r.ok) available.push(dateStr);
+    } catch {}
+  }
+  if(!available.length) {
+    menu.innerHTML = '<div style="padding:8px 14px;font-family:Barlow Condensed,sans-serif;font-size:12px;color:var(--t3);">Nenhum histórico disponível ainda</div>';
+    return;
+  }
+  menu.innerHTML = available.map(d => {
+    const dt = new Date(d+'T12:00:00');
+    const label = dt.toLocaleDateString('pt-BR',{weekday:'short',day:'2-digit',month:'short'});
+    return '<div onclick="carregarHistorico(''+d+'')" style="padding:8px 14px;font-family:Barlow Condensed,sans-serif;font-size:14px;cursor:pointer;border-bottom:1px solid var(--b1);color:var(--t2);" onmouseover="this.style.color='var(--ac)'" onmouseout="this.style.color='var(--t2)'">'+label+'</div>';
+  }).join('');
+}
+
+async function carregarHistorico(date) {
+  histOpen = false;
+  qs('hist-menu').style.display = 'none';
+  if(insHistory[date]) { insData = insHistory[date]; renderInsights(); return; }
+  try {
+    const r = await fetch('./data/insights/'+date+'.json?t='+Date.now());
+    if(!r.ok) throw new Error();
+    insHistory[date] = await r.json();
+    insData = insHistory[date];
+    renderInsights();
+  } catch { alert('Insights de '+date+' não encontrados.'); }
+}
+
+document.addEventListener('click', e => {
+  if(!e.target.closest('#hist-menu') && !e.target.closest('#hist-btn')) {
+    histOpen = false;
+    const m = qs('hist-menu'); if(m) m.style.display='none';
+  }
+});
+
+// ═══════════════════════════════════════════════════════
+// RELATÓRIO SEMANAL
+// ═══════════════════════════════════════════════════════
+async function baixarRelatorioSemanal() {
+  const XLSX = window.XLSX;
+  if(!XLSX) { alert('Recarregue a página.'); return; }
+  let weekly = weeklyData;
+  if(!weekly) {
+    try {
+      const r = await fetch('./data/weekly/latest.json?t='+Date.now());
+      if(r.ok) { weekly = await r.json(); weeklyData = weekly; }
+    } catch {}
+  }
+  if(!weekly) {
+    // Gerar localmente com dados do dashboard
+    const today = new Date();
+    const end = new Date(today); end.setDate(end.getDate()-1);
+    const start = new Date(today); start.setDate(start.getDate()-7);
+    const f2 = d => d.toISOString().slice(0,10);
+    const [s,e] = [f2(start), f2(end)];
+    const posts = [];
+    for(const plat of ['instagram','youtube','tiktok'])
+      (metrics[plat]?.posts||[]).forEach(p => { if(p.date>=s&&p.date<=e) posts.push({...p,platform:plat}); });
+    const SMAP = {'#ForneriaNoCharla':'Forneria','#SportingbetNoCharla':'Sportingbet','#MelittaNoCharla':'Melitta','#BrahmaNoCharla':'Brahma','#TexacoNoCharla':'Texaco','#AssaiNoCharla':'Assaí','#AbsolutNoCharla':'Absolut','#ClearNoCharla':'Clear'};
+    const sStats = {};
+    posts.forEach(p => (p.tags||[]).forEach(tag => {
+      const name = SMAP[tag]||tag;
+      if(!sStats[name]) sStats[name]={posts:0,views:0,likes:0,comments:0};
+      sStats[name].posts++; sStats[name].views+=p.views||0; sStats[name].likes+=p.likes||0; sStats[name].comments+=p.comments||0;
+    }));
+    weekly = {
+      week_label: s+' a '+e,
+      metrics:{total_posts:posts.length,total_views:posts.reduce((a,p)=>a+(p.views||0),0),total_likes:posts.reduce((a,p)=>a+(p.likes||0),0),total_comments:posts.reduce((a,p)=>a+(p.comments||0),0)},
+      sponsor_stats: sStats,
+      top_posts: [...posts].sort((a,b)=>(b.views||0)-(a.views||0)).slice(0,10),
+      ai_summary: null,
+    };
+  }
+  const wb = XLSX.utils.book_new();
+  const m = weekly.metrics||{}, ai = weekly.ai_summary||{};
+  const resumoData = [
+    ['CHARLA PODCAST - RELATÓRIO SEMANAL DO CHARLES'],[''],
+    ['Período', weekly.week_label||'—'],['Gerado em',new Date().toLocaleString('pt-BR')],[''],
+    ['MÉTRICAS DA SEMANA'],
+    ['Total de posts',m.total_posts||0],['Posts Instagram',m.instagram_posts||'—'],['Posts YouTube',m.youtube_posts||'—'],
+    ['Total de views',m.total_views||0],['Total de likes',m.total_likes||0],['Total de comentários',m.total_comments||0],[''],
+  ];
+  if(ai.resumo_semana) {
+    resumoData.push(['ANÁLISE DO CHARLES'],[''],['Resumo',ai.resumo_semana],['Destaque',ai.destaque_semana||'—'],['Próximo foco',ai.proximo_foco||'—'],['']);
+    if(ai.padroes?.length){resumoData.push(['PADRÕES']);ai.padroes.forEach((p,i)=>resumoData.push([i+1+'.',p]));resumoData.push(['']);}
+    if(ai.recomendacoes?.length){resumoData.push(['RECOMENDAÇÕES PRÓXIMA SEMANA']);ai.recomendacoes.forEach((r,i)=>resumoData.push([i+1+'.',r]));}
+  }
+  const wsR = XLSX.utils.aoa_to_sheet(resumoData); wsR['!cols']=[{wch:30},{wch:80}];
+  XLSX.utils.book_append_sheet(wb,wsR,'Resumo');
+  const sStats = weekly.sponsor_stats||{};
+  const sponsorRows = Object.entries(sStats).sort((a,b)=>(b[1].views||0)-(a[1].views||0)).map(([name,s])=>[name,s.posts||0,s.views||0,(s.likes||0)+(s.comments||0)]);
+  if(sponsorRows.length){
+    const ws = XLSX.utils.aoa_to_sheet([['Patrocinador','Posts','Views','Interações'],...sponsorRows]);
+    ws['!cols']=[{wch:20},{wch:10},{wch:14},{wch:14}];
+    XLSX.utils.book_append_sheet(wb,ws,'Patrocinadores');
+  }
+  if(ai.analise_patrocinadores){
+    const ws = XLSX.utils.aoa_to_sheet([['ANÁLISE DE MARCAS - CHARLES'],[''],['Análise',ai.analise_patrocinadores]]);
+    ws['!cols']=[{wch:20},{wch:80}]; XLSX.utils.book_append_sheet(wb,ws,'Análise de Marcas');
+  }
+  if(weekly.top_posts?.length){
+    const ws = XLSX.utils.aoa_to_sheet([['#','Plataforma','Data','Caption','Hashtags','Views','Likes','Comentários','Link'],...weekly.top_posts.map((p,i)=>[i+1,p.platform||'—',p.date||'—',(p.caption||'').slice(0,200),(p.tags||[]).join(' '),p.views||0,p.likes||0,p.comments||0,p.url||'—'])]);
+    ws['!cols']=[{wch:4},{wch:12},{wch:12},{wch:60},{wch:30},{wch:12},{wch:10},{wch:14},{wch:45}];
+    XLSX.utils.book_append_sheet(wb,ws,'Top Posts');
+  }
+  const semana = (weekly.week_label||'semana').replace(/[\/\s]/g,'-');
+  XLSX.writeFile(wb,'CharlaRadar_Semanal_'+semana+'.xlsx');
+}
+
 async function init() {
   try {
     const r = await fetch('./data/metrics.json?t='+Date.now());
@@ -681,18 +814,67 @@ function renderHeatmap() {
   const postsByDay = {};
   posts.forEach(p => { postsByDay[p.date] = (postsByDay[p.date]||0)+1; });
 
+  // Montar calendário semanal
   const days = [];
   const cur = new Date(s);
-  while(cur <= e) { days.push(ds(cur)); cur.setDate(cur.getDate()+1); }
+  // Recuar até domingo anterior para alinhar com semanas completas
+  while(cur.getDay() !== 0) cur.setDate(cur.getDate()-1);
+  const startGrid = new Date(cur);
+  const endCal = new Date(e);
+  while(endCal.getDay() !== 6) endCal.setDate(endCal.getDate()+1);
+
+  const tmp = new Date(startGrid);
+  while(tmp <= endCal) { days.push(ds(tmp)); tmp.setDate(tmp.getDate()+1); }
 
   const maxPosts = Math.max(1, ...Object.values(postsByDay));
-  const cells = days.map(d => {
-    const n = postsByDay[d] || 0;
-    const opacity = n === 0 ? 0 : 0.2 + (n/maxPosts)*0.8;
-    return `<div class="hm-cell" style="background:rgba(255,90,31,${opacity});" title="${d}: ${n} post(s)"></div>`;
-  });
+  const WEEK_DAYS = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+  const numWeeks = Math.ceil(days.length/7);
 
-  container.innerHTML = `<div style="overflow-x:auto;"><div style="display:flex;gap:2px;flex-wrap:wrap;">${cells.join('')}</div></div>`;
+  // Cabeçalho com meses
+  const months = [];
+  let lastMonth = -1;
+  for(let w=0; w<numWeeks; w++) {
+    const d = new Date(days[w*7]);
+    if(d.getMonth() !== lastMonth) {
+      months.push({col:w, label: d.toLocaleDateString('pt-BR',{month:'short'}).toUpperCase()});
+      lastMonth = d.getMonth();
+    }
+  }
+
+  const monthRow = `<div style="display:grid;grid-template-columns:30px repeat(${numWeeks},16px);gap:2px;margin-bottom:4px;">
+    <div></div>
+    ${Array.from({length:numWeeks},(_,w) => {
+      const m = months.find(x=>x.col===w);
+      return `<div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);">${m?m.label:''}</div>`;
+    }).join('')}
+  </div>`;
+
+  const rows = WEEK_DAYS.map((day,di) => {
+    const cells = Array.from({length:numWeeks},(_,w) => {
+      const idx = w*7+di;
+      const d = days[idx];
+      if(!d) return `<div style="width:16px;height:16px;"></div>`;
+      const n = postsByDay[d] || 0;
+      const inRange = d >= ds(s) && d <= ds(e);
+      const opacity = !inRange ? 0 : n === 0 ? 0.05 : 0.2+(n/maxPosts)*0.8;
+      const bg = n > 0 && inRange ? `rgba(255,90,31,${opacity})` : inRange ? 'var(--b1)' : 'transparent';
+      return `<div style="width:16px;height:16px;border-radius:3px;background:${bg};cursor:${n?'pointer':'default'};" title="${d}: ${n} post(s)"></div>`;
+    }).join('');
+    return `<div style="display:flex;align-items:center;gap:2px;">
+      <div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;color:var(--t3);width:28px;flex-shrink:0;">${di===1||di===3||di===5?day:''}</div>
+      ${cells}
+    </div>`;
+  }).join('');
+
+  container.innerHTML = `<div style="overflow-x:auto;">
+    ${monthRow}
+    <div style="display:flex;flex-direction:column;gap:2px;">${rows}</div>
+    <div style="display:flex;align-items:center;gap:6px;margin-top:8px;">
+      <span style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">Menos</span>
+      ${[0.05,0.3,0.55,0.8,1].map(o=>`<div style="width:12px;height:12px;border-radius:2px;background:rgba(255,90,31,${o});"></div>`).join('')}
+      <span style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">Mais</span>
+    </div>
+  </div>`;
 }
 
 // ═══════════════════════════════════════════════════════
