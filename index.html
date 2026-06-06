@@ -1345,10 +1345,10 @@ init().then(()=>{
 
   srLog('view','dashboard carregado · ' + new Date().toLocaleString('pt-BR'));
 })();
-</script>
 
-</body>
-</html>async function baixarRelatorioSemanal(){
+
+
+async function baixarRelatorioSemanal(){
   if(!window.jspdf){alert('Recarregue a página.');return;}
   let weekly=weeklyData;
   if(!weekly){try{const r=await fetch('./data/weekly/latest.json?t='+Date.now());if(r.ok){weekly=await r.json();weeklyData=weekly;}}catch{}}
@@ -1437,5 +1437,6 @@ init().then(()=>{
   pdfFooter(doc);
   doc.save('CharlaRadar_Semanal_'+(weekly.week_label||'semana').replace(/[^\w]/g,'-')+'.pdf');
 }
-
+</script>
+</body>
 </html>
