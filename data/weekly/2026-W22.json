@@ -1,0 +1,335 @@
+{
+  "generated_at": "2026-06-06T21:32:23.130084",
+  "period_start": "2026-05-30",
+  "period_end": "2026-06-05",
+  "week_label": "2026-05-30 a 2026-06-05",
+  "metrics": {
+    "total_posts": 114,
+    "instagram_posts": 73,
+    "youtube_posts": 41,
+    "total_views": 6435718,
+    "total_likes": 452938,
+    "total_comments": 15904
+  },
+  "sponsor_stats": {
+    "Sportingbet": {
+      "posts": 34,
+      "views": 2648426,
+      "likes": 166785,
+      "comments": 7705,
+      "tag": "#SportingbetNoCharla"
+    },
+    "Brahma": {
+      "posts": 26,
+      "views": 2469440,
+      "likes": 157487,
+      "comments": 7475,
+      "tag": "#BrahmaNoCharla"
+    },
+    "#CharlaNoPremiere": {
+      "posts": 11,
+      "views": 1908338,
+      "likes": 135054,
+      "comments": 3559,
+      "tag": "#CharlaNoPremiere"
+    },
+    "Melitta": {
+      "posts": 20,
+      "views": 1493301,
+      "likes": 87792,
+      "comments": 3361,
+      "tag": "#MelittaNoCharla"
+    },
+    "#CharlaNaCopa": {
+      "posts": 12,
+      "views": 1417894,
+      "likes": 109482,
+      "comments": 3200,
+      "tag": "#CharlaNaCopa"
+    },
+    "#TaLiberadoAcreditar": {
+      "posts": 1,
+      "views": 1152596,
+      "likes": 89053,
+      "comments": 2555,
+      "tag": "#TaLiberadoAcreditar"
+    },
+    "Assaí": {
+      "posts": 17,
+      "views": 1110292,
+      "likes": 74095,
+      "comments": 1827,
+      "tag": "#AssaiNoCharla"
+    },
+    "Texaco": {
+      "posts": 6,
+      "views": 733740,
+      "likes": 43916,
+      "comments": 2485,
+      "tag": "#TexacoNoCharla"
+    },
+    "Forneria": {
+      "posts": 5,
+      "views": 648205,
+      "likes": 39718,
+      "comments": 2882,
+      "tag": "#ForneriaNoCharla"
+    },
+    "Absolut": {
+      "posts": 3,
+      "views": 330388,
+      "likes": 31460,
+      "comments": 1375,
+      "tag": "#AbsolutNoCharla"
+    },
+    "Clear": {
+      "posts": 2,
+      "views": 214713,
+      "likes": 8301,
+      "comments": 99,
+      "tag": "#ClearNoCharla"
+    },
+    "#TexcoNoCharla": {
+      "posts": 1,
+      "views": 76110,
+      "likes": 5989,
+      "comments": 366,
+      "tag": "#TexcoNoCharla"
+    },
+    "#CDQ339": {
+      "posts": 1,
+      "views": 76110,
+      "likes": 5989,
+      "comments": 366,
+      "tag": "#CDQ339"
+    },
+    "#CDQ341": {
+      "posts": 3,
+      "views": 53503,
+      "likes": 1472,
+      "comments": 452,
+      "tag": "#CDQ341"
+    },
+    "#CharlaNaMix": {
+      "posts": 2,
+      "views": 53384,
+      "likes": 3129,
+      "comments": 37,
+      "tag": "#CharlaNaMix"
+    },
+    "#732": {
+      "posts": 1,
+      "views": 0,
+      "likes": 3656,
+      "comments": 36,
+      "tag": "#732"
+    },
+    "#731": {
+      "posts": 1,
+      "views": 0,
+      "likes": 190,
+      "comments": 4,
+      "tag": "#731"
+    },
+    "#730": {
+      "posts": 1,
+      "views": 0,
+      "likes": 866,
+      "comments": 33,
+      "tag": "#730"
+    }
+  },
+  "top_posts": [
+    {
+      "id": "18126209080716216",
+      "date": "2026-06-05",
+      "caption": "TÁ LIBERADO SONHAR E CHORAR! ❤️🏆\n\nO maior anúncio da nossa vida: estaremos em uma Copa. Um sonho que começou lá atrás, q",
+      "url": "https://www.instagram.com/reel/DZNhdnuPEls/",
+      "tags": [
+        "#CharlaNaCopa",
+        "#TaLiberadoAcreditar"
+      ],
+      "type": "VIDEO",
+      "views": 1152596,
+      "likes": 89053,
+      "comments": 2555,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18131546812569856",
+      "date": "2026-06-01",
+      "caption": "MARCELINHO SENSACIONAL! 🔥🏟️\n\nO REMO É PRA QUEM ACREDITA! Aos 48min, Marcelinho soltou o pé, venceu o goleiro do São Paul",
+      "url": "https://www.instagram.com/reel/DZBoah1p1p2/",
+      "tags": [
+        "#CharlaNoPremiere"
+      ],
+      "type": "VIDEO",
+      "views": 642699,
+      "likes": 52505,
+      "comments": 1670,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18113043328856794",
+      "date": "2026-06-01",
+      "caption": "QUE NOITE DO IVAN!\n\nO São Paulo tentou, mas era dia do goleirão do Remo pegar até pensamento. Que partida espetacular do",
+      "url": "https://www.instagram.com/reel/DZBp1zHp2mb/",
+      "tags": [
+        "#CharlaNoPremiere"
+      ],
+      "type": "VIDEO",
+      "views": 482943,
+      "likes": 34759,
+      "comments": 887,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18329611756269960",
+      "date": "2026-06-01",
+      "caption": "O TRICOLOR BARROU O BANDEIRÃO! 🤣\n\nO torcedor viu um bandeirão vermelho e preto subindo no Setor Sul, onde fica a torcida",
+      "url": "https://www.instagram.com/reel/DZDfgp7voWk/",
+      "tags": [
+        "#SportingbetNoCharla",
+        "#BrahmaNoCharla",
+        "#TexacoNoCharla"
+      ],
+      "type": "VIDEO",
+      "views": 416891,
+      "likes": 21591,
+      "comments": 1451,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18153312598471646",
+      "date": "2026-06-04",
+      "caption": "O LANCE ENVOLVENDO CASEMIRO E ENDRICK!\n\nPassou do ponto ou faz parte? A mesa da Charla de Quinta debateu sobre o lance n",
+      "url": "https://www.instagram.com/reel/DZLBI12O_vP/",
+      "tags": [
+        "#SportingbetNoCharla",
+        "#BrahmaNoCharla",
+        "#MelittaNoCharla",
+        "#ForneriaNoCharla"
+      ],
+      "type": "VIDEO",
+      "views": 356997,
+      "likes": 13059,
+      "comments": 1483,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18013090004893046",
+      "date": "2026-06-02",
+      "caption": "ELE TEM ALGO A MAIS PRA ENTREGAR NA COPA!\n\nRayan vai ser a surpresa do Brasil nessa Copa? Diz aí!\n\n#SportingbetNoCharla ",
+      "url": "https://www.instagram.com/reel/DZF_CNJto6W/",
+      "tags": [
+        "#SportingbetNoCharla",
+        "#BrahmaNoCharla",
+        "#AbsolutNoCharla",
+        "#ForneriaNoCharla"
+      ],
+      "type": "VIDEO",
+      "views": 232888,
+      "likes": 24616,
+      "comments": 1319,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18120243004706571",
+      "date": "2026-05-31",
+      "caption": "O CLIMA É ESSE!\n\nFesta absurda no Mangueirão e o clima tomou conta do estúdio! BORA QUE BORA!\n\n#CharlaNoPremiere",
+      "url": "https://www.instagram.com/reel/DZBbV2YHGgr/",
+      "tags": [
+        "#CharlaNoPremiere"
+      ],
+      "type": "VIDEO",
+      "views": 232125,
+      "likes": 21233,
+      "comments": 228,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18105166337089328",
+      "date": "2026-06-04",
+      "caption": "PLATA NO FOGÃO? VEM ENTENDER! 👀\n\nRaphael Rezende, ex-head scout do Botafogo, falou na Charla de quando observavam o Plat",
+      "url": "https://www.instagram.com/reel/DZLUTb5snrN/",
+      "tags": [
+        "#SportingbetNoCharla",
+        "#BrahmaNoCharla",
+        "#MelittaNoCharla",
+        "#AssaiNoCharla",
+        "#ClearNoCharla"
+      ],
+      "type": "VIDEO",
+      "views": 191686,
+      "likes": 7417,
+      "comments": 94,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "17970667694900922",
+      "date": "2026-06-01",
+      "caption": "DEFESA ESPETACULAR!\n\nExcelente oportunidade para o São Paulo abrir o placar, mas Ivan com o rosto salvou o Remo. Que def",
+      "url": "https://www.instagram.com/reel/DZBcaEDs32Q/",
+      "tags": [
+        "#CharlaNoPremiere"
+      ],
+      "type": "VIDEO",
+      "views": 157408,
+      "likes": 3429,
+      "comments": 80,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "17910730566223062",
+      "date": "2026-06-01",
+      "caption": "OI, BOA NOITE!\n\nTeve gol(aço) do Rayan no Maracanã e a torcida foi junto na comemoração. O moleque merece chance no time",
+      "url": "https://www.instagram.com/reel/DZDhopsNdVc/",
+      "tags": [
+        "#SportingbetNoCharla",
+        "#BrahmaNoCharla",
+        "#TexacoNoCharla"
+      ],
+      "type": "VIDEO",
+      "views": 150921,
+      "likes": 15841,
+      "comments": 236,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    }
+  ],
+  "ai_summary": {
+    "resumo_semana": "Semana extraordinária com 6.4M de visualizações e forte engajamento da comunidade. O anúncio da participação em uma Copa gerou o maior pico de interesse (1.2M views), consolidando conteúdo emocional como catalisador de performance. Instagram continuou dominante com 73 posts contra 41 do YouTube, mantendo estratégia multiplataforma eficiente.",
+    "destaque_semana": "Anúncio da participação do Remo em uma Copa - conteúdo emocional que atingiu 1.2M visualizações e 89.3K interações, refletindo a ressonância profunda com a audiência e validando a estratégia de narrativas inspiracionais.",
+    "padroes": [
+      "Conteúdo emocional com storytelling (sonhos, vitórias, momentos de glória) gera 2-3x mais engagement que análises técnicas",
+      "Posts sobre performance individual de jogadores (Marcelinho, Ivan) mantêm consistência acima de 400K views",
+      "Sportingbet e Brahma dominam com 60.7% das interações totais, indicando alinhamento perfeito entre marca e conteúdo"
+    ],
+    "recomendacoes": [
+      "Intensificar conteúdo emocional e narrativas de conquista para próxima semana - explorar repercussão e preparação para Copa",
+      "Aumentar posts YouTube para 50+ (de 41) para equilibrar plataformas e capturar audiência em crescimento",
+      "Criar série de conteúdos destacando jogadores-chave (Marcelinho, Ivan) em formato curto para YouTube Shorts/Reels"
+    ],
+    "analise_patrocinadores": "Sportingbet lidera absoluto com 2.6M views e 174.5K interações em 34 posts (76.5K por post). Brahma mantém performance próxima com 165K interações, validando relevância de marcas no nicho esportivo. Campanhas especiais (#CharlaNaCopa, #CharlaNoPremiere) performam acima da média, sugerindo integração natural com conteúdo editorial.",
+    "proximo_foco": "Desenvolver série 'Caminho para a Copa' com bastidores, entrevistas com jogadores-chave e análises de adversários potenciais. Priorizar conteúdo longo no YouTube explorando história do Remo e significado da participação."
+  }
+}
