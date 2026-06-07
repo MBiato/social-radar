@@ -147,7 +147,7 @@ def collect_instagram(metrics: dict) -> bool:
         params = {'fields':'id,caption,media_type,timestamp,like_count,comments_count,permalink','limit':100,'access_token':token}
         all_items = []
         page = 0
-        while url and page < 20:
+        while url and page < 1:
             r = requests.get(url, params=params, timeout=30)
             r.raise_for_status()
             rd = r.json()
@@ -176,9 +176,9 @@ def collect_instagram(metrics: dict) -> bool:
             posts.append({
                 'id':       item['id'],
                 'date':     d,
-                'caption':  (item.get('caption') or ''),
+                'caption':  (item.get('caption') or '')[:120],
                 'url':      item.get('permalink',''),
-                'tags':     [w for w in (item.get('caption') or '').split() if w.startswith('#')],
+                'tags':     [w for w in (item.get('caption') or '').split() if w.startswith('#')][:10],
                 'type':     item.get('media_type', 'IMAGE'),
                 'views':    views,
                 'likes':    item.get('like_count',    0),
