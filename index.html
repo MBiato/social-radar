@@ -188,6 +188,7 @@ tr:hover td{background:#1a1a1a;}
   .rank-caption{font-size:13px;white-space:normal;overflow:visible;word-break:break-word;line-height:1.4;}
   .rank-meta{white-space:normal;word-break:break-word;font-size:11px;}
   .rank-val{font-size:14px;}
+  .rank-metrics-mobile{display:flex !important;}
 
   /* Insights */
   .ins-post{flex-direction:column;gap:10px;}
@@ -727,6 +728,11 @@ function renderRankings() {
       <div style="min-width:0;">
         ${captionEl}
         <div class="rank-meta">${(p.date||'').slice(5)} · ${typePill} ${tag}</div>
+        <div class="rank-metrics-mobile" style="display:none;gap:10px;margin-top:5px;flex-wrap:wrap;">
+          <span style="font-family:'Barlow Condensed',sans-serif;font-size:13px;color:${hiV?'var(--ac)':'var(--t2)'};">${fmt(p.views)} views</span>
+          <span style="font-family:'Barlow Condensed',sans-serif;font-size:13px;color:${hiL?'var(--ac)':'var(--t2)'};">${fmt(p.likes)} likes</span>
+          <span style="font-family:'Barlow Condensed',sans-serif;font-size:13px;color:${hiC?'var(--ac)':'var(--t2)'};">${fmt(p.comments)} coment.</span>
+        </div>
       </div>
       <div class="rank-val${hiV?' ac':''}">${fmt(p.views)}</div>
       <div class="rank-val${hiL?' ac':''}">${fmt(p.likes)}</div>
