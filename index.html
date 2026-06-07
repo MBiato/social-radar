@@ -136,7 +136,75 @@ tr:hover td{background:#1a1a1a;}
 .footer{padding:14px 22px;border-top:1px solid var(--b1);display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;}
 .footer span{font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t3);letter-spacing:1px;}
 
-@media(max-width:900px){.kpi-grid{grid-template-columns:repeat(2,1fr);}.chart-grid{grid-template-columns:1fr;}.plat-grid{grid-template-columns:1fr;}}
+@media(max-width:900px){
+  .kpi-grid{grid-template-columns:repeat(2,1fr);}
+  .chart-grid{grid-template-columns:1fr;}
+  .plat-grid{grid-template-columns:1fr;}
+  .ins-cols{grid-template-columns:1fr;}
+}
+@media(max-width:600px){
+  /* Layout geral */
+  .wrap{padding:10px 12px;}
+  .hdr{padding:10px 12px;flex-wrap:nowrap;}
+  .logo{font-size:20px;letter-spacing:2px;}
+  .hdr-sub{display:none;}
+  .hdr-r{gap:4px;flex-wrap:nowrap;}
+  .btn{font-size:11px;padding:4px 8px;letter-spacing:0;}
+  .btn-primary{font-size:11px;padding:4px 8px;letter-spacing:0;}
+  .btn-sm{font-size:11px;padding:4px 8px;}
+
+  /* Plataformas */
+  .plat-grid{grid-template-columns:1fr;}
+  .plat-tile{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;}
+  .plat-val{font-size:26px;}
+
+  /* Controles */
+  .controls{flex-direction:column;align-items:flex-start;gap:8px;}
+  .tabs{flex-wrap:nowrap;overflow-x:auto;width:100%;-webkit-overflow-scrolling:touch;}
+  .tab{font-size:13px;padding:6px 12px;white-space:nowrap;flex-shrink:0;}
+  .period-grp{flex-wrap:wrap;gap:4px;}
+  .pd-btn{font-size:12px;padding:4px 10px;}
+  .date-inp{font-size:11px;padding:4px 6px;}
+
+  /* KPIs */
+  .kpi-grid{grid-template-columns:1fr 1fr;}
+  .kpi-val{font-size:22px;}
+  .kpi-card{padding:12px 12px;}
+
+  /* Gráficos */
+  .chart-grid{grid-template-columns:1fr;}
+  .chart-wrap{height:140px;}
+
+  /* Ranking — empilhar métricas abaixo da caption */
+  .rank-row{
+    grid-template-columns:22px 1fr;
+    grid-template-rows:auto auto;
+    padding:10px 8px;
+    gap:6px;
+  }
+  .rank-row > div:nth-child(3),
+  .rank-row > div:nth-child(4),
+  .rank-row > div:nth-child(5){display:none;}
+  .rank-caption{font-size:13px;white-space:normal;overflow:visible;word-break:break-word;line-height:1.4;}
+  .rank-meta{white-space:normal;word-break:break-word;font-size:11px;}
+  .rank-val{font-size:14px;}
+
+  /* Insights */
+  .ins-post{flex-direction:column;gap:10px;}
+  .ins-cols{grid-template-columns:1fr;}
+  .ins-col-txt{word-break:break-word;overflow-wrap:break-word;}
+  .ins-caption{font-size:14px;word-break:break-word;}
+  #ins-resumo > div{grid-template-columns:1fr !important;}
+
+  /* Seções */
+  .section{padding:12px;}
+  .sec-hdr{flex-direction:column;gap:8px;}
+  .sort-btn{font-size:11px;padding:4px 8px;}
+
+  /* Modal YT */
+  .modal-box{max-height:95vh;}
+  .modal-body{padding:12px;}
+}
 </style>
 </head>
 <body>
@@ -747,7 +815,7 @@ async function dispararColeta() {
         btn.textContent='⚡ Coletar agora';
         btn.style.background='var(--ac)';
         btn.disabled=false;
-      }, 5*60*1000);
+      }, 3*60*1000);
     } else {
       throw new Error('status '+r.status);
     }
