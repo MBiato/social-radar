@@ -648,6 +648,8 @@ function renderRankings() {
     const gi = curPage*PAGE_SIZE+i+1;
     const isReel = p.type==='REELS'||p.type==='VIDEO';
     const hiV = rankBy==='views', hiL = rankBy==='likes', hiC = rankBy==='comments';
+    const tag = (p.tags||[]).slice(0,1).map(t=>`<span class="tag-pill">${t}</span>`).join('');
+    const typePill = `<span style="background:${isReel?'#FF5A1F22':'#22222255'};color:${isReel?'#FF8C5A':'#666'};font-family:'Barlow Condensed',sans-serif;font-size:10px;padding:1px 5px;border-radius:2px;">${p.type||'—'}</span>`;
     const captionEl = p.url
       ? `<a href="${p.url}" target="_blank" style="color:var(--t1);text-decoration:none;font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;" onmouseover="this.style.color='var(--ac)'" onmouseout="this.style.color='var(--t1)'">${p.caption||'—'}</a>`
       : `<div class="rank-caption">${p.caption||'—'}</div>`;
@@ -719,38 +721,44 @@ function setRankBy(r) {
 function getWFT() { return localStorage.getItem('cr_wft')||''; }
 async function dispararColeta() {
   const btn = qs('collect-btn');
-  if(!getWFT()) { const t=prompt('GitHub Token (workflow):'); if(!t) return; localStorage.setItem('cr_wft',t); }
-  btn.textContent='Coletando...'; btn.disabled=true;
+  if(!getWFT()) {
+    const t = prompt('GitHub Token (workflow):');
+    if(!t) return;
+    localStorage.setItem('cr_wft', t);
+  }
+  btn.textContent='Coletando...';
+  btn.disabled=true;
   btn.style.background='var(--green)';
   try {
     const r = await fetch('https://api.github.com/repos/MBiato/social-radar/actions/workflows/main.yml/dispatches',{
       method:'POST',
-      headers:{'Authorization':'Bearer '+getWFT(),'Accept':'application/vnd.github+json','Content-Type':'application/json'},
+      headers:{
+        'Authorization':'Bearer '+getWFT(),
+        'Accept':'application/vnd.github+json',
+        'Content-Type':'application/json'
+      },
       body:JSON.stringify({ref:'main'}),
     });
     if(r.status===204) {
       btn.textContent='⏳ Em andamento...';
-      // Aguarda 15 minutos e então recarrega os dados
       setTimeout(async()=>{
         btn.textContent='↻ Atualizando...';
         await refreshData();
         btn.textContent='⚡ Coletar agora';
         btn.style.background='var(--ac)';
         btn.disabled=false;
-      }, 15*60*1000);
-    } else if(r.status===401) {
-      localStorage.removeItem('cr_wft');
-      btn.textContent='✗ Token inválido';
-      btn.style.background='var(--red)';
-      setTimeout(()=>{btn.textContent='⚡ Coletar agora';btn.style.background='var(--ac)';btn.disabled=false;},3000);
-      alert('Token inválido ou expirado. Clique em Coletar agora para inserir um novo.');
+      }, 5*60*1000);
     } else {
-      throw new Error(r.status);
+      throw new Error('status '+r.status);
     }
   } catch(e) {
     btn.textContent='✗ Erro';
     btn.style.background='var(--red)';
-    setTimeout(()=>{btn.textContent='⚡ Coletar agora';btn.style.background='var(--ac)';btn.disabled=false;},4000);
+    setTimeout(()=>{
+      btn.textContent='⚡ Coletar agora';
+      btn.style.background='var(--ac)';
+      btn.disabled=false;
+    }, 4000);
   }
 }
 async function refreshData() {
