@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-06-07T01:31:45.427443",
+  "generated_at": "2026-06-07T15:17:02.692604",
   "date": "2026-06-06",
   "summary": {
     "padroes": [
-      "Hooks em caixa alta funcionam bem, mas exigem legendas completas e bem estruturadas para converter visualizações em engajamento",
-      "Conteúdo esportivo (Copa/Brasil) atrai interesse, mas precisa de otimização SEO, CTAs claros e estrutura técnica (thumbnail, capítulos)",
-      "Parcerias de patrocínio (Brahma) não comprometem performance quando a execução narrativa é sólida"
+      "Conteúdo de atualidade sobre futebol/Copa com hook questionador, mas execução prejudicada por legenda tecnicamente incompleta",
+      "Conteúdo temático de marca (Brahma) alinhado a evento cultural (Copa do Mundo) com hook emotivo em caixa alta para captar atenção inicial",
+      "Post subotimizado em todos os pilares estruturais do YouTube, indicando potencial conteúdo de qualidade abandonado na execução técnica"
     ],
-    "recomendacao_amanha": "Publicar entre 18h-20h com tema esportivo/atualidade, mantendo hook em caixa alta mas garantindo legenda completa com CTA claro, thumbnail profissional e divisão em capítulos",
-    "insight_principal": "O melhor post do dia comprovou que hooks impactantes + temas de atualidade esportiva geram alta visualização, mas 10 alertas indicam execução incompleta nas legendas como principal limitador de engajamento. A prioridade amanhã é manter a qualidade criativa dos títulos enquanto padroniza a execução técnica e narrativa.",
-    "score_medio": 4.3,
+    "recomendacao_amanha": "Publicar conteúdo sobre Copa do Mundo/futebol no horário de pico vespertino (17h-19h), priorizando hooks emocionais em caixa alta, mas com execução técnica completa: legendas bem estruturadas, descrição otimizada e thumbnails alinhadas ao padrão de performance.",
+    "insight_principal": "O melhor post do dia comprova que temas de atualidade (Copa/futebol) combinados com emotividade de marca geram alto engajamento, mas a maioria dos conteúdos falha na execução técnica. A prioridade para amanhã é manter a estratégia temática enquanto elimina os gaps de otimização estrutural que prejudicam o alcance potencial.",
+    "score_medio": 4.8,
     "total_posts": 10,
-    "total_alertas": 10,
-    "melhor_post_id": "18098945768334925",
-    "melhor_post_caption": "COMO TÁ O VESTIÁRIO DO BRASIL PRA COPA? \n\nInformações chegam sobre como está a percepção dos jogador",
-    "melhor_post_views": 18664,
+    "total_alertas": 6,
+    "melhor_post_id": "17875895871486263",
+    "melhor_post_caption": "TÁ LIBERADO ACREDITAR! \n\nSe o tão sonhado hexa vier, a Brahma vai fazer verdadeiras loucuras pra gen",
+    "melhor_post_views": 14009,
     "sponsor_stats": {
       "#CharlaNaMix": {
         "posts": 1,
-        "views": 18664,
-        "likes": 422,
-        "comments": 15
+        "views": 51835,
+        "likes": 1099,
+        "comments": 36
       },
       "#CharlaNaCopa": {
         "posts": 2,
-        "views": 24300,
-        "likes": 672,
-        "comments": 9
+        "views": 33990,
+        "likes": 850,
+        "comments": 14
       },
       "#BrahmaNoCharla": {
         "posts": 1,
-        "views": 10519,
-        "likes": 274,
-        "comments": 7
+        "views": 14009,
+        "likes": 351,
+        "comments": 11
       }
     }
   },
@@ -46,33 +46,33 @@
         "#CharlaNaMix"
       ],
       "type": "VIDEO",
-      "views": 18664,
-      "likes": 422,
-      "comments": 15,
+      "views": 51835,
+      "likes": 1099,
+      "comments": 36,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
       "analysis": {
-        "score": 5,
-        "status": "alerta",
-        "resumo": "Post com hook strong mas legenda incompleta prejudica engajamento e clareza da mensagem.",
+        "score": 6,
+        "status": "normal",
+        "resumo": "Post com engajamento moderado, mas com legenda incompleta que prejudica o potencial de performance.",
         "thumb": {
           "nota": "medio",
-          "analise": "Hook em caixa alta é efetivo, mas sem informações sobre presença de rostos ou elementos visuais que aumentem CTR.",
-          "sugestao": "Garantir rostos de jogadores/personalidades em destaque na thumbnail para aumentar retenção visual."
+          "analise": "Não há informações sobre a thumbnail fornecidas, mas o tema 'vestiário do Brasil' em vídeo sobre Copa sugere potencial visual. Recomenda-se verificar se há rostos em destaque.",
+          "sugestao": "Garanta rostos de jogadores ou comentaristas em primeiro plano na thumbnail para aumentar CTR."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Hook poderoso em caixa alta com pergunta direta sobre tema relevante (Copa do Brasil), gerando curiosidade.",
-          "sugestao": "Manter este padrão de perguntas provocativas, considerando adicionar números ou palavras-chave de urgência."
+          "analise": "Hook em caixa alta é forte e gera curiosidade sobre o estado do vestiário da seleção. Pergunta direta estimula engajamento.",
+          "sugestao": "Considere adicionar número ou curiosidade específica no título para aumentar ainda mais o interesse (ex: '5 PROBLEMAS NO VESTIÁRIO')."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda incompleta e sem CTA claro. Inicia com contextualização sobre percepção de jogadores mas não conclui o pensamento ou direciona ação.",
-          "sugestao": "Completar a legenda com conclusão da ideia, adicionar CTA (salve, comente, compartilhe) e incluir hashtags temáticas além de #CharlaNaMix."
+          "analise": "Legenda está incompleta e truncada após 'em relação ao um -', prejudicando a compreensão do conteúdo. Falta CTA claro para salvar, comentar ou compartilhar. Apenas uma hashtag presente quando poderiam ser 3-5.",
+          "sugestao": "Complete a frase interrompida, adicione CTA explícito (salve este vídeo, deixe seu comentário), e inclua 3-5 hashtags temáticas relacionadas a Copa, seleção brasileira e futebol."
         },
-        "causa_baixa": "Legenda incompleta cria confusão e desengajamento. Taxa de conversão baixa (2.3% likes/views, 0.08% comentários) indica falta de clareza na mensagem e ausência de CTA estruturado.",
-        "padrao": "Uso de hooks fortes em caixa alta combinado com temas de atualidade esportiva, mas comprometido por execução incompleta na legenda."
+        "causa_baixa": "Legenda incompleta reduz clareza da mensagem e não incentiva ações específicas do espectador. Faltam hashtags para ampliar alcance e apenas uma hashtag limita descoberta por novos públicos.",
+        "padrao": "Conteúdo de atualidade sobre futebol/Copa com hook questionador, mas execução prejudicada por legenda técnicamente incompleta."
       }
     },
     {
@@ -85,33 +85,33 @@
         "#BrahmaNoCharla"
       ],
       "type": "VIDEO",
-      "views": 10519,
-      "likes": 274,
-      "comments": 7,
+      "views": 14009,
+      "likes": 351,
+      "comments": 11,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
       "analysis": {
-        "score": 5,
-        "status": "alerta",
-        "resumo": "Post com hook forte mas legenda incompleta compromete o desempenho esperado para um conteúdo temático.",
+        "score": 6.5,
+        "status": "normal",
+        "resumo": "Post com bom engajamento relativo e hook forte, mas legenda incompleta prejudica o potencial de performance.",
         "thumb": {
-          "nota": "bom",
-          "analise": "Hook em caixa alta 'TÁ LIBERADO ACREDITAR!' segue padrão de boas práticas e chama atenção. Temática Copa do Mundo é visual atrativa.",
-          "sugestao": "Confirmar se há rostos em destaque na thumbnail para aumentar taxa de cliques."
+          "nota": "medio",
+          "analise": "Não há informações sobre a thumbnail do vídeo no contexto fornecido. Presume-se que segue padrão visual da marca.",
+          "sugestao": "Garantir que a thumbnail contenha rostos expressivos e texto em caixa alta para aumentar cliques."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Hook forte e direto gera curiosidade sobre promoção da Brahma. Uso de caixa alta efetivo para captar atenção inicial.",
-          "sugestao": "Manter padrão mas considerar adicionar número ou promessa específica (ex: 'BRAHMA PREPARA 5 SURPRESAS')."
+          "analise": "Hook em caixa alta 'TÁ LIBERADO ACREDITAR!' é impactante e chama atenção. Promete algo interessante sobre o tema Copa/Brahma.",
+          "sugestao": "Manter o padrão de hooks em caixa alta, talvez adicionar emoji de destaque para aumentar visualização."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda aparentemente cortada ('Se lig' incompleto) prejudica mensagem final e CTA. Falta call-to-action claro para salvar, compartilhar ou comentar.",
-          "sugestao": "Completar a legenda com CTA direto como 'Salva aí!' ou 'Comenta se você acredita no hexa!' e evitar truncagens."
+          "analise": "Legenda está claramente incompleta ('Se lig'). Falta contexto importante, call-to-action explícito e aproveita pouco o espaço para engajamento.",
+          "sugestao": "Completar a legenda com CTA claro (salvar, comentar, compartilhar), adicionar emojis estratégicos e expandir a narrativa sobre a ação da Brahma."
         },
-        "causa_baixa": "Legenda incompleta compromete engajamento e impede CTA efetivo. Taxa de comentários baixa (7) sugere falta de call-to-action claro. Razão likes/views indica conteúdo com potencial que não está sendo maximizado.",
-        "padrao": "Conteúdo temático com patrocínio (Brahma) e hook em caixa alta, mas execução incompleta na legenda reduz performance esperada."
+        "causa_baixa": "",
+        "padrao": "Conteúdo temático de marca (Brahma) alinhado a evento cultural (Copa do Mundo) com hook emotivo em caixa alta para captar atenção inicial."
       }
     },
     {
@@ -123,33 +123,33 @@
         "#CharlaNaCopa"
       ],
       "type": "VIDEO",
-      "views": 13781,
-      "likes": 398,
-      "comments": 2,
+      "views": 19981,
+      "likes": 499,
+      "comments": 3,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
       "analysis": {
-        "score": 5,
-        "status": "alerta",
-        "resumo": "Post com hook forte mas engagement baixo indica desconexão entre proposta e execução.",
+        "score": 6,
+        "status": "normal",
+        "resumo": "Post com bom alcance mas baixo engajamento, legenda com hook forte mas sem CTA claro para ação.",
         "thumb": {
           "nota": "medio",
-          "analise": "Não há informações visuais disponíveis para análise detalhada, mas o baixo engagement sugere que a thumbnail pode não estar atraindo cliques suficientes.",
-          "sugestao": "Garantir que a thumbnail tenha rosto em destaque com expressão impactante e texto em caixa alta sobreposto."
+          "analise": "Presença de rosto mencionada no contexto é boa prática, mas sem análise visual direta do vídeo, não é possível confirmar qualidade da thumbnail.",
+          "sugestao": "Garantir que o rosto do Cantarelli ou momento de destaque seja bem visível nos primeiros frames do Reel."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Hook em caixa alta 'E AGORA VOCÊ VAI NARRAR PRESENCIALMENTE!' é direto e gera curiosidade com emojis motivacionais.",
-          "sugestao": "Manter este padrão de hooks em caixa alta, mas considerar testar perguntas provocativas para aumentar cliques."
+          "analise": "Hook em caixa alta com emojis visuais atrai atenção imediatamente. Mensagem clara de ação presencial e movimento.",
+          "sugestao": "Considerar adicionar curiosidade ou pergunta para aumentar cliques (ex: 'VEJA COMO ELE FEZ ISSO AO VIVO')."
         },
         "legenda": {
-          "nota": "ruim",
-          "analise": "Legenda muito curta (9 palavras) e genérica, sem contexto claro sobre quem é Cantarelli ou por que o espectador deveria se importar com sua carreira em Copas.",
-          "sugestao": "Expandir para 3-4 linhas incluindo: quem é Cantarelli, detalhes específicos sobre as histórias, e CTA para salvar/compartilhar."
+          "nota": "medio",
+          "analise": "Hook forte presente, mas falta CTA explícito para salvar, comentar ou visitar link. Contexto sobre Copas é relevante mas genérico.",
+          "sugestao": "Adicionar CTA claro como 'Salva esse vídeo!' ou 'Qual sua história de Copa favorita?' para aumentar engajamento."
         },
-        "causa_baixa": "Engajamento desproporcionalmente baixo (2 comentários para 13.8K views) sugere falta de CTA de interação na legenda, contexto insuficiente sobre o personagem, e possível desalinhamento entre hook promissor e conteúdo entregue.",
-        "padrao": "Uso de hook impactante sem sustentação narrativa ou CTA adequado na legenda, resultando em visualizações sem engajamento."
+        "causa_baixa": "Taxa de comentários muito baixa (3) comparada ao alcance (20K) sugere falta de CTA direto para comentários e ausência de pergunta provocativa que incentive respostas.",
+        "padrao": "Conteúdo de narração esportiva com foco em histórias pessoais e cobertura de grandes eventos, aproveitando momento da Copa."
       }
     },
     {
@@ -157,33 +157,33 @@
       "date": "2026-06-06",
       "caption": "QUAIS VÃO SER AS GRANDES SURPRESAS DA COPA DO MUNDO",
       "type": "VIDEO",
-      "views": 1722,
-      "likes": 63,
-      "comments": 11,
+      "views": 1963,
+      "likes": 71,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
       "analysis": {
-        "score": 3,
+        "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com baixíssimo engajamento (1.7K views, taxa de likes 3.7%) e título genérico sem elementos de persuasão.",
+        "resumo": "Vídeo com baixo engajamento e problemas estruturais na otimização para YouTube.",
         "thumb": {
           "nota": "ruim",
-          "analise": "Sem dados visuais fornecidos, mas o desempenho sugere thumbnail pouco atrativo. Não há informação sobre rosto expressivo ou texto sobreposto mencionados.",
-          "sugestao": "Implementar thumbnail com rosto de personalidade conhecida + texto grande em contraste alto com a Copa do Mundo em destaque visual."
+          "analise": "Sem informações fornecidas sobre thumbnail. Impossível avaliar se contém rosto expressivo e texto sobreposto conforme boas práticas.",
+          "sugestao": "Criar thumbnail com rosto expressivo do apresentador + texto em contraste alto sobre a temática (ex: '⚽ SURPRESAS DA COPA')"
         },
         "titulo": {
-          "nota": "ruim",
-          "analise": "Falta nome próprio (qual jogador/seleção), emoção contida apenas em 'SURPRESAS' mas genérica demais. Não segue padrão de sucesso do YouTube.",
-          "sugestao": "Reformular para 'NEYMAR E VINICIUS JR SURPREENDEM NA COPA 2026: APOSTAS CHOCANTES' ou similar com nomes + emoção clara."
+          "nota": "medio",
+          "analise": "Título genérico sem nome próprio ou âncora emocional forte. A pergunta cria curiosidade mas carece de especificidade e elementos de urgência.",
+          "sugestao": "Reformular para 'CHARLES PREVÊ: 5 SURPRESAS QUE MUDARÃO A COPA DO MUNDO 2026' para adicionar nome próprio e autoridade"
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente vaga e sem estrutura. Falta descrição do conteúdo, capítulos na descrição, call-to-action e links. Não há hashtags ou contexto que prenda o espectador.",
-          "sugestao": "Adicionar descrição detalhada do vídeo, capítulos com timestamps, CTA de inscrição, e hashtags relevantes (#Copa2026 #Futebol #Surpresas)."
+          "analise": "Legenda extremamente enxuta, sem descrição contexto, sem hashtags fornecidas, sem capítulos na descrição e sem call-to-action. Não aproveita espaço para SEO.",
+          "sugestao": "Expandir com sinopse de 150-200 caracteres, adicionar 5-8 hashtags relevantes, incluir capítulos com timestamps e CTA para inscrição"
         },
-        "causa_baixa": "Título genérico sem apelo emocional ou nome próprio, legenda incompleta e pouco estruturada, e presumivelmente thumbnail sem elementos visuais atrativo. Combinação de fatores afasta cliques e engajamento inicial.",
-        "padrao": "Conteúdo sobre Copa do Mundo com foco em previsões, mas executado com baixa otimização SEO e engajamento."
+        "causa_baixa": "Apenas 2K views e 71 likes indicam baixo alcance. Legenda vazia prejudica descoberta via busca, falta de thumbnail pode reduzir CTR, e titulo genérico não diferencia do conteúdo concorrente.",
+        "padrao": "Post subotimizado em todos os pilares estruturais do YouTube, indicando potencial conteúdo de qualidade abandonado na execução técnica."
       }
     },
     {
@@ -191,8 +191,8 @@
       "date": "2026-06-06",
       "caption": "É SELEFLA! FLAMENGO TERÁ PARTICIPAÇÃO ENORME NA COPA DO MUNDO",
       "type": "VIDEO",
-      "views": 3462,
-      "likes": 125,
+      "views": 3695,
+      "likes": 132,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -200,24 +200,24 @@
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com baixíssimo engajamento relativo (3,6% de taxa de likes) e engagement rate de comentários crítico.",
+        "resumo": "Vídeo com título emotivo e nome próprio, mas com engajamento muito baixo e falta de elementos descritivos na legenda.",
         "thumb": {
-          "nota": "ruim",
-          "analise": "Sem informações visuais fornecidas. Impossível avaliar se contém rosto expressivo e texto sobreposto conforme boas práticas.",
-          "sugestao": "Implementar thumbnail com rosto expressivo de apresentador + texto em contraste alto destacando 'SELEÇÃO' ou 'COPA 2026'."
+          "nota": "desconhecido",
+          "analise": "Não foi fornecida análise visual da thumbnail. Sem dados para avaliar presença de rosto expressivo ou texto sobreposto conforme boas práticas.",
+          "sugestao": "Forneça print da thumbnail para validar presença de elementos visuais (rosto, emoção, texto) que aumentem CTR."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Título forte com nome próprio (FLAMENGO), emoção (ENORME) e tema relevante (COPA DO MUNDO). Segue padrão de sucesso do YouTube.",
-          "sugestao": "Considerar adicionar número ou curiosidade para aumentar CTR, ex: 'SELEÇÃO COM 10 FLAMENGUISTAS NA COPA'."
+          "analise": "Segue padrão de boas práticas com nome próprio (FLAMENGO), emoção (SELEFLA) e promessa de conteúdo relevante (PARTICIPAÇÃO ENORME COPA DO MUNDO).",
+          "sugestao": "Título está bem estruturado; considere testar variações que aumentem urgência ou curiosidade."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta (apenas título repetido), sem descrição, contexto, timestamps/capítulos ou links mencionados nas boas práticas. Não otimizada para SEO.",
-          "sugestao": "Expandir com sinopse de 3-4 linhas, adicionar capítulos na descrição, inserir links relevantes e palavras-chave sobre Flamengo + Copa 2026."
+          "analise": "Legenda contém apenas o título novamente, sem descrição, links, capítulos na descrição ou call-to-action. Não segue boas práticas de SEO ou estruturação.",
+          "sugestao": "Adicione descrição completa, timestamps/capítulos, links relevantes, hashtags e call-to-action para melhorar descoberta e engajamento."
         },
-        "causa_baixa": "Engajamento crítico (125 likes em 3.5K views = 3,6%) e apenas 4 comentários sugerem conteúdo pouco atrativo visualmente ou tema saturado. Legenda vazia prejudica retenção e recomendação do algoritmo. Possível watch time baixo.",
-        "padrao": "Título emotivo com nomes próprios e temas esportivos, mas execução incompleta na otimização técnica (thumbnail desconhecida, legenda vazia, sem estrutura de capítulos)."
+        "causa_baixa": "Engajamento baixo (3.7K views, 132 likes, taxa ~3.5%) pode estar relacionado a falta de estruturação na legenda, ausência de capítulos e call-to-action, além de possível thumbnail pouco atrativa que não converteu bem o CTR.",
+        "padrao": "Conteúdo sobre Flamengo e Copa do Mundo com estrutura de título forte, mas estratégia de descrição e otimização inadequada para plataforma."
       }
     },
     {
@@ -225,33 +225,33 @@
       "date": "2026-06-06",
       "caption": "SELEÇÃO BRASILEIRA CHEGA MUITO FORTE NA COPA DO MUNDO",
       "type": "VIDEO",
-      "views": 23879,
-      "likes": 628,
-      "comments": 99,
+      "views": 24954,
+      "likes": 658,
+      "comments": 107,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
-        "status": "alerta",
-        "resumo": "Vídeo com título genérico e legenda insuficiente que não acompanha as boas práticas do YouTube, resultando em engagement baixo para o tema.",
+        "status": "normal",
+        "resumo": "Vídeo com título genérico e legenda minimalista que não segue as melhores práticas do YouTube.",
         "thumb": {
-          "nota": "ruim",
-          "analise": "Não foram fornecidas informações sobre a thumbnail. Sem dados, não é possível avaliar se há rosto expressivo ou texto sobreposto conforme as boas práticas recomendadas.",
-          "sugestao": "Implementar thumbnail com rosto expressivo de personalidade conhecida + texto em contraste alto com call-to-action emocional relacionado à seleção."
+          "nota": "medio",
+          "analise": "Não há dados visuais fornecidos sobre a thumbnail. Sem informações sobre rosto expressivo ou texto sobreposto, não é possível avaliar adequadamente.",
+          "sugestao": "Confirme se a thumbnail contém rosto expressivo e texto sobreposto com a seleção brasileira ou jogador destaque."
         },
         "titulo": {
           "nota": "medio",
-          "analise": "O título menciona 'SELEÇÃO BRASILEIRA' (nome próprio) mas carece de emoção específica e urgência. Frase genérica que não diferencia o conteúdo de concorrentes.",
-          "sugestao": "Adicionar emoção e especificidade: 'SELEÇÃO BRASILEIRA CHEGA IMPOSSÍVEL NA COPA 2026 - VEJA COMO' ou similar com hook emocional."
+          "analise": "O título contém 'SELEÇÃO BRASILEIRA' (nome próprio) mas carece de emoção e gancho específico. É genérico e não instiga clique.",
+          "sugestao": "Adicione emoção e especificidade: 'SELEÇÃO BRASILEIRA CHEGA DEVASTADORA NA COPA - VEJA COMO' ou 'BRASIL SURPREENDE TODOS COM ESTRATÉGIA INESPERADA'."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta e genérica, sem descrição do conteúdo, sem capítulos na descrição, sem hashtags e sem contexto adicional. Não segue boas práticas de otimização.",
-          "sugestao": "Expandir com: descrição detalhada do vídeo, capítulos com timestamps, 8-12 hashtags relevantes, call-to-action para inscrição e links relacionados."
+          "analise": "Legenda extremamente minimalista com apenas o título repetido. Falta descrição do conteúdo, capítulos, links de redes sociais e call-to-action.",
+          "sugestao": "Desenvolva descrição com sinopse do vídeo, adicione capítulos com timestamps, inclua links de redes sociais e call-to-action para inscrição."
         },
-        "causa_baixa": "Legenda incompleta e genérica não otimiza descoberta, falta de estrutura em capítulos prejudica watch time, e título sem emoção específica não gera urgência suficiente para cliques apesar do tema relevante (Copa do Mundo).",
-        "padrao": "Conteúdo temático relevante com execução técnica deficiente nas metadatas e otimização para algoritmo do YouTube."
+        "causa_baixa": "",
+        "padrao": "Conteúdo sobre esportes/futebol com potencial, mas execução minimalista e pouco otimizada para as melhores práticas do YouTube."
       }
     },
     {
@@ -259,8 +259,8 @@
       "date": "2026-06-06",
       "caption": "ANCELOTTI PODE PROMOVER MUDANÇAS NO TIME TITULAR DA SELEÇÃO BRASILEIRA",
       "type": "VIDEO",
-      "views": 4967,
-      "likes": 126,
+      "views": 5229,
+      "likes": 134,
       "comments": 7,
       "shares": 0,
       "saves": 0,
@@ -268,24 +268,24 @@
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com elementos de boas práticas no título, mas performance abaixo do esperado com engajamento muito baixo.",
+        "resumo": "Vídeo com engajamento crítico, apenas 2.6% de taxa de like e baixíssimo comentário/visualização.",
         "thumb": {
-          "nota": "medio",
-          "analise": "Não há informação visual disponível, mas o título sugere potencial para thumbnail expressivo com Ancelotti e jogadores da seleção.",
-          "sugestao": "Implementar rosto expressivo de Ancelotti ou jogador em destaque + texto sobreposto como 'MUDANÇAS NO TITULAR' em fonte grande."
+          "nota": "ruim",
+          "analise": "Sem dados visuais disponibilizados para análise. Impossível avaliar se há rosto expressivo ou texto sobreposto conforme padrão YouTube.",
+          "sugestao": "Implementar thumbnail com rosto de expressão forte (surpresa ou dúvida) e adicionar texto contrastante com fonte grande sobre as mudanças."
         },
         "titulo": {
-          "nota": "bom",
-          "analise": "Título contém nome próprio (Ancelotti) e gera expectativa/emoção sobre possíveis mudanças, alinhado às boas práticas.",
-          "sugestao": "Considerar adicionar número ou urgência: 'ANCELOTTI PODE PROMOVER 5 MUDANÇAS NO TITULAR DA SELEÇÃO' para aumentar clicabilidade."
+          "nota": "medio",
+          "analise": "Contém nome próprio (Ancelotti) e tema de impacto (mudanças), mas falta gatilho emocional ou pontuação provocadora. Título informativo mas pouco atrativo.",
+          "sugestao": "Reformular para: 'ANCELOTTI VAI MEXER NA SELEÇÃO? Mudanças EXPLOSIVAS na escalação' para aumentar curiosidade."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta, sem descrição do conteúdo, sem capítulos na descrição e sem call-to-action. Não aproveita oportunidade de SEO e contexto.",
-          "sugestao": "Expandir legenda com: sinopse do vídeo (2-3 linhas), capítulos com timestamps, hashtags relevantes (#SeleçãoBrasileira #Ancelotti #Futebol) e CTA de inscrição."
+          "analise": "Legenda extremamente curta e genérica, sem hook inicial, sem capítulos na descrição, sem CTA, sem hashtags funcionais. Não segue nenhuma boa prática de YouTube.",
+          "sugestao": "Expandir legenda com: hook intrigante (0s), capítulos dos pontos principais, CTA explícito para like/inscrição, hashtags relevantes (#SelecaoBrasileira #Ancelotti #Futebol)."
         },
-        "causa_baixa": "Apenas 5K views com 7 comentários indica baixa penetração e engajamento crítico. Legenda vazia/mínima prejudica descoberta por busca. Falta de contexto pode ter desestimulado cliques.",
-        "padrao": "Conteúdo potencial com boas práticas de títulos, mas execução incompleta em legenda e falta de otimização na descrição resultam em baixa performance."
+        "causa_baixa": "Legenda genérica sem estrutura adequada reduz cliques internos. Título pouco atrativo limita impressões. Possível thumbnail inexpressivo afasta cliques. Watch time provavelmente baixo devido falta de engajamento inicial e chapters.",
+        "padrao": "Conteúdo de futebol com potencial temático alto, mas execução técnica insuficiente em elementos de engajamento YouTube."
       }
     },
     {
@@ -302,24 +302,24 @@
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com engagement muito baixo (0 comentários, taxa de likes abaixo de 7%), indicando falta de conexão com a audiência.",
+        "resumo": "Vídeo com estrutura de clickbait eficaz mas performance abaixo do esperado, indicando falta de alcance ou engajamento insuficiente.",
         "thumb": {
-          "nota": "ruim",
-          "analise": "Sem dados visuais fornecidos, mas considerando a performance crítica, a thumbnail provavelmente não conseguiu capturar atenção ou gerar curiosidade suficiente para converter visualizações em interação.",
-          "sugestao": "Implementar rosto expressivo com destaque emocional (surpresa/preocupação sobre os jogadores) e adicionar texto em contraste alto com nomes 'NEY' e 'CASEMIRO'."
+          "nota": "medio",
+          "analise": "Legenda sugere uso de perguntas com nomes próprios (Neymar, Paquetá, Casemiro) que atrai cliques, mas sem informações sobre elementos visuais da thumbnail.",
+          "sugestao": "Confirmar se thumbnail possui rosto expressivo do jogador em destaque e texto sobreposto com pergunta principal em fonte grande e contrastante."
         },
         "titulo": {
-          "nota": "medio",
-          "analise": "Contém nomes próprios (Ney, Paquetá, Casemiro) e gera curiosidade com perguntas, mas falta punch emocional e contexto que indique urgência ou importância da situação.",
-          "sugestao": "Reforçar com palavras-chave emocionais como 'URGENTE', 'CHOQUE' ou adicionar contexto temporal ('ÚLTIMA HORA') para aumentar clicabilidade."
+          "nota": "bom",
+          "analise": "Título segue boas práticas com múltiplos nomes próprios (Ney, Paquetá, Casemiro) e pontuação emotiva com interrogações, gerando curiosidade.",
+          "sugestao": "Manter padrão de perguntas diretas com nomes, considerando adicionar emoji para aumentar destaque nos feeds."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta com apenas 3 perguntas genéricas em caps. Não inclui descrição substantiva, capítulos, links ou contexto que justifique o click-through ou incentive interação e retenção.",
-          "sugestao": "Expandir com: contexto das situações (lesões? polêmicas?), timestamps/capítulos numerados, call-to-action para comentários, links relevantes e descrição de 200+ caracteres."
+          "analise": "Legenda contém apenas o título em formato de perguntas, sem descrição, capítulos, links ou contexto adicional que poderia melhorar SEO e engajamento.",
+          "sugestao": "Adicionar descrição completa com timestamps dos capítulos, contexto sobre as notícias (transferências/desempenho) e link para mais conteúdo."
         },
-        "causa_baixa": "Engagement nulo (0 comentários) e taxa de likes crítica (6,3%) sugerem conteúdo genérico sem diferencial, legenda insuficiente para contexto, e possível falta de retenção visual. A audiência pode ter clicado por curiosidade dos nomes, mas não encontrou valor para comentar ou interagir.",
-        "padrao": "Conteúdo baseado em nomes e perguntas sensacionalistas sem substância narrativa ou call-to-action estruturado."
+        "causa_baixa": "Engajamento crítico com 0 comentários e apenas 159 likes para 2.5K views (6.4% de taxa) sugere falta de chamada à ação clara ou descrição insuficiente. Ausência de capítulos na descrição reduz watch time potencial.",
+        "padrao": "Clickbait estruturado em perguntas sobre futebolistas brasileiros, mas com execução de descrição deficiente e sem elementos complementares de retenção."
       }
     },
     {
@@ -327,33 +327,33 @@
       "date": "2026-06-06",
       "caption": "CANTARELLI E ENZO TRETAM SOBRE RAYAN NA COPA DO MUNDO",
       "type": "VIDEO",
-      "views": 2033,
-      "likes": 95,
-      "comments": 26,
+      "views": 2400,
+      "likes": 107,
+      "comments": 27,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com engajamento baixo (95 likes, 26 comentários) e título genérico que não segue as boas práticas de YouTube.",
+        "resumo": "Vídeo com potencial temático (Copa do Mundo) mas com baixíssima legenda e engajamento insuficiente.",
         "thumb": {
           "nota": "ruim",
-          "analise": "Sem informações disponíveis sobre thumbnail, mas a baixa taxa de cliques sugere visual pouco atrativo ou não otimizado com rosto expressivo e texto sobreposto conforme boas práticas.",
-          "sugestao": "Implementar thumbnail com rosto expressivo de Cantarelli ou Enzo com texto grande (ex: 'RAYAN NA COPA') e contraste de cores para aumentar CTR."
+          "analise": "Sem informações visuais disponíveis para análise, mas dado o baixo engajamento (107 likes em 2.4K views = 4.45%), suspeita-se que thumbnail não seguiu padrão de rosto expressivo + texto sobreposto.",
+          "sugestao": "Incluir rosto de Cantarelli ou Enzo com expressão intensa + texto em destaque como 'RAYAN NA COPA' em letras grandes e contraste alto."
         },
         "titulo": {
           "nota": "medio",
-          "analise": "Título menciona nomes próprios (Cantarelli, Enzo, Rayan) e Copa do Mundo, mas carece de gatilho emocional ou urgência. Utiliza formato 'tratam sobre' que é descritivo demais.",
-          "sugestao": "Reformular para: 'CANTARELLI E ENZO REVELAM VERDADE SOBRE RAYAN NA COPA' ou incluir emoção/surpresa para aumentar cliques."
+          "analise": "Título contém nome próprio (Cantarelli, Enzo, Rayan) e temática forte (Copa do Mundo), mas falta emoção/gatilho. É descritivo demais, pouco compelling.",
+          "sugestao": "Reescrever para: 'CANTARELLI E ENZO CHOCAM COM REVELAÇÃO SOBRE RAYAN NA COPA' ou adicionar emoji e emoção."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta e vazia de elementos essenciais. Faltam: hashtags relevantes, descrição do conteúdo, capítulos na descrição, links de interesse e call-to-action. Não segue padrão de otimização do YouTube.",
-          "sugestao": "Expandir legenda com sinopse do vídeo, timestamps de capítulos, hashtags relevantes (#CopaDomundo #Rayan), links e CTA para inscrição e comentários."
+          "analise": "Legenda extremamente curta e vazia. Sem descrição do conteúdo, sem capítulos, sem call-to-action, sem links ou contexto. Ignora completamente as boas práticas recomendadas.",
+          "sugestao": "Expandir legenda com sinopse do vídeo, timestamps com capítulos, links relevantes e call-to-action (se inscrever, comentar opinião)."
         },
-        "causa_baixa": "Título genérico sem emoção, legenda vazia e mal otimizada, ausência de hashtags e descrição adequada prejudicam descoberta orgânica. Thumbnail provavelmente não está otimizado conforme boas práticas de rosto expressivo + texto sobreposto.",
-        "padrao": "Conteúdo sobre futebol/Copa do Mundo com personalidades que depende fortemente de thumbnail e título otimizados para atrair cliques."
+        "causa_baixa": "Legenda praticamente inexistente prejudica descoberta por busca/algoritmo. Título sem gatilho emocional reduz click-through rate. Taxa de engajamento extremamente baixa (4.45%) sugere thumbnail e miniatura não capturam atenção adequadamente.",
+        "padrao": "Vídeo sobre personalidades + evento esportivo com abordagem genérica, sem otimização técnica de plataforma."
       }
     },
     {
@@ -361,33 +361,33 @@
       "date": "2026-06-06",
       "caption": "QUAL VAI SER O PIOR JOGO DA COPA DO MUNDO?",
       "type": "VIDEO",
-      "views": 7444,
-      "likes": 229,
-      "comments": 16,
+      "views": 8147,
+      "likes": 255,
+      "comments": 22,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com engagement baixo e legenda incompleta que não segue as boas práticas de otimização do YouTube.",
+        "resumo": "Vídeo com engajamento muito baixo apesar de título com gatilho emocional, prejudicado pela legenda vazia e falta de contexto.",
         "thumb": {
-          "nota": "ruim",
-          "analise": "Sem dados visuais disponíveis para análise, mas a baixa taxa de likes/views (3.1%) sugere que a thumbnail não está atrativa o suficiente.",
-          "sugestao": "Adicionar rosto expressivo e texto em contraste alto na thumbnail, com emoção clara sobre o tema 'pior jogo'."
+          "nota": "desconhecido",
+          "analise": "Não há informações sobre a thumbnail fornecidas na análise.",
+          "sugestao": "Presumindo que exista, inclua rosto expressivo com emoção forte e texto sobreposto como 'PIOR JOGO?' em letras grandes."
         },
         "titulo": {
-          "nota": "medio",
-          "analise": "Título em formato pergunta com potencial viral, mas falta emoção clara e nome próprio (equipes/jogadores) que personalizariam o conteúdo.",
-          "sugestao": "Reformular para 'O JOGO MAIS DECEPCIONANTE DA COPA 2026: [PAÍS] VS [PAÍS]' com emoção explícita."
+          "nota": "bom",
+          "analise": "Título usa gatilho emocional ('PIOR') e pergunta direta que desperta curiosidade, seguindo boas práticas de engajamento.",
+          "sugestao": "Adicionar nome próprio (Copa do Mundo 2026, seleção específica) para melhorar relevância: 'QUAL VAI SER O PIOR JOGO DA COPA 2026?'"
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta (apenas o título repetido), sem descrição, sem capítulos, sem links ou contexto adicional. Não segue nenhuma boa prática de otimização.",
-          "sugestao": "Expandir legenda com sinopse, timestamps de capítulos, links relevantes e palavras-chave relacionadas à Copa do Mundo 2026."
+          "analise": "Legenda vazia (apenas título repetido) sem descrição, contexto, capítulos ou links. Não segue nenhuma boa prática do YouTube.",
+          "sugestao": "Preencher descrição com: sinopse do vídeo, timestamps dos capítulos, links relevantes (redes sociais, vídeos relacionados) e palavras-chave naturais."
         },
-        "causa_baixa": "A legenda vazia e título genérico sem nome próprio reduzem a discoverabilidade. Combinado com thumbnail provavelmente pouco atrativa, o vídeo não consegue captar cliques ou manter watch time elevado.",
-        "padrao": "Conteúdo sobre competições com abordagem especulativa, mas sem otimização técnica suficiente para viralizar."
+        "causa_baixa": "Engajamento crítico (3.1% de likes sobre views, taxa de comentários muito baixa) sugere falta de descrição na legenda limitando descoberta, possível watch time baixo não informado, e ausência de chamada à ação estruturada.",
+        "padrao": "Conteúdo com potencial de título forte comprometido por execução técnica deficiente na descrição e metadados."
       }
     }
   ]
