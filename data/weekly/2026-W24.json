@@ -1,114 +1,107 @@
 {
-  "generated_at": "2026-06-15T21:39:57.871739",
-  "period_start": "2026-06-08",
-  "period_end": "2026-06-14",
-  "week_label": "2026-06-08 a 2026-06-14",
+  "generated_at": "2026-06-17T18:20:26.907399",
+  "period_start": "2026-06-10",
+  "period_end": "2026-06-16",
+  "week_label": "2026-06-10 a 2026-06-16",
   "metrics": {
-    "total_posts": 200,
-    "instagram_posts": 96,
-    "youtube_posts": 104,
-    "total_views": 5712772,
-    "total_likes": 297389,
-    "total_comments": 30842
+    "total_posts": 222,
+    "instagram_posts": 97,
+    "youtube_posts": 125,
+    "total_views": 5447553,
+    "total_likes": 241288,
+    "total_comments": 31015
   },
   "sponsor_stats": {
     "Sportingbet": {
-      "posts": 65,
-      "views": 4734261,
-      "likes": 240780,
-      "comments": 27529,
+      "posts": 67,
+      "views": 4470622,
+      "likes": 184665,
+      "comments": 27627,
       "tag": "#SportingbetNoCharla"
     },
     "Brahma": {
-      "posts": 47,
-      "views": 4133519,
-      "likes": 219734,
-      "comments": 23996,
+      "posts": 56,
+      "views": 4101900,
+      "likes": 172056,
+      "comments": 26543,
       "tag": "#BrahmaNoCharla"
     },
     "Melitta": {
-      "posts": 41,
-      "views": 3897171,
-      "likes": 208347,
-      "comments": 23620,
+      "posts": 47,
+      "views": 3776481,
+      "likes": 154814,
+      "comments": 25790,
       "tag": "#MelittaNoCharla"
     },
     "#TaLiberadoAcreditar": {
-      "posts": 42,
-      "views": 3144699,
-      "likes": 134204,
-      "comments": 21417,
+      "posts": 49,
+      "views": 3658066,
+      "likes": 153864,
+      "comments": 25123,
       "tag": "#TaLiberadoAcreditar"
     },
     "#CharlaNaCopa": {
-      "posts": 39,
-      "views": 2444091,
-      "likes": 109271,
-      "comments": 19333,
+      "posts": 34,
+      "views": 2621050,
+      "likes": 116745,
+      "comments": 21706,
       "tag": "#CharlaNaCopa"
     },
     "Assaí": {
-      "posts": 8,
-      "views": 663036,
-      "likes": 28059,
-      "comments": 3993,
+      "posts": 16,
+      "views": 914341,
+      "likes": 39148,
+      "comments": 3047,
       "tag": "#AssaiNoCharla"
     },
     "Absolut": {
-      "posts": 6,
-      "views": 253069,
-      "likes": 8411,
-      "comments": 2491,
+      "posts": 11,
+      "views": 526540,
+      "likes": 21782,
+      "comments": 1509,
       "tag": "#AbsolutNoCharla"
+    },
+    "#CharlaNaMix": {
+      "posts": 6,
+      "views": 105091,
+      "likes": 2489,
+      "comments": 58,
+      "tag": "#CharlaNaMix"
     },
     "Forneria": {
       "posts": 4,
-      "views": 215406,
-      "likes": 7396,
-      "comments": 2453,
+      "views": 104319,
+      "likes": 7209,
+      "comments": 420,
       "tag": "#ForneriaNoCharla"
-    },
-    "#CharlaNaMix": {
-      "posts": 9,
-      "views": 132409,
-      "likes": 4200,
-      "comments": 198,
-      "tag": "#CharlaNaMix"
-    },
-    "#CDQ344": {
-      "posts": 2,
-      "views": 69513,
-      "likes": 884,
-      "comments": 52,
-      "tag": "#CDQ344"
     },
     "#GranfinoNoCharla": {
       "posts": 2,
-      "views": 20005,
-      "likes": 1792,
-      "comments": 45,
+      "views": 32550,
+      "likes": 2130,
+      "comments": 60,
       "tag": "#GranfinoNoCharla"
+    },
+    "#736": {
+      "posts": 1,
+      "views": 0,
+      "likes": 291,
+      "comments": 4,
+      "tag": "#736"
     },
     "#735": {
       "posts": 1,
       "views": 0,
-      "likes": 801,
-      "comments": 101,
+      "likes": 864,
+      "comments": 132,
       "tag": "#735"
     },
     "#734": {
       "posts": 1,
       "views": 0,
-      "likes": 2759,
+      "likes": 2767,
       "comments": 288,
       "tag": "#734"
-    },
-    "#733": {
-      "posts": 1,
-      "views": 0,
-      "likes": 2146,
-      "comments": 39,
-      "tag": "#733"
     }
   },
   "top_posts": [
@@ -125,27 +118,9 @@
         "#TaLiberadoAcreditar"
       ],
       "type": "VIDEO",
-      "views": 562105,
-      "likes": 21536,
-      "comments": 9253,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "18120437941663361",
-      "date": "2026-06-08",
-      "caption": "PELÉ OU GARRINCHA? 👀\n\nHonrado por jogar com os dois, Jairzinho respondeu sobre quem prefere entre os gênios. \n\n#Sporting",
-      "url": "https://www.instagram.com/reel/DZVqEyUx3PB/",
-      "tags": [
-        "#SportingbetNoCharla",
-        "#BrahmaNoCharla",
-        "#MelittaNoCharla"
-      ],
-      "type": "VIDEO",
-      "views": 451175,
-      "likes": 42167,
-      "comments": 727,
+      "views": 598356,
+      "likes": 22916,
+      "comments": 9898,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -162,23 +137,49 @@
         "#TaLiberadoAcreditar"
       ],
       "type": "VIDEO",
-      "views": 310872,
-      "likes": 9030,
-      "comments": 187,
+      "views": 320763,
+      "likes": 9283,
+      "comments": 191,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
     },
     {
-      "id": "18134416534603840",
-      "date": "2026-06-13",
-      "caption": "os eua AMASSARAM o paraguai \n\nque loucura",
-      "url": "https://www.instagram.com/reel/DZgiyrxhpHX/",
-      "tags": [],
+      "id": "18065605049451893",
+      "date": "2026-06-16",
+      "caption": "QUE RELATO DO TALLES MAGNO! 👏🏻\n\nO jogador contou como foi sua história e os sacrifícios da família. Confere aí! \n\n#Sport",
+      "url": "https://www.instagram.com/reel/DZp2G8IMWMN/",
+      "tags": [
+        "#SportingbetNoCharla",
+        "#AssaiNoCharla",
+        "#BrahmaNoCharla",
+        "#MelittaNoCharla",
+        "#AbsolutNoCharla"
+      ],
       "type": "VIDEO",
-      "views": 214844,
-      "likes": 8928,
-      "comments": 330,
+      "views": 235278,
+      "likes": 13082,
+      "comments": 266,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18083304878649982",
+      "date": "2026-06-15",
+      "caption": "ATENTO NO MERCADO! \n\nBap relembrou a negociação frustrada com Arias e comentou sobre Danilo e Luiz Henrique.\n\n#CharlaNaC",
+      "url": "https://www.instagram.com/reel/DZns2zTMz2R/",
+      "tags": [
+        "#CharlaNaCopa",
+        "#SportingbetNoCharla",
+        "#BrahmaNoCharla",
+        "#MelittaNoCharla",
+        "#TaLiberadoAcreditar"
+      ],
+      "type": "VIDEO",
+      "views": 223700,
+      "likes": 5467,
+      "comments": 618,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -196,9 +197,23 @@
         "#TaLiberadoAcreditar"
       ],
       "type": "VIDEO",
-      "views": 209409,
-      "likes": 12905,
+      "views": 221998,
+      "likes": 13602,
       "comments": 109,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18134416534603840",
+      "date": "2026-06-13",
+      "caption": "os eua AMASSARAM o paraguai \n\nque loucura",
+      "url": "https://www.instagram.com/reel/DZgiyrxhpHX/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 215454,
+      "likes": 8934,
+      "comments": 329,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -215,46 +230,9 @@
         "#TaLiberadoAcreditar"
       ],
       "type": "VIDEO",
-      "views": 181288,
-      "likes": 7263,
-      "comments": 1113,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "18007217654922293",
-      "date": "2026-06-08",
-      "caption": "QUE JOGADOR ERA O GARRINCHA! 👏🏻\n\nJairzinho falou sobre seu ídolo e companheiro de títulos no futebol, Garrincha. Que dup",
-      "url": "https://www.instagram.com/reel/DZVh_kYR4mq/",
-      "tags": [
-        "#SportingbetNoCharla",
-        "#BrahmaNoCharla",
-        "#MelittaNoCharla"
-      ],
-      "type": "VIDEO",
-      "views": 179499,
-      "likes": 15918,
-      "comments": 512,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "18166592917427739",
-      "date": "2026-06-08",
-      "caption": "O PANTERA É POUCO VALORIZADO? \n\nDurante a Charla, Donizete Pantera falou sobre seleção e também de se sentir pouco valor",
-      "url": "https://www.instagram.com/reel/DZVTDvZBo1i/",
-      "tags": [
-        "#SportingbetNoCharla",
-        "#BrahmaNoCharla",
-        "#AssaiNoCharla",
-        "#MelittaNoCharla"
-      ],
-      "type": "VIDEO",
-      "views": 172851,
-      "likes": 9757,
-      "comments": 1086,
+      "views": 182079,
+      "likes": 7275,
+      "comments": 1114,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -272,9 +250,9 @@
         "#AssaiNoCharla"
       ],
       "type": "VIDEO",
-      "views": 144899,
-      "likes": 7815,
-      "comments": 217,
+      "views": 156991,
+      "likes": 8304,
+      "comments": 228,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -292,28 +270,40 @@
         "#TaLiberadoAcreditar"
       ],
       "type": "VIDEO",
-      "views": 134083,
-      "likes": 6295,
-      "comments": 698,
+      "views": 140117,
+      "likes": 6546,
+      "comments": 728,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "17889884466559609",
+      "date": "2026-06-14",
+      "caption": "“A TOLERÂNCIA DA ARBITRAGEM COM O FLAMENGO É MENOR DO QUE COM O PALMEIRAS”\n\nBap fala sobre as polêmicas de arbitragem en",
+      "url": "https://www.instagram.com/reel/DZlVDEVP5uL/",
+      "tags": [
+        "#CharlaNaCopa",
+        "#SportingbetNoCharla",
+        "#BrahmaNoCharla",
+        "#MelittaNoCharla",
+        "#TaLiberadoAcreditar"
+      ],
+      "type": "VIDEO",
+      "views": 124159,
+      "likes": 3708,
+      "comments": 2020,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
     }
   ],
   "ai_summary": {
-    "resumo_semana": "Semana excepcional para o Charla Podcast com 5.7M de visualizações distribuídas entre 200 posts (96 no Instagram, 104 no YouTube). O conteúdo de natureza jurídica e esportiva dominou o engajamento, alcançando 297.4K likes e 30.8K comentários. A Sportingbet consolidou-se como maior driver de tráfego com 4.7M views em 65 posts.",
-    "destaque_semana": "Post sobre a Justiça e questões legais com Bap gerou 562.1K views, seguido pela comparação lendária entre Pelé e Garrincha com Jairzinho (451.2K views), demonstrando que conteúdo de debate sobre ícones e temas polêmicos gera máximo engajamento.",
-    "padroes": [
-      "Conteúdo com personalidades consagradas e nostalgia esportiva (Pelé, Garrincha, Jairzinho) performam 30-40% acima da média",
-      "Posts com interrogações e 'VS' no título aumentam cliques e comentários em 25%",
-      "Sportingbet lidera em conversão (4.1% de taxa de engajamento), seguido por Brahma e Melitta"
-    ],
-    "recomendacoes": [
-      "Replicar formato de 'quem prefere' com outras lendas do esporte nos próximos posts para manter momentum de engajamento alto",
-      "Aumentar frequência de conteúdo jurídico/legal em parceria com especialistas - mostrou-se nicho de alto interesse",
-      "Otimizar distribuição Sportingbet para 75+ posts semanais, dado seu desempenho superior em ROI"
-    ],
-    "analise_patrocinadores": "Sportingbet domina com 4.7M views e 268.3K interações em 65 posts, apresentando a melhor taxa de conversão (4.13%). Brahma mantém segunda posição sólida com 4.1M views, enquanto Melitta, #TaLiberadoAcreditar e #CharlaNaCopa completam o mix com desempenhos satisfatórios mas menores. A estratégia de múltiplos patrocinadores está equilibrada.",
-    "proximo_foco": "Focar em série de 'Lendas do Esporte' com debates polêmicos e comparativas, combinando Instagram Reels curtos (15-30s) com vídeos YouTube mais longos. Considerar ampliar conteúdo sobre temas jurídicos/políticos com especialistas convidados."
+    "resumo_semana": "—",
+    "destaque_semana": "—",
+    "padroes": [],
+    "recomendacoes": [],
+    "analise_patrocinadores": "—",
+    "proximo_foco": "—"
   }
 }
