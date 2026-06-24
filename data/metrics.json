@@ -220,6 +220,16 @@
         "reach": 0,
         "impressions": 0,
         "likes": 1567
+      },
+      {
+        "date": "2026-06-24",
+        "followers": 941560,
+        "following": 1105,
+        "media_count": 6585,
+        "views": 0,
+        "reach": 0,
+        "impressions": 0,
+        "likes": 0
       }
     ],
     "posts": [
@@ -236,9 +246,9 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 6320,
-        "likes": 188,
-        "comments": 9,
+        "views": 16466,
+        "likes": 493,
+        "comments": 31,
         "shares": 0,
         "saves": 0
       },
@@ -255,8 +265,8 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 3636,
-        "likes": 90,
+        "views": 8307,
+        "likes": 181,
         "comments": 1,
         "shares": 0,
         "saves": 0
@@ -268,9 +278,130 @@
         "url": "https://www.instagram.com/reel/DZ7ddGVh810/",
         "tags": [],
         "type": "VIDEO",
-        "views": 26473,
-        "likes": 1289,
-        "comments": 183,
+        "views": 62390,
+        "likes": 3811,
+        "comments": 382,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18173222395423758",
+        "date": "2026-06-23",
+        "caption": "O LUGAR DAS MELHORES RESENHAS! 🦉😂\n\nAmanhã é dia de falar sobre o jogo do Brasil e de contar muita história. Se liga na h",
+        "url": "https://www.instagram.com/p/DZ8cw1PgrZn/",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#AssaiNoCharla",
+          "#BrahmaNoCharla",
+          "#ForneriaNoCharla",
+          "#TaLiberadoAcreditar"
+        ],
+        "type": "IMAGE",
+        "views": 0,
+        "likes": 89,
+        "comments": 9,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18074065811689182",
+        "date": "2026-06-23",
+        "caption": "AMANHÃ TEM BRASIL EM CAMPO!\n\nBora pra mais um pré-jogo daquele jeito que todo mundo gosta, com bastante resenha. Dessa v",
+        "url": "https://www.instagram.com/p/DZ8btYKOrb7/",
+        "tags": [
+          "#CharlaNaCopa",
+          "#GranfinoNoCharla",
+          "#SportingbetNoCharla",
+          "#BrahmaNoCharla",
+          "#TaLiberadoAcreditar"
+        ],
+        "type": "IMAGE",
+        "views": 0,
+        "likes": 71,
+        "comments": 4,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "17890975350561169",
+        "date": "2026-06-23",
+        "caption": "QUEM VAI ENTRAR NO LUGAR DO RAPHINHA? \n\n#CharlaNaMix",
+        "url": "https://www.instagram.com/reel/DZ8YpNDvdyg/",
+        "tags": [
+          "#CharlaNaMix"
+        ],
+        "type": "VIDEO",
+        "views": 19923,
+        "likes": 479,
+        "comments": 68,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18270753466292992",
+        "date": "2026-06-23",
+        "caption": "Vini tá voando na Copa! QUE CONTINUE 🙌🏼\n\n#MelittaNoCharla",
+        "url": "https://www.instagram.com/reel/DZ8VgG6u6fl/",
+        "tags": [
+          "#MelittaNoCharla"
+        ],
+        "type": "VIDEO",
+        "views": 24506,
+        "likes": 1880,
+        "comments": 123,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18343020862219245",
+        "date": "2026-06-23",
+        "caption": "QUEM AÍ TAMBÉM QUER VER O NEYMAR EM CAMPO? \n\nMude pra Tim Ultra Fibra e tenha 700mb de internet, além de Globoplay já in",
+        "url": "https://www.instagram.com/reel/DZ8SIO4PEGU/",
+        "tags": [
+          "#CharlaNaMix"
+        ],
+        "type": "VIDEO",
+        "views": 13667,
+        "likes": 275,
+        "comments": 17,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "17859927909630367",
+        "date": "2026-06-23",
+        "caption": "Aí complica, Tartá... 😂😂\n\n#SportingbetNoCharla #AssaiNoCharla #BrahmaNoCharla #ForneriaNoCharla #TaLiberadoAcreditar",
+        "url": "https://www.instagram.com/reel/DZ8MGUjt5HA/",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#AssaiNoCharla",
+          "#BrahmaNoCharla",
+          "#ForneriaNoCharla",
+          "#TaLiberadoAcreditar"
+        ],
+        "type": "VIDEO",
+        "views": 176669,
+        "likes": 11092,
+        "comments": 321,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "17955725304156699",
+        "date": "2026-06-23",
+        "caption": "O MADRUGADÃO É ABSURDO KKKKKKKKKKK\n\nSe liga nessas resenhas do Tartá. Quem não gosta do Madrugadão, tá vivendo errado! \n",
+        "url": "https://www.instagram.com/reel/DZ8KjNkh-oL/",
+        "tags": [
+          "#SportingbetNoCharla",
+          "#AssaiNoCharla",
+          "#BrahmaNoCharla",
+          "#ForneriaNoCharla",
+          "#TaLiberadoAcreditar"
+        ],
+        "type": "VIDEO",
+        "views": 110969,
+        "likes": 6957,
+        "comments": 115,
         "shares": 0,
         "saves": 0
       },
@@ -282,7 +413,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 909,
+        "likes": 984,
         "comments": 12,
         "shares": 0,
         "saves": 0
@@ -295,8 +426,8 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 37,
-        "comments": 4,
+        "likes": 43,
+        "comments": 5,
         "shares": 0,
         "saves": 0
       },
@@ -308,7 +439,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 238,
+        "likes": 242,
         "comments": 36,
         "shares": 0,
         "saves": 0
@@ -326,9 +457,9 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 42098,
-        "likes": 1154,
-        "comments": 763,
+        "views": 49079,
+        "likes": 1413,
+        "comments": 961,
         "shares": 0,
         "saves": 0
       },
@@ -345,9 +476,9 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 49274,
-        "likes": 1757,
-        "comments": 1562,
+        "views": 54978,
+        "likes": 1978,
+        "comments": 1802,
         "shares": 0,
         "saves": 0
       },
@@ -359,8 +490,8 @@
         "tags": [],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 1582,
-        "comments": 36,
+        "likes": 1700,
+        "comments": 40,
         "shares": 0,
         "saves": 0
       },
@@ -372,8 +503,8 @@
         "tags": [],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 2770,
-        "comments": 38,
+        "likes": 3782,
+        "comments": 47,
         "shares": 0,
         "saves": 0
       },
@@ -384,8 +515,8 @@
         "url": "https://www.instagram.com/reel/DZ0_t7IOP7X/",
         "tags": [],
         "type": "VIDEO",
-        "views": 39993,
-        "likes": 1674,
+        "views": 40953,
+        "likes": 1702,
         "comments": 40,
         "shares": 0,
         "saves": 0
@@ -401,9 +532,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 311110,
-        "likes": 8695,
-        "comments": 55,
+        "views": 321364,
+        "likes": 8959,
+        "comments": 57,
         "shares": 0,
         "saves": 0
       },
@@ -417,9 +548,9 @@
           "#SportingbetNoCharla"
         ],
         "type": "VIDEO",
-        "views": 505084,
-        "likes": 31461,
-        "comments": 230,
+        "views": 516771,
+        "likes": 31974,
+        "comments": 233,
         "shares": 0,
         "saves": 0
       },
@@ -434,9 +565,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 156673,
-        "likes": 6879,
-        "comments": 755,
+        "views": 165573,
+        "likes": 7246,
+        "comments": 813,
         "shares": 0,
         "saves": 0
       },
@@ -451,9 +582,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 54885,
-        "likes": 2279,
-        "comments": 17,
+        "views": 56205,
+        "likes": 2311,
+        "comments": 18,
         "shares": 0,
         "saves": 0
       },
@@ -469,8 +600,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 10192,
-        "likes": 385,
+        "views": 10516,
+        "likes": 389,
         "comments": 11,
         "shares": 0,
         "saves": 0
@@ -488,8 +619,8 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 18891,
-        "likes": 440,
+        "views": 19248,
+        "likes": 445,
         "comments": 16,
         "shares": 0,
         "saves": 0
@@ -507,8 +638,8 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 40365,
-        "likes": 1648,
+        "views": 41434,
+        "likes": 1694,
         "comments": 9,
         "shares": 0,
         "saves": 0
@@ -525,7 +656,7 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 7243,
+        "views": 7364,
         "likes": 130,
         "comments": 20,
         "shares": 0,
@@ -543,7 +674,7 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 23776,
+        "views": 23955,
         "likes": 809,
         "comments": 118,
         "shares": 0,
@@ -558,7 +689,7 @@
           "#CharlaNaCopa"
         ],
         "type": "VIDEO",
-        "views": 9876,
+        "views": 10000,
         "likes": 264,
         "comments": 20,
         "shares": 0,
@@ -573,8 +704,8 @@
           "#CharlaNaMix"
         ],
         "type": "VIDEO",
-        "views": 12616,
-        "likes": 661,
+        "views": 12842,
+        "likes": 664,
         "comments": 28,
         "shares": 0,
         "saves": 0
@@ -588,8 +719,8 @@
           "#CharlaNaMix"
         ],
         "type": "VIDEO",
-        "views": 8290,
-        "likes": 271,
+        "views": 8482,
+        "likes": 272,
         "comments": 9,
         "shares": 0,
         "saves": 0
@@ -603,8 +734,8 @@
           "#CharlaNaMix"
         ],
         "type": "VIDEO",
-        "views": 15699,
-        "likes": 902,
+        "views": 16011,
+        "likes": 905,
         "comments": 34,
         "shares": 0,
         "saves": 0
@@ -616,8 +747,8 @@
         "url": "https://www.instagram.com/reel/DZyh3Lovo7w/",
         "tags": [],
         "type": "VIDEO",
-        "views": 9891,
-        "likes": 315,
+        "views": 10046,
+        "likes": 316,
         "comments": 41,
         "shares": 0,
         "saves": 0
@@ -634,9 +765,9 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 122044,
-        "likes": 14479,
-        "comments": 117,
+        "views": 124409,
+        "likes": 14720,
+        "comments": 122,
         "shares": 0,
         "saves": 0
       },
@@ -652,9 +783,9 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 102924,
-        "likes": 7595,
-        "comments": 564,
+        "views": 107483,
+        "likes": 7977,
+        "comments": 588,
         "shares": 0,
         "saves": 0
       },
@@ -670,9 +801,9 @@
           "#BrahmaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 49297,
-        "likes": 1788,
-        "comments": 43,
+        "views": 50859,
+        "likes": 1852,
+        "comments": 54,
         "shares": 0,
         "saves": 0
       },
@@ -688,8 +819,8 @@
           "#BrahmaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 10748,
-        "likes": 196,
+        "views": 11384,
+        "likes": 205,
         "comments": 6,
         "shares": 0,
         "saves": 0
@@ -701,9 +832,9 @@
         "url": "https://www.instagram.com/reel/DZ0uaeOOzUD/",
         "tags": [],
         "type": "VIDEO",
-        "views": 115302,
-        "likes": 5369,
-        "comments": 885,
+        "views": 116989,
+        "likes": 5422,
+        "comments": 898,
         "shares": 0,
         "saves": 0
       },
@@ -717,9 +848,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 157102,
-        "likes": 3892,
-        "comments": 1206,
+        "views": 158852,
+        "likes": 3914,
+        "comments": 1226,
         "shares": 0,
         "saves": 0
       },
@@ -734,8 +865,8 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 76130,
-        "likes": 3193,
+        "views": 77003,
+        "likes": 3212,
         "comments": 57,
         "shares": 0,
         "saves": 0
@@ -751,8 +882,8 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 21426,
-        "likes": 558,
+        "views": 21878,
+        "likes": 564,
         "comments": 12,
         "shares": 0,
         "saves": 0
@@ -768,9 +899,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 273502,
-        "likes": 9726,
-        "comments": 422,
+        "views": 275150,
+        "likes": 9770,
+        "comments": 427,
         "shares": 0,
         "saves": 0
       },
@@ -785,9 +916,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 22559,
-        "likes": 714,
-        "comments": 12,
+        "views": 22994,
+        "likes": 721,
+        "comments": 13,
         "shares": 0,
         "saves": 0
       },
@@ -802,9 +933,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 61191,
-        "likes": 2126,
-        "comments": 117,
+        "views": 61879,
+        "likes": 2144,
+        "comments": 121,
         "shares": 0,
         "saves": 0
       },
@@ -819,9 +950,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 42869,
-        "likes": 2581,
-        "comments": 50,
+        "views": 43222,
+        "likes": 2591,
+        "comments": 53,
         "shares": 0,
         "saves": 0
       },
@@ -836,9 +967,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 91792,
-        "likes": 4277,
-        "comments": 63,
+        "views": 95222,
+        "likes": 4416,
+        "comments": 67,
         "shares": 0,
         "saves": 0
       },
@@ -853,9 +984,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 177243,
-        "likes": 6537,
-        "comments": 182,
+        "views": 179503,
+        "likes": 6608,
+        "comments": 188,
         "shares": 0,
         "saves": 0
       },
@@ -867,7 +998,7 @@
         "tags": [],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 172,
+        "likes": 174,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -880,7 +1011,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 331,
+        "likes": 334,
         "comments": 7,
         "shares": 0,
         "saves": 0
@@ -906,7 +1037,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 362,
+        "likes": 363,
         "comments": 9,
         "shares": 0,
         "saves": 0
@@ -932,7 +1063,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 270,
+        "likes": 271,
         "comments": 15,
         "shares": 0,
         "saves": 0
@@ -945,7 +1076,7 @@
         "tags": [],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 622,
+        "likes": 629,
         "comments": 22,
         "shares": 0,
         "saves": 0
@@ -960,7 +1091,7 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 160,
+        "likes": 161,
         "comments": 13,
         "shares": 0,
         "saves": 0
@@ -978,8 +1109,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 314524,
-        "likes": 11186,
+        "views": 316393,
+        "likes": 11234,
         "comments": 143,
         "shares": 0,
         "saves": 0
@@ -996,8 +1127,8 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 25288,
-        "likes": 620,
+        "views": 25571,
+        "likes": 622,
         "comments": 72,
         "shares": 0,
         "saves": 0
@@ -1014,9 +1145,9 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 58016,
-        "likes": 3291,
-        "comments": 485,
+        "views": 62398,
+        "likes": 3608,
+        "comments": 519,
         "shares": 0,
         "saves": 0
       },
@@ -1031,8 +1162,8 @@
           "#BrahmaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 9397,
-        "likes": 176,
+        "views": 9583,
+        "likes": 179,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -1049,9 +1180,9 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 25359,
-        "likes": 559,
-        "comments": 145,
+        "views": 25643,
+        "likes": 563,
+        "comments": 146,
         "shares": 0,
         "saves": 0
       },
@@ -1066,8 +1197,8 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 35115,
-        "likes": 232,
+        "views": 35565,
+        "likes": 235,
         "comments": 3,
         "shares": 0,
         "saves": 0
@@ -1084,9 +1215,9 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 14198,
-        "likes": 588,
-        "comments": 17,
+        "views": 14419,
+        "likes": 596,
+        "comments": 18,
         "shares": 0,
         "saves": 0
       },
@@ -1101,9 +1232,9 @@
           "#MelittaNoCharla"
         ],
         "type": "VIDEO",
-        "views": 611531,
-        "likes": 46958,
-        "comments": 987,
+        "views": 626609,
+        "likes": 48163,
+        "comments": 1004,
         "shares": 0,
         "saves": 0
       },
@@ -1119,7 +1250,7 @@
         ],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 815,
+        "likes": 820,
         "comments": 20,
         "shares": 0,
         "saves": 0
@@ -1137,8 +1268,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 99401,
-        "likes": 3583,
+        "views": 100122,
+        "likes": 3598,
         "comments": 42,
         "shares": 0,
         "saves": 0
@@ -1175,8 +1306,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 40354,
-        "likes": 1199,
+        "views": 40694,
+        "likes": 1203,
         "comments": 76,
         "shares": 0,
         "saves": 0
@@ -1191,7 +1322,7 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 964,
+        "likes": 976,
         "comments": 20,
         "shares": 0,
         "saves": 0
@@ -1209,8 +1340,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 205148,
-        "likes": 6415,
+        "views": 205614,
+        "likes": 6420,
         "comments": 355,
         "shares": 0,
         "saves": 0
@@ -1223,7 +1354,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 3126,
+        "likes": 3141,
         "comments": 25,
         "shares": 0,
         "saves": 0
@@ -1241,8 +1372,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 17653,
-        "likes": 558,
+        "views": 17947,
+        "likes": 566,
         "comments": 5,
         "shares": 0,
         "saves": 0
@@ -1260,8 +1391,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 8983,
-        "likes": 143,
+        "views": 9071,
+        "likes": 144,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -1279,7 +1410,7 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 138,
+        "likes": 139,
         "comments": 19,
         "shares": 0,
         "saves": 0
@@ -1296,7 +1427,7 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 129,
+        "likes": 131,
         "comments": 6,
         "shares": 0,
         "saves": 0
@@ -1310,7 +1441,7 @@
           "#CharlaNaMix"
         ],
         "type": "VIDEO",
-        "views": 7803,
+        "views": 7941,
         "likes": 138,
         "comments": 3,
         "shares": 0,
@@ -1329,8 +1460,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 31158,
-        "likes": 1233,
+        "views": 31411,
+        "likes": 1238,
         "comments": 14,
         "shares": 0,
         "saves": 0
@@ -1348,7 +1479,7 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 16034,
+        "views": 16349,
         "likes": 182,
         "comments": 4,
         "shares": 0,
@@ -1367,9 +1498,9 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 28597,
-        "likes": 644,
-        "comments": 333,
+        "views": 28769,
+        "likes": 649,
+        "comments": 334,
         "shares": 0,
         "saves": 0
       },
@@ -1386,9 +1517,9 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 32154,
-        "likes": 1658,
-        "comments": 460,
+        "views": 32713,
+        "likes": 1700,
+        "comments": 468,
         "shares": 0,
         "saves": 0
       },
@@ -1405,8 +1536,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 40366,
-        "likes": 2253,
+        "views": 40551,
+        "likes": 2258,
         "comments": 165,
         "shares": 0,
         "saves": 0
@@ -1418,9 +1549,9 @@
         "url": "https://www.instagram.com/reel/DZq82PLh6DK/",
         "tags": [],
         "type": "VIDEO",
-        "views": 41166,
-        "likes": 2681,
-        "comments": 962,
+        "views": 41683,
+        "likes": 2696,
+        "comments": 995,
         "shares": 0,
         "saves": 0
       },
@@ -1437,8 +1568,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 11409,
-        "likes": 269,
+        "views": 11499,
+        "likes": 270,
         "comments": 28,
         "shares": 0,
         "saves": 0
@@ -1450,9 +1581,9 @@
         "url": "https://www.instagram.com/reel/DZtCD2UurL2/",
         "tags": [],
         "type": "VIDEO",
-        "views": 21960,
-        "likes": 1783,
-        "comments": 53,
+        "views": 22187,
+        "likes": 1790,
+        "comments": 54,
         "shares": 0,
         "saves": 0
       },
@@ -1465,8 +1596,8 @@
           "#SportingbetNoCharla"
         ],
         "type": "VIDEO",
-        "views": 21331,
-        "likes": 495,
+        "views": 21432,
+        "likes": 496,
         "comments": 9,
         "shares": 0,
         "saves": 0
@@ -1484,8 +1615,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 10256,
-        "likes": 174,
+        "views": 10412,
+        "likes": 175,
         "comments": 3,
         "shares": 0,
         "saves": 0
@@ -1497,7 +1628,7 @@
         "url": "https://www.instagram.com/reel/DZqJiN1PXL1/",
         "tags": [],
         "type": "VIDEO",
-        "views": 20671,
+        "views": 20741,
         "likes": 1434,
         "comments": 8,
         "shares": 0,
@@ -1512,7 +1643,7 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 16733,
+        "views": 16792,
         "likes": 1003,
         "comments": 10,
         "shares": 0,
@@ -1531,8 +1662,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 32044,
-        "likes": 929,
+        "views": 32144,
+        "likes": 930,
         "comments": 29,
         "shares": 0,
         "saves": 0
@@ -1550,7 +1681,7 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 7287,
+        "views": 7327,
         "likes": 229,
         "comments": 4,
         "shares": 0,
@@ -1569,8 +1700,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 7973,
-        "likes": 123,
+        "views": 8034,
+        "likes": 124,
         "comments": 6,
         "shares": 0,
         "saves": 0
@@ -1588,8 +1719,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 274615,
-        "likes": 14980,
+        "views": 275285,
+        "likes": 14993,
         "comments": 299,
         "shares": 0,
         "saves": 0
@@ -1604,7 +1735,7 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 326,
+        "likes": 330,
         "comments": 4,
         "shares": 0,
         "saves": 0
@@ -1622,8 +1753,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 29694,
-        "likes": 765,
+        "views": 29772,
+        "likes": 766,
         "comments": 84,
         "shares": 0,
         "saves": 0
@@ -1641,8 +1772,8 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 19020,
-        "likes": 293,
+        "views": 19096,
+        "likes": 294,
         "comments": 13,
         "shares": 0,
         "saves": 0
@@ -1667,8 +1798,8 @@
         "url": "https://www.instagram.com/reel/DZqaVoivn7k/",
         "tags": [],
         "type": "VIDEO",
-        "views": 50278,
-        "likes": 2068,
+        "views": 50541,
+        "likes": 2074,
         "comments": 38,
         "shares": 0,
         "saves": 0
@@ -1686,9 +1817,9 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 167790,
-        "likes": 4274,
-        "comments": 1411,
+        "views": 169912,
+        "likes": 4325,
+        "comments": 1420,
         "shares": 0,
         "saves": 0
       },
@@ -1701,7 +1832,7 @@
           "#AbsolutNoCharla"
         ],
         "type": "VIDEO",
-        "views": 8477,
+        "views": 8570,
         "likes": 113,
         "comments": 3,
         "shares": 0,
@@ -1720,8 +1851,8 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 232971,
-        "likes": 5653,
+        "views": 233303,
+        "likes": 5662,
         "comments": 645,
         "shares": 0,
         "saves": 0
@@ -1873,7 +2004,7 @@
           "#TaLiberadoAcreditar"
         ],
         "type": "VIDEO",
-        "views": 12608,
+        "views": 12650,
         "likes": 169,
         "comments": 19,
         "shares": 0,
@@ -1893,8 +2024,8 @@
         ],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 1385,
-        "comments": 104,
+        "likes": 1407,
+        "comments": 106,
         "shares": 0,
         "saves": 0
       },
@@ -30049,101 +30180,6 @@
         "comments": 22,
         "shares": 0,
         "saves": 0
-      },
-      {
-        "id": "18125113138513560",
-        "date": "2025-11-25",
-        "caption": "“IGUAL A TORCIDA DO VASCO NÃO TEM!”\n\nO zagueiro Maicon, que já passou por grandes clubes do mundo inteiro, colocou a torcida do Vasco no topo das mais apaixonadas no futebol.",
-        "url": "https://www.instagram.com/reel/DRfiJOyEnRI/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 355472,
-        "likes": 47838,
-        "comments": 890,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18085207115080731",
-        "date": "2025-11-25",
-        "caption": "Charla #662 - Marcelo Cabo\n\nTreinador do Santa Cruz, Marcelo Cabo é o convidado de hoje do Charla.\n\nVem pro Charla, mané 🚀🔥\n\nLink nos stories ⬆️\n\n📸: @bernardofalcaob",
-        "url": "https://www.instagram.com/p/DRfclPrkgMw/",
-        "tags": [
-          "#662"
-        ],
-        "type": "CAROUSEL_ALBUM",
-        "views": 0,
-        "likes": 2983,
-        "comments": 102,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18084456962046648",
-        "date": "2025-11-25",
-        "caption": "“O CORITIBA VAI FAZER PARTE DO MEU CORAÇÃO.”\n\nCampeão da Série B pelo Coxa, Maicon se declarou ao time paranaense e falou sobre a campanha histórica que foi coroada com o título.",
-        "url": "https://www.instagram.com/reel/DRfNe1hkeX3/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 349920,
-        "likes": 20413,
-        "comments": 336,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "17962221233859219",
-        "date": "2025-11-25",
-        "caption": "PODE SER O JOGO DO TÍTULO PRO MENGÃO! \n\nO Flamengo encara o Atlético-MG e conta com um tropeço do Palmeiras para conquistar mais um Campeonato Brasileiro. \n\nVocê vê esse jogão com o Charla no Premiere, escalado com @cantarellibruno, @obetojunior_, @carol13galoo e @matheusmanel.\n\nVem pro Charla no Premiere, mané!",
-        "url": "https://www.instagram.com/p/DRfDhF3kQXk/",
-        "tags": [],
-        "type": "IMAGE",
-        "views": 0,
-        "likes": 204,
-        "comments": 10,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18065188919149699",
-        "date": "2025-11-25",
-        "caption": "ALÔ, TORCIDA DO SANTA CRUZ! \n\nO comandante Marcelo Cabo vem pra resenha aqui no Charla, hoje, às 16h.",
-        "url": "https://www.instagram.com/p/DRe-c3IEQkU/",
-        "tags": [],
-        "type": "IMAGE",
-        "views": 0,
-        "likes": 221,
-        "comments": 13,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "17960944925866905",
-        "date": "2025-11-25",
-        "caption": "Charla #661 - Maicon\n\nZagueiro do Coritiba, Maicon é o convidado de hoje do Charla.\n\nVem pro Charla, mané 🚀🔥\n\nLink nos stories ⬆️\n\n📸: @bernardofalcaob",
-        "url": "https://www.instagram.com/p/DRe3-Y0jf8S/",
-        "tags": [
-          "#661"
-        ],
-        "type": "CAROUSEL_ALBUM",
-        "views": 0,
-        "likes": 773,
-        "comments": 16,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18020924441607808",
-        "date": "2025-11-25",
-        "caption": "É O GOD OF ZAGA NO CHARLA, MANÉ! \n\nMaicon, atual campeão da Série B com o Coritiba, e ex-zagueiro de São Paulo, Vasco e Santos, vem pra resenha. \n\nÉ hoje, às 10h30!",
-        "url": "https://www.instagram.com/p/DReb2BIlWjk/",
-        "tags": [],
-        "type": "IMAGE",
-        "views": 0,
-        "likes": 633,
-        "comments": 14,
-        "shares": 0,
-        "saves": 0
       }
     ]
   },
@@ -30328,17 +30364,48 @@
         "likes": 607,
         "comments": 4,
         "shares": 0
+      },
+      {
+        "date": "2026-06-24",
+        "followers": 1230000,
+        "views": 521533683,
+        "video_count": 12378,
+        "likes": 554,
+        "comments": 1,
+        "shares": 0
       }
     ],
     "posts": [
+      {
+        "id": "tqRC55hIMzI",
+        "date": "2026-06-24",
+        "caption": "DIA DE BRASIL X ESCÓCIA! QUAL SERÁ A EQUIPE TITULAR? NEYMAR VAI JOGAR? | CHARLA DE COPA",
+        "type": "VIDEO",
+        "views": 3064,
+        "likes": 426,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "HbpTzSEE5KI",
+        "date": "2026-06-24",
+        "caption": "CR7 FEZ HISTÓRIA! ROYAL NA INGLATERRA? RAYAN TITULAR?",
+        "type": "VIDEO",
+        "views": 1651,
+        "likes": 128,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
       {
         "id": "-oBZNrlAZAs",
         "date": "2026-06-23",
         "caption": "QUEM É O MAIOR DA HISTÓRIA? BRASIL AVANÇA EM 1º LUGAR? | CHARLA DE COPA",
         "type": "VIDEO",
-        "views": 3191,
-        "likes": 477,
-        "comments": 2,
+        "views": 6188,
+        "likes": 535,
+        "comments": 7,
         "shares": 0,
         "saves": 0
       },
@@ -30350,6 +30417,248 @@
         "views": 1789,
         "likes": 130,
         "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "NN5rxCekn0Q",
+        "date": "2026-06-23",
+        "caption": "PVC CONTA HISTÓRIA HILÁRIA DE NARRAÇÃO COM LUCIANO DO VALLE!",
+        "type": "VIDEO",
+        "views": 37401,
+        "likes": 798,
+        "comments": 7,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "vB6L7CIjy7c",
+        "date": "2026-06-23",
+        "caption": "RESENHAS IMPAGÁVEIS DE BAR E GARÇONS",
+        "type": "VIDEO",
+        "views": 4857,
+        "likes": 135,
+        "comments": 3,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "7PN6rsvqmrM",
+        "date": "2026-06-23",
+        "caption": "O QUE FOI MODA ENTRE OS JOGADORES NOS ANOS 2000? TARTA CONTA",
+        "type": "VIDEO",
+        "views": 3681,
+        "likes": 168,
+        "comments": 4,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "OkV3zUK0XNI",
+        "date": "2026-06-23",
+        "caption": "COMO VAI SER O JOGO ENTRE BRASIL X ESCÓCIA?",
+        "type": "VIDEO",
+        "views": 287,
+        "likes": 6,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "tvAY8xduo5M",
+        "date": "2026-06-23",
+        "caption": "ENTREVISTA EXCLUSIVA COM O PAI DE GABRIEL MAGALHÃES EM NY!",
+        "type": "VIDEO",
+        "views": 288,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "R7_meQ3MsGU",
+        "date": "2026-06-23",
+        "caption": "VINI É O CRAQUE DO BRASIL NA COPA? ELE VAI RESOLVER PRO TIME?",
+        "type": "VIDEO",
+        "views": 422,
+        "likes": 40,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "f-NYtpLeZz0",
+        "date": "2026-06-23",
+        "caption": "NEYMAR VAI FURAR A FILA DA SELEÇÃO E ENTRAR EM CAMPO?",
+        "type": "VIDEO",
+        "views": 1664,
+        "likes": 80,
+        "comments": 14,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "BI22NxSJRKU",
+        "date": "2026-06-23",
+        "caption": "\"O ANCELOTTI ADORA O ENDRICK\" PVC FALA DA PROMESSA DA SELEÇÃO",
+        "type": "VIDEO",
+        "views": 3356,
+        "likes": 145,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "n7rPsFWiVgM",
+        "date": "2026-06-23",
+        "caption": "O FUTEBOL DE HOJE É MELHOR DO QUE O DE ANTIGAMENTE? PVC OPINA",
+        "type": "VIDEO",
+        "views": 250,
+        "likes": 7,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "A8K6SglYc34",
+        "date": "2026-06-23",
+        "caption": "QUAL O PRINCIPAL PROBLEMA DA SELEÇÃO? PVC EXPLICA!",
+        "type": "VIDEO",
+        "views": 726,
+        "likes": 44,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "51JVJ2w6x0c",
+        "date": "2026-06-23",
+        "caption": "A COPA DE 2002 E DE 2026 TÊM ALGO EM COMUM? PVC EXPLICA!",
+        "type": "VIDEO",
+        "views": 1828,
+        "likes": 44,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "mgN_EQlQ5wM",
+        "date": "2026-06-23",
+        "caption": "ANÁLISE ABSURDA DO PVC SOBRE MODO DE JOGO DO BRASIL NA COPA!",
+        "type": "VIDEO",
+        "views": 169,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "pPC5zB3G9GA",
+        "date": "2026-06-23",
+        "caption": "PVC FALA SOBRE A DISPUTA ENTRE LEILA PEREIRA E BAP",
+        "type": "VIDEO",
+        "views": 569,
+        "likes": 9,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "C88GFETzS8M",
+        "date": "2026-06-23",
+        "caption": "ANCELOTTI SABE LIDAR COM A PRESSÃO DO JEJUM DE TÍTULOS DA SELEÇÃO?",
+        "type": "VIDEO",
+        "views": 3400,
+        "likes": 84,
+        "comments": 6,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "0-wiVKhwi4o",
+        "date": "2026-06-23",
+        "caption": "PHILL ANALISA A VOLTA DE THIAGO SILVA AO FLUMINENSE",
+        "type": "VIDEO",
+        "views": 11039,
+        "likes": 661,
+        "comments": 50,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "ehholrty0Dw",
+        "date": "2026-06-23",
+        "caption": "NEYMAR VAI FAZER A DIFERENÇA NA COPA? PVC OPINA",
+        "type": "VIDEO",
+        "views": 501,
+        "likes": 29,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "SvUfWA6Vquk",
+        "date": "2026-06-23",
+        "caption": "PELÉ X MESSI! PVC EMOCIONA AO FALAR DA COMPARAÇÃO",
+        "type": "VIDEO",
+        "views": 5501,
+        "likes": 244,
+        "comments": 20,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "yDVcACxkxS0",
+        "date": "2026-06-23",
+        "caption": "AZEVEDO FAZ DESABAFO FORTE SOBRE DISCUSSÃO ENTRE MESSI E PELÉ",
+        "type": "VIDEO",
+        "views": 706,
+        "likes": 32,
+        "comments": 28,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "Vtn1C4sRGCA",
+        "date": "2026-06-23",
+        "caption": "MESSI VAI SER O MELHOR JOGADOR DA COPA DO MUNDO?",
+        "type": "VIDEO",
+        "views": 1565,
+        "likes": 67,
+        "comments": 3,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "1dyryGbAYbc",
+        "date": "2026-06-23",
+        "caption": "DOUGLAS SANTOS É A GRANDE SURPRESA POSITIVA DO BRASIL NA COPA DO MUNDO?",
+        "type": "VIDEO",
+        "views": 485,
+        "likes": 22,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "srdfYnX9ZkY",
+        "date": "2026-06-23",
+        "caption": "ONDE O NEYMAR SE ENCAIXA NA SELEÇÃO BRASILEIRA?",
+        "type": "VIDEO",
+        "views": 1985,
+        "likes": 67,
+        "comments": 4,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "B-O-JdMi4RM",
+        "date": "2026-06-23",
+        "caption": "QUEM VAI SER O SUBSTITUTO DO RAPHINHA NO TIME TITULAR DA SELEÇÃO BRASILEIRA?",
+        "type": "VIDEO",
+        "views": 1113,
+        "likes": 25,
+        "comments": 3,
         "shares": 0,
         "saves": 0
       },
@@ -33615,5 +33924,5 @@
     "snapshots": [],
     "posts": []
   },
-  "updated_at": "2026-06-23T17:25:56.890297"
+  "updated_at": "2026-06-24T17:29:35.188309"
 }
