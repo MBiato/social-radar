@@ -434,7 +434,7 @@ function getPrevSnaps() {
 function getFilteredPosts() {
   const { s, e } = getRange();
   let posts = (metrics[platform]?.posts || []).filter(p => { const d = new Date(p.date); return d >= s && d <= e; });
-  if(activeTags.size > 0) posts = posts.filter(p => [...(p.tags||[])].some(t => activeTags.has(t.toLowerCase())));
+  if(activeTags.size > 0) posts = posts.filter(p => { const pt = (p.tags||[]).map(t=>t.toLowerCase()); return [...activeTags].every(t => pt.includes(t)); });
   return posts.sort((a,b) => {
     if(rankBy === 'date') return b.date.localeCompare(a.date);
     if(rankBy === 'likes') return (b.likes||0)-(a.likes||0);
@@ -445,7 +445,7 @@ function getFilteredPosts() {
 function getPostsByPlat(plat) {
   const { s, e } = getRange();
   let posts = (metrics[plat]?.posts || []).filter(p => { const d = new Date(p.date); return d >= s && d <= e; });
-  if(activeTags.size > 0) posts = posts.filter(p => [...(p.tags||[])].some(t => activeTags.has(t.toLowerCase())));
+  if(activeTags.size > 0) posts = posts.filter(p => { const pt = (p.tags||[]).map(t=>t.toLowerCase()); return [...activeTags].every(t => pt.includes(t)); });
   return posts.sort((a,b) => b.date.localeCompare(a.date));
 }
 function getSponStats(posts) {
