@@ -178,7 +178,7 @@ def collect_instagram(metrics: dict) -> bool:
                 'date':     d,
                 'caption':  (item.get('caption') or '')[:120],
                 'url':      item.get('permalink',''),
-                'tags':     [w for w in (item.get('caption') or '').split() if w.startswith('#')][:10],
+                'tags':     [w.lower() for w in (item.get('caption') or '').split() if w.startswith('#')][:10],
                 'type':     item.get('media_type', 'IMAGE'),
                 'views':    views,
                 'likes':    item.get('like_count',    0),
