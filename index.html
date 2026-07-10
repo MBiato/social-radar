@@ -365,6 +365,9 @@ tr:hover td{background:#1a1a1a;}
         <button id="yt-fetch-btn" onclick="buscarYT()" class="btn-primary btn-sm">🔍 Buscar métricas</button>
         <select id="yt-spon-all" style="background:var(--card);border:1px solid var(--b2);color:var(--t1);font-family:'Barlow Condensed',sans-serif;font-size:13px;padding:5px 10px;outline:none;"></select>
         <button onclick="aplicarSponsorTodos()" class="btn btn-sm">Aplicar a todos</button>
+        <span style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t3);">+</span>
+        <input id="yt-extra-tag" type="text" placeholder="#HashtagExtra" style="background:var(--card);border:1px solid var(--b2);color:var(--t1);font-family:'Barlow Condensed',sans-serif;font-size:12px;padding:5px 10px;outline:none;width:150px;">
+        <button onclick="aplicarTagExtraTodos()" class="btn btn-sm">Aplicar a todos</button>
         <span id="yt-status" style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t3);"></span>
       </div>
       <div id="yt-results" style="display:none;margin-top:14px;overflow-x:auto;"></div>
@@ -934,12 +937,25 @@ function renderYTResults() {
     </tr>`).join('')}</tbody>
   </table>`;
 }
-function aplicarSponsorTodos() { const val=qs('yt-spon-all').value; if(!val) return; ytVids.forEach(v=>{v.tags=[val];v.sponsor=val;}); renderYTResults(); }
+function aplicarSponsorTodos() {
+  const val=qs('yt-spon-all').value; if(!val) return;
+  ytVids.forEach(v=>{v.sponsor=val; v.tags=val?[val]:[];});
+  renderYTResults();
+}
+function aplicarTagExtraTodos() {
+  let tag=(qs('yt-extra-tag').value||'').trim();
+  if(!tag) return;
+  if(!tag.startsWith('#')) tag='#'+tag;
+  tag=tag.toLowerCase();
+  ytVids.forEach(v=>{ if(!v.tags.includes(tag)) v.tags.push(tag); });
+  renderYTResults();
+  qs('yt-extra-tag').value='';
+}
 function salvarYT() {
   if(!metrics.youtube) metrics.youtube={snapshots:[],posts:[]};
   let s=0,a=0;
   ytVids.forEach(v=>{
-    const post={id:'yt_'+v.id,date:v.date,caption:v.title,url:v.url,tags:v.tags||[],type:'VIDEO',views:v.views,likes:v.likes,comments:v.comments,shares:0,saves:0};
+    const post={id:'yt_'+v.id,date:v.date,caption:v.title,url:v.url,tags:(v.tags||[]).map(t=>t.toLowerCase()),type:'VIDEO',views:v.views,likes:v.likes,comments:v.comments,shares:0,saves:0};
     const idx=metrics.youtube.posts.findIndex(p=>p.id===post.id);
     if(idx>=0){metrics.youtube.posts[idx]=post;a++;}else{metrics.youtube.posts.push(post);s++;}
   });
