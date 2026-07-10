@@ -375,18 +375,18 @@ tr:hover td{background:#1a1a1a;}
 <script>
 // ═══ CONSTANTES ═══════════════════════════════════════
 const SPONSORS = [
-  {label:'Forneria',    tag:'#ForneriaNoCharla'},
-  {label:'Sportingbet', tag:'#SportingbetNoCharla'},
-  {label:'Melitta',     tag:'#MelittaNoCharla'},
-  {label:'Brahma',      tag:'#BrahmaNoCharla'},
-  {label:'Texaco',      tag:'#TexacoNoCharla'},
-  {label:'Assaí',       tag:'#AssaiNoCharla'},
-  {label:'Absolut',     tag:'#AbsolutNoCharla'},
-  {label:'Clear',       tag:'#ClearNoCharla'},
+  {label:'Forneria',    tag:'#forneriaNoCharla'},
+  {label:'Sportingbet', tag:'#sportingbetnocharla'},
+  {label:'Melitta',     tag:'#melittanocharla'},
+  {label:'Brahma',      tag:'#brahmanocharla'},
+  {label:'Texaco',      tag:'#texacanocharla'},
+  {label:'Assaí',       tag:'#assainocharla'},
+  {label:'Absolut',     tag:'#absolutnocharla'},
+  {label:'Clear',       tag:'#clearnocharla'},
 ];
 const YT_KEY = 'AIzaSyCW_fYojoSlwQFioCM8aaXzGoTCJ87LU58';
 const PAGE_SIZE = 30;
-const SMAP = {'#ForneriaNoCharla':'Forneria','#SportingbetNoCharla':'Sportingbet','#MelittaNoCharla':'Melitta','#BrahmaNoCharla':'Brahma','#TexacoNoCharla':'Texaco','#AssaiNoCharla':'Assaí','#AbsolutNoCharla':'Absolut','#ClearNoCharla':'Clear'};
+const SMAP = {'#forneriaNoCharla':'Forneria','#sportingbetnocharla':'Sportingbet','#melittanocharla':'Melitta','#brahmanocharla':'Brahma','#texacanocharla':'Texaco','#assainocharla':'Assaí','#absolutnocharla':'Absolut','#clearnocharla':'Clear'};
 
 // ═══ ESTADO ════════════════════════════════════════════
 let metrics = null;
@@ -430,7 +430,7 @@ function getPrevSnaps() {
 function getFilteredPosts() {
   const { s, e } = getRange();
   let posts = (metrics[platform]?.posts || []).filter(p => { const d = new Date(p.date); return d >= s && d <= e; });
-  if(activeTags.size > 0) posts = posts.filter(p => [...(p.tags||[])].some(t => activeTags.has(t)));
+  if(activeTags.size > 0) posts = posts.filter(p => [...(p.tags||[])].some(t => activeTags.has(t.toLowerCase())));
   return posts.sort((a,b) => {
     if(rankBy === 'date') return b.date.localeCompare(a.date);
     if(rankBy === 'likes') return (b.likes||0)-(a.likes||0);
@@ -441,7 +441,7 @@ function getFilteredPosts() {
 function getPostsByPlat(plat) {
   const { s, e } = getRange();
   let posts = (metrics[plat]?.posts || []).filter(p => { const d = new Date(p.date); return d >= s && d <= e; });
-  if(activeTags.size > 0) posts = posts.filter(p => [...(p.tags||[])].some(t => activeTags.has(t)));
+  if(activeTags.size > 0) posts = posts.filter(p => [...(p.tags||[])].some(t => activeTags.has(t.toLowerCase())));
   return posts.sort((a,b) => b.date.localeCompare(a.date));
 }
 function getSponStats(posts) {
