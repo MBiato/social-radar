@@ -524,6 +524,43 @@ async function init() {
 }
 function saveLocal() { try { localStorage.setItem('cr_v1', JSON.stringify(metrics)); } catch {} }
 
+// Persiste `metrics` de volta no data/metrics.json do repositório via GitHub Contents API.
+// Sem isso, importações manuais (ex: vídeos do YouTube) ficam só no localStorage e
+// são sobrescritas assim que o dashboard busca metrics.json de novo (reload, ↻, ou
+// a coleta automática das 7h reescrevendo o arquivo no servidor).
+async function commitMetricsToGitHub() {
+  const REPO = 'MBiato/social-radar';
+  const PATH = 'data/metrics.json';
+  const token = getWFT();
+  if(!token) {
+    const t = prompt('GitHub Token (workflow) necessário para salvar no repositório:');
+    if(!t) return false;
+    localStorage.setItem('cr_wft', t);
+  }
+  try {
+    const cur = await fetch(`https://api.github.com/repos/${REPO}/contents/${PATH}`, {
+      headers: { Authorization: `token ${getWFT()}` }
+    }).then(r => { if(!r.ok) throw new Error('Não foi possível ler o arquivo atual (status '+r.status+')'); return r.json(); });
+
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(metrics, null, 2))));
+
+    const put = await fetch(`https://api.github.com/repos/${REPO}/contents/${PATH}`, {
+      method: 'PUT',
+      headers: { Authorization: `token ${getWFT()}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        message: 'Atualiza metrics.json via importação manual do dashboard',
+        content,
+        sha: cur.sha
+      })
+    });
+    if(!put.ok) throw new Error('Falha ao commitar (status '+put.status+')');
+    return true;
+  } catch(e) {
+    console.error('commitMetricsToGitHub:', e);
+    return false;
+  }
+}
+
 // ═══ RENDER PRINCIPAL ═════════════════════════════════════
 function render() {
   renderPlatCards();
@@ -951,7 +988,7 @@ function aplicarTagExtraTodos() {
   renderYTResults();
   qs('yt-extra-tag').value='';
 }
-function salvarYT() {
+async function salvarYT() {
   if(!metrics.youtube) metrics.youtube={snapshots:[],posts:[]};
   let s=0,a=0;
   ytVids.forEach(v=>{
@@ -960,11 +997,29 @@ function salvarYT() {
     if(idx>=0){metrics.youtube.posts[idx]=post;a++;}else{metrics.youtube.posts.push(post);s++;}
   });
   metrics.youtube.posts.sort((a,b)=>b.date.localeCompare(a.date));
-  saveLocal(); render(); fecharYTImport();
-  alert(`✓ ${s} adicionados, ${a} atualizados!`);
+  saveLocal(); render();
+
+  const btn = qs('yt-save-btn');
+  if(btn) { btn.textContent='Salvando no GitHub...'; btn.disabled=true; }
+  const ok = await commitMetricsToGitHub();
+  if(btn) { btn.textContent='Salvar'; btn.disabled=false; }
+
+  fecharYTImport();
+  if(ok) {
+    alert(`✓ ${s} adicionados, ${a} atualizados — e salvos no metrics.json do repositório!`);
+  } else {
+    alert(`⚠ ${s} adicionados, ${a} atualizados no navegador, mas o commit para o GitHub falhou.\nOs dados ficam só neste navegador e podem ser perdidos na próxima atualização automática.\nVerifique o token (⚙ Admin) e tente '↻ Recarregar' + importar de novo se necessário.`);
+  }
 }
 
 // ═══ PDF ENGINE ═══════════════════════════════════════════
+// Remove emojis antes de enviar texto ao jsPDF: a fonte padrão 'helvetica'
+// não tem esses glifos, e cortar a string por .slice() no meio de um par
+// substituto (emoji = 2 unidades UTF-16) gera o artefato "Ø=Þ" e desalinha
+// a largura calculada da linha, sobrepondo o conteúdo seguinte.
+function stripEmoji(s) {
+  return (s||'').replace(/[\u{1F000}-\u{1FFFF}\u{2600}-\u{27BF}\u{2190}-\u{21FF}\u{2300}-\u{23FF}\uFE0F]/gu, '').trim();
+}
 function getPDF() { return new window.jspdf.jsPDF({orientation:'p',unit:'mm',format:'a4'}); }
 const W=210, MAR=14, CW=182;
 function pdfBg(doc) { doc.setFillColor('#141414'); doc.rect(0,0,W,297,'F'); }
@@ -1038,7 +1093,7 @@ function pdfPosts(doc,posts,plat,y) {
     doc.setFontSize(6); doc.setTextColor(plat==='instagram'?'#FF5A1F':'#60a5fa');
     doc.text(p.type||'VIDEO',MAR+18,y+6.5,{align:'center'});
     doc.setFont('helvetica','bold'); doc.setFontSize(7.5); doc.setTextColor('#ffffff');
-    const cap=doc.splitTextToSize((p.caption||'').slice(0,120),CW-50)[0];
+    const cap=doc.splitTextToSize(stripEmoji(p.caption||'').slice(0,120),CW-50)[0];
     doc.text(cap,MAR+27,y+7);
     doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#666666');
     doc.text((p.date||'')+'  ·  '+fmt(p.views||0)+' views  ·  '+fmt(p.likes||0)+' likes  ·  '+fmt(p.comments||0)+' coment.',MAR+27,y+13);
@@ -1150,7 +1205,7 @@ function gerarRelatorio() {
       doc.setFontSize(6); doc.setTextColor(isReel?'#FF8C5A':'#888888');
       doc.text(isReel?'REEL':'IMAGEM',x,y+6.5); x+=igCols[2];
       doc.setFontSize(7); doc.setTextColor('#cccccc');
-      const cap=doc.splitTextToSize((p.caption||'—').slice(0,80),igCols[3]-3)[0];
+      const cap=doc.splitTextToSize(stripEmoji(p.caption||'—').slice(0,80),igCols[3]-3)[0];
       doc.text(cap,x,y+6.5); x+=igCols[3];
       if(p.url){
         doc.setFontSize(7); doc.setTextColor('#FF5A1F');
@@ -1212,7 +1267,7 @@ function gerarRelatorio() {
       doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#888888');
       doc.text((p.date||'').slice(5),x,y+6.5); x+=ytCols[1];
       doc.setFontSize(7); doc.setTextColor('#cccccc');
-      const title=doc.splitTextToSize((p.caption||'—').slice(0,70),ytCols[2]-3)[0];
+      const title=doc.splitTextToSize(stripEmoji(p.caption||'—').slice(0,70),ytCols[2]-3)[0];
       doc.text(title,x,y+5);
       if(p.url){
         doc.setTextColor('#FF5A1F'); doc.setFontSize(6);
