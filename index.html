@@ -217,7 +217,8 @@ tr:hover td{background:#1a1a1a;}
   </div>
   <div class="hdr-r">
     <div class="badge"><span class="dot"></span><span id="upd-txt">—</span></div>
-    <button id="collect-btn" onclick="dispararColeta()" class="btn-primary btn-sm">⚡ Coletar agora</button>
+    <button id="collect-btn" onclick="dispararColeta(false)" class="btn-primary btn-sm">⚡ Coletar agora</button>
+    <button id="collect-full-btn" onclick="dispararColeta(true)" class="btn btn-sm" title="Varre até 2.000 posts do Instagram — use quando editar hashtag/legenda de posts antigos">🔍 Coleta Completa</button>
     <button onclick="refreshData()" class="btn btn-sm">↻ Recarregar</button>
     <a href="admin.html" class="btn btn-sm" style="text-decoration:none;">⚙ Admin</a>
     <button onclick="trocarToken()" class="btn btn-sm">🔑 Trocar Token</button>
@@ -364,8 +365,9 @@ tr:hover td{background:#1a1a1a;}
       <textarea id="yt-links" rows="4" style="width:100%;background:#0d0d0d;border:1px solid var(--b1);color:#7fffb4;font-family:monospace;font-size:11px;padding:10px;resize:vertical;outline:none;" placeholder="https://www.youtube.com/watch?v=..."></textarea>
       <div style="display:flex;align-items:center;gap:8px;margin-top:10px;flex-wrap:wrap;">
         <button id="yt-fetch-btn" onclick="buscarYT()" class="btn-primary btn-sm">🔍 Buscar métricas</button>
-        <select id="yt-spon-all" style="background:var(--card);border:1px solid var(--b2);color:var(--t1);font-family:'Barlow Condensed',sans-serif;font-size:13px;padding:5px 10px;outline:none;"></select>
-        <button onclick="aplicarSponsorTodos()" class="btn btn-sm">Aplicar a todos</button>
+        <span style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t3);">Patrocinadores:</span>
+        <div id="yt-bulk-sponsors" style="display:flex;gap:6px;flex-wrap:wrap;"></div>
+        <button onclick="aplicarSponsoresTodos()" class="btn btn-sm">+ Adicionar aos vídeos</button>
         <span style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t3);">+</span>
         <input id="yt-extra-tag" type="text" placeholder="#HashtagExtra" style="background:var(--card);border:1px solid var(--b2);color:var(--t1);font-family:'Barlow Condensed',sans-serif;font-size:12px;padding:5px 10px;outline:none;width:150px;">
         <button onclick="aplicarTagExtraTodos()" class="btn btn-sm">Aplicar a todos</button>
@@ -376,6 +378,25 @@ tr:hover td{background:#1a1a1a;}
     <div class="modal-ftr">
       <button onclick="fecharYTImport()" class="btn btn-sm">Cancelar</button>
       <button id="yt-save-btn" onclick="salvarYT()" class="btn-primary btn-sm" style="display:none;">✓ Salvar no Dashboard</button>
+    </div>
+  </div>
+</div>
+
+<div id="tag-edit-modal" class="modal-ov">
+  <div class="modal-box" style="max-width:520px;">
+    <div class="modal-hdr">
+      <span id="tag-edit-title" style="font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;">Editar patrocinadores</span>
+      <button onclick="fecharEditorTags()" class="btn btn-sm">✕ Fechar</button>
+    </div>
+    <div class="modal-body">
+      <div style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;margin-bottom:8px;">Patrocinadores (marque quantos quiser)</div>
+      <div id="tag-edit-sponsors" style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px;"></div>
+      <div style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;margin-bottom:6px;">Hashtags extras (separadas por vírgula)</div>
+      <input id="tag-edit-extra" type="text" placeholder="#futebollegendstalks, #outracampanha" style="width:100%;background:#0d0d0d;border:1px solid var(--b1);color:var(--t1);font-family:monospace;font-size:12px;padding:8px 10px;outline:none;">
+    </div>
+    <div class="modal-ftr">
+      <button onclick="fecharEditorTags()" class="btn btn-sm">Cancelar</button>
+      <button id="tag-edit-save-btn" onclick="salvarEditorTags()" class="btn-primary btn-sm">✓ Salvar</button>
     </div>
   </div>
 </div>
@@ -825,6 +846,9 @@ function renderRankings() {
     const isReel = p.type==='REELS'||p.type==='VIDEO';
     const hiV = rankBy==='views', hiL = rankBy==='likes', hiC = rankBy==='comments';
     const tag = (p.tags||[]).slice(0,1).map(t=>`<span class="tag-pill">${t}</span>`).join('');
+    const editBtn = platform==='youtube'
+      ? `<button onclick="abrirEditorTags('${p.id}')" class="btn btn-sm" style="padding:1px 7px;font-size:10px;margin-left:6px;vertical-align:middle;">🏷 editar</button>`
+      : '';
     const typePill = `<span style="background:${isReel?'#FF5A1F22':'#22222255'};color:${isReel?'#FF8C5A':'#666'};font-family:'Barlow Condensed',sans-serif;font-size:10px;padding:1px 5px;border-radius:2px;">${p.type||'—'}</span>`;
     const captionEl = p.url
       ? `<a href="${p.url}" target="_blank" style="color:var(--t1);text-decoration:none;font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;" onmouseover="this.style.color='var(--ac)'" onmouseout="this.style.color='var(--t1)'">${p.caption||'—'}</a>`
@@ -834,7 +858,7 @@ function renderRankings() {
       <div class="${gi===1?'td-r1':'td-rn'}">${gi}</div>
       <div style="min-width:0;">
         ${captionEl}
-        <div class="rank-meta">${(p.date||'').slice(5)} · ${typePill} ${tag}</div>
+        <div class="rank-meta">${(p.date||'').slice(5)} · ${typePill} ${tag}${editBtn}</div>
         <div class="rank-metrics-mobile" style="display:none;gap:10px;margin-top:5px;flex-wrap:wrap;">
           <span style="font-family:'Barlow Condensed',sans-serif;font-size:13px;color:${hiV?'var(--ac)':'var(--t2)'};">${fmt(p.views)} views</span>
           <span style="font-family:'Barlow Condensed',sans-serif;font-size:13px;color:${hiL?'var(--ac)':'var(--t2)'};">${fmt(p.likes)} likes</span>
@@ -912,8 +936,14 @@ function trocarToken() {
   localStorage.setItem('cr_wft', limpo);
   alert('✓ Token atualizado! Tente importar/salvar de novo.');
 }
-async function dispararColeta() {
-  const btn = qs('collect-btn');
+async function dispararColeta(full) {
+  const btn = qs(full ? 'collect-full-btn' : 'collect-btn');
+  const label = full ? '🔍 Coleta Completa' : '⚡ Coletar agora';
+
+  if(full && !confirm('A Coleta Completa varre até 2.000 posts do Instagram e pode levar 15-20 minutos.\n\nUse isso quando editar hashtag/legenda de um post mais antigo no Instagram — a coleta rápida de todo dia não revisita posts antigos.\n\nContinuar?')) {
+    return;
+  }
+
   if(!getWFT()) {
     const t = prompt('GitHub Token (workflow):');
     if(!t || !t.trim()) return;
@@ -930,17 +960,18 @@ async function dispararColeta() {
         'Accept':'application/vnd.github+json',
         'Content-Type':'application/json'
       },
-      body:JSON.stringify({ref:'main'}),
+      body:JSON.stringify({ref:'main', inputs:{ full: full ? 'true' : 'false' }}),
     });
     if(r.status===204) {
       btn.textContent='⏳ Em andamento...';
+      const espera = full ? 18*60*1000 : 3*60*1000; // coleta completa demora bem mais
       setTimeout(async()=>{
         btn.textContent='↻ Atualizando...';
         await refreshData();
-        btn.textContent='⚡ Coletar agora';
-        btn.style.background='var(--ac)';
+        btn.textContent=label;
+        btn.style.background = full ? '' : 'var(--ac)';
         btn.disabled=false;
-      }, 3*60*1000);
+      }, espera);
     } else {
       throw new Error('status '+r.status);
     }
@@ -948,8 +979,8 @@ async function dispararColeta() {
     btn.textContent='✗ Erro';
     btn.style.background='var(--red)';
     setTimeout(()=>{
-      btn.textContent='⚡ Coletar agora';
-      btn.style.background='var(--ac)';
+      btn.textContent=label;
+      btn.style.background = full ? '' : 'var(--ac)';
       btn.disabled=false;
     }, 4000);
   }
@@ -985,8 +1016,10 @@ function resetDemo() { metrics=generateDemo(); saveLocal(); render(); }
 // ═══ YOUTUBE IMPORT ═══════════════════════════════════════
 function abrirYTImport() {
   ytVids=[];
-  const sel=qs('yt-spon-all');
-  sel.innerHTML='<option value="">— patrocinador para todos —</option>'+SPONSORS.map(s=>`<option value="${s.tag}">${s.label}</option>`).join('');
+  qs('yt-bulk-sponsors').innerHTML = SPONSORS.map(s=>`
+    <label style="display:flex;align-items:center;gap:4px;background:var(--card);border:1px solid var(--b2);padding:4px 9px;font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--t2);cursor:pointer;">
+      <input type="checkbox" id="bulk-spon-${s.tag}"> ${s.label}
+    </label>`).join('');
   qs('yt-modal').classList.add('open');
   qs('yt-results').style.display='none';
   qs('yt-save-btn').style.display='none';
@@ -1025,19 +1058,38 @@ function renderYTResults() {
       <th style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:left;letter-spacing:1px;text-transform:uppercase;width:90px;">Thumb</th>
       <th style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:left;letter-spacing:1px;text-transform:uppercase;">Título</th>
       <th style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:right;letter-spacing:1px;text-transform:uppercase;width:80px;">Views</th>
-      <th style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:left;letter-spacing:1px;text-transform:uppercase;width:180px;">Patrocinador</th>
+      <th style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);padding:6px 8px;border-bottom:1px solid var(--b1);text-align:left;letter-spacing:1px;text-transform:uppercase;width:230px;">Patrocinadores (marque quantos quiser)</th>
     </tr></thead>
     <tbody>${ytVids.map((v,i)=>`<tr>
       <td style="padding:6px 8px;border-bottom:1px solid var(--b1);"><img src="${v.thumb}" style="width:80px;height:45px;object-fit:cover;"></td>
       <td style="font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;padding:6px 8px;border-bottom:1px solid var(--b1);"><div>${v.title.slice(0,50)}</div><div style="font-size:11px;color:var(--t3);margin-top:2px;">${v.date} · <a href="${v.url}" target="_blank" style="color:var(--ac);">ver vídeo</a></div></td>
       <td style="font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;padding:6px 8px;border-bottom:1px solid var(--b1);text-align:right;">${fmt(v.views)}</td>
-      <td style="padding:6px 8px;border-bottom:1px solid var(--b1);"><select onchange="ytVids[${i}].tags=[this.value];ytVids[${i}].sponsor=this.value;" style="background:var(--card);border:1px solid var(--b2);color:var(--t1);font-family:'Barlow Condensed',sans-serif;font-size:13px;padding:4px 8px;outline:none;width:100%;"><option value="">— nenhum —</option>${SPONSORS.map(s=>`<option value="${s.tag}" ${v.sponsor===s.tag?'selected':''}>${s.label}</option>`).join('')}</select></td>
+      <td style="padding:6px 8px;border-bottom:1px solid var(--b1);">
+        <div style="display:flex;flex-wrap:wrap;gap:4px;">${SPONSORS.map(s=>`
+          <label style="display:flex;align-items:center;gap:3px;font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t2);cursor:pointer;">
+            <input type="checkbox" ${(v.tags||[]).includes(s.tag)?'checked':''} onchange="toggleVidSponsor(${i},'${s.tag}',this.checked)"> ${s.label}
+          </label>`).join('')}
+        </div>
+      </td>
     </tr>`).join('')}</tbody>
   </table>`;
 }
-function aplicarSponsorTodos() {
-  const val=qs('yt-spon-all').value; if(!val) return;
-  ytVids.forEach(v=>{v.sponsor=val; v.tags=val?[val]:[];});
+// Marca/desmarca UM patrocinador de UM vídeo, sem mexer nos outros que já estavam marcados.
+function toggleVidSponsor(i, tag, checked) {
+  const v = ytVids[i];
+  if(!v.tags) v.tags=[];
+  if(checked) { if(!v.tags.includes(tag)) v.tags.push(tag); }
+  else { v.tags = v.tags.filter(t=>t!==tag); }
+}
+// Aplica os patrocinadores marcados no topo a TODOS os vídeos — soma às tags que já
+// existiam (não apaga nada), diferente do comportamento antigo.
+function aplicarSponsoresTodos() {
+  const marcados = SPONSORS.filter(s => qs('bulk-spon-'+s.tag)?.checked).map(s=>s.tag);
+  if(!marcados.length) { alert('Marque ao menos um patrocinador antes de aplicar.'); return; }
+  ytVids.forEach(v=>{
+    if(!v.tags) v.tags=[];
+    marcados.forEach(tag => { if(!v.tags.includes(tag)) v.tags.push(tag); });
+  });
   renderYTResults();
 }
 function aplicarTagExtraTodos() {
@@ -1045,7 +1097,7 @@ function aplicarTagExtraTodos() {
   if(!tag) return;
   if(!tag.startsWith('#')) tag='#'+tag;
   tag=tag.toLowerCase();
-  ytVids.forEach(v=>{ if(!v.tags.includes(tag)) v.tags.push(tag); });
+  ytVids.forEach(v=>{ if(!v.tags) v.tags=[]; if(!v.tags.includes(tag)) v.tags.push(tag); });
   renderYTResults();
   qs('yt-extra-tag').value='';
 }
@@ -1070,6 +1122,48 @@ async function salvarYT() {
     alert(`✓ ${s} adicionados, ${a} atualizados — e salvos no metrics.json do repositório!`);
   } else {
     alert(`⚠ ${s} adicionados, ${a} atualizados no navegador, mas o commit para o GitHub falhou.\n\nMotivo: ${lastCommitError || 'desconhecido'}\n\nOs dados ficam só neste navegador e podem ser perdidos na próxima atualização automática.\nVerifique o token (⚙ Admin) e tente '↻ Recarregar' + importar de novo se necessário.`);
+  }
+}
+
+// ═══ EDITAR PATROCINADORES DE VÍDEOS JÁ SALVOS ═══════════════
+// Abre a telinha de edição para um vídeo do YouTube que já está salvo no dashboard
+// (diferente do modal de importação, que é só para vídeos novos ainda não salvos).
+let tagEditPostId = null;
+function abrirEditorTags(postId) {
+  const post = (metrics.youtube?.posts||[]).find(p => p.id === postId);
+  if(!post) { alert('Vídeo não encontrado.'); return; }
+  tagEditPostId = postId;
+  qs('tag-edit-title').textContent = '🏷 ' + (post.caption||'').slice(0,60);
+  qs('tag-edit-sponsors').innerHTML = SPONSORS.map(s => `
+    <label style="display:flex;align-items:center;gap:4px;background:var(--card);border:1px solid var(--b2);padding:5px 10px;font-family:'Barlow Condensed',sans-serif;font-size:13px;color:var(--t2);cursor:pointer;">
+      <input type="checkbox" id="edit-spon-${s.tag}" ${(post.tags||[]).includes(s.tag)?'checked':''}> ${s.label}
+    </label>`).join('');
+  // Hashtags que não são de nenhum patrocinador cadastrado (ex: #futebollegendstalks)
+  const extras = (post.tags||[]).filter(t => !SPONSORS.some(s => s.tag===t));
+  qs('tag-edit-extra').value = extras.join(', ');
+  qs('tag-edit-modal').classList.add('open');
+}
+function fecharEditorTags() { qs('tag-edit-modal').classList.remove('open'); tagEditPostId=null; }
+async function salvarEditorTags() {
+  const post = (metrics.youtube?.posts||[]).find(p => p.id === tagEditPostId);
+  if(!post) return;
+  const sponsorTags = SPONSORS.filter(s => qs('edit-spon-'+s.tag)?.checked).map(s=>s.tag);
+  const extraTags = (qs('tag-edit-extra').value||'').split(',')
+    .map(t=>t.trim()).filter(Boolean)
+    .map(t=>{ t=t.toLowerCase(); if(!t.startsWith('#')) t='#'+t; return t; });
+  post.tags = [...new Set([...sponsorTags, ...extraTags])];
+  saveLocal(); render();
+
+  const btn = qs('tag-edit-save-btn');
+  if(btn) { btn.textContent='Salvando no GitHub...'; btn.disabled=true; }
+  const ok = await commitMetricsToGitHub();
+  if(btn) { btn.textContent='✓ Salvar'; btn.disabled=false; }
+
+  fecharEditorTags();
+  if(ok) {
+    alert('✓ Patrocinadores atualizados e salvos no repositório!');
+  } else {
+    alert(`⚠ Atualizado neste navegador, mas o commit para o GitHub falhou.\n\nMotivo: ${lastCommitError || 'desconhecido'}\n\nOs dados ficam só neste navegador e podem ser perdidos na próxima atualização automática.`);
   }
 }
 
