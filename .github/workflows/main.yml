@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 10 * * *'      # Todo dia às 7h BRT (10h UTC)
   workflow_dispatch:
+    inputs:
+      full:
+        description: 'Coleta completa (até 2.000 posts do Instagram, ~15-20 min) em vez da rápida de sempre'
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   collect:
@@ -28,7 +34,13 @@ jobs:
           INSTAGRAM_USER_ID:      ${{ secrets.INSTAGRAM_USER_ID }}
           YOUTUBE_API_KEY:        ${{ secrets.YOUTUBE_API_KEY }}
           YOUTUBE_CHANNEL_ID:     ${{ secrets.YOUTUBE_CHANNEL_ID }}
-        run: python3 collector/collector.py
+        run: |
+          if [ "${{ github.event.inputs.full }}" = "true" ]; then
+            echo "Rodando coleta COMPLETA (--full)..."
+            python3 collector/collector.py --full
+          else
+            python3 collector/collector.py
+          fi
 
       - name: Run Charles Insights
         env:
