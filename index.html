@@ -220,6 +220,7 @@ tr:hover td{background:#1a1a1a;}
     <button id="collect-btn" onclick="dispararColeta()" class="btn-primary btn-sm">⚡ Coletar agora</button>
     <button onclick="refreshData()" class="btn btn-sm">↻ Recarregar</button>
     <a href="admin.html" class="btn btn-sm" style="text-decoration:none;">⚙ Admin</a>
+    <button onclick="trocarToken()" class="btn btn-sm">🔑 Trocar Token</button>
     <button onclick="toggleImp()" class="btn btn-sm">↑ Importar</button>
   </div>
 </header>
@@ -541,9 +542,9 @@ async function commitMetricsToGitHub() {
   let token = getWFT();
   if(!token) {
     const t = prompt('GitHub Token (workflow) necessário para salvar no repositório:');
-    if(!t) { lastCommitError = 'Nenhum token informado.'; return false; }
-    localStorage.setItem('cr_wft', t);
-    token = t;
+    if(!t || !t.trim()) { lastCommitError = 'Nenhum token informado.'; return false; }
+    token = t.trim();
+    localStorage.setItem('cr_wft', token);
   }
   const headers = { Authorization: `token ${token}`, Accept: 'application/vnd.github+json' };
   const jsonHeaders = { ...headers, 'Content-Type': 'application/json' };
@@ -899,12 +900,24 @@ function setRankBy(r) {
 
 // ═══ COLETAR + REFRESH ════════════════════════════════════
 function getWFT() { return localStorage.getItem('cr_wft')||''; }
+// Deixa fácil trocar o token guardado, sem precisar do admin.html (ainda não existe).
+// .trim() remove espaços/quebras de linha que às vezes vêm junto ao colar o token
+// e que fazem o GitHub recusar com "401 Bad credentials".
+function trocarToken() {
+  const atual = getWFT();
+  const t = prompt('Cole aqui o novo GitHub Token (workflow):', '');
+  if(!t) return;
+  const limpo = t.trim();
+  if(!limpo) { alert('Token vazio, nada foi alterado.'); return; }
+  localStorage.setItem('cr_wft', limpo);
+  alert('✓ Token atualizado! Tente importar/salvar de novo.');
+}
 async function dispararColeta() {
   const btn = qs('collect-btn');
   if(!getWFT()) {
     const t = prompt('GitHub Token (workflow):');
-    if(!t) return;
-    localStorage.setItem('cr_wft', t);
+    if(!t || !t.trim()) return;
+    localStorage.setItem('cr_wft', t.trim());
   }
   btn.textContent='Coletando...';
   btn.disabled=true;
