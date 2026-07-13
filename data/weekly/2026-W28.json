@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-07-13T12:35:34.988432",
+  "generated_at": "2026-07-13T16:32:28.216163",
   "period_start": "2026-07-06",
   "period_end": "2026-07-12",
   "week_label": "2026-07-06 a 2026-07-12",
   "metrics": {
-    "total_posts": 188,
+    "total_posts": 207,
     "instagram_posts": 82,
-    "youtube_posts": 106,
-    "total_views": 15599087,
-    "total_likes": 925548,
-    "total_comments": 32254
+    "youtube_posts": 125,
+    "total_views": 18038832,
+    "total_likes": 1019235,
+    "total_comments": 38726
   },
   "sponsor_stats": {
     "#sportingbetnocharla": {
-      "posts": 63,
-      "views": 13615187,
-      "likes": 836757,
-      "comments": 23047,
+      "posts": 87,
+      "views": 16352209,
+      "likes": 946907,
+      "comments": 29843,
       "tag": "#sportingbetnocharla"
     },
     "#futebollegendstalks": {
-      "posts": 29,
-      "views": 9364618,
-      "likes": 620240,
-      "comments": 10917,
+      "posts": 51,
+      "views": 11924939,
+      "likes": 721172,
+      "comments": 17009,
       "tag": "#futebollegendstalks"
     },
     "#brahmanocharla": {
       "posts": 36,
-      "views": 4350979,
-      "likes": 220343,
-      "comments": 12385,
+      "views": 4427270,
+      "likes": 225735,
+      "comments": 12834,
       "tag": "#brahmanocharla"
     },
     "#assainocharla": {
       "posts": 12,
-      "views": 1722590,
-      "likes": 70530,
-      "comments": 1849,
+      "views": 1733077,
+      "likes": 70962,
+      "comments": 1872,
       "tag": "#assainocharla"
     },
     "#fornerianocharla": {
       "posts": 12,
-      "views": 1722590,
-      "likes": 70530,
-      "comments": 1849,
+      "views": 1733077,
+      "likes": 70962,
+      "comments": 1872,
       "tag": "#fornerianocharla"
     },
     "#melittanocharla": {
       "posts": 19,
-      "views": 1662070,
-      "likes": 77706,
-      "comments": 7074,
+      "views": 1707053,
+      "likes": 80734,
+      "comments": 7384,
       "tag": "#melittanocharla"
     },
     "#granfinonocharla": {
       "posts": 6,
-      "views": 992299,
-      "likes": 72536,
-      "comments": 3495,
+      "views": 1013362,
+      "likes": 74471,
+      "comments": 3611,
       "tag": "#granfinonocharla"
     },
     "#absolutnocharla": {
       "posts": 7,
-      "views": 831885,
-      "likes": 33409,
-      "comments": 2419,
+      "views": 832963,
+      "likes": 33431,
+      "comments": 2424,
       "tag": "#absolutnocharla"
     },
     "#charlanamix": {
       "posts": 2,
-      "views": 62645,
-      "likes": 1655,
-      "comments": 249,
+      "views": 62838,
+      "likes": 1660,
+      "comments": 251,
       "tag": "#charlanamix"
     }
   },
@@ -87,9 +87,9 @@
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 1305048,
-      "likes": 77331,
-      "comments": 977,
+      "views": 1307149,
+      "likes": 77421,
+      "comments": 980,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -106,9 +106,9 @@
         "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 1070437,
-      "likes": 39463,
-      "comments": 1404,
+      "views": 1074016,
+      "likes": 39628,
+      "comments": 1406,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -123,8 +123,8 @@
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 870645,
-      "likes": 46389,
+      "views": 872304,
+      "likes": 46479,
       "comments": 414,
       "shares": 0,
       "saves": 0,
@@ -140,9 +140,9 @@
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 816614,
-      "likes": 75094,
-      "comments": 735,
+      "views": 817259,
+      "likes": 75142,
+      "comments": 736,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -157,9 +157,9 @@
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 740628,
-      "likes": 45066,
-      "comments": 578,
+      "views": 742484,
+      "likes": 45138,
+      "comments": 579,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -174,12 +174,29 @@
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 696590,
-      "likes": 39641,
-      "comments": 3554,
+      "views": 698896,
+      "likes": 39794,
+      "comments": 3581,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
+    },
+    {
+      "id": "yt_HNg_PygSX9Y",
+      "date": "2026-07-08",
+      "caption": "Ronaldo, Romário, Baggio e mais: títulos, dramas e histórias nunca contadas | FUTEBOL LEGENDS TALKS",
+      "url": "https://www.youtube.com/watch?v=HNg_PygSX9Y",
+      "tags": [
+        "#sportingbetnocharla",
+        "#futebollegendstalks"
+      ],
+      "type": "VIDEO",
+      "views": 656577,
+      "likes": 36526,
+      "comments": 2640,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube"
     },
     {
       "id": "18055313834528150",
@@ -191,8 +208,8 @@
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 573967,
-      "likes": 38306,
+      "views": 574979,
+      "likes": 38360,
       "comments": 421,
       "shares": 0,
       "saves": 0,
@@ -208,63 +225,45 @@
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 549310,
-      "likes": 50767,
-      "comments": 721,
+      "views": 550914,
+      "likes": 50929,
+      "comments": 722,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
     },
     {
-      "id": "18165985408443969",
+      "id": "yt_6C-BN-rhKbc",
       "date": "2026-07-09",
-      "caption": "“O QUE ELE FEZ SEM DOIS JOELHOS É INIGUALÁVEL. É O RONALDO VERDADEIRO!”\n\nMaterazzi coloca Ronaldo Fenômeno como maior jo",
-      "url": "https://www.instagram.com/reel/DalxD7lOTJZ/",
+      "caption": "ROMÁRIO CHORA DE RIR COM RESENHA DO TÉCNICO COM RONALDO 😂😂😂",
+      "url": "https://www.youtube.com/watch?v=6C-BN-rhKbc",
       "tags": [
         "#sportingbetnocharla",
         "#futebollegendstalks"
       ],
       "type": "VIDEO",
-      "views": 413273,
-      "likes": 25770,
-      "comments": 245,
+      "views": 432331,
+      "likes": 11482,
+      "comments": 372,
       "shares": 0,
       "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "18093250337576667",
-      "date": "2026-07-11",
-      "caption": "“NÃO SEI SE ELE ESTAVA PRONTO PRA ESSA SITUAÇÃO”\n\nHernane dá sua opinião sobre a jogada de Endrick contra a Noruega \n\n#G",
-      "url": "https://www.instagram.com/reel/DaqbFAVuDa4/",
-      "tags": [
-        "#granfinonocharla",
-        "#brahmanocharla",
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 391117,
-      "likes": 22582,
-      "comments": 1730,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
+      "platform": "youtube"
     }
   ],
   "ai_summary": {
-    "resumo_semana": "A semana de 6 a 12 de julho foi altamente produtiva com 188 posts gerando 15.6M de visualizações e 957.8K interações totais. O conteúdo focado em histórias de lendas do futebol e análises de momentos icônicos manteve alto engajamento. A plataforma Instagram liderou em qualidade de conteúdo, enquanto YouTube forneceu volume significativo.",
-    "destaque_semana": "O post sobre Ronaldo e Romário discutindo diferenças no treino alcançou 1.3M de visualizações, consolidando histórias de bastidores como formato campeão. Os conteúdos sobre pressão em penalidades e trajetórias de Copa do Mundo também geraram números expressivos.",
+    "resumo_semana": "Semana excelente com 207 posts gerando 18.0M de visualizações e 1.0M de likes. O conteúdo relacionado a histórias de futebolistas lendários continuou dominando o engajamento. A plataforma Instagram mostrou melhor performance relativa apesar de menor volume de posts em comparação ao YouTube.",
+    "destaque_semana": "Post viral sobre Ronaldo e Romário comparando diferenças no treino atingiu 1.3M de views, consolidando o formato de conversa entre ídolos como principal gerador de engajamento.",
     "padroes": [
-      "Conteúdo nostálgico e histórico sobre lendas do futebol gera 2-3x mais visualizações que outros formatos",
-      "Posts com diálogos diretos entre ex-jogadores apresentam maior taxa de comentários e discussão",
-      "Patrocínio Sportingbet domina significativamente com 13.6M views em apenas 63 posts (21.6% do volume)"
+      "Conteúdo sobre decisões críticas e pressão em momentos históricos (pênaltis, Copa do Mundo) gera máximo engajamento",
+      "Posts com múltiplos patrocinadores (#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla) alcançam maior alcance e interações",
+      "Instagram tem taxa de engajamento superior ao YouTube apesar de menor volume total de posts (82 vs 125)"
     ],
     "recomendacoes": [
-      "Intensificar formato de diálogos entre lendas do futebol, especialmente sobre memórias de Copas e momentos críticos",
-      "Expandir conteúdo sobre pressão psicológica em decisões do futebol - tema mostrou alta relevância e engagement",
-      "Aumentar frequência de posts do Sportingbet (melhor ROI) enquanto otimiza Assaí e Forneri que mostram baixo desempenho relativo"
+      "Expandir série de entrevistas com lendas do futebol focando em momentos de pressão e decisões importantes",
+      "Aumentar frequência de posts no Instagram que mostrou melhor taxa de engajamento por post (média 219.5K views vs 144K no YouTube)",
+      "Manter abordagem de múltiplos patrocinadores por post, especialmente #SportingbetNoCharla que concentra 91% das views de patrocínio"
     ],
-    "analise_patrocinadores": "Sportingbet é o grande destaque com 13.6M views e 859.8K interações em 63 posts, demonstrando excelente sinergia com o conteúdo do canal. Futebol Legends Talks também perfoma bem com 9.4M views. Porém, Assaí e Forneri apresentam baixíssima taxa de engajamento relativo (72.4K interações cada), indicando necessidade de reformulação estratégica dessas parcerias.",
-    "proximo_foco": "Focar em série de entrevistas temáticas tipo 'Memórias de Decisões Históricas' com lendas do futebol, mantendo o padrão de conteúdo que mostrou 1M+ views. Paralelamente, revisar estratégia de integração dos patrocinadores de menor performance (Assaí e Forneri) para melhorar conversão."
+    "analise_patrocinadores": "O patrocínio #SportingbetNoCharla dominou completamente a semana com 87 posts e 16.4M de views (91% do total). Os demais patrocinadores tiveram performance significativamente inferior, indicando oportunidade de melhor distribuição de conteúdo patrocinado e teste de novos formatos para marcas como Assaí e Forneri que tiveram menor destaque.",
+    "proximo_foco": "Criar série de 5-7 episódios curtos no formato 'Decisões que mudaram vidas' com lendas contando momentos críticos de suas carreiras, priorizando produção para Instagram Stories e Reels onde o engajamento é maior."
   }
 }
