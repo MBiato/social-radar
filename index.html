@@ -524,38 +524,86 @@ async function init() {
 }
 function saveLocal() { try { localStorage.setItem('cr_v1', JSON.stringify(metrics)); } catch {} }
 
-// Persiste `metrics` de volta no data/metrics.json do repositório via GitHub Contents API.
+// Persiste `metrics` de volta no data/metrics.json do repositório.
 // Sem isso, importações manuais (ex: vídeos do YouTube) ficam só no localStorage e
 // são sobrescritas assim que o dashboard busca metrics.json de novo (reload, ↻, ou
 // a coleta automática das 7h reescrevendo o arquivo no servidor).
+//
+// Usa a Git Data API (blob → tree → commit → ref) em vez da Contents API porque
+// a Contents API só aceita arquivos de até 1MB no campo "content" — e o metrics.json
+// do Charla Radar (até 2.000 posts, captions completas sem truncamento) pode passar
+// facilmente desse limite. A Git Data API não tem esse teto.
+let lastCommitError = '';
 async function commitMetricsToGitHub() {
   const REPO = 'MBiato/social-radar';
   const PATH = 'data/metrics.json';
-  const token = getWFT();
+  lastCommitError = '';
+  let token = getWFT();
   if(!token) {
     const t = prompt('GitHub Token (workflow) necessário para salvar no repositório:');
-    if(!t) return false;
+    if(!t) { lastCommitError = 'Nenhum token informado.'; return false; }
     localStorage.setItem('cr_wft', t);
+    token = t;
   }
+  const headers = { Authorization: `token ${token}`, Accept: 'application/vnd.github+json' };
+  const jsonHeaders = { ...headers, 'Content-Type': 'application/json' };
+
+  async function gh(url, opts) {
+    const r = await fetch(url, opts);
+    if(!r.ok) {
+      let detail = '';
+      try { const j = await r.json(); detail = j.message || ''; } catch {}
+      throw new Error(`${r.status} ${r.statusText}${detail ? ' — ' + detail : ''} (${url.replace('https://api.github.com','')})`);
+    }
+    return r.json();
+  }
+
   try {
-    const cur = await fetch(`https://api.github.com/repos/${REPO}/contents/${PATH}`, {
-      headers: { Authorization: `token ${getWFT()}` }
-    }).then(r => { if(!r.ok) throw new Error('Não foi possível ler o arquivo atual (status '+r.status+')'); return r.json(); });
+    // 1. Branch padrão do repositório
+    const repoInfo = await gh(`https://api.github.com/repos/${REPO}`, { headers });
+    const branch = repoInfo.default_branch || 'main';
 
-    const content = btoa(unescape(encodeURIComponent(JSON.stringify(metrics, null, 2))));
+    // 2. Commit e árvore atuais da branch
+    const ref = await gh(`https://api.github.com/repos/${REPO}/git/ref/heads/${branch}`, { headers });
+    const baseCommitSha = ref.object.sha;
+    const baseCommit = await gh(`https://api.github.com/repos/${REPO}/git/commits/${baseCommitSha}`, { headers });
+    const baseTreeSha = baseCommit.tree.sha;
 
-    const put = await fetch(`https://api.github.com/repos/${REPO}/contents/${PATH}`, {
-      method: 'PUT',
-      headers: { Authorization: `token ${getWFT()}`, 'Content-Type': 'application/json' },
+    // 3. Cria o blob com o conteúdo novo (sem limite de 1MB, ao contrário da Contents API)
+    const contentStr = JSON.stringify(metrics, null, 2);
+    const blob = await gh(`https://api.github.com/repos/${REPO}/git/blobs`, {
+      method: 'POST', headers: jsonHeaders,
+      body: JSON.stringify({ content: contentStr, encoding: 'utf-8' })
+    });
+
+    // 4. Cria uma nova árvore apontando o path para o blob novo
+    const tree = await gh(`https://api.github.com/repos/${REPO}/git/trees`, {
+      method: 'POST', headers: jsonHeaders,
       body: JSON.stringify({
-        message: 'Atualiza metrics.json via importação manual do dashboard',
-        content,
-        sha: cur.sha
+        base_tree: baseTreeSha,
+        tree: [{ path: PATH, mode: '100644', type: 'blob', sha: blob.sha }]
       })
     });
-    if(!put.ok) throw new Error('Falha ao commitar (status '+put.status+')');
+
+    // 5. Cria o commit
+    const commit = await gh(`https://api.github.com/repos/${REPO}/git/commits`, {
+      method: 'POST', headers: jsonHeaders,
+      body: JSON.stringify({
+        message: 'Atualiza metrics.json via importação manual do dashboard',
+        tree: tree.sha,
+        parents: [baseCommitSha]
+      })
+    });
+
+    // 6. Atualiza a branch para apontar pro commit novo
+    await gh(`https://api.github.com/repos/${REPO}/git/refs/heads/${branch}`, {
+      method: 'PATCH', headers: jsonHeaders,
+      body: JSON.stringify({ sha: commit.sha })
+    });
+
     return true;
   } catch(e) {
+    lastCommitError = e.message || String(e);
     console.error('commitMetricsToGitHub:', e);
     return false;
   }
@@ -1008,7 +1056,7 @@ async function salvarYT() {
   if(ok) {
     alert(`✓ ${s} adicionados, ${a} atualizados — e salvos no metrics.json do repositório!`);
   } else {
-    alert(`⚠ ${s} adicionados, ${a} atualizados no navegador, mas o commit para o GitHub falhou.\nOs dados ficam só neste navegador e podem ser perdidos na próxima atualização automática.\nVerifique o token (⚙ Admin) e tente '↻ Recarregar' + importar de novo se necessário.`);
+    alert(`⚠ ${s} adicionados, ${a} atualizados no navegador, mas o commit para o GitHub falhou.\n\nMotivo: ${lastCommitError || 'desconhecido'}\n\nOs dados ficam só neste navegador e podem ser perdidos na próxima atualização automática.\nVerifique o token (⚙ Admin) e tente '↻ Recarregar' + importar de novo se necessário.`);
   }
 }
 
