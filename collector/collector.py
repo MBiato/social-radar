@@ -25,6 +25,16 @@ DATA_FILE   = Path(__file__).parent.parent / 'data' / 'metrics.json'
 LOG_FMT     = '%(asctime)s [%(levelname)s] %(message)s'
 MAX_POSTS   = 2000   # máximo de posts por plataforma no JSON
 
+# Coleta normal (diária, via cron) busca só a 1ª página de 100 posts mais recentes
+# do Instagram — rápido, mas não "revisita" posts mais antigos (ex: se você editou
+# a legenda/hashtag de um post de alguns dias atrás, ele não vai ser atualizado).
+#
+# Para forçar uma varredura completa (até 2.000 posts, ~15-20 min) — por exemplo,
+# depois de editar hashtags de posts antigos no Instagram — rode assim:
+#   python3 collector/collector.py --full
+FULL_HISTORY   = '--full' in sys.argv
+IG_MAX_PAGES   = 20 if FULL_HISTORY else 1
+
 logging.basicConfig(level=logging.INFO, format=LOG_FMT)
 log = logging.getLogger('sr-collector')
 
@@ -147,7 +157,7 @@ def collect_instagram(metrics: dict) -> bool:
         params = {'fields':'id,caption,media_type,timestamp,like_count,comments_count,permalink','limit':100,'access_token':token}
         all_items = []
         page = 0
-        while url and page < 1:
+        while url and page < IG_MAX_PAGES:
             r = requests.get(url, params=params, timeout=30)
             r.raise_for_status()
             rd = r.json()
@@ -402,6 +412,8 @@ def refresh_instagram_token():
 def main():
     log.info('=' * 50)
     log.info(f'Social Radar Collector — {today()}')
+    if FULL_HISTORY:
+        log.info('Modo --full ativado: varredura completa do Instagram (até 2.000 posts, pode levar ~15-20 min)')
     log.info('=' * 50)
 
     metrics = load_metrics()
