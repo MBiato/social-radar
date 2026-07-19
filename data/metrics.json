@@ -460,9 +460,51 @@
         "reach": 0,
         "impressions": 0,
         "likes": 606
+      },
+      {
+        "date": "2026-07-19",
+        "followers": 955621,
+        "following": 1112,
+        "media_count": 6938,
+        "views": 0,
+        "reach": 0,
+        "impressions": 0,
+        "likes": 4453
       }
     ],
     "posts": [
+      {
+        "id": "18368044627231714",
+        "date": "2026-07-19",
+        "caption": "“O QUE ELES MOSTRAM, É O QUE TODO TORCEDOR QUER VER NO SEU TIME”\n\nMauro fala sobre a energia que envolve todo o time da ",
+        "url": "https://www.instagram.com/reel/Da9KMHIuyuF/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 51310,
+        "likes": 2908,
+        "comments": 300,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18100537832220406",
+        "date": "2026-07-19",
+        "caption": "“É PORQUE ELES SEGUEM O CARA”\n\nMauro Cezar revela motivo pro sucesso da Argentina e a importância de Messi nesse process",
+        "url": "https://www.instagram.com/reel/Da9Iw6fuW8h/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 40414,
+        "likes": 1545,
+        "comments": 33,
+        "shares": 0,
+        "saves": 0
+      },
       {
         "id": "18102979382588571",
         "date": "2026-07-18",
@@ -472,9 +514,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 22449,
-        "likes": 271,
-        "comments": 11,
+        "views": 31876,
+        "likes": 473,
+        "comments": 33,
         "shares": 0,
         "saves": 0
       },
@@ -487,9 +529,118 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 13833,
-        "likes": 335,
-        "comments": 7,
+        "views": 17540,
+        "likes": 464,
+        "comments": 11,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18109988287869774",
+        "date": "2026-07-18",
+        "caption": "O ESTÁDIO DO FLAMENGO VAI SAIR?\n\nMauro Cezar dá detalhes sobre a construção do estádio e o que poderia ter acontecido em",
+        "url": "https://www.instagram.com/reel/Da80rUvxifT/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 122009,
+        "likes": 4399,
+        "comments": 162,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18432726241125207",
+        "date": "2026-07-18",
+        "caption": "“ISSO É CULTURAL E NO BRASIL NÃO TEMOS”\n\nMauro Cezar explica a relação do  argentino com o torcer no estádio \n\n#BrahmaNo",
+        "url": "https://www.instagram.com/reel/Da8wEK3Mgwb/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 34535,
+        "likes": 1483,
+        "comments": 102,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18082622654224959",
+        "date": "2026-07-18",
+        "caption": "“MARADONA É DEUS E MESSI O GÊNIO QUE SENTA AO LADO DELE” \n\nMauro Cezar revela a relação dos argentinos com os maiores cr",
+        "url": "https://www.instagram.com/reel/Da8tXA7NM9N/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 84354,
+        "likes": 2756,
+        "comments": 334,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18033000839819141",
+        "date": "2026-07-18",
+        "caption": "“AS PESSOAS NÃO APRENDERAM NADA COM A 777”\n\nMauro Cezar fala sobre o fair play financeiro e a possibilidade do Vasco ser",
+        "url": "https://www.instagram.com/reel/Da8ob64hKV-/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 139351,
+        "likes": 4444,
+        "comments": 2372,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18079711877672889",
+        "date": "2026-07-18",
+        "caption": "“PELÉ SERIA MIL VEZES MELHOR” \n\nMauro fala sobre a comparação de Messi e Pelé fala porque o brasileiro é o maior \n\n#Brah",
+        "url": "https://www.instagram.com/reel/Da8gAQqNNT0/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 240704,
+        "likes": 24396,
+        "comments": 1471,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18105127096845175",
+        "date": "2026-07-18",
+        "caption": "“ O MÉRITO É TODO DO MESSI E SCALONI” \n\nMauro Cezar fala sobre como a Argentina chegou a duas finais de copa seguidas \n\n",
+        "url": "https://www.instagram.com/reel/Da8ZBiCu3XS/",
+        "tags": [
+          "#brahmanocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 38377,
+        "likes": 2628,
+        "comments": 42,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "17979146456887117",
+        "date": "2026-07-18",
+        "caption": "MAURO CEZAR NO CHARLA! \n\nDia de se preparar pra final da Copa e descobrir detalhes sobre o sucesso da Argentina de Scalo",
+        "url": "https://www.instagram.com/p/Da78_LSuz9H/",
+        "tags": [],
+        "type": "IMAGE",
+        "views": 0,
+        "likes": 740,
+        "comments": 254,
         "shares": 0,
         "saves": 0
       },
@@ -502,9 +653,9 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 194649,
-        "likes": 5352,
-        "comments": 118,
+        "views": 199194,
+        "likes": 5448,
+        "comments": 120,
         "shares": 0,
         "saves": 0
       },
@@ -547,8 +698,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 20298,
-        "likes": 616,
+        "views": 20835,
+        "likes": 627,
         "comments": 35,
         "shares": 0,
         "saves": 0
@@ -562,8 +713,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 8231,
-        "likes": 77,
+        "views": 10434,
+        "likes": 116,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -578,9 +729,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 116143,
-        "likes": 7141,
-        "comments": 105,
+        "views": 192271,
+        "likes": 11397,
+        "comments": 162,
         "shares": 0,
         "saves": 0
       },
@@ -594,9 +745,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 13200,
-        "likes": 410,
-        "comments": 1,
+        "views": 21222,
+        "likes": 709,
+        "comments": 8,
         "shares": 0,
         "saves": 0
       },
@@ -610,9 +761,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 61507,
-        "likes": 2427,
-        "comments": 142,
+        "views": 104152,
+        "likes": 4321,
+        "comments": 267,
         "shares": 0,
         "saves": 0
       },
@@ -626,9 +777,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 32846,
-        "likes": 1182,
-        "comments": 105,
+        "views": 50630,
+        "likes": 1710,
+        "comments": 170,
         "shares": 0,
         "saves": 0
       },
@@ -642,9 +793,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 76858,
-        "likes": 6188,
-        "comments": 57,
+        "views": 141580,
+        "likes": 11866,
+        "comments": 103,
         "shares": 0,
         "saves": 0
       },
@@ -658,8 +809,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 13153,
-        "likes": 382,
+        "views": 15083,
+        "likes": 435,
         "comments": 3,
         "shares": 0,
         "saves": 0
@@ -675,7 +826,7 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 36,
+        "likes": 37,
         "comments": 6,
         "shares": 0,
         "saves": 0
@@ -691,9 +842,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 439448,
-        "likes": 47271,
-        "comments": 2588,
+        "views": 492892,
+        "likes": 51965,
+        "comments": 2799,
         "shares": 0,
         "saves": 0
       },
@@ -707,8 +858,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 21514,
-        "likes": 520,
+        "views": 23011,
+        "likes": 554,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -720,8 +871,8 @@
         "url": "https://www.instagram.com/reel/Da3gDOvPy1-/",
         "tags": [],
         "type": "VIDEO",
-        "views": 12249,
-        "likes": 400,
+        "views": 13000,
+        "likes": 408,
         "comments": 7,
         "shares": 0,
         "saves": 0
@@ -737,8 +888,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 19186,
-        "likes": 321,
+        "views": 20129,
+        "likes": 324,
         "comments": 8,
         "shares": 0,
         "saves": 0
@@ -754,8 +905,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 12114,
-        "likes": 330,
+        "views": 12577,
+        "likes": 332,
         "comments": 11,
         "shares": 0,
         "saves": 0
@@ -771,9 +922,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 32104,
-        "likes": 2194,
-        "comments": 425,
+        "views": 33584,
+        "likes": 2289,
+        "comments": 438,
         "shares": 0,
         "saves": 0
       },
@@ -801,9 +952,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 23972,
-        "likes": 940,
-        "comments": 89,
+        "views": 24220,
+        "likes": 943,
+        "comments": 88,
         "shares": 0,
         "saves": 0
       },
@@ -833,8 +984,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 25669,
-        "likes": 1028,
+        "views": 25931,
+        "likes": 1029,
         "comments": 27,
         "shares": 0,
         "saves": 0
@@ -850,7 +1001,7 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 10677,
+        "views": 10898,
         "likes": 330,
         "comments": 8,
         "shares": 0,
@@ -867,8 +1018,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 35201,
-        "likes": 1201,
+        "views": 35540,
+        "likes": 1204,
         "comments": 99,
         "shares": 0,
         "saves": 0
@@ -896,9 +1047,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 246076,
-        "likes": 8635,
-        "comments": 61,
+        "views": 250583,
+        "likes": 8794,
+        "comments": 63,
         "shares": 0,
         "saves": 0
       },
@@ -912,8 +1063,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 56637,
-        "likes": 4727,
+        "views": 57938,
+        "likes": 4793,
         "comments": 11,
         "shares": 0,
         "saves": 0
@@ -928,8 +1079,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 15295,
-        "likes": 1294,
+        "views": 15717,
+        "likes": 1314,
         "comments": 5,
         "shares": 0,
         "saves": 0
@@ -944,8 +1095,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 22487,
-        "likes": 1052,
+        "views": 22915,
+        "likes": 1064,
         "comments": 15,
         "shares": 0,
         "saves": 0
@@ -961,9 +1112,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 27891,
-        "likes": 895,
-        "comments": 19,
+        "views": 28503,
+        "likes": 918,
+        "comments": 21,
         "shares": 0,
         "saves": 0
       },
@@ -978,7 +1129,7 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 14711,
+        "views": 14901,
         "likes": 713,
         "comments": 14,
         "shares": 0,
@@ -995,7 +1146,7 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 9368,
+        "views": 9485,
         "likes": 244,
         "comments": 4,
         "shares": 0,
@@ -1011,8 +1162,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 16549,
-        "likes": 942,
+        "views": 16730,
+        "likes": 944,
         "comments": 8,
         "shares": 0,
         "saves": 0
@@ -1027,8 +1178,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 19787,
-        "likes": 1347,
+        "views": 20101,
+        "likes": 1358,
         "comments": 12,
         "shares": 0,
         "saves": 0
@@ -1043,8 +1194,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 17789,
-        "likes": 664,
+        "views": 18011,
+        "likes": 665,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -1059,9 +1210,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 43733,
-        "likes": 2480,
-        "comments": 16,
+        "views": 44112,
+        "likes": 2490,
+        "comments": 17,
         "shares": 0,
         "saves": 0
       },
@@ -1075,8 +1226,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 41644,
-        "likes": 4451,
+        "views": 42631,
+        "likes": 4519,
         "comments": 31,
         "shares": 0,
         "saves": 0
@@ -1091,8 +1242,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 64461,
-        "likes": 3413,
+        "views": 64835,
+        "likes": 3421,
         "comments": 54,
         "shares": 0,
         "saves": 0
@@ -1109,9 +1260,9 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 114939,
-        "likes": 5502,
-        "comments": 236,
+        "views": 115530,
+        "likes": 5522,
+        "comments": 239,
         "shares": 0,
         "saves": 0
       },
@@ -1125,9 +1276,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 65849,
-        "likes": 2927,
-        "comments": 55,
+        "views": 66359,
+        "likes": 2950,
+        "comments": 56,
         "shares": 0,
         "saves": 0
       },
@@ -1142,9 +1293,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 359222,
-        "likes": 16804,
-        "comments": 6132,
+        "views": 364127,
+        "likes": 16981,
+        "comments": 6273,
         "shares": 0,
         "saves": 0
       },
@@ -1156,7 +1307,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 27,
+        "likes": 29,
         "comments": 4,
         "shares": 0,
         "saves": 0
@@ -1171,8 +1322,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 52258,
-        "likes": 3215,
+        "views": 53023,
+        "likes": 3261,
         "comments": 23,
         "shares": 0,
         "saves": 0
@@ -1189,8 +1340,8 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 84738,
-        "likes": 5250,
+        "views": 85447,
+        "likes": 5269,
         "comments": 54,
         "shares": 0,
         "saves": 0
@@ -1205,9 +1356,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 127682,
-        "likes": 6880,
-        "comments": 132,
+        "views": 130096,
+        "likes": 7035,
+        "comments": 133,
         "shares": 0,
         "saves": 0
       },
@@ -1221,8 +1372,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 47749,
-        "likes": 2915,
+        "views": 48117,
+        "likes": 2934,
         "comments": 23,
         "shares": 0,
         "saves": 0
@@ -1236,8 +1387,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 20646,
-        "likes": 591,
+        "views": 20867,
+        "likes": 595,
         "comments": 19,
         "shares": 0,
         "saves": 0
@@ -1253,9 +1404,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 39239,
-        "likes": 1073,
-        "comments": 230,
+        "views": 39595,
+        "likes": 1081,
+        "comments": 234,
         "shares": 0,
         "saves": 0
       },
@@ -1267,7 +1418,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 122,
+        "likes": 123,
         "comments": 3,
         "shares": 0,
         "saves": 0
@@ -1279,8 +1430,8 @@
         "url": "https://www.instagram.com/reel/DarDlYLgTno/",
         "tags": [],
         "type": "VIDEO",
-        "views": 134205,
-        "likes": 2391,
+        "views": 134288,
+        "likes": 2392,
         "comments": 256,
         "shares": 0,
         "saves": 0
@@ -1296,9 +1447,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 268743,
-        "likes": 27400,
-        "comments": 1420,
+        "views": 276168,
+        "likes": 28329,
+        "comments": 1486,
         "shares": 0,
         "saves": 0
       },
@@ -1312,9 +1463,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 241022,
-        "likes": 29652,
-        "comments": 713,
+        "views": 242274,
+        "likes": 29792,
+        "comments": 718,
         "shares": 0,
         "saves": 0
       },
@@ -1330,9 +1481,9 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 27081,
-        "likes": 690,
-        "comments": 114,
+        "views": 27208,
+        "likes": 693,
+        "comments": 115,
         "shares": 0,
         "saves": 0
       },
@@ -1348,7 +1499,7 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 21774,
+        "views": 21884,
         "likes": 590,
         "comments": 9,
         "shares": 0,
@@ -1365,9 +1516,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 111865,
-        "likes": 6021,
-        "comments": 258,
+        "views": 112937,
+        "likes": 6073,
+        "comments": 259,
         "shares": 0,
         "saves": 0
       },
@@ -1382,9 +1533,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 18588,
-        "likes": 590,
-        "comments": 173,
+        "views": 18964,
+        "likes": 620,
+        "comments": 190,
         "shares": 0,
         "saves": 0
       },
@@ -1399,7 +1550,7 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 20317,
+        "views": 20400,
         "likes": 627,
         "comments": 21,
         "shares": 0,
@@ -1416,9 +1567,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 56004,
-        "likes": 3716,
-        "comments": 153,
+        "views": 56278,
+        "likes": 3762,
+        "comments": 154,
         "shares": 0,
         "saves": 0
       },
@@ -1433,9 +1584,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 239365,
-        "likes": 16235,
-        "comments": 2386,
+        "views": 239939,
+        "likes": 16273,
+        "comments": 2401,
         "shares": 0,
         "saves": 0
       },
@@ -1450,9 +1601,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 28676,
-        "likes": 921,
-        "comments": 103,
+        "views": 28770,
+        "likes": 922,
+        "comments": 104,
         "shares": 0,
         "saves": 0
       },
@@ -1463,9 +1614,9 @@
         "url": "https://www.instagram.com/reel/Daq_7GTvik2/",
         "tags": [],
         "type": "VIDEO",
-        "views": 25806,
-        "likes": 1425,
-        "comments": 296,
+        "views": 25967,
+        "likes": 1426,
+        "comments": 300,
         "shares": 0,
         "saves": 0
       },
@@ -1480,8 +1631,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 302418,
-        "likes": 27992,
+        "views": 303139,
+        "likes": 28068,
         "comments": 721,
         "shares": 0,
         "saves": 0
@@ -1497,8 +1648,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 40782,
-        "likes": 1299,
+        "views": 40928,
+        "likes": 1304,
         "comments": 38,
         "shares": 0,
         "saves": 0
@@ -1514,7 +1665,7 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 23880,
+        "views": 23962,
         "likes": 431,
         "comments": 28,
         "shares": 0,
@@ -1531,8 +1682,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 47565,
-        "likes": 1617,
+        "views": 47746,
+        "likes": 1623,
         "comments": 36,
         "shares": 0,
         "saves": 0
@@ -1548,9 +1699,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 431421,
-        "likes": 24878,
-        "comments": 1943,
+        "views": 435543,
+        "likes": 25107,
+        "comments": 1961,
         "shares": 0,
         "saves": 0
       },
@@ -1562,7 +1713,7 @@
         "tags": [],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 323,
+        "likes": 324,
         "comments": 7,
         "shares": 0,
         "saves": 0
@@ -1577,8 +1728,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 92914,
-        "likes": 4410,
+        "views": 93206,
+        "likes": 4426,
         "comments": 58,
         "shares": 0,
         "saves": 0
@@ -1593,9 +1744,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 46131,
-        "likes": 3063,
-        "comments": 55,
+        "views": 46573,
+        "likes": 3102,
+        "comments": 56,
         "shares": 0,
         "saves": 0
       },
@@ -1622,9 +1773,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 302488,
-        "likes": 23851,
-        "comments": 308,
+        "views": 303333,
+        "likes": 23913,
+        "comments": 309,
         "shares": 0,
         "saves": 0
       },
@@ -1638,9 +1789,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 116349,
-        "likes": 9771,
-        "comments": 112,
+        "views": 116835,
+        "likes": 9806,
+        "comments": 113,
         "shares": 0,
         "saves": 0
       },
@@ -1654,8 +1805,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 370888,
-        "likes": 17411,
+        "views": 372155,
+        "likes": 17437,
         "comments": 283,
         "shares": 0,
         "saves": 0
@@ -1670,8 +1821,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 121577,
-        "likes": 4391,
+        "views": 121746,
+        "likes": 4402,
         "comments": 41,
         "shares": 0,
         "saves": 0
@@ -1685,8 +1836,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 27830,
-        "likes": 444,
+        "views": 27899,
+        "likes": 445,
         "comments": 35,
         "shares": 0,
         "saves": 0
@@ -1702,8 +1853,8 @@
           "#brahmanocharla"
         ],
         "type": "VIDEO",
-        "views": 13079,
-        "likes": 418,
+        "views": 13202,
+        "likes": 420,
         "comments": 13,
         "shares": 0,
         "saves": 0
@@ -1719,8 +1870,8 @@
           "#brahmanocharla"
         ],
         "type": "VIDEO",
-        "views": 91116,
-        "likes": 3507,
+        "views": 91210,
+        "likes": 3508,
         "comments": 251,
         "shares": 0,
         "saves": 0
@@ -1735,8 +1886,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 179916,
-        "likes": 8559,
+        "views": 180735,
+        "likes": 8604,
         "comments": 133,
         "shares": 0,
         "saves": 0
@@ -1750,7 +1901,7 @@
           "#charlanamix"
         ],
         "type": "VIDEO",
-        "views": 24370,
+        "views": 24422,
         "likes": 631,
         "comments": 137,
         "shares": 0,
@@ -1766,8 +1917,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 268288,
-        "likes": 18767,
+        "views": 269873,
+        "likes": 18849,
         "comments": 126,
         "shares": 0,
         "saves": 0
@@ -1782,9 +1933,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 1331541,
-        "likes": 78528,
-        "comments": 990,
+        "views": 1334645,
+        "likes": 78668,
+        "comments": 993,
         "shares": 0,
         "saves": 0
       },
@@ -1798,8 +1949,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 244665,
-        "likes": 14471,
+        "views": 245541,
+        "likes": 14493,
         "comments": 136,
         "shares": 0,
         "saves": 0
@@ -1814,9 +1965,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 437458,
-        "likes": 26965,
-        "comments": 264,
+        "views": 439467,
+        "likes": 27065,
+        "comments": 266,
         "shares": 0,
         "saves": 0
       },
@@ -1830,9 +1981,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 765106,
-        "likes": 46061,
-        "comments": 586,
+        "views": 768469,
+        "likes": 46208,
+        "comments": 587,
         "shares": 0,
         "saves": 0
       },
@@ -1845,7 +1996,7 @@
           "#charlanamix"
         ],
         "type": "VIDEO",
-        "views": 40264,
+        "views": 40317,
         "likes": 1058,
         "comments": 134,
         "shares": 0,
@@ -1862,7 +2013,7 @@
           "#brahmanocharla"
         ],
         "type": "VIDEO",
-        "views": 33412,
+        "views": 33543,
         "likes": 1380,
         "comments": 47,
         "shares": 0,
@@ -1875,7 +2026,7 @@
         "url": "https://www.instagram.com/reel/Dalsz6JAuRo/",
         "tags": [],
         "type": "VIDEO",
-        "views": 63497,
+        "views": 63594,
         "likes": 2663,
         "comments": 368,
         "shares": 0,
@@ -1888,9 +2039,9 @@
         "url": "https://www.instagram.com/reel/Dalp342sh8Z/",
         "tags": [],
         "type": "VIDEO",
-        "views": 33536,
+        "views": 33637,
         "likes": 2345,
-        "comments": 191,
+        "comments": 193,
         "shares": 0,
         "saves": 0
       },
@@ -1904,8 +2055,8 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 130173,
-        "likes": 6157,
+        "views": 130971,
+        "likes": 6168,
         "comments": 31,
         "shares": 0,
         "saves": 0
@@ -1921,8 +2072,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 40920,
-        "likes": 1164,
+        "views": 41083,
+        "likes": 1166,
         "comments": 35,
         "shares": 0,
         "saves": 0
@@ -1938,8 +2089,8 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 94139,
-        "likes": 6203,
+        "views": 94930,
+        "likes": 6253,
         "comments": 33,
         "shares": 0,
         "saves": 0
@@ -1954,9 +2105,9 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 377202,
-        "likes": 33595,
-        "comments": 520,
+        "views": 379481,
+        "likes": 33723,
+        "comments": 521,
         "shares": 0,
         "saves": 0
       },
@@ -31059,127 +31210,6 @@
         "comments": 165,
         "shares": 0,
         "saves": 0
-      },
-      {
-        "id": "18079153073194233",
-        "date": "2026-01-03",
-        "caption": "VEM AÍ O DOCUMENTÁRIO DO CHARLA NO TETRA DO MENGÃO NA LIBERTADORES! \n\nO vídeo completo com os bastidores da cobertura do",
-        "url": "https://www.instagram.com/reel/DTDeOWcgPi9/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 80317,
-        "likes": 4286,
-        "comments": 49,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "17879242392446742",
-        "date": "2026-01-03",
-        "caption": "ACHOU QUE TINHAM ACABADO OS CORTES DO CHOQUE? \n\nAchou errado, otário! Essa história do @caitomainier é boa demais 😂\n\nMai",
-        "url": "https://www.instagram.com/reel/DTDPylYDqCY/",
-        "tags": [
-          "#retrospectivacharla2025"
-        ],
-        "type": "VIDEO",
-        "views": 763425,
-        "likes": 69790,
-        "comments": 283,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "17923765818196854",
-        "date": "2026-01-02",
-        "caption": "“MACACO TAMBÉM É GENTE, TIÃO PRA PRESIDENTE!”\n\nUma das historias mais absurdas do Rio de Janeiro e do Brasil, contada pe",
-        "url": "https://www.instagram.com/reel/DTBKFG0lCy1/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 719728,
-        "likes": 57590,
-        "comments": 343,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18108257608633959",
-        "date": "2026-01-02",
-        "caption": "QUEM JÁ FOI BEIJADO PELO BEIJOQUEIRO? \n\nO @luizantoniosimas falou sobre essa figura peculiar do Rio de Janeiro e contou ",
-        "url": "https://www.instagram.com/reel/DTArg9wEaou/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 169738,
-        "likes": 4986,
-        "comments": 51,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "17994377249902569",
-        "date": "2026-01-02",
-        "caption": "A TRISTE HISTÓRIA DE TONY TRIPÉ 😂\n\nUma lenda nos anais da história carioca, Tony Tripé foi comentado por @tsgomide na pr",
-        "url": "https://www.instagram.com/reel/DS_M-UCjRrC/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 385288,
-        "likes": 12142,
-        "comments": 115,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18086051438011808",
-        "date": "2026-01-01",
-        "caption": "AFINAL, O QUE SIGNIFICA O TERMO “CARIOCA”?\n\nO assunto foi tema entre @luizantoniosimas e @tsgomide no primeiro Charla de",
-        "url": "https://www.instagram.com/reel/DS_DfxgjfxF/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 370626,
-        "likes": 24968,
-        "comments": 282,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18105701857671070",
-        "date": "2026-01-01",
-        "caption": "Charla #673 - Thiago Gomide e Luiz Antônio Simas\n\nProfundos conhecedores da história do Rio de Janeiro, Thiago Gomide e ",
-        "url": "https://www.instagram.com/p/DS-_dwclYR6/",
-        "tags": [
-          "#673"
-        ],
-        "type": "CAROUSEL_ALBUM",
-        "views": 0,
-        "likes": 582,
-        "comments": 9,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18058058741324839",
-        "date": "2026-01-01",
-        "caption": "BORA COMEÇAR 2026 COM UM RESENHA LENDÁRIA! \n\n@luizantoniosimas e @tsgomide abrem os trabalhos do ano com MUITO papo sobr",
-        "url": "https://www.instagram.com/p/DS-AqwWFXyY/",
-        "tags": [],
-        "type": "IMAGE",
-        "views": 0,
-        "likes": 1579,
-        "comments": 38,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18067331507396129",
-        "date": "2026-01-01",
-        "caption": "FELIZ ANO NOVO, TROPA! \n\nQue 2026 seja um ano com muita saúde, paz, felicidade, e muito amor, título e, claro, Charla na",
-        "url": "https://www.instagram.com/p/DS8pSQeFU4D/",
-        "tags": [],
-        "type": "IMAGE",
-        "views": 0,
-        "likes": 3067,
-        "comments": 37,
-        "shares": 0,
-        "saves": 0
       }
     ]
   },
@@ -31580,17 +31610,81 @@
         "likes": 458,
         "comments": 3,
         "shares": 0
+      },
+      {
+        "date": "2026-07-19",
+        "followers": 1250000,
+        "views": 530910914,
+        "video_count": 12688,
+        "likes": 3156,
+        "comments": 232,
+        "shares": 0
       }
     ],
     "posts": [
+      {
+        "id": "7gYPtACiNUk",
+        "date": "2026-07-19",
+        "caption": "ATUALIZAÇÕES SOBRE O NOVO ESTÁDIO DO FLAMENGO",
+        "type": "VIDEO",
+        "views": 12524,
+        "likes": 623,
+        "comments": 20,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "KRzqaakAnko",
+        "date": "2026-07-19",
+        "caption": "TODA A VERDADE SOBRE AS GESTÕES RUINS DO FUTEBOL BRASILEIRO",
+        "type": "VIDEO",
+        "views": 6763,
+        "likes": 289,
+        "comments": 41,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "g-Df_hiEbWc",
+        "date": "2026-07-19",
+        "caption": "MAURO CÉZAR RESPONDE O QUE PENSA SOBRE O NEYMAR",
+        "type": "VIDEO",
+        "views": 18321,
+        "likes": 888,
+        "comments": 139,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "3PrtwKU0o7A",
+        "date": "2026-07-19",
+        "caption": "MAURO CÉZAR REVELA TUDO SOBRE REFORÇOS DO FLAMENGO",
+        "type": "VIDEO",
+        "views": 8830,
+        "likes": 475,
+        "comments": 12,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "xCdxyTEssm0",
+        "date": "2026-07-19",
+        "caption": "THIAGO ALMADA SERÁ JOGADOR DO FLAMENGO?",
+        "type": "VIDEO",
+        "views": 18315,
+        "likes": 881,
+        "comments": 20,
+        "shares": 0,
+        "saves": 0
+      },
       {
         "id": "hydQv3gyZ8Y",
         "date": "2026-07-18",
         "caption": "FLUMINENSE DECEPCIONA NA VOLTA DO BRASILEIRÃO",
         "type": "VIDEO",
-        "views": 584,
-        "likes": 30,
-        "comments": 3,
+        "views": 1041,
+        "likes": 49,
+        "comments": 4,
         "shares": 0,
         "saves": 0
       },
@@ -31599,7 +31693,7 @@
         "date": "2026-07-18",
         "caption": "FLUMINENSE x BRAGANTINO | NARRAÇÃO AO VIVO | Brasileirão 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 27578,
+        "views": 27686,
         "likes": 422,
         "comments": 0,
         "shares": 0,
@@ -31610,8 +31704,129 @@
         "date": "2026-07-18",
         "caption": "VEJA A NARRAÇÃO DO EMPATE DO FLUMINENSE CONTRA O BRAGANTINO NA VOLTA DO BRASILEIRÃO",
         "type": "VIDEO",
-        "views": 127,
-        "likes": 6,
+        "views": 174,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "wRUufHP6DPg",
+        "date": "2026-07-18",
+        "caption": "POLÊMICA DA VENDA DO VASCO PARA A FAMÍLIA LAMACCHIA ",
+        "type": "VIDEO",
+        "views": 9394,
+        "likes": 625,
+        "comments": 235,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "gICBsjC6loY",
+        "date": "2026-07-18",
+        "caption": "MAURO CÉZAR ABRE O JOGO E REVELA VERDADES SOBRE A SELEÇÃO ",
+        "type": "VIDEO",
+        "views": 62381,
+        "likes": 2844,
+        "comments": 242,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "Lsm_hnR4e1g",
+        "date": "2026-07-18",
+        "caption": "AUMENTAR O NÚMERO DE SELEÇÕES NA COPA DO MUNDO FOI UM ERRO DA FIFA?",
+        "type": "VIDEO",
+        "views": 983,
+        "likes": 31,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "FzCNTk-nBkE",
+        "date": "2026-07-18",
+        "caption": "MAURO CÉZAR RESPONDE SE TORCE PELA ARGENTINA",
+        "type": "VIDEO",
+        "views": 20570,
+        "likes": 804,
+        "comments": 176,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "5m7pFmbx9wg",
+        "date": "2026-07-18",
+        "caption": "COMO O MESSI SE TRANSFORMOU NA SELEÇÃO ARGENTINA",
+        "type": "VIDEO",
+        "views": 3333,
+        "likes": 130,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "_v5Obpom8po",
+        "date": "2026-07-18",
+        "caption": "PREÇOS INACESSÍVEIS DOS INGRESSOS ESTÃO AFASTANDO O POVO DOS ESTÁDIOS",
+        "type": "VIDEO",
+        "views": 5367,
+        "likes": 252,
+        "comments": 14,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "769jL2Nk07g",
+        "date": "2026-07-18",
+        "caption": "AULA HISTÓRICA SOBRE PELÉ SER MAIOR QUE O MESSI ",
+        "type": "VIDEO",
+        "views": 9418,
+        "likes": 532,
+        "comments": 141,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "xIDYDBeWkHM",
+        "date": "2026-07-18",
+        "caption": "PRINCIPAL DIFERENÇA ENTRE MESSI E MARADONA PARA OS ARGENTINOS",
+        "type": "VIDEO",
+        "views": 2497,
+        "likes": 191,
+        "comments": 28,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "dAkrOLTZJe0",
+        "date": "2026-07-18",
+        "caption": "REVELADO O SEGREDO DO SUCESSO DA SELEÇÃO ARGENTINA",
+        "type": "VIDEO",
+        "views": 3465,
+        "likes": 177,
+        "comments": 16,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "DFY3tWqOWag",
+        "date": "2026-07-18",
+        "caption": "Charla #740 - Mauro Cezar [Jornalista]",
+        "type": "VIDEO",
+        "views": 86922,
+        "likes": 7113,
+        "comments": 142,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "fy-vdYZbxVA",
+        "date": "2026-07-18",
+        "caption": "ENTENDA A PRINCIPAL DIFERENÇA ENTRE A SELEÇÃO BRASILEIRA E A ESPANHOLA",
+        "type": "VIDEO",
+        "views": 447,
+        "likes": 22,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -31687,8 +31902,8 @@
         "date": "2026-07-17",
         "caption": "HISTÓRIA INCRÍVEL DE SUPERAÇÃO DE FABIÁN RUIZ ANTES DE VIRAR JOGADOR",
         "type": "VIDEO",
-        "views": 1113,
-        "likes": 44,
+        "views": 1972,
+        "likes": 86,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -31698,9 +31913,9 @@
         "date": "2026-07-17",
         "caption": "CONHEÇA A INCRÍVEL HISTÓRIA DE VIDA DE LAMINE YAMAL",
         "type": "VIDEO",
-        "views": 4314,
-        "likes": 204,
-        "comments": 9,
+        "views": 8995,
+        "likes": 362,
+        "comments": 15,
         "shares": 0,
         "saves": 0
       },
@@ -31709,9 +31924,9 @@
         "date": "2026-07-17",
         "caption": "FERNANDO KALLÁS RESPONDE QUAL SELEÇÃO É A FAVORITA PARA GANHAR A COPA DO MUNDO",
         "type": "VIDEO",
-        "views": 848,
-        "likes": 30,
-        "comments": 2,
+        "views": 2032,
+        "likes": 61,
+        "comments": 4,
         "shares": 0,
         "saves": 0
       },
@@ -31720,9 +31935,9 @@
         "date": "2026-07-17",
         "caption": "A RELAÇÃO ENTRE OS TREINADORES DE ARGENTINA E ESPANHA QUE POUCAS PESSOAS CONHECEM",
         "type": "VIDEO",
-        "views": 1436,
-        "likes": 64,
-        "comments": 1,
+        "views": 2622,
+        "likes": 105,
+        "comments": 3,
         "shares": 0,
         "saves": 0
       },
@@ -31731,9 +31946,9 @@
         "date": "2026-07-17",
         "caption": "FERNANDO KALLÁS DÁ AULA SOBRE A FORÇA DA SELEÇÃO ESPANHOLA",
         "type": "VIDEO",
-        "views": 916,
-        "likes": 40,
-        "comments": 1,
+        "views": 2128,
+        "likes": 79,
+        "comments": 3,
         "shares": 0,
         "saves": 0
       },
@@ -31742,9 +31957,9 @@
         "date": "2026-07-17",
         "caption": "IMPORTÂNCIA ABSURDA DO BARCELONA PARA REVOLUCIONAR O FUTEBOL ESPANHOL",
         "type": "VIDEO",
-        "views": 3528,
-        "likes": 155,
-        "comments": 9,
+        "views": 6732,
+        "likes": 248,
+        "comments": 17,
         "shares": 0,
         "saves": 0
       },
@@ -38427,5 +38642,5 @@
     "snapshots": [],
     "posts": []
   },
-  "updated_at": "2026-07-18T11:04:13.701075"
+  "updated_at": "2026-07-19T11:09:01.621081"
 }
