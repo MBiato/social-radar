@@ -295,7 +295,7 @@ tr:hover td{background:#1a1a1a;}
         <div>
           <div class="sec-title" style="margin-bottom:8px;">Ranking de Posts</div>
           <div style="display:flex;gap:6px;flex-wrap:wrap;">
-            <button onclick="gerarRelatorio()" class="btn-primary btn-sm">↓ Relatório PDF</button>
+            <button onclick="gerarRelatorio()" class="btn-primary btn-sm" title="Com patrocinador marcado no filtro, gera relatório desse patrocinador. Sem nenhum marcado, gera relatório interno com todos os posts do período.">↓ Relatório PDF</button>
             <button onclick="abrirYTImport()" style="background:transparent;border:1px solid var(--red);color:var(--red);font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;padding:5px 12px;cursor:pointer;text-transform:uppercase;">▶ Importar YouTube</button>
           </div>
         </div>
@@ -1278,16 +1278,17 @@ function pdfFooter(doc) {
 
 // ═══ RELATÓRIO PDF PATROCINADOR ═══════════════════════════
 function gerarRelatorio() {
-  if(!activeTags.size){alert('Selecione um patrocinador antes de gerar o relatório.');return;}
   if(!window.jspdf){alert('Recarregue a página.');return;}
-  const sName=[...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(' + ');
-  const sTag=[...activeTags].join(' · ');
+  const interno = !activeTags.size;               // sem patrocinador marcado = relatório interno
+  const sName = interno ? 'Todos os Posts do Período' : [...activeTags].map(t=>SPONSORS.find(s=>s.tag===t)?.label||t).join(' + ');
+  const sTag = interno ? '—' : [...activeTags].join(' · ');
+  const tituloRelatorio = interno ? 'Relatório Interno' : 'Relatório de Patrocinador';
   const{s,e}=getRange();
   const fd=d=>d.toLocaleDateString('pt-BR');
   const igP=getPostsByPlat('instagram');
   const ytP=getPostsByPlat('youtube');
   const all=[...igP,...ytP,...getPostsByPlat('tiktok')];
-  if(!all.length){alert('Nenhum post encontrado para este patrocinador no período selecionado.');return;}
+  if(!all.length){alert(interno ? 'Nenhum post encontrado no período selecionado.' : 'Nenhum post encontrado para este patrocinador no período selecionado.');return;}
   const sv=arr=>arr.reduce((a,x)=>a+(x.views||0),0);
   const sl=arr=>arr.reduce((a,x)=>a+(x.likes||0),0);
   const sc=arr=>arr.reduce((a,x)=>a+(x.comments||0),0);
@@ -1297,7 +1298,7 @@ function gerarRelatorio() {
 
   // ── CAPA + RESUMO GERAL ──
   pdfBg(doc);
-  pdfHeader(doc,'Relatório de Patrocinador · '+sName,fd(s)+' a '+fd(e));
+  pdfHeader(doc,tituloRelatorio+' · '+sName,fd(s)+' a '+fd(e));
   let y=35;
 
   // Info da marca
