@@ -446,6 +446,21 @@ function getRange() {
   s.setDate(s.getDate() - parseInt(period));
   return { s, e };
 }
+// Views a nível de CONTA do Instagram (não por post) — soma a série diária
+// coletada via account_views, filtrada pelo período. É o número que bate com
+// o "visualizações" mostrado no Painel Profissional do app do Instagram.
+// Só existe pra Instagram (YouTube/TikTok não têm esse tipo de coleta ainda).
+function getAccountViews(s, e) {
+  const arr = metrics.instagram?.account_views || [];
+  return arr.filter(d => { const dt = new Date(d.date+'T12:00:00'); return dt >= s && dt <= e; })
+            .reduce((a,d) => a + (d.views||0), 0);
+}
+function getPrevAccountViews() {
+  const days = parseInt(period);
+  const e = new Date(); e.setDate(e.getDate() - days);
+  const s = new Date(); s.setDate(s.getDate() - days * 2);
+  return getAccountViews(s, e);
+}
 function getSnaps() {
   const { s, e } = getRange();
   return (metrics[platform]?.snapshots || []).filter(x => { const d = new Date(x.date); return d >= s && d <= e; }).sort((a,b) => a.date.localeCompare(b.date));
@@ -676,9 +691,12 @@ function renderPlatCards() {
 // ═══ KPIs ════════════════════════════════════════════════
 function renderKPIs() {
   const snaps = getSnaps(), prev = getPrevSnaps();
+  const { s, e } = getRange();
   const last = snaps[snaps.length-1], first = snaps[0], plast = prev[prev.length-1];
-  const totalViews = snaps.reduce((a,s)=>a+(s.views||0),0);
-  const prevViews  = prev.reduce((a,s) =>a+(s.views||0),0);
+  // Pra Instagram, usa a série de views de conta (histórico completo, soma certinha
+  // por período). Pras outras plataformas, mantém o cálculo antigo via snapshots.
+  const totalViews = platform==='instagram' ? getAccountViews(s,e) : snaps.reduce((a,s)=>a+(s.views||0),0);
+  const prevViews  = platform==='instagram' ? getPrevAccountViews() : prev.reduce((a,s)=>a+(s.views||0),0);
   const totalReach = snaps.reduce((a,s)=>a+(s.reach||0),0);
   const prevReach  = prev.reduce((a,s) =>a+(s.reach||0),0);
   const posts = getFilteredPosts();
@@ -686,9 +704,13 @@ function renderKPIs() {
   const avgViews = snaps.length ? Math.round(totalViews/snaps.length) : 0;
   const avgEng   = snaps.length ? Math.round(totalEng/snaps.length) : 0;
   const fDelta = (a,b) => { const d=a-b; return (d>=0?'+':'')+fmt(Math.abs(d))+' vs ant.'; };
+  const viewsLabel = platform==='instagram' ? 'Views da Conta' : 'Views Totais';
+  const viewsSub   = platform==='instagram'
+    ? `${fmt(avgViews)}/dia · conta inteira, não só posts do período`
+    : `${fmt(avgViews)}/dia em média`;
   const kpis = [
     { label:'Seguidores',  val:fmt(last?.followers??0),  cmp:pctChg(last?.followers??0,plast?.followers??0), abs:fDelta(last?.followers??0,plast?.followers??0), sub:`+${fmt((last?.followers??0)-(first?.followers??0))} no período` },
-    { label:'Views Totais',val:fmt(totalViews),  cmp:pctChg(totalViews,prevViews),   abs:fDelta(totalViews,prevViews),  sub:`${fmt(avgViews)}/dia em média` },
+    { label:viewsLabel,    val:fmt(totalViews),  cmp:pctChg(totalViews,prevViews),   abs:fDelta(totalViews,prevViews),  sub:viewsSub },
     { label:'Reach Total', val:fmt(totalReach),  cmp:pctChg(totalReach,prevReach),   abs:fDelta(totalReach,prevReach),  sub:'alcance orgânico' },
     { label:'Engajamento', val:fmt(totalEng),    cmp:null, abs:null,                 sub:`${fmt(avgEng)}/dia em média` },
   ];
