@@ -35,6 +35,12 @@ MAX_POSTS   = 2000   # máximo de posts por plataforma no JSON
 FULL_HISTORY   = '--full' in sys.argv
 IG_MAX_PAGES   = 20 if FULL_HISTORY else 1
 
+# YouTube: coleta normal só busca vídeos dos últimos 28 dias (25 por vez), então
+# vídeos que saem dessa janela param de ser atualizados (views ficam "congeladas").
+# No modo --full, amplia a janela pra 1 ano e pagina em blocos de 50 (limite da API).
+YT_DAYS_BACK   = 365 if FULL_HISTORY else 28
+YT_MAX_PAGES   = 10  if FULL_HISTORY else 1   # 10 páginas x 50 = até 500 vídeos no modo completo
+
 logging.basicConfig(level=logging.INFO, format=LOG_FMT)
 log = logging.getLogger('sr-collector')
 
@@ -99,13 +105,76 @@ def git_push():
         else:
             log.info(f'git: {" ".join(cmd[3:])} — ok')
 
+# ─── INSTAGRAM: VIEWS DA CONTA (nível de conta, não por post) ─────────────────
+def collect_instagram_account_views(metrics: dict, base: str, token: str, ig_user_id: Optional[str]) -> int:
+    """
+    Coleta a série diária de 'views' a nível de CONTA (todo o perfil, somando
+    posts, reels, stories, buscas — é o mesmo número que aparece em "Painel
+    profissional > visualizações" no app do Instagram), e também o 'reach' mais
+    recente (alcance orgânico, métrica que continua válida e não foi descontinuada).
+
+    Isso é DIFERENTE de somar as views de cada post no relatório: aquele soma
+    inclui só posts publicados dentro do período filtrado, enquanto este número
+    de conta inclui QUALQUER conteúdo (mesmo antigo) que gerou views durante o
+    período. Os dois nunca vão bater — não é bug, são métricas diferentes.
+
+    Retorna o valor de reach mais recente encontrado (pra alimentar o snapshot diário).
+    """
+    if not ig_user_id:
+        log.warning('Instagram: INSTAGRAM_USER_ID não configurado — pulando views de conta')
+        return 0
+    metrics.setdefault('instagram', {})
+    metrics['instagram'].setdefault('account_views', [])
+    existing = {d['date']: d for d in metrics['instagram']['account_views']}
+    latest_reach = 0
+
+    # Coleta normal só recarrega os últimos dias (o valor de "hoje" muda ao
+    # longo do dia). --full faz um backfill maior pra reconstruir o histórico.
+    days_back = 90 if FULL_HISTORY else 3
+    end   = datetime.datetime.utcnow().date()
+    start = end - datetime.timedelta(days=days_back)
+
+    # period=day só aceita janelas de até ~30 dias por chamada — pagina em blocos
+    cursor = start
+    while cursor <= end:
+        chunk_end = min(cursor + datetime.timedelta(days=29), end)
+        try:
+            r = requests.get(f'{base}/{ig_user_id}/insights', params={
+                'metric':       'views,reach',
+                'period':       'day',
+                'metric_type':  'time_series',
+                'since':        cursor.strftime('%Y-%m-%d'),
+                'until':        chunk_end.strftime('%Y-%m-%d'),
+                'access_token': token,
+            }, timeout=15)
+            if r.ok:
+                for item in r.json().get('data', []):
+                    if item.get('name') == 'views':
+                        for v in item.get('values', []):
+                            d = (v.get('end_time') or '')[:10]
+                            if d:
+                                existing[d] = {'date': d, 'views': int(v.get('value', 0) or 0)}
+                    elif item.get('name') == 'reach':
+                        vals = item.get('values', [])
+                        if vals:
+                            latest_reach = int(vals[-1].get('value', 0) or 0)
+            else:
+                log.warning(f'Instagram account views ({cursor}–{chunk_end}): HTTP {r.status_code} — {r.text[:200]}')
+        except Exception as e:
+            log.warning(f'Instagram account views ({cursor}–{chunk_end}): {e}')
+        cursor = chunk_end + datetime.timedelta(days=1)
+
+    metrics['instagram']['account_views'] = sorted(existing.values(), key=lambda d: d['date'])
+    log.info(f"Instagram: {len(metrics['instagram']['account_views'])} dias de views de conta armazenados")
+    return latest_reach
+
 # ─── INSTAGRAM ───────────────────────────────────────────────────────────────
 def collect_instagram(metrics: dict) -> bool:
     token = get_env('INSTAGRAM_ACCESS_TOKEN')
     if not token:
         return False
 
-    base = 'https://graph.facebook.com/v19.0'
+    base = 'https://graph.facebook.com/v22.0'
 
     # Dados do perfil
     try:
@@ -120,34 +189,30 @@ def collect_instagram(metrics: dict) -> bool:
         log.error(f'Instagram profile: {e}')
         return False
 
-    # Insights da conta (Business API — requer conta Business)
+    # Views da CONTA INTEIRA (não por post) — é o número que aparece como
+    # "visualizações" no Painel Profissional do app do Instagram (ex: "65,5 mi
+    # visualizações nos últimos 30 dias"). Guarda uma série diária pra dar pra
+    # somar certinho por qualquer período escolhido no dashboard.
+    #
+    # Nota: até abril/2025 essa métrica se chamava 'impressions'/'profile_views',
+    # mas a Meta descontinuou os dois e unificou tudo em 'views' (Graph API v22+).
+    # Código antigo que ainda chamava os nomes velhos falhava silenciosamente.
     ig_user_id = get_env('INSTAGRAM_USER_ID', required=False)
-    views, reach, impressions = 0, 0, 0
-    if ig_user_id:
-        try:
-            r = requests.get(f'{base}/{ig_user_id}/insights', params={
-                'metric':       'impressions,reach,profile_views',
-                'period':       'day',
-                'access_token': token,
-            }, timeout=15)
-            if r.ok:
-                for item in r.json().get('data', []):
-                    name = item['name']
-                    val  = item['values'][-1]['value'] if item.get('values') else 0
-                    if name == 'impressions':  impressions = val
-                    elif name == 'reach':      reach = val
-                    elif name == 'profile_views': views = val
-        except Exception as e:
-            log.warning(f'Instagram insights: {e}')
+    latest_reach = collect_instagram_account_views(metrics, base, token, ig_user_id)
+
+    # Pega o valor de hoje (se já disponível) na série que acabou de ser coletada
+    today_account_views = next(
+        (d['views'] for d in metrics['instagram'].get('account_views', []) if d['date'] == today()),
+        0
+    )
 
     snapshot = {
         'date':        today(),
         'followers':   profile.get('followers_count', 0),
         'following':   profile.get('follows_count',   0),
         'media_count': profile.get('media_count',     0),
-        'views':       views or impressions,
-        'reach':       reach,
-        'impressions': impressions,
+        'views':       today_account_views,
+        'reach':       latest_reach,
     }
 
     # Posts recentes
@@ -255,48 +320,60 @@ def collect_youtube(metrics: dict) -> bool:
         'shares':      0,
     }
 
-    # Vídeos recentes (últimas 4 semanas)
-    published_after = (datetime.datetime.utcnow() - datetime.timedelta(days=28)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    # Vídeos recentes (28 dias na coleta normal; até 1 ano no modo --full)
+    published_after = (datetime.datetime.utcnow() - datetime.timedelta(days=YT_DAYS_BACK)).strftime('%Y-%m-%dT%H:%M:%SZ')
     video_ids = []
+    page_token = None
     try:
-        r = requests.get(f'{base}/search', params={
-            'part':           'snippet',
-            'channelId':      channel_id,
-            'type':           'video',
-            'order':          'date',
-            'maxResults':     25,
-            'publishedAfter': published_after,
-            'key':            api_key,
-        }, timeout=15)
-        r.raise_for_status()
-        for item in r.json().get('items', []):
-            video_ids.append(item['id']['videoId'])
+        for _ in range(YT_MAX_PAGES):
+            params = {
+                'part':           'snippet',
+                'channelId':      channel_id,
+                'type':           'video',
+                'order':          'date',
+                'maxResults':     50 if FULL_HISTORY else 25,
+                'publishedAfter': published_after,
+                'key':            api_key,
+            }
+            if page_token:
+                params['pageToken'] = page_token
+            r = requests.get(f'{base}/search', params=params, timeout=15)
+            r.raise_for_status()
+            data = r.json()
+            for item in data.get('items', []):
+                video_ids.append(item['id']['videoId'])
+            page_token = data.get('nextPageToken')
+            if not page_token:
+                break
     except Exception as e:
         log.error(f'YouTube search: {e}')
 
     posts = []
     if video_ids:
         try:
-            r = requests.get(f'{base}/videos', params={
-                'part': 'snippet,statistics',
-                'id':   ','.join(video_ids),
-                'key':  api_key,
-            }, timeout=15)
-            r.raise_for_status()
-            for item in r.json().get('items', []):
-                s = item['statistics']
-                d = item['snippet']['publishedAt'][:10]
-                posts.append({
-                    'id':       item['id'],
-                    'date':     d,
-                    'caption':  item['snippet'].get('title', '')[:120],
-                    'type':     'VIDEO',
-                    'views':    int(s.get('viewCount',    0)),
-                    'likes':    int(s.get('likeCount',    0)),
-                    'comments': int(s.get('commentCount', 0)),
-                    'shares':   0,
-                    'saves':    int(s.get('favoriteCount', 0)),
-                })
+            # /videos só aceita até 50 IDs por chamada — quebra em blocos
+            for i in range(0, len(video_ids), 50):
+                batch = video_ids[i:i+50]
+                r = requests.get(f'{base}/videos', params={
+                    'part': 'snippet,statistics',
+                    'id':   ','.join(batch),
+                    'key':  api_key,
+                }, timeout=15)
+                r.raise_for_status()
+                for item in r.json().get('items', []):
+                    s = item['statistics']
+                    d = item['snippet']['publishedAt'][:10]
+                    posts.append({
+                        'id':       item['id'],
+                        'date':     d,
+                        'caption':  item['snippet'].get('title', '')[:120],
+                        'type':     'VIDEO',
+                        'views':    int(s.get('viewCount',    0)),
+                        'likes':    int(s.get('likeCount',    0)),
+                        'comments': int(s.get('commentCount', 0)),
+                        'shares':   0,
+                        'saves':    int(s.get('favoriteCount', 0)),
+                    })
             # Agrega likes/comments do dia nos snapshots
             today_posts = [p for p in posts if p['date'] == today()]
             snapshot['likes']    = sum(p['likes']    for p in today_posts)
@@ -413,7 +490,7 @@ def main():
     log.info('=' * 50)
     log.info(f'Social Radar Collector — {today()}')
     if FULL_HISTORY:
-        log.info('Modo --full ativado: varredura completa do Instagram (até 2.000 posts, pode levar ~15-20 min)')
+        log.info('Modo --full ativado: varredura completa do Instagram (até 2.000 posts) e do YouTube (até 500 vídeos, janela de 1 ano) — pode levar ~15-20 min')
     log.info('=' * 50)
 
     metrics = load_metrics()
