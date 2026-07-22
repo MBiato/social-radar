@@ -1,51 +1,49 @@
 {
-  "generated_at": "2026-07-22T22:45:58.853324",
+  "generated_at": "2026-07-22T23:17:14.211810",
   "date": "2026-07-21",
   "summary": {
     "padroes": [
-      "Conteúdo emotivo celebrativo com alto potencial de viralização prejudicado por execução técnica incompleta",
-      "Foco em parcerias comerciais com priorização de hashtags de marcas sobre estratégia de engajamento e CTA",
-      "Conteúdo de mercado/transferências com pergunta provocativa em caixa alta + CTA simples, seguindo fórmula de alto volume com engagement moderado",
-      "Post com estrutura incompleta que negligencia boas práticas de otimização do Instagram (hashtags, CTA, legenda expandida)",
-      "Conteúdo temático com patrocínios de marca, mas com execução de copy minimalista que não explora potencial de viralização"
+      "Conteúdo emocional comemorativo com hook visual forte, mas com legendas mal otimizadas",
+      "Especulação de mercado futebolístico com perguntas engajantes para estimular comentários",
+      "Dependência excessiva de thumbnails visuais sem suporte textual estratégico e CTAs claros"
     ],
-    "recomendacao_amanha": "Priorizar posts com desabafos/momentos emotivos de personalidades (modelo do melhor post de hoje), mantendo horário matinal (9h-11h). Garantir otimização técnica completa: hashtags estratégicas, CTA direto e legenda expandida. Reduzir foco em hashtags de marca quando prejudicar engajamento orgânico.",
-    "insight_principal": "A audiência do Charla Podcast responde fortemente a conteúdo emotivo e desabafos autênticos, mas a execução técnica incompleta está desperdiçando oportunidades de viralização. Reformular estratégia de parcerias comerciais para equilibrar receita com otimização de engajamento orgânico.",
-    "score_medio": 5.1,
+    "recomendacao_amanha": "Publicar conteúdo de especulação de mercado futebolístico entre 18h-20h, priorizando legendas estruturadas com CTA direto e emojis estratégicos para amplificar engajamento orgânico",
+    "insight_principal": "O melhor desempenho veio de conteúdo perguntador sobre mercado, mas o score médio de 5.3 indica negligência sistemática em otimização de legendas e estratégia de descoberta. Implementar templates de legenda com CTA e hashtags temáticas pode elevar significativamente a performance média.",
+    "score_medio": 5.3,
     "total_posts": 16,
-    "total_alertas": 11,
-    "melhor_post_id": "qjn8Dha_tcA",
-    "melhor_post_caption": "BRUNO AZEVEDO DESABAFA APÓS DECLARAÇÕES SOBRE A POSSÍVEL NOVA SAF DO VASCO",
-    "melhor_post_views": 18091,
+    "total_alertas": 9,
+    "melhor_post_id": "17863091469648464",
+    "melhor_post_caption": "ALMADA VAI PARA O FLAMENGO? \n\nCaso o Flamengo contrate o argentino, como ficaria a escalação? Diz aí",
+    "melhor_post_views": 59451,
     "sponsor_stats": {
       "#sportingbetnocharla": {
         "posts": 2,
-        "views": 72229,
-        "likes": 2013,
+        "views": 72317,
+        "likes": 2014,
         "comments": 79
       },
       "#brahmanocharla": {
         "posts": 3,
-        "views": 87890,
-        "likes": 2287,
+        "views": 87994,
+        "likes": 2288,
         "comments": 99
       },
       "#assainocharla": {
         "posts": 2,
-        "views": 72229,
-        "likes": 2013,
+        "views": 72317,
+        "likes": 2014,
         "comments": 79
       },
       "#melittanocharla": {
         "posts": 3,
-        "views": 87890,
-        "likes": 2287,
+        "views": 87994,
+        "likes": 2288,
         "comments": 99
       },
       "#charlanamix": {
         "posts": 1,
-        "views": 33207,
-        "likes": 1502,
+        "views": 33262,
+        "likes": 1505,
         "comments": 41
       }
     }
@@ -58,34 +56,34 @@
       "url": "https://www.instagram.com/reel/DbCLjeYTLB0/",
       "tags": [],
       "type": "VIDEO",
-      "views": 41962,
-      "reach": 30407,
-      "likes": 3572,
+      "views": 41995,
+      "reach": 30436,
+      "likes": 3575,
       "comments": 220,
       "shares": 73,
       "saves": 51,
       "platform": "instagram",
       "analysis": {
-        "score": 5,
-        "status": "alerta",
-        "resumo": "Post com engagement baixo apesar do tema emocional forte, prejudicado por legenda incompleta e falta de hashtags.",
+        "score": 6,
+        "status": "normal",
+        "resumo": "Performance moderada com engagement razoável, mas legenda incompleta prejudica o potencial do conteúdo.",
         "thumb": {
           "nota": "medio",
-          "analise": "Não há informações visuais disponíveis para análise da thumbnail, mas o contexto emocional da Copa sugere potencial visual.",
-          "sugestao": "Certifique-se de incluir rostos em destaque e elementos visuais que criem contraste na thumbnail."
+          "analise": "Sem informações visuais disponíveis para análise da thumbnail. Recomenda-se verificar se há rostos visíveis e elementos emocionais que capturem atenção.",
+          "sugestao": "Certifique-se de que a thumbnail inicial do vídeo tenha rostos expressivos e elemento emocional forte para melhorar CTR."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Hook em caixa alta com emojis emocionais (😭🙏🏻) cria engajamento imediato e comunica sentimento forte.",
-          "sugestao": "Mantenha esse padrão de hooks emotivos em caixa alta, mas considere adicionar curiosidade ou pergunta."
+          "analise": "Hook em caixa alta com emojis emocionais (😭🙏🏻) funciona bem para engajamento, mas está incompleto.",
+          "sugestao": "Complete o hook com uma frase impactante sobre a Copa para maior clareza e impacto emocional."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda truncada e incompleta ('nossa gra' cortado) prejudica a mensagem e deixa o CTA indefinido. Sem hashtags temáticas, reduz alcance orgânico.",
-          "sugestao": "Complete a legenda com mensagem clara, adicione 15-25 hashtags temáticas (Copa, história, futebol) e inclua CTA explícito para salvar ou comentar."
+          "analise": "Legenda cortada/incompleta ('nossa gra' - provavelmente 'gratidão') prejudica a mensagem final e desorganiza o fluxo de leitura. Faltam hashtags temáticas e CTA claro.",
+          "sugestao": "Complete a legenda com mensagem de encerramento clara, adicione 5-8 hashtags temáticas relevantes à Copa e inclua CTA direto (salvar, compartilhar, comentar)."
         },
-        "causa_baixa": "Legenda incompleta compromete a narrativa, ausência de hashtags limita o alcance orgânico, e falta de CTA claro reduz incentivo ao engajamento dos usuários.",
-        "padrao": "Conteúdo emotivo celebrativo com alto potencial de viralização prejudicado por execução técnica incompleta."
+        "causa_baixa": "Legenda incompleta e sem hashtags reduzem descoberta orgânica. Falta CTA explícito diminui engajamento potencial. Razão engagement/views de 8,6% é moderada.",
+        "padrao": "Conteúdo emocional comemorativo com hook forte, mas necessita otimização técnica de legenda e estratégia de descoberta."
       }
     },
     {
@@ -100,8 +98,8 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 12858,
-      "reach": 9744,
+      "views": 12866,
+      "reach": 9751,
       "likes": 281,
       "comments": 8,
       "shares": 7,
@@ -110,24 +108,24 @@
       "analysis": {
         "score": 5,
         "status": "alerta",
-        "resumo": "Conteúdo com hook interessante mas baixo engajamento relativo às visualizações indica falta de CTA e legenda fraca.",
+        "resumo": "Post com engajamento abaixo do esperado apesar de boa visualização, prejudicado por falta de hook claro e CTA fraco.",
         "thumb": {
           "nota": "medio",
-          "analise": "Não há informações visuais no post que permitam avaliar a thumbnail. Presumindo padrão do canal, seria necessário verificar se há rostos em destaque conforme boas práticas.",
-          "sugestao": "Garantir que a thumbnail inicial mostre rostos ou expressões fortes que gerem curiosidade sobre tecnologia no futebol."
+          "analise": "Não há informações visuais disponíveis para análise detalhada, mas o título sugere conteúdo visual sobre tecnologia no Brasileirão que pode ou não ter rostos em destaque.",
+          "sugestao": "Garantir que a thumbnail mostre rostos expressivos e o texto 'TECNOLOGIA' em caixa alta para melhor clicabilidade."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Hook em caixa alta com emoji de atenção funciona bem. A pergunta gera curiosidade sobre tema relevante (tecnologia no Brasileirão).",
-          "sugestao": "Manter este padrão de pergunta com emojis, considerando adicionar números ou dados para maior impacto."
+          "analise": "Hook claro em formato de pergunta com emoji de atenção, despertando curiosidade sobre tema relevante (tecnologia e futebol).",
+          "sugestao": "Manter este padrão de pergunta, mas considerar adicionar mais urgência ou especificidade (ex: 'TECNOLOGIA RADICAL no Brasileirão')."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta contém apenas título repetido e hashtags de patrocinadores. Falta CTA claro (salvar, comentar, compartilhar) e contexto que incentive engajamento.",
-          "sugestao": "Expandir legenda com CTA explícito tipo 'Salve essa!' ou 'Qual tecnologia você quer?', adicionar contexto breve sobre conteúdo e manter hashtags temáticas além das marcas."
+          "analise": "Legenda contém apenas hashtags de patrocínio, sem CTA para salvar, comentar ou compartilhar. Faltam elementos de engajamento direto com a audiência.",
+          "sugestao": "Adicionar CTAs como 'Salve esse vídeo!', 'Comenta aí o que acha' ou perguntas diretas antes das hashtags para aumentar interação."
         },
-        "causa_baixa": "Taxa de engajamento baixa (2,17% likes sobre views, 0,06% comentários) sugere falta de chamada à ação clara na legenda e ausência de incentivo para interação além do consumo passivo.",
-        "padrao": "Foco em parcerias comerciais com priorização de hashtags de marcas sobre estratégia de engajamento e CTA."
+        "causa_baixa": "Taxa de engajamento baixa (2,2% likes/views, 0,06% comentários) indica falta de call-to-action na legenda e ausência de incentivo direto para interação. Legenda focada apenas em patrocínios sem conexão emocional com público.",
+        "padrao": "Post segue padrão de conteúdo temático com patrocínios, mas neglencia boas práticas de engajamento em legenda."
       }
     },
     {
@@ -142,34 +140,34 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 59371,
+      "views": 59451,
       "reach": 40873,
-      "likes": 1732,
+      "likes": 1733,
       "comments": 71,
       "shares": 113,
       "saves": 30,
       "platform": "instagram",
       "analysis": {
-        "score": 6,
+        "score": 6.5,
         "status": "normal",
-        "resumo": "Post com tema relevante e CTA claro, mas engagement abaixo do potencial com legenda incompleta e falta de elementos visuais detalhados.",
+        "resumo": "Vídeo com engajamento moderado que aproveita bem a especulação sobre mercado, mas com legenda curta e CTA genérico.",
         "thumb": {
-          "nota": "medio",
-          "analise": "Não há informações sobre thumbnail fornecidas, impossível avaliar presença de rostos ou elementos visuais. Tema de mercado (Almada) é visualmente interessante para futebol.",
-          "sugestao": "Confirme se a thumbnail exibe rostos de Almada e/ou jogadores do Flamengo em destaque para aumentar CTR."
+          "nota": "bom",
+          "analise": "Presumivelmente contém rostos e elementos visuais que atraem atenção, evidenciado pelos 59.5K views. O tema de contratação esportiva é visualmente interessante.",
+          "sugestao": "Manter foco em expressões faciais de surprise/dúvida e usar elementos visuais do jogador ou do escudo do Flamengo."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Hook em caixa alta com pergunta direta (ALMADA VAI PARA O FLAMENGO?) cria urgência e curiosidade. Formato de pergunta incentiva cliques.",
-          "sugestao": "Manter padrão de perguntas provocativas em caixa alta para reels de mercado."
+          "analise": "Hook em caixa alta com pergunta direta é eficaz para gerar curiosidade. A questão sobre Almada ao Flamengo é relevante e timely.",
+          "sugestao": "Considerável adicionar mais urgência ou exclusividade ao título, como 'ALMADA VAI MESMO PARA O FLAMENGO?'."
         },
         "legenda": {
           "nota": "medio",
-          "analise": "Legenda breve com CTA direto ('Diz aí!') e hashtags relevantes. Porém, falta contexto adicional (valor, chances reais, motivação) que poderia ampliar engajamento. Hashtags genéricas (#brahmanocharla, #assainocharla) diluem foco temático.",
-          "sugestao": "Adicionar hook narrativo na legenda (ex: 'Veja como ficaria a escalação no 4-3-3') e reduzir hashtags não-futebolísticas para aumentar relevância."
+          "analise": "Legenda segue com pergunta engajante sobre escalação, mas é muito curta e falta contexto. CTA genérico 'Diz aí' poderia ser mais específico.",
+          "sugestao": "Expandir com detalhes sobre posição do jogador, números ou contexto da negociação. Usar CTA mais direto como 'Deixa sua escalação nos comentários'."
         },
-        "causa_baixa": "Taxa de comentários baixa (71) em relação às visualizações sugere que o CTA genérico não incentiva discussão aprofundada. Hashtags mistas (patrocínios) reduzem alcance orgânico entre interessados em mercado de futebol.",
-        "padrao": "Conteúdo de mercado/transferências com pergunta provocativa em caixa alta + CTA simples, seguindo fórmula de alto volume com engagement moderado."
+        "causa_baixa": "",
+        "padrao": "Conteúdo de especulação de mercado com pergunta engajante para promover comentários e discussão entre fãs de futebol."
       }
     },
     {
@@ -187,26 +185,26 @@
       "saves": 0,
       "platform": "instagram",
       "analysis": {
-        "score": 3,
+        "score": 4,
         "status": "alerta",
-        "resumo": "Post com engajamento crítico apresenta hook genérico, falta de CTA explícito e ausência total de hashtags.",
+        "resumo": "Post com hook forte mas legenda extremamente curta, sem CTA, hashtags ou contexto suficiente para gerar engajamento.",
         "thumb": {
-          "nota": "ruim",
-          "analise": "Sem informações visuais disponíveis na análise, mas a falta de views (0) sugere thumbnail pouco atrativo ou sem rosto visível.",
-          "sugestao": "Adicione rostos com expressões de entusiasmo, uso de cores vibrantes e elementos de design que remetam a futebol/ação."
+          "nota": "medio",
+          "analise": "Não há informações visuais fornecidas para análise da thumbnail. Presumindo que seja uma agenda de jogos, precisa validar se há rostos ou elementos visuais destacados.",
+          "sugestao": "Inclua rostos de jogadores, logos de times ou elemento visual que chame atenção imediata."
         },
         "titulo": {
-          "nota": "medio",
-          "analise": "Hook em caixa alta presente ('AGENDA DE JOGOS DA SEMANA!'), mas genérico demais, sem especificidade ou urgência que convide ao clique.",
-          "sugestao": "Especifique times ou competições (ex: 'AGENDA DA SEMANA: CLÁSSICOS IMPERDÍVEIS 🔥'), adicione números ou diferenciais."
+          "nota": "bom",
+          "analise": "Hook forte em caixa alta com emojis relevantes (AGENDA DE JOGOS DA SEMANA! 🔥⚽️) que gera curiosidade e urgência.",
+          "sugestao": "Mantenha o padrão do hook, mas adicione número ou especificidade (ex: '5 JOGOS IMPERDÍVEIS')."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta e vazia, contém apenas o hook e emojis, sem CTA para salvar, compartilhar ou comentar, nenhuma hashtag utilizada.",
-          "sugestao": "Expanda com 'SALVE ESSA AGENDA ⬇️', detalhe os jogos principais, adicione hashtags temáticas como #AgendasDoFutebol #JogosDoFim #FutebolBR."
+          "analise": "Legenda extremamente curta (apenas o hook), sem CTA para salvar, compartilhar ou comentar. Ausência total de hashtags temáticas que amplificariam alcance.",
+          "sugestao": "Expanda a legenda com detalhes dos jogos, adicione CTA claro ('Salve essa agenda!' ou 'Qual é seu palpite?') e inclua 5-10 hashtags temáticas de esportes/futebol."
         },
-        "causa_baixa": "0 views indica problema grave de alcance: thumbnail não atrativo, falta de hashtags limita descoberta, legenda vazia não incentiva engajamento e CTA ausente não motiva ação.",
-        "padrao": "Post com estrutura incompleta que negligencia boas práticas de otimização do Instagram (hashtags, CTA, legenda expandida)."
+        "causa_baixa": "0 visualizações sugerem baixo alcance inicial, possivelmente por legenda incompleta, ausência de hashtags e falta de CTA que estimule interação e compartilhamento do conteúdo.",
+        "padrao": "Hook visual forte desacompanhado de estratégia de legenda e CTA, resultando em conteúdo incompleto para o algoritmo do Instagram."
       }
     },
     {
@@ -219,7 +217,7 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 15661,
+      "views": 15677,
       "reach": 11704,
       "likes": 274,
       "comments": 20,
@@ -229,24 +227,24 @@
       "analysis": {
         "score": 5,
         "status": "alerta",
-        "resumo": "Engajamento baixo com legenda minimalista que não explora o potencial da pergunta provocadora.",
+        "resumo": "Engajamento baixo com legenda minimalista que não segue boas práticas de hooks e CTAs.",
         "thumb": {
           "nota": "medio",
-          "analise": "Sem informações visuais disponíveis para análise, mas a temática de futebol pode atrair interesse. Recomenda-se validar presença de rostos e elementos visuais impactantes.",
-          "sugestao": "Incluir personalidades conhecidas em primeiro plano e expressos faciais que comuniquem o tema da pergunta para aumentar cliques."
+          "analise": "Sem informações visuais disponíveis para análise, mas a taxa de visualização moderada sugere thumbnail aceitável.",
+          "sugestao": "Garantir rostos em destaque e expressões chamativas na thumbnail para aumentar cliques."
         },
         "titulo": {
-          "nota": "bom",
-          "analise": "A pergunta provocadora 'Os próximos anos do futebol estão em boas mãos?' funciona como hook e gera curiosidade natural.",
-          "sugestao": "Considerar adicionar números ou comparativos para reforçar o gancho (ex: 'E agora: futuro do futebol'?)."
+          "nota": "medio",
+          "analise": "Pergunta genérica sem hook forte em caixa alta. A questão é interessante mas passiva e não convida à ação imediata.",
+          "sugestao": "Converter em hook mais direto: 'CUIDADO! Os próximos anos do futebol dependem DISSO...' para gerar curiosidade."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta com apenas a pergunta e duas hashtags de patrocínio. Falta CTA para salvar/compartilhar, contextualização do tema e aproveitamento do espaço disponível.",
-          "sugestao": "Expandir legenda com: convite direto para comentar opiniões, teaser do conteúdo, contexto sobre quem/por que está em 'boas mãos' e CTAs para salvar/compartilhar."
+          "analise": "Legenda extremamente curta (apenas pergunta + hashtags). Falta CTA claro para salvar, compartilhar ou comentar, e não explora o tema anunciado.",
+          "sugestao": "Expandir legenda com contexto intrigante e CTA explícito: 'Salve esse vídeo' ou 'Comenta sua opinião' antes das hashtags."
         },
-        "causa_baixa": "Engajamento deprimido (1,7% de taxa) devido à legenda passiva sem CTAs, falta de senso de urgência ou incentivo para interação. Pergunta isolada sem contexto gera dúvida sobre o conteúdo real do vídeo.",
-        "padrao": "Conteúdo temático com patrocínios de marca, mas com execução de copy minimalista que não explora potencial de viralização."
+        "causa_baixa": "Legenda fraca sem CTA, hook não destacado em caixa alta e falta de contexto que justifique a visualização. Taxa de conversão (1,7% likes sobre views) indica pouca retenção de interesse.",
+        "padrao": "Conteúdo perguntador minimalista que depende exclusivamente da thumbnail para atrair, sem suporte textual estratégico na legenda."
       }
     },
     {
@@ -258,34 +256,34 @@
         "#charlanamix"
       ],
       "type": "VIDEO",
-      "views": 33207,
-      "reach": 23462,
-      "likes": 1502,
+      "views": 33262,
+      "reach": 23516,
+      "likes": 1505,
       "comments": 41,
-      "shares": 99,
+      "shares": 101,
       "saves": 30,
       "platform": "instagram",
       "analysis": {
         "score": 6,
         "status": "normal",
-        "resumo": "Post com performance moderada, mas legenda genérica sem CTAs e hooks visuais poderia impulsionar melhor os números.",
+        "resumo": "Post com engagement moderado, mas com legenda extremamente curta que deixa a deixa potencial de performance.",
         "thumb": {
           "nota": "medio",
-          "analise": "Não há informações visuais suficientes para avaliar presença de rostos ou elementos de destaque. A thumbnail de um Reel sobre transferência de jogador deveria explorar melhor reações ou momentos impactantes.",
-          "sugestao": "Inclua rostos em primeiro plano ou expressões reacionais fortes para aumentar taxa de cliques na thumbnail."
+          "analise": "Não há informações visuais disponíveis para análise completa da thumbnail. A presença de rosto é essencial para Reels e não pode ser confirmada.",
+          "sugestao": "Garantir que o rosto do apresentador ou Leandro Ávila esteja em destaque na thumbnail com expressão de surpresa ou curiosidade."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Hook em caixa alta e pergunta implícita captura atenção sobre tema relevante (transferência de Leandro Ávila para Botafogo). Tópico sobre futebol tem potencial alto de engajamento.",
-          "sugestao": "Mantenha o padrão de hooks em caixa alta, mas considere adicionar números ou adjetivos que ampliem curiosidade (ex: 'REVELAÇÃO INCRÍVEL DA IDA...')."
+          "analise": "Hook em caixa alta com curiosidade clara sobre Leandro Ávila e Botafogo. Pergunta implícita gera interesse.",
+          "sugestao": "Considerar adicionar ponto de exclamação ou interrogação para aumentar urgência: 'COMO FOI A IDA DO LEANDRO ÁVILA PARA O BOTAFOGO?!'"
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta (apenas 1 linha de texto útil), sem CTA (chamada para ação), sem emojis, sem incentivo para salvar/compartilhar e sem contexto adicional. Apenas hashtag temática está presente.",
-          "sugestao": "Expanda a legenda com perguntas ao público, CTAs claros (salve, comente, compartilhe), emojis visuais e detalhes que complementem o vídeo sobre a transferência."
+          "analise": "Legenda extremamente curta com apenas o hashtag. Falta completamente CTA (call-to-action) para salvar, comentar ou compartilhar. Sem contexto adicional ou estímulo ao engajamento.",
+          "sugestao": "Expandir legenda com CTA direto: 'Você acredita nessa transferência? Deixa seu comentário!' + hashtags temáticas relevantes (#futebol #botafogo #mercado)."
         },
-        "causa_baixa": "Performance moderada provavelmente afetada pela legenda fraca, falta de CTAs específicas e ausência de estímulos para interação (comentários, salvamentos). Legenda genérica reduz engajamento em relação ao potencial do tema.",
-        "padrao": "Conteúdo temático com hook forte no título, mas execução incompleta na legenda, falhando em boas práticas de interação e retenção do Charla Podcast."
+        "causa_baixa": "",
+        "padrao": "Conteúdo temático esportivo com hook direto, mas negligencia estratégia de legenda completa para maximizar engajamento."
       }
     },
     {
@@ -302,24 +300,24 @@
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com elementos de clickbait forte, mas performance muito baixa com 2.6K visualizações e engajamento praticamente inexistente.",
+        "resumo": "Vídeo com baixíssima performance (2.6K views, 151 likes, 2 comentários) apesar de usar nomes próprios e emoção no título.",
         "thumb": {
-          "nota": "medio",
-          "analise": "Não é possível avaliar a thumbnail sem a imagem, mas o título sugere uso de estratégia emocional que deveria estar refletida visualmente.",
-          "sugestao": "Incluir rosto expressivo do atleta mencionado (Thiago Silva) com texto sobreposto destacando 'PODE JOGAR' ou 'FOGÃO REFORÇADO'."
+          "nota": "ruim",
+          "analise": "Sem dados visuais disponíveis para análise, mas a baixa taxa de cliques (engagement extremamente reduzido) sugere thumbnail pouco atrativa ou pouco diferenciada.",
+          "sugestao": "Implementar rosto expressivo com reação clara, adicionar logos do Flamengo e destaque visual para os nomes (Thiago Silva, João Gomes) com contraste alto."
         },
         "titulo": {
-          "nota": "bom",
-          "analise": "Contém nomes próprios (Thiago Silva, João Gomes, Fla), emoção (ponto de exclamação) e estrutura de curiosidade. Segue boas práticas.",
-          "sugestao": "Considerar adicionar número ou superlativo (ex: 'INCRÍVEL' ou 'EXPLOSÃO') para aumentar click-through rate."
+          "nota": "medio",
+          "analise": "Contém nomes próprios (Thiago Silva, João Gomes) e elementos emocionais (FOGÃO REFORÇADO, RENDE MILHÕES), mas falta um hook mais direto no início e clareza sobre o tema principal.",
+          "sugestao": "Reorganizar para começar com o maior gancho: 'JOÃO GOMES RENDE MILHÕES! Thiago Silva pode jogar - Fogão reforçado' para gerar curiosidade imediata."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda sem descrição expandida, sem capítulos citados, sem hashtags e sem call-to-action. Não oferece contexto adicional ou engajamento.",
-          "sugestao": "Adicionar descrição com 2-3 parágrafos sobre notícias, timestamps/capítulos, hashtags relevantes (#Flamengo #ThiagoSilva) e link para redes sociais."
+          "analise": "Legenda extremamente curta sem descrição adicional, capítulos, links ou contexto. Não aproveita a descrição para SEO, retenção ou engajamento.",
+          "sugestao": "Expandir com: sinopse (2-3 linhas), timestamps/capítulos, links relevantes (redes sociais/site), hashtags estratégicas (#Flamengo #ThiagoSilva) e call-to-action."
         },
-        "causa_baixa": "Performance crítica provavelmente causada por falta de otimização na descrição/SEO, ausência de capítulos que reduzem watch time, e possível saturação do tema ou público-alvo limitado. O engajamento praticamente nulo (2 comentários em 2.6K views) sugere conteúdo pouco relevante ou títulos enganosos.",
-        "padrao": "Uso agressivo de clickbait com nomes e emoção no título, mas execução incompleta nas demais áreas de otimização."
+        "causa_baixa": "Combinação de baixa atração na thumbnail, falta de contexto na descrição (nenhuma informação adicional para reter espectadores) e possível falta de watch time adequado, resultando em fraco desempenho no algoritmo.",
+        "padrao": "Título com nomes próprios e emoção, mas execução incompleta em thumbnail, descrição minimal e engajamento crítico."
       }
     },
     {
@@ -327,8 +325,8 @@
       "date": "2026-07-21",
       "caption": "CHARLA PODCAST COMENTA AS POLÊMICAS DOS DEBATES SOBRE A POSSÍVEL NOVA SAF DO VASCO",
       "type": "VIDEO",
-      "views": 15622,
-      "likes": 846,
+      "views": 15669,
+      "likes": 847,
       "comments": 370,
       "shares": 0,
       "saves": 0,
@@ -336,24 +334,24 @@
       "analysis": {
         "score": 6,
         "status": "normal",
-        "resumo": "Vídeo com engagement moderado, mas legenda incompleta prejudica otimização SEO e contexto.",
+        "resumo": "Vídeo com engajamento moderado que aborda tema relevante, mas apresenta deficiências em otimização de elementos-chave.",
         "thumb": {
           "nota": "medio",
-          "analise": "Sem dados visuais fornecidos, não é possível avaliar presença de rosto expressivo ou texto sobreposto conforme boas práticas.",
-          "sugestao": "Incluir rosto do apresentador em destaque com expressão marcante e sobreposição de texto como 'SAF DO VASCO' em letras grandes."
+          "analise": "Não foi fornecida informação sobre o thumbnail. Sem dados visuais, não é possível avaliar se segue as boas práticas de rosto expressivo e texto sobreposto.",
+          "sugestao": "Implementar thumbnail com rosto expressivo do apresentador e texto destacado sobre 'SAF do Vasco' em fonte grande e legível."
         },
         "titulo": {
           "nota": "medio",
-          "analise": "Título menciona tema relevante (Vasco + SAF) mas falta nome próprio específico e elemento emocional forte para maximizar cliques.",
-          "sugestao": "Reescrever como 'CHARLA COMENTA: POLÊMICAS DA SAF DO VASCO - TUDO QUE VOCÊ PRECISA SABER' para incluir nome próprio e urgência."
+          "analise": "O título é descritivo mas genérico, faltando emoção e impacto. Não possui elemento de urgência ou curiosidade que típicos dos melhores performers.",
+          "sugestao": "Reescrever para algo como 'VASCO SAF: Os Polêmicas que Ninguém Esperava!' incluindo nome próprio e gatilho emocional."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda excessivamente curta, sem capítulos na descrição, sem links e sem estrutura que maximize watch time. Não segue padrão de boas práticas do YouTube.",
-          "sugestao": "Expandir com capítulos (00:00 Introdução, 02:15 Primeira polêmica, etc.), adicionar descrição completa com palavras-chave SEO e links relevantes."
+          "analise": "Legenda extremamente básica, sem capítulos na descrição, sem timestamps e sem chamada para ação. Não aproveita o espaço para contextualização ou otimização SEO.",
+          "sugestao": "Adicionar capítulos com timestamps (0:00 Intro, 3:45 Primeira polêmica, etc), call-to-action (inscrever-se), e contextualização do assunto."
         },
-        "causa_baixa": "Legenda minimalista sem capítulos e estrutura adequada reduz retenção de visualizadores. Falta de optimização SEO e calls-to-action na descrição limitam descobrimento orgânico.",
-        "padrao": "Conteúdo sobre polêmicas de futebol/SAF com audiência interessada, mas execução técnica incompleta no YouTube."
+        "causa_baixa": "Legenda deficiente sem capítulos e estrutura prejudica a experiência do usuário e SEO. Título genérico sem emoção reduz cliques potenciais. Faltam dados sobre thumbnail e watch time para análise completa.",
+        "padrao": "Conteúdo de atualidade/comentário sobre assuntos quentes que gera engajamento moderado, mas com otimização técnica abaixo das melhores práticas."
       }
     },
     {
@@ -361,8 +359,8 @@
       "date": "2026-07-21",
       "caption": "ADVOGADO ESCLARECE OS PRÓXIMOS PASSOS DO BOTAFOGO APÓS A RECUPERAÇÃO JUDICIAL",
       "type": "VIDEO",
-      "views": 1266,
-      "likes": 62,
+      "views": 1298,
+      "likes": 63,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -370,24 +368,24 @@
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com baixíssimo engajamento (1.3K views, taxa de like de 4.7%) e legenda incompleta sem otimizações YouTube.",
+        "resumo": "Vídeo com engajamento muito baixo apesar de tema relevante e título estruturado.",
         "thumb": {
-          "nota": "ruim",
-          "analise": "Sem informações disponíveis sobre thumbnail. Presumivelmente não atende aos padrões de rosto expressivo + texto sobreposto recomendados.",
-          "sugestao": "Implementar thumbnail com rosto expressivo do advogado e texto grande sobreposto com palavras-chave como 'RECUPERAÇÃO JUDICIAL' ou 'PRÓXIMOS PASSOS'."
+          "nota": "desconhecido",
+          "analise": "Não foi possível analisar a thumbnail, mas considerando o baixo engajamento, provavelmente não segue as boas práticas de rosto expressivo + texto sobreposto.",
+          "sugestao": "Implementar thumbnail com rosto expressivo de especialista + texto em contraste alto sobre a recuperação judicial do Botafogo."
         },
         "titulo": {
-          "nota": "medio",
-          "analise": "Título contém nome próprio (BOTAFOGO) e contexto relevante, mas falta gatilho emocional ou urgência. É informativo mas pouco atrativo.",
-          "sugestao": "Reformular para 'ADVOGADO REVELA O QUE VEM AGORA NO BOTAFOGO: Recuperação Judicial Explicada' ou adicionar emoji/palavra que transmita urgência."
+          "nota": "bom",
+          "analise": "Título bem estruturado com nome próprio (Botafogo) e informação clara, atendendo às boas práticas. Porém, falta elemento emocional que atraia cliques.",
+          "sugestao": "Reformular para incluir elemento emocional: 'ADVOGADO REVELA os PRÓXIMOS PASSOS do BOTAFOGO após Recuperação Judicial' ou 'O que NINGUÉM te CONTOU sobre o Botafogo após Recuperação Judicial'."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente curta (apenas o título replicado) sem descrição, sem capítulos de timestamp, sem hashtags e sem link. Não aproveitada para SEO ou contexto adicional.",
-          "sugestao": "Expandir legenda com: contexto do tema, timestamps dos capítulos principais, 3-5 hashtags relevantes (#BotafogoRecuperacaoJudicial #DireitoDesportivo), e links úteis."
+          "analise": "Legenda extremamente vazia e genérica. Falta descrição detalhada, capítulos na descrição, links relevantes e contexto que aumente o watch time.",
+          "sugestao": "Adicionar descrição completa com timestamps dos capítulos, links para artigos sobre o tema, call-to-action para inscrição e playlists relacionadas."
         },
-        "causa_baixa": "Engajamento extremamente baixo provavelmente causado por legenda incompleta/vazia (falta contexto e SEO), ausência de capítulos que aumentam watch time, e provável deficiência na thumbnail que não gera cliques. Conteúdo especializado (jurídico) naturalmente tem alcance menor, mas otimizações básicas não foram aplicadas.",
-        "padrao": "Vídeo com conteúdo especializado (legal/esportivo) mas com execução técnica negligenciada nas otimizações YouTube essenciais."
+        "causa_baixa": "Engajamento crítico (1.3K views, 4 comentários) sugere baixa visibilidade inicial, possível thumbnail fraca e legenda vazia que não oferece razão para o espectador permanecer ou interagir. A falta de capítulos reduz o watch time.",
+        "padrao": "Conteúdo especializado de alto valor com execução técnica mínima, desperdiçando potencial de tração orgânica."
       }
     },
     {
@@ -395,33 +393,33 @@
       "date": "2026-07-21",
       "caption": "ADVOGADO EXPLICA AS POLÊMICAS DA POSSÍVEL NOVA SAF DO VASCO",
       "type": "VIDEO",
-      "views": 9309,
+      "views": 9410,
       "likes": 344,
-      "comments": 221,
+      "comments": 224,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
         "status": "alerta",
-        "resumo": "Vídeo com título forte e temática relevante, mas legenda vazia prejudica drasticamente o potencial de engajamento e SEO.",
+        "resumo": "Vídeo com título forte mas legenda vazia prejudica descoberta e engajamento.",
         "thumb": {
           "nota": "medio",
-          "analise": "Título promissor com nome próprio (VASCO) e contexto polêmico que atrai cliques. Não há informações sobre elementos visuais da thumbnail.",
-          "sugestao": "Garantir presença de rosto expressivo do advogado e texto sobreposto destacando 'POLÊMICAS' ou 'SAF' em letras grandes e contrastantes."
+          "analise": "Não é possível avaliar a thumbnail sem acesso à imagem, mas o conteúdo jurídico sobre SAF do Vasco deveria explorar expressão facial forte e texto sobreposto.",
+          "sugestao": "Adicionar elemento visual que mostre urgência/polêmica (expressão de surpresa) e texto tipo 'ADVOGADO REVELA' ou 'VASCO EM RISCO' sobreposto."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Título estruturado com profissional credível (ADVOGADO), nome próprio (VASCO) e palavra-chave polêmica que gera curiosidade. Segue padrão eficaz.",
-          "sugestao": "Considerar adicionar elemento emocional como 'ENTENDA', 'REVELADO' ou '⚖️' para aumentar CTR."
+          "analise": "Título segue boa prática com nome próprio (VASCO), emoção (POLÊMICAS) e especialista (ADVOGADO), gerando curiosidade.",
+          "sugestao": "Considerar adicionar número ou urgência temporal: 'ADVOGADO EXPLICA AS 3 MAIORES POLÊMICAS DA SAF DO VASCO'"
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda completamente vazia sem descrição, capítulos, links ou contexto. Essa ausência prejudica SEO, accessibilidade e oportunidade de engajamento.",
-          "sugestao": "Adicionar descrição com timestamps dos capítulos, links relevantes, contexto sobre a SAF do Vasco e call-to-action para inscrição."
+          "analise": "Legenda está completamente vazia. Ausência de descrição, links, capítulos na descrição e keywords prejudica SEO, descoberta e watch time.",
+          "sugestao": "Preencher descrição com: resumo do vídeo, capítulos com timestamps, links relevantes (site Vasco/notícias) e 3-5 keywords relacionadas a SAF e direito desportivo."
         },
-        "causa_baixa": "Legenda ausente elimina oportunidades críticas de SEO e contexto para visualizadores. Views moderadas (9.3K) e taxa de engajamento abaixo do esperado (3.7% likes/views) sugerem falta de otimização técnica e descrição insuficiente.",
-        "padrao": "Conteúdo jurídico-esportivo com título atrativo, mas implementação técnica incompleta que compromete potencial viral."
+        "causa_baixa": "9.4K views com apenas 344 likes sugere legenda vazia prejudicando cliques e SEO. Sem capítulos e descrição completa, diminui engajamento e watch time. Falta de contexto na descrição afasta potencial público interessado em conteúdo jurídico.",
+        "padrao": "Conteúdo com bom título mas execução incompleta na descrição, reduzindo potencial de alcance orgânico no YouTube."
       }
     },
     {
@@ -429,8 +427,8 @@
       "date": "2026-07-21",
       "caption": "BRUNO AZEVEDO DESABAFA APÓS DECLARAÇÕES SOBRE A POSSÍVEL NOVA SAF DO VASCO",
       "type": "VIDEO",
-      "views": 18091,
-      "likes": 762,
+      "views": 18254,
+      "likes": 765,
       "comments": 634,
       "shares": 0,
       "saves": 0,
@@ -438,24 +436,24 @@
       "analysis": {
         "score": 6.5,
         "status": "normal",
-        "resumo": "Vídeo com engajamento moderado que segue boas práticas de título emocional, mas carece de otimização na legenda e contexto adicional.",
+        "resumo": "Vídeo com bom engajamento de comentários mas legenda incompleta comprometendo otimização SEO e contexto.",
         "thumb": {
           "nota": "medio",
-          "analise": "Não foi fornecida imagem de thumbnail para análise. Baseado no título sugestivo de desabafo emocional, presume-se rosto expressivo, mas sem confirmação visual.",
-          "sugestao": "Forneça screenshot do thumbnail para validar se há rosto expressivo e texto sobreposto destacando 'DESABAFA' ou 'SAF'."
+          "analise": "Não há informações visuais disponíveis para análise. Presumivelmente segue padrão com nome próprio e emoção conforme contexto.",
+          "sugestao": "Garantir rosto expressivo de Bruno Azevedo com texto sobreposto tipo 'DESABAFO' ou 'SAF' para máxima clareza."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Título forte com nome próprio (BRUNO AZEVEDO), verbo emocional (DESABAFA) e tema relevante (SAF do Vasco). Segue padrão recomendado de boas práticas.",
-          "sugestao": "Considere adicionar número ou palavra-chave como '[ATUALIZAÇÃO]' ou '[URGENTE]' para aumentar CTR."
+          "analise": "Título segue boas práticas com nome próprio (Bruno Azevedo), palavra-chave emocional (desabafa) e contexto relevante (SAF Vasco).",
+          "sugestao": "Considerar adicionar número ou urgência: 'BRUNO AZEVEDO DESABAFA: O QUE REVELOU SOBRE A NOVA SAF DO VASCO'."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda extremamente vaga e sem estrutura. Não contém descrição do conteúdo, capítulos, links, hashtags ou contextualização para espectadores. Falta completamente otimização SEO e engajamento.",
-          "sugestao": "Preencha legenda com sinopse do vídeo, timestamps de capítulos principais, links relevantes, e adicione hashtags relacionadas a Vasco e SAF."
+          "analise": "Legenda praticamente vazia sem descrição, sem capítulos, sem links ou contexto. Perde oportunidade de SEO e engajamento.",
+          "sugestao": "Adicionar descrição completa com timestamps, links relevantes, contexto da SAF, menção a tópicos abordados e call-to-action."
         },
-        "causa_baixa": "",
-        "padrao": "Conteúdo de celebridade/personalidade em tema quente (futebol e SAF), com título emotivo, mas estrutura descritiva incompleta limitando potencial de descoberta."
+        "causa_baixa": "Legenda ausente reduz descoberta orgânica e contextualização. Watch time não informado, impossível avaliar se atinge 50%.",
+        "padrao": "Conteúdo de desabafo/declaração sobre assuntos quentes (SAF Vasco) com bom engajamento de comentários mas execução técnica incompleta."
       }
     },
     {
@@ -463,33 +461,33 @@
       "date": "2026-07-21",
       "caption": "ELENCO DO VASCO É SUPERVALORIZADO PELA SUA TORCIDA?",
       "type": "VIDEO",
-      "views": 18070,
-      "likes": 635,
-      "comments": 95,
+      "views": 18444,
+      "likes": 643,
+      "comments": 96,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
         "status": "alerta",
-        "resumo": "Vídeo com título atrativo mas com performance abaixo do esperado para o tema polêmico escolhido.",
+        "resumo": "Vídeo com título atrativo mas performance baixa em engajamento considerando o tema polêmico.",
         "thumb": {
           "nota": "medio",
-          "analise": "Sem informações visuais fornecidas para análise. Recomenda-se verificar se há rosto expressivo e texto sobreposto conforme padrão.",
-          "sugestao": "Garantir que a thumbnail tenha rosto expressivo do apresentador/convidado + texto em contraste alto com emoji ou elemento visual que reforce a pergunta polêmica."
+          "analise": "Não há informação visual disponível, mas o tema (questionamento sobre elenco) tende a gerar interesse. Impossível avaliar se há rosto expressivo ou texto sobreposto conforme boas práticas.",
+          "sugestao": "Adicione rosto expressivo do apresentador com texto de impacto como 'SUPERVALORIZADO?' ou 'VERDADE OU MITO?' sobreposto à thumbnail."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Título segue boas práticas com nome próprio (Vasco) e emoção (questionamento polêmico), gerando curiosidade natural.",
-          "sugestao": "Considerar adicionar números ou adjetivos mais fortes ('ABSURDAMENTE SUPERVALORIZADO') para aumentar CTR."
+          "analise": "Título segue padrão com nome próprio (Vasco) e gatilho emocional (questionamento). Pergunta direta estimula curiosidade e cliques.",
+          "sugestao": "Considere adicionar número ou estatística: 'ELENCO DO VASCO: 80% SUPERVALORIZADO?' para aumentar urgência."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda incompleta ou vazia. Faltam descrição do conteúdo, capítulos estruturados, links e contexto que justifiquem o título.",
-          "sugestao": "Expandir legenda com: sinopse de 3-4 linhas, capítulos com timestamps, hashtags relevantes (#Vasco #Futebol) e call-to-action."
+          "analise": "Legenda ausente de conteúdo estratégico. Sem hashtags, sem capítulos na descrição, sem timestamps e sem call-to-action mencionados. Não segue boas práticas do YouTube.",
+          "sugestao": "Adicione: capítulos com timestamps, hashtags relevantes (#VascoFla #Futebol), descrição com palavras-chave e CTA para inscrição/comentários."
         },
-        "causa_baixa": "Engajamento reduzido (3.5% de likes/views, 0.52% de comentários) sugere falta de descrição atrativa na legenda, ausência de capítulos estruturados e possível watch time baixo não informado, reduzindo recomendação do algoritmo.",
-        "padrao": "Conteúdo de nicho (futebol/Vasco) com potencial polêmico subutilizado pela falta de descrição estratégica e estruturação."
+        "causa_baixa": "Engajamento baixo (3.5% likes/views, 0.5% comentários) provavelmente causado por falta de otimização na descrição, ausência de capítulos e hashtags, além de possível conteúdo genérico sem diferencial para gerar discussão.",
+        "padrao": "Conteúdo sobre times de futebol com estrutura de pergunta, mas sem execução técnica adequada em descrição e metadados."
       }
     },
     {
@@ -497,33 +495,33 @@
       "date": "2026-07-21",
       "caption": "THIAGO ALMADA TEM VAGA NO TIME TITULAR DO FLAMENGO?",
       "type": "VIDEO",
-      "views": 21607,
-      "likes": 729,
+      "views": 21963,
+      "likes": 742,
       "comments": 85,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
       "analysis": {
-        "score": 5,
-        "status": "alerta",
-        "resumo": "Vídeo com engajamento abaixo da média apesar de título atrativo, prejudicado por legenda vazia e falta de elementos estruturais.",
+        "score": 6.5,
+        "status": "normal",
+        "resumo": "Vídeo com título atrativo e engajamento moderado, mas com legenda muito curta que prejudica SEO e contexto.",
         "thumb": {
           "nota": "medio",
-          "analise": "Não foi fornecida descrição da thumbnail, impossível avaliar se contém rosto expressivo e texto sobreposto conforme boas práticas.",
-          "sugestao": "Implementar thumbnail com foto expressiva de Thiago Almada + texto 'TITULAR?' em contraste alto."
+          "analise": "Sem acesso visual, mas o título sugere potencial para thumbnail expressiva com o nome do jogador em destaque.",
+          "sugestao": "Adicionar rosto expressivo do jogador ou técnico + texto sobreposto com pergunta clara (Ex: 'TITULAR?') para aumentar CTR."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Título segue boas práticas: contém nome próprio (Thiago Almada), time (Flamengo) e emoção através de pergunta. Estrutura clara e curiosidade despertada.",
-          "sugestao": "Manter este padrão de título interrogativo com nomes próprios relevantes."
+          "analise": "Título segue boas práticas com nome próprio (Thiago Almada), pergunta em formato de curiosidade que gera engajamento.",
+          "sugestao": "Considerar adicionar elemento emocional ou urgência (Ex: 'THIAGO ALMADA FINALMENTE TITULAR NO FLAMENGO?') para potencializar cliques."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda completamente vazia além do título. Faltam descrição contextual, capítulos, links e informações que aumentem SEO e retenção.",
-          "sugestao": "Adicionar descrição completa com timestamps de capítulos, contexto da transferência e link para outras análises do canal."
+          "analise": "Legenda extremamente curta, contendo apenas o título repetido. Faltam descrição contextual, capítulos, timestamps e call-to-action para otimizar SEO e retenção.",
+          "sugestao": "Expandir legenda com: sinopse do vídeo, capítulos com timestamps, links relevantes, hashtags estratégicas e CTA (inscrição/comentários)."
         },
-        "causa_baixa": "Legenda vazia prejudica SEO e retenção. Falta de capítulos na descrição reduz watch time. Ausência de contexto informativo desestimula cliques de usuários novos.",
-        "padrao": "Conteúdo de futebol/mercado com título atrativo, mas implementação técnica incompleta que limita alcance orgânico."
+        "causa_baixa": "Legenda vazia impacta descoberta orgânica no YouTube. Sem descrição e capítulos, o algoritmo tem pouco contexto. Views e engagement moderados sugerem conteúdo com interesse, mas formato incompleto limita potencial.",
+        "padrao": "Conteúdo sobre futebol/Flamengo com questão reflexiva no título, seguindo tendência de pergunta no formato click-bait moderado."
       }
     },
     {
@@ -531,8 +529,8 @@
       "date": "2026-07-21",
       "caption": "EMPATE NA VOLTA DO BRASILEIRÃO PREOCUPA O TORCEDOR DO FLUMINENSE?",
       "type": "VIDEO",
-      "views": 9059,
-      "likes": 325,
+      "views": 9287,
+      "likes": 331,
       "comments": 18,
       "shares": 0,
       "saves": 0,
@@ -540,24 +538,24 @@
       "analysis": {
         "score": 4,
         "status": "alerta",
-        "resumo": "Vídeo com título promissor, mas legenda vazia prejudicou drasticamente a performance e o engajamento.",
+        "resumo": "Vídeo com engajamento muito baixo (3.5% de likes/views) e audiência reduzida, indicando fraco desempenho na plataforma.",
         "thumb": {
-          "nota": "medio",
-          "analise": "Não foi fornecida análise da thumbnail. Recomenda-se avaliar se contém rosto expressivo e texto sobreposto conforme padrão do canal.",
-          "sugestao": "Incluir thumbnail com rosto do narrador com expressão clara + texto em contraste alto"
+          "nota": "ruim",
+          "analise": "Sem dados disponíveis sobre a thumbnail, mas a baixa performance sugere que a imagem não estava suficientemente atrativa ou não seguiu as boas práticas de rosto expressivo + texto sobreposto.",
+          "sugestao": "Criar thumbnail com rosto expressivo do apresentador, texto em contraste alto (\"EMPATE\") e cores vibrantes para destacar na timeline."
         },
         "titulo": {
-          "nota": "bom",
-          "analise": "Título contém nome próprio (Fluminense) e emoção (preocupação), seguindo boas práticas. Estrutura de pergunta gera curiosidade.",
-          "sugestao": "Manter o padrão de pergunta + emoção + time específico"
+          "nota": "medio",
+          "analise": "Título segue o padrão de emoção com pergunta (\"PREOCUPA?\"), mas falta clareza sobre o assunto e não capitaliza adequadamente no nome próprio Fluminense para ganhar buscas.",
+          "sugestao": "Reformular para: \"EMPATE PREOCUPA? Fluminense na volta do Brasileirão\" ou adicionar elemento temporal/urgência no início."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda completamente vazia prejudica SEO, contexto e engajamento. Ausência total de descrição, capítulos, links e hashtags viola diretrizes do YouTube.",
-          "sugestao": "Adicionar descrição detalhada (200+ caracteres), capítulos com timestamps, hashtags relevantes (#Fluminense #Brasileirão) e links úteis"
+          "analise": "Legenda extremamente simples, contém apenas a pergunta do título sem contexto adicional, sem hashtags, sem capítulos na descrição e sem call-to-action que estimule interação.",
+          "sugestao": "Expandir legenda com: resumo do vídeo (2-3 linhas), timestamps/capítulos, hashtags relevantes (#Fluminense #Brasileirão), e CTA para comentários."
         },
-        "causa_baixa": "A legenda vazia é fator crítico: reduz descoberta orgânica via busca/sugestões, diminui tempo de visualização (watch time desconhecido) e afasta bots de recomendação do YouTube. Apenas 9.1K views com 18 comentários indica alcance orgânico muito limitado.",
-        "padrao": "Conteúdo focado em emoção do torcedor com execução técnica incompleta"
+        "causa_baixa": "Legenda vazia/minimalista sem estrutura, possível falta de otimização SEO (sem capítulos/timestamps), thumbnail não informada mas provavelmente inadequada, e tema muito genérico sem diferencial que atraia cliques.",
+        "padrao": "Post com estrutura mínima, sem aproveitamento das boas práticas do YouTube e baixo potencial de viralização devido à falta de otimização em legenda e metadados."
       }
     },
     {
@@ -565,8 +563,8 @@
       "date": "2026-07-21",
       "caption": "ACABOU A COPA! HORA DE VOLTAR PRA ROTINA DO FUTEBOL BRASILEIRO! | CHARLA DE QUINTA",
       "type": "VIDEO",
-      "views": 11517,
-      "likes": 955,
+      "views": 11534,
+      "likes": 956,
       "comments": 8,
       "shares": 0,
       "saves": 0,
@@ -574,24 +572,24 @@
       "analysis": {
         "score": 6.5,
         "status": "normal",
-        "resumo": "Vídeo com engajamento moderado, título forte mas legenda genérica reduz potencial de discovery.",
+        "resumo": "Vídeo com título emotivo e temático relevante, mas com engagement moderado e legenda sem otimizações técnicas.",
         "thumb": {
           "nota": "medio",
-          "analise": "Sem dados visuais fornecidos para análise, mas o título sugere temática de futebol com potencial emocional. Recomenda-se validar se há rosto expressivo e texto sobreposto.",
-          "sugestao": "Adicionar elementos visuais contrastantes com texto em caps sobre 'volta à rotina' para capturar atenção em scroll."
+          "analise": "Não há informações visuais fornecidas sobre a thumbnail. Sem análise possível do rosto expressivo ou texto sobreposto.",
+          "sugestao": "Verifique se a thumbnail contém rosto expressivo do host e texto em contraste alto relacionado ao tema Copa/Futebol."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Título com estrutura forte (ACABOU A COPA + ROTINA DO FUTEBOL), uso de caps, emoção clara e série identificável (CHARLA DE QUINTA). Segue padrões de boas práticas.",
-          "sugestao": "Considerar adicionar número ou sequência para reforçar série, ex: 'CHARLA DE QUINTA #42'."
+          "analise": "Título com emoção clara ('ACABOU'), estrutura clara e tema relevante (Copa + Futebol Brasileiro). Segue padrão 'CHARLA DE QUINTA' como identidade.",
+          "sugestao": "Considere adicionar um nome próprio (ex: 'Charles analisa') ou hook mais específico para aumentar cliques."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda é cópia direta do título, sem hashtags, sem descrição expandida, sem capítulos, sem call-to-action ou links. Perde oportunidade de SEO e contextualização.",
-          "sugestao": "Expandir com 2-3 linhas sobre conteúdo, adicionar hashtags relevantes (#FutebolBrasileiro #Copa), incluir capítulos e links para redes sociais."
+          "analise": "Legenda muito curta, sem descrição complementar, sem hashtags listadas, sem capítulos na descrição e sem link de contexto. Não aproveita o espaço para SEO ou CTA.",
+          "sugestao": "Expanda a legenda com 3-5 capítulos (00:00 Intro, 02:15 Análise Copa, etc), adicione hashtags relevantes (#futebol #copa #charla) e inclua links relacionados."
         },
-        "causa_baixa": "Legenda incompleta e genérica prejudica descoberta orgânica. Apenas 955 likes para 11.5K views (8.3% CTR) indica desempenho abaixo do esperado; 8 comentários sugere baixo estímulo conversacional na descrição.",
-        "padrao": "Série recurring (CHARLA DE QUINTA) com timing pós-evento (Copa) aproveita trending topic, mas execução de metadados fica aquém das boas práticas."
+        "causa_baixa": "Engagement moderado (8.3% de like rate) pode estar relacionado à legenda superficial sem CTAs, ausência de capítulos para facilitar navegação e falta de hashtags para descoberta.",
+        "padrao": "Conteúdo temático com estrutura série consistente ('Charla de Quinta'), mas com otimização técnica aquém do potencial da plataforma."
       }
     },
     {
@@ -599,8 +597,8 @@
       "date": "2026-07-21",
       "caption": "CANTARELLI FICA ALUCINADO COM O TÍTULO DA ESPANHA CONTRA A ARGENTINA",
       "type": "VIDEO",
-      "views": 2988,
-      "likes": 270,
+      "views": 3071,
+      "likes": 273,
       "comments": 27,
       "shares": 0,
       "saves": 0,
@@ -608,24 +606,24 @@
       "analysis": {
         "score": 5,
         "status": "alerta",
-        "resumo": "Vídeo com título atrativo segue padrão emocional, mas engajamento baixo indica problema na execução ou distribuição.",
+        "resumo": "Vídeo com engajamento baixo apesar de título alinhado com boas práticas, indicando possível desconexão entre promessa e conteúdo.",
         "thumb": {
-          "nota": "medio",
-          "analise": "Não há informação visual fornecida, mas o título sugere que deveria ter rosto expressivo de Cantarelli. Sem confirmação visual, a nota fica intermediária.",
-          "sugestao": "Confirmar se thumbnail usa rosto expressivo em primeiro plano com texto sobreposto destacando a emoção/reação."
+          "nota": "desconhecido",
+          "analise": "Não foi fornecida imagem da thumbnail para análise. Recomenda-se verificar se contém rosto expressivo e texto sobreposto conforme padrão do canal.",
+          "sugestao": "Garantir que a thumbnail contenha expressão facial intensa do Cantarelli com texto destacando 'ESPANHA vs ARGENTINA' em fonte grande."
         },
         "titulo": {
           "nota": "bom",
-          "analise": "Título segue as melhores práticas com nome próprio (CANTARELLI) e emoção clara (FICA ALUCINADO). Contexto de futebol (ESPANHA vs ARGENTINA) é relevante.",
-          "sugestao": "Considerar adicionar emoji ou indicador visual no título para aumentar click-through rate."
+          "analise": "Título segue boas práticas com nome próprio (CANTARELLI) e emoção (ALUCINADO), criando curiosidade e promessa clara de reação intensa.",
+          "sugestao": "Manter o padrão nome + emoção, considerando adicionar números ou marcadores para aumentar cliques (ex: 'CANTARELLI FICA ALUCINADO COM O TÍTULO DA ESPANHA CONTRA A ARGENTINA 😱')."
         },
         "legenda": {
           "nota": "ruim",
-          "analise": "Legenda é apenas o título do vídeo repetido, sem descrição, capítulos, timestamps ou call-to-action. Falta totalmente estrutura recomendada de SEO e engajamento.",
-          "sugestao": "Adicionar descrição detalhada, capítulos com timestamps, links relacionados e call-to-action para aumentar watch time e engajamento."
+          "analise": "Legenda extremamente curta, sem estrutura descritiva, sem capítulos, sem links e sem contexto adicional. Não aproveita oportunidade de otimização SEO e engajamento.",
+          "sugestao": "Adicionar sinopse do vídeo (2-3 linhas), capítulos com timestamps na descrição, links relevantes e call-to-action para inscrição/comentários."
         },
-        "causa_baixa": "Legenda vazia/insuficiente prejudica SEO e descoberta do vídeo. Falta de capítulos reduz watch time. Taxa de like/view (9%) abaixo do esperado sugere conteúdo ou distribuição inadequados para o tema.",
-        "padrao": "Padrão reativo a acontecimentos esportivos com foco em emoção pessoal, mas execução técnica incompleta na descrição e estrutura."
+        "causa_baixa": "O baixo engajamento (3.1K views com 273 likes = 8.8% CTR baixo) pode resultar de: legenda incompleta que não contextualiza o vídeo, falta de capítulos reduzindo watch time, e possível desalinhamento entre o hype do título e o conteúdo entregue.",
+        "padrao": "Investimento em título atrativo não está sendo acompanhado por descrição estratégica e estruturada no YouTube."
       }
     }
   ]
