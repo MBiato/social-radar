@@ -230,6 +230,7 @@ def collect_instagram(metrics: dict) -> bool:
             url = rd.get('paging', {}).get('next')
             params = {}
             page += 1
+        insights_failures = 0
         for item in all_items:
             d     = item['timestamp'][:10]
             views = reach = shares = saves = 0
@@ -252,8 +253,14 @@ def collect_instagram(metrics: dict) -> bool:
                             elif m['name'] == 'reach': reach  = val
                             elif m['name'] == 'shares': shares = val
                             elif m['name'] == 'saved':  saves  = val
-                except Exception:
-                    pass
+                    else:
+                        insights_failures += 1
+                        if insights_failures <= 3:  # não spamma o log, só mostra os primeiros
+                            log.warning(f'Instagram insights do post {item["id"]}: HTTP {rv.status_code} — {rv.text[:200]}')
+                except Exception as e:
+                    insights_failures += 1
+                    if insights_failures <= 3:
+                        log.warning(f'Instagram insights do post {item["id"]}: {e}')
 
             posts.append({
                 'id':          item['id'],
@@ -269,6 +276,8 @@ def collect_instagram(metrics: dict) -> bool:
                 'shares':      shares,
                 'saves':       saves,
             })
+        if insights_failures:
+            log.warning(f'Instagram: falha ao buscar alcance/compart./salvos em {insights_failures} de {len(all_items)} posts (views/likes/comentários não são afetados)')
     except Exception as e:
         log.error(f'Instagram media: {e}')
 
