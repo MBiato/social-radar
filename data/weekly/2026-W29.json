@@ -1,70 +1,77 @@
 {
-  "generated_at": "2026-07-20T12:19:11.799827",
-  "period_start": "2026-07-13",
-  "period_end": "2026-07-19",
-  "week_label": "2026-07-13 a 2026-07-19",
+  "generated_at": "2026-07-22T00:05:47.993570",
+  "period_start": "2026-07-15",
+  "period_end": "2026-07-21",
+  "week_label": "2026-07-15 a 2026-07-21",
   "metrics": {
-    "total_posts": 133,
-    "instagram_posts": 74,
-    "youtube_posts": 59,
-    "total_views": 5635924,
-    "total_likes": 321532,
-    "total_comments": 25034
+    "total_posts": 126,
+    "instagram_posts": 61,
+    "youtube_posts": 65,
+    "total_views": 5363867,
+    "total_likes": 339192,
+    "total_comments": 24932
   },
   "sponsor_stats": {
     "#brahmanocharla": {
-      "posts": 32,
-      "views": 3249665,
-      "likes": 200284,
-      "comments": 19237,
+      "posts": 29,
+      "views": 3101191,
+      "likes": 209726,
+      "comments": 16016,
       "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
-      "posts": 29,
-      "views": 3015507,
-      "likes": 187993,
-      "comments": 18422,
+      "posts": 27,
+      "views": 3022712,
+      "likes": 206567,
+      "comments": 14949,
       "tag": "#melittanocharla"
     },
     "#sportingbetnocharla": {
-      "posts": 40,
-      "views": 2583915,
-      "likes": 158191,
-      "comments": 12084,
+      "posts": 21,
+      "views": 1151852,
+      "likes": 85458,
+      "comments": 5325,
       "tag": "#sportingbetnocharla"
     },
-    "#futebollegendstalks": {
-      "posts": 15,
-      "views": 884852,
-      "likes": 46447,
-      "comments": 458,
-      "tag": "#futebollegendstalks"
-    },
     "#fornerianocharla": {
-      "posts": 3,
-      "views": 402599,
-      "likes": 16319,
-      "comments": 413,
+      "posts": 1,
+      "views": 201188,
+      "likes": 5484,
+      "comments": 120,
       "tag": "#fornerianocharla"
-    },
-    "#assainocharla": {
-      "posts": 2,
-      "views": 202158,
-      "likes": 10846,
-      "comments": 293,
-      "tag": "#assainocharla"
     },
     "#granfinonocharla": {
       "posts": 2,
-      "views": 62109,
-      "likes": 2429,
-      "comments": 590,
+      "views": 89525,
+      "likes": 3605,
+      "comments": 1132,
       "tag": "#granfinonocharla"
+    },
+    "#assainocharla": {
+      "posts": 2,
+      "views": 47300,
+      "likes": 1432,
+      "comments": 57,
+      "tag": "#assainocharla"
+    },
+    "#futebollegendstalks": {
+      "posts": 1,
+      "views": 24408,
+      "likes": 567,
+      "comments": 1,
+      "tag": "#futebollegendstalks"
+    },
+    "#charlanamix": {
+      "posts": 1,
+      "views": 22977,
+      "likes": 1076,
+      "comments": 32,
+      "tag": "#charlanamix"
     },
     "#charlafutebol": {
       "posts": 2,
       "views": 0,
-      "likes": 156,
+      "likes": 158,
       "comments": 16,
       "tag": "#charlafutebol"
     }
@@ -81,9 +88,9 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 525342,
-      "likes": 55423,
-      "comments": 2882,
+      "views": 541183,
+      "likes": 56927,
+      "comments": 2926,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -98,80 +105,41 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 403449,
-      "likes": 37268,
-      "comments": 2143,
+      "views": 441028,
+      "likes": 40515,
+      "comments": 2261,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
     },
     {
-      "id": "18104103083469859",
-      "date": "2026-07-13",
-      "caption": "\"O ZICO SENTA À MESMA MESA QUE O MESSI!\" \n\nBenjamin Back falou dos dois 10 e enalteceu o futebol do Zico, multicampeão p",
-      "url": "https://www.instagram.com/reel/Dav_AFbhkcr/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 369874,
-      "likes": 17188,
-      "comments": 6388,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "18144403225522957",
-      "date": "2026-07-14",
-      "caption": "O LEGADO DO ROMÁRIO!\n\nQuer ver a resenha completa dessas lendas do futebol? Assista ao Futebol Legends Talks na íntegra ",
-      "url": "https://www.instagram.com/reel/DayjHF1OST6/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#futebollegendstalks"
-      ],
-      "type": "VIDEO",
-      "views": 254220,
-      "likes": 8886,
-      "comments": 65,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "18234508063315715",
-      "date": "2026-07-17",
-      "caption": "“COM ESSA BAGUNÇA, NINGUÉM QUER VIR”\n\nComo ex-jogador, Leandro revela detalhes que estão complicando ainda mais a situaç",
-      "url": "https://www.instagram.com/reel/Da4KoQhuLIs/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 200441,
-      "likes": 5473,
-      "comments": 120,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "18131313937546120",
-      "date": "2026-07-17",
-      "caption": "\"ELE COMEÇOU A CONQUISTAR A MESA!\"\n\nFernando Kallás falou de quando o ainda desconhecido Scaloni participou de um evento",
-      "url": "https://www.instagram.com/reel/Da6QjY5v0So/",
+      "id": "18110216473985364",
+      "date": "2026-07-20",
+      "caption": "“FOI UMA FINAL RIDÍCULA DO MESSI!” 👀\n\nNa Charla de Copa, Cantarelli detonou a partida da Argentina e de seu camisa 10, M",
+      "url": "https://www.instagram.com/reel/DbCKa_MJy7k/",
       "tags": [
         "#brahmanocharla",
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 199864,
-      "likes": 11761,
-      "comments": 165,
+      "views": 240202,
+      "likes": 26168,
+      "comments": 2282,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
+    },
+    {
+      "id": "gICBsjC6loY",
+      "date": "2026-07-18",
+      "caption": "MAURO CÉZAR ABRE O JOGO E REVELA VERDADES SOBRE A SELEÇÃO ",
+      "type": "VIDEO",
+      "views": 232297,
+      "likes": 8327,
+      "comments": 645,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube"
     },
     {
       "id": "18368044627231714",
@@ -183,9 +151,9 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 190411,
-      "likes": 10055,
-      "comments": 1178,
+      "views": 208197,
+      "likes": 10429,
+      "comments": 1606,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
@@ -200,24 +168,62 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 190117,
-      "likes": 6209,
-      "comments": 3156,
+      "views": 206947,
+      "likes": 6794,
+      "comments": 3327,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
     },
     {
-      "id": "gICBsjC6loY",
-      "date": "2026-07-18",
-      "caption": "MAURO CÉZAR ABRE O JOGO E REVELA VERDADES SOBRE A SELEÇÃO ",
+      "id": "18131313937546120",
+      "date": "2026-07-17",
+      "caption": "\"ELE COMEÇOU A CONQUISTAR A MESA!\"\n\nFernando Kallás falou de quando o ainda desconhecido Scaloni participou de um evento",
+      "url": "https://www.instagram.com/reel/Da6QjY5v0So/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla"
+      ],
       "type": "VIDEO",
-      "views": 183129,
-      "likes": 6795,
-      "comments": 559,
+      "views": 204441,
+      "likes": 11927,
+      "comments": 165,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube"
+      "platform": "instagram"
+    },
+    {
+      "id": "17868721929632148",
+      "date": "2026-07-17",
+      "caption": "\"É A CELEBRAÇÃO DO COLETIVO!\" \n\nFernando Kallás falou do pensamento coletivo dos jogadores espanhóis e sobre o bom clima",
+      "url": "https://www.instagram.com/reel/Da6KE52p_WI/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 203897,
+      "likes": 17832,
+      "comments": 117,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
+    },
+    {
+      "id": "18234508063315715",
+      "date": "2026-07-17",
+      "caption": "“COM ESSA BAGUNÇA, NINGUÉM QUER VIR”\n\nComo ex-jogador, Leandro revela detalhes que estão complicando ainda mais a situaç",
+      "url": "https://www.instagram.com/reel/Da4KoQhuLIs/",
+      "tags": [
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 201188,
+      "likes": 5484,
+      "comments": 120,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram"
     },
     {
       "id": "18109988287869774",
@@ -229,28 +235,28 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 179641,
-      "likes": 6371,
-      "comments": 209,
+      "views": 185041,
+      "likes": 6468,
+      "comments": 212,
       "shares": 0,
       "saves": 0,
       "platform": "instagram"
     }
   ],
   "ai_summary": {
-    "resumo_semana": "Semana excepcional para o Charla Podcast com 5.6M de visualizações distribuídas entre 133 posts (74 no Instagram, 59 no YouTube). O conteúdo sobre futebol legendário, especialmente comparações entre Pelé, Messi e Zico, dominou o engajamento com os três posts mais viralizados gerando mais de 1.2M de visualizações combinadas. A taxa de interação manteve-se sólida com 346.5K engajamentos totais.",
-    "destaque_semana": "A série de debates sobre os maiores jogadores da história do futebol, com destaque para o post sobre Pelé gerando 525.3K views, consolidando o formato de análise comparativa como principal driver de viralização na plataforma.",
+    "resumo_semana": "Semana excepcional para o Charla Podcast com 5.4M de visualizações distribuídas entre 126 posts (61 Instagram, 65 YouTube). O conteúdo sobre Pelé dominou a performance, gerando engajamento massivo com 339.2K likes e 24.9K comentários. A estratégia de patrocínio manteve forte presença, com Brahma e Melitta liderando em views e interações.",
+    "destaque_semana": "O post sobre 'PELÉ É E SEMPRE SERÁ O MAIOR E MELHOR DA HISTÓRIA?' atingiu 541.2K views, consolidando debates comparativos entre lendas do futebol como temática viral de alto desempenho.",
     "padroes": [
-      "Conteúdo sobre lendas do futebol brasileiro gera 2-3x mais engagement que outros temas",
-      "Posts no Instagram superam em volume o YouTube (56% vs 44%), mas com similar taxa de visualização",
-      "Marcas com maior volume de posts (Sporting Bet, Brahma) garantem maior alcance, mas Melita mantém eficiência proporcional superior"
+      "Conteúdo polêmico e comparativo sobre ídolos do futebol gera engagement exponencial",
+      "Posts no Instagram com thumbnails visuais e emojis capturam melhor as visualizações que YouTube",
+      "Patrocinadores com maior quantidade de posts (Brahma: 29, Melitta: 27) mantêm proporcionalmente melhor desempenho"
     ],
     "recomendacoes": [
-      "Intensificar conteúdo sobre comparações históricas entre craques brasileiros e estrangeiros na próxima semana",
-      "Aumentar frequência de posts patrocinados pela Brahma e Melita, que demonstram melhor custo-benefício por interação",
-      "Explorar formato de vídeo curto no YouTube com mesma temática de debates para capturar audiência crescente naquela plataforma"
+      "Intensificar conteúdo de debates polarizantes sobre ranking de craques e momentos históricos do futebol",
+      "Aumentar frequência de posts no Instagram em relação ao YouTube, visto o maior ROI de views",
+      "Expandir parceria com Brahma e Melitta mantendo frequência de posts acima de 25/semana"
     ],
-    "analise_patrocinadores": "Brahma liderou em eficiência com 3.2M views em 32 posts (100K views/post), seguida pela Melita com performance similar de 103.4K views/post. Sporting Bet, apesar de maior volume (40 posts), apresentou menor eficiência individual (65K views/post), sugerindo necessidade de otimização criativa para essa marca.",
-    "proximo_foco": "Desenvolver série semanal 'Lendas vs Contemporâneos' com debates estruturados entre craques históricos e atuais, mantendo foco em conteúdo que ressalte futebol brasileiro como diferencial competitivo do canal."
+    "analise_patrocinadores": "Brahma e Melitta dominaram a semana com 3.1M e 3.0M views respectivamente, acumulando 447.2K interações conjuntas. SportingBet mantém presença relevante com 1.2M views, enquanto Forneri e Granfino apresentam oportunidades de aumento de frequência de posts para potencializar seus números.",
+    "proximo_foco": "Desenvolver série de conteúdos sobre 'Maiores polêmicas do futebol mundial' e 'Rankings de craques por posição', mantendo formato de debate com múltiplos apresentadores para replicar sucesso dos posts top 3 desta semana."
   }
 }
