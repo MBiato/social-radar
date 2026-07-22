@@ -1315,6 +1315,9 @@ function gerarRelatorio() {
   const sl=arr=>arr.reduce((a,x)=>a+(x.likes||0),0);
   const sc=arr=>arr.reduce((a,x)=>a+(x.comments||0),0);
   const si=arr=>arr.reduce((a,x)=>a+(x.likes||0)+(x.comments||0),0);
+  const sr=arr=>arr.reduce((a,x)=>a+(x.reach||0),0);
+  const ssh=arr=>arr.reduce((a,x)=>a+(x.shares||0),0);
+  const ssv=arr=>arr.reduce((a,x)=>a+(x.saves||0),0);
 
   const doc=getPDF();
 
@@ -1361,8 +1364,8 @@ function gerarRelatorio() {
     y+=10;
 
     // Tabela Instagram
-    const igHeaders=['#','Data','Tipo','Post / Caption','Link','Views','Likes','Coment.','Engaj.'];
-    const igCols=[10,16,14,58,16,18,16,16,18];
+    const igHeaders=['#','Data','Tipo','Post / Caption','Link','Views','Alcance','Likes','Coment.','Compart.','Salvos','Engaj.'];
+    const igCols=[8,13,11,49,12,13,13,13,13,12,12,13];
     doc.setFillColor('#252525'); doc.rect(MAR,y,CW,7,'F');
     doc.setFont('helvetica','bold'); doc.setFontSize(6); doc.setTextColor('#666666');
     let x=MAR+2;
@@ -1393,24 +1396,39 @@ function gerarRelatorio() {
       x+=igCols[4];
       doc.setFont('helvetica','bold'); doc.setFontSize(8); doc.setTextColor('#ffffff');
       doc.text(fmt(p.views||0),x,y+6.5); x+=igCols[5];
-      doc.text(fmt(p.likes||0),x,y+6.5); x+=igCols[6];
-      doc.text(fmt(p.comments||0),x,y+6.5); x+=igCols[7];
-      doc.setTextColor('#FF5A1F');
+      doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#aaaaaa');
+      doc.text(fmt(p.reach||0),x,y+6.5); x+=igCols[6];
+      doc.setFont('helvetica','bold'); doc.setFontSize(8); doc.setTextColor('#ffffff');
+      doc.text(fmt(p.likes||0),x,y+6.5); x+=igCols[7];
+      doc.text(fmt(p.comments||0),x,y+6.5); x+=igCols[8];
+      doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#aaaaaa');
+      doc.text(fmt(p.shares||0),x,y+6.5); x+=igCols[9];
+      doc.text(fmt(p.saves||0),x,y+6.5); x+=igCols[10];
+      doc.setFont('helvetica','bold'); doc.setFontSize(8); doc.setTextColor('#FF5A1F');
       doc.text(fmt((p.likes||0)+(p.comments||0)),x,y+6.5);
       y+=rh;
     });
 
-    // Subtotais IG
+    // Subtotais IG — posição de cada número calculada a partir das larguras
+    // reais das colunas (igCols), não de números fixos "no olho"
     y+=3;
     doc.setFillColor('#1e1e1e'); doc.rect(MAR,y,CW,7,'F');
     doc.setFont('helvetica','bold'); doc.setFontSize(7); doc.setTextColor('#FF5A1F');
     doc.text('TOTAL INSTAGRAM',MAR+2,y+4.5);
+    const colX = igCols.reduce((acc,w,i)=>{ acc.push((acc[i-1]??MAR+2)+(i===0?0:igCols[i-1])); return acc; },[]);
+    // colX[5]=Views, [6]=Alcance, [7]=Likes, [8]=Coment, [9]=Compart, [10]=Salvos, [11]=Engaj
     doc.setTextColor('#ffffff');
-    doc.text(fmt(sv(igP)),MAR+120,y+4.5);
-    doc.text(fmt(sl(igP)),MAR+138,y+4.5);
-    doc.text(fmt(sc(igP)),MAR+154,y+4.5);
-    doc.setTextColor('#FF5A1F');
-    doc.text(fmt(si(igP)),MAR+170,y+4.5);
+    doc.text(fmt(sv(igP)), colX[5],y+4.5);
+    doc.setFontSize(6.5);
+    doc.text(fmt(sr(igP)), colX[6],y+4.5);
+    doc.setFontSize(7);
+    doc.text(fmt(sl(igP)), colX[7],y+4.5);
+    doc.text(fmt(sc(igP)), colX[8],y+4.5);
+    doc.setFontSize(6.5);
+    doc.text(fmt(ssh(igP)),colX[9],y+4.5);
+    doc.text(fmt(ssv(igP)),colX[10],y+4.5);
+    doc.setFontSize(7); doc.setTextColor('#FF5A1F');
+    doc.text(fmt(si(igP)), colX[11],y+4.5);
     y+=12;
   }
 
