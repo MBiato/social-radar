@@ -106,7 +106,7 @@ tr:hover td{background:#1a1a1a;}
 .hm-container{overflow-x:auto;padding-bottom:4px;}
 
 /* RANKING */
-.rank-row{display:grid;grid-template-columns:28px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:9px 10px;border-bottom:1px solid var(--b1);}
+.rank-row{display:grid;grid-template-columns:28px 1fr 74px 70px 66px 66px 70px 66px;align-items:center;gap:8px;padding:9px 10px;border-bottom:1px solid var(--b1);}
 .rank-row:last-child{border-bottom:none;}
 .rank-row:hover{background:#1a1a1a;}
 .rank-caption{font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
@@ -184,7 +184,10 @@ tr:hover td{background:#1a1a1a;}
   }
   .rank-row > div:nth-child(3),
   .rank-row > div:nth-child(4),
-  .rank-row > div:nth-child(5){display:none;}
+  .rank-row > div:nth-child(5),
+  .rank-row > div:nth-child(6),
+  .rank-row > div:nth-child(7),
+  .rank-row > div:nth-child(8){display:none;}
   .rank-caption{font-size:13px;white-space:normal;overflow:visible;word-break:break-word;line-height:1.4;}
   .rank-meta{white-space:normal;word-break:break-word;font-size:11px;}
   .rank-val{font-size:14px;}
@@ -694,9 +697,17 @@ function renderKPIs() {
   const { s, e } = getRange();
   const last = snaps[snaps.length-1], first = snaps[0], plast = prev[prev.length-1];
   // Pra Instagram, usa a série de views de conta (histórico completo, soma certinha
-  // por período). Pras outras plataformas, mantém o cálculo antigo via snapshots.
-  const totalViews = platform==='instagram' ? getAccountViews(s,e) : snaps.reduce((a,s)=>a+(s.views||0),0);
-  const prevViews  = platform==='instagram' ? getPrevAccountViews() : prev.reduce((a,s)=>a+(s.views||0),0);
+  // por período). Pro YouTube, o 'views' salvo por dia é o TOTAL HISTÓRICO do canal
+  // (viewCount da API), repetido em cada snapshot — somar isso por período multiplica
+  // um total histórico pelos dias do período, dando número absurdo. Até termos a
+  // integração YouTube Analytics (OAuth), tratamos como valor acumulado — igual já
+  // fazemos com Seguidores — mostrando o mais recente, não a soma dos dias.
+  const totalViews = platform==='instagram' ? getAccountViews(s,e)
+                    : platform==='youtube'   ? (last?.views ?? 0)
+                    : snaps.reduce((a,s)=>a+(s.views||0),0);
+  const prevViews  = platform==='instagram' ? getPrevAccountViews()
+                    : platform==='youtube'   ? (plast?.views ?? 0)
+                    : prev.reduce((a,s)=>a+(s.views||0),0);
   const totalReach = snaps.reduce((a,s)=>a+(s.reach||0),0);
   const prevReach  = prev.reduce((a,s) =>a+(s.reach||0),0);
   const posts = getFilteredPosts();
@@ -704,10 +715,10 @@ function renderKPIs() {
   const avgViews = snaps.length ? Math.round(totalViews/snaps.length) : 0;
   const avgEng   = snaps.length ? Math.round(totalEng/snaps.length) : 0;
   const fDelta = (a,b) => { const d=a-b; return (d>=0?'+':'')+fmt(Math.abs(d))+' vs ant.'; };
-  const viewsLabel = platform==='instagram' ? 'Views da Conta' : 'Views Totais';
-  const viewsSub   = platform==='instagram'
-    ? `${fmt(avgViews)}/dia · conta inteira, não só posts do período`
-    : `${fmt(avgViews)}/dia em média`;
+  const viewsLabel = platform==='instagram' ? 'Views da Conta' : platform==='youtube' ? 'Views do Canal (total)' : 'Views Totais';
+  const viewsSub   = platform==='instagram' ? `${fmt(avgViews)}/dia · conta inteira, não só posts do período`
+                    : platform==='youtube'   ? 'total histórico — views diárias reais chegam com a integração YouTube Analytics'
+                    : `${fmt(avgViews)}/dia em média`;
   const kpis = [
     { label:'Seguidores',  val:fmt(last?.followers??0),  cmp:pctChg(last?.followers??0,plast?.followers??0), abs:fDelta(last?.followers??0,plast?.followers??0), sub:`+${fmt((last?.followers??0)-(first?.followers??0))} no período` },
     { label:viewsLabel,    val:fmt(totalViews),  cmp:pctChg(totalViews,prevViews),   abs:fDelta(totalViews,prevViews),  sub:viewsSub },
@@ -855,12 +866,15 @@ function renderRankings() {
   if(curPage >= tot) curPage = 0;
   const posts = all.slice(curPage*PAGE_SIZE,(curPage+1)*PAGE_SIZE);
 
-  const hdr = `<div style="display:grid;grid-template-columns:28px 1fr 80px 74px 88px;align-items:center;gap:10px;padding:7px 10px;border-bottom:1px solid var(--b1);">
+  const hdr = `<div style="display:grid;grid-template-columns:28px 1fr 74px 70px 66px 66px 70px 66px;align-items:center;gap:8px;padding:7px 10px;border-bottom:1px solid var(--b1);">
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">#</div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;">Post</div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Views</div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Alcance</div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Likes</div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Coment.</div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Compart.</div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Salvos</div>
   </div>`;
 
   const rows = posts.map((p,i) => {
@@ -888,8 +902,11 @@ function renderRankings() {
         </div>
       </div>
       <div class="rank-val${hiV?' ac':''}">${fmt(p.views)}</div>
+      <div class="rank-val" style="color:var(--t3);">${fmt(p.reach||0)}</div>
       <div class="rank-val${hiL?' ac':''}">${fmt(p.likes)}</div>
       <div class="rank-val${hiC?' ac':''}">${fmt(p.comments)}</div>
+      <div class="rank-val" style="color:var(--t3);">${fmt(p.shares||0)}</div>
+      <div class="rank-val" style="color:var(--t3);">${fmt(p.saves||0)}</div>
     </div>`;
   }).join('');
 
