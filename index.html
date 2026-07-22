@@ -902,11 +902,11 @@ function renderRankings() {
         </div>
       </div>
       <div class="rank-val${hiV?' ac':''}">${fmt(p.views)}</div>
-      <div class="rank-val" style="color:var(--t3);">${fmt(p.reach||0)}</div>
+      <div class="rank-val">${fmt(p.reach||0)}</div>
       <div class="rank-val${hiL?' ac':''}">${fmt(p.likes)}</div>
       <div class="rank-val${hiC?' ac':''}">${fmt(p.comments)}</div>
-      <div class="rank-val" style="color:var(--t3);">${fmt(p.shares||0)}</div>
-      <div class="rank-val" style="color:var(--t3);">${fmt(p.saves||0)}</div>
+      <div class="rank-val">${fmt(p.shares||0)}</div>
+      <div class="rank-val">${fmt(p.saves||0)}</div>
     </div>`;
   }).join('');
 
