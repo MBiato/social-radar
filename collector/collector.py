@@ -232,9 +232,13 @@ def collect_instagram(metrics: dict) -> bool:
             page += 1
         for item in all_items:
             d     = item['timestamp'][:10]
-            views = 0
+            views = reach = shares = saves = 0
 
-            # Video views (só para reels/vídeos)
+            # Métricas de post (só para reels/vídeos — imagem não tem "views")
+            # Nota sobre nomes: o que o Instagram chama de "views" hoje é o que
+            # antes se chamava "impressions" (a Meta só renomeou a métrica em
+            # 2025 — é a mesma coisa). "Reach" é "alcance". Isso é usado pra
+            # montar relatórios no formato que patrocinadores pedem (ex: Assaí).
             if item.get('media_type') in ('VIDEO', 'REELS'):
                 try:
                     rv = requests.get(f'{base}/{item["id"]}/insights', params={
@@ -243,36 +247,30 @@ def collect_instagram(metrics: dict) -> bool:
                     }, timeout=10)
                     if rv.ok:
                         for m in rv.json().get('data', []):
-                            if m['name'] == 'views':
-                                views = m.get('values', [{}])[-1].get('value', 0)
+                            val = m.get('values', [{}])[-1].get('value', 0)
+                            if m['name'] == 'views':  views  = val
+                            elif m['name'] == 'reach': reach  = val
+                            elif m['name'] == 'shares': shares = val
+                            elif m['name'] == 'saved':  saves  = val
                 except Exception:
                     pass
 
             posts.append({
-                'id':       item['id'],
-                'date':     d,
-                'caption':  (item.get('caption') or '')[:120],
-                'url':      item.get('permalink',''),
-                'tags':     [w.lower() for w in (item.get('caption') or '').split() if w.startswith('#')][:10],
-                'type':     item.get('media_type', 'IMAGE'),
-                'views':    views,
-                'likes':    item.get('like_count',    0),
-                'comments': item.get('comments_count', 0),
-                'shares':   0,   # não disponível via Basic Display API
-                'saves':    0,   # requer Business Insights
+                'id':          item['id'],
+                'date':        d,
+                'caption':     (item.get('caption') or '')[:120],
+                'url':         item.get('permalink',''),
+                'tags':        [w.lower() for w in (item.get('caption') or '').split() if w.startswith('#')][:10],
+                'type':        item.get('media_type', 'IMAGE'),
+                'views':       views,     # = "impressões" no vocabulário de patrocinador
+                'reach':       reach,     # = "alcance/visualizações"
+                'likes':       item.get('like_count',    0),
+                'comments':    item.get('comments_count', 0),
+                'shares':      shares,
+                'saves':       saves,
             })
     except Exception as e:
         log.error(f'Instagram media: {e}')
-
-    # Se tem Business API, adicionar views/saves/shares via insights por post
-    # (descomentar se você tiver acesso avançado)
-    # for post in posts:
-    #     try:
-    #         rv = requests.get(f'{base}/{post["id"]}/insights', params={
-    #             'metric': 'impressions,reach,saved,shares', 'access_token': token,
-    #         }, timeout=10)
-    #         ...
-    #     except: pass
 
     upsert_snapshot(metrics, 'instagram', snapshot)
     upsert_posts(metrics, 'instagram', posts)
