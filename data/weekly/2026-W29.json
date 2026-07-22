@@ -1,77 +1,77 @@
 {
-  "generated_at": "2026-07-22T00:05:47.993570",
+  "generated_at": "2026-07-22T22:46:05.183899",
   "period_start": "2026-07-15",
   "period_end": "2026-07-21",
   "week_label": "2026-07-15 a 2026-07-21",
   "metrics": {
-    "total_posts": 126,
+    "total_posts": 125,
     "instagram_posts": 61,
-    "youtube_posts": 65,
-    "total_views": 5363867,
-    "total_likes": 339192,
-    "total_comments": 24932
+    "youtube_posts": 64,
+    "total_views": 5632379,
+    "total_likes": 352965,
+    "total_comments": 26733
   },
   "sponsor_stats": {
     "#brahmanocharla": {
       "posts": 29,
-      "views": 3101191,
-      "likes": 209726,
-      "comments": 16016,
+      "views": 3214831,
+      "likes": 215543,
+      "comments": 16681,
       "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
       "posts": 27,
-      "views": 3022712,
-      "likes": 206567,
-      "comments": 14949,
+      "views": 3132171,
+      "likes": 212227,
+      "comments": 15465,
       "tag": "#melittanocharla"
     },
     "#sportingbetnocharla": {
       "posts": 21,
-      "views": 1151852,
-      "likes": 85458,
-      "comments": 5325,
+      "views": 1189654,
+      "likes": 86420,
+      "comments": 5512,
       "tag": "#sportingbetnocharla"
     },
     "#fornerianocharla": {
       "posts": 1,
-      "views": 201188,
-      "likes": 5484,
+      "views": 201672,
+      "likes": 5497,
       "comments": 120,
       "tag": "#fornerianocharla"
     },
     "#granfinonocharla": {
       "posts": 2,
-      "views": 89525,
-      "likes": 3605,
-      "comments": 1132,
+      "views": 93780,
+      "likes": 3763,
+      "comments": 1282,
       "tag": "#granfinonocharla"
     },
     "#assainocharla": {
       "posts": 2,
-      "views": 47300,
-      "likes": 1432,
-      "comments": 57,
+      "views": 72229,
+      "likes": 2013,
+      "comments": 79,
       "tag": "#assainocharla"
+    },
+    "#charlanamix": {
+      "posts": 1,
+      "views": 33207,
+      "likes": 1502,
+      "comments": 41,
+      "tag": "#charlanamix"
     },
     "#futebollegendstalks": {
       "posts": 1,
-      "views": 24408,
+      "views": 24693,
       "likes": 567,
       "comments": 1,
       "tag": "#futebollegendstalks"
     },
-    "#charlanamix": {
-      "posts": 1,
-      "views": 22977,
-      "likes": 1076,
-      "comments": 32,
-      "tag": "#charlanamix"
-    },
     "#charlafutebol": {
       "posts": 2,
       "views": 0,
-      "likes": 158,
+      "likes": 159,
       "comments": 16,
       "tag": "#charlafutebol"
     }
@@ -88,11 +88,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 541183,
-      "likes": 56927,
-      "comments": 2926,
-      "shares": 0,
-      "saves": 0,
+      "views": 542967,
+      "reach": 379057,
+      "likes": 57095,
+      "comments": 2925,
+      "shares": 18164,
+      "saves": 2923,
       "platform": "instagram"
     },
     {
@@ -105,11 +106,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 441028,
-      "likes": 40515,
-      "comments": 2261,
-      "shares": 0,
-      "saves": 0,
+      "views": 449394,
+      "reach": 333094,
+      "likes": 41294,
+      "comments": 2311,
+      "shares": 15986,
+      "saves": 2263,
       "platform": "instagram"
     },
     {
@@ -122,11 +124,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 240202,
-      "likes": 26168,
-      "comments": 2282,
-      "shares": 0,
-      "saves": 0,
+      "views": 267770,
+      "reach": 185195,
+      "likes": 28277,
+      "comments": 2415,
+      "shares": 7496,
+      "saves": 927,
       "platform": "instagram"
     },
     {
@@ -142,6 +145,24 @@
       "platform": "youtube"
     },
     {
+      "id": "17868721929632148",
+      "date": "2026-07-17",
+      "caption": "\"É A CELEBRAÇÃO DO COLETIVO!\" \n\nFernando Kallás falou do pensamento coletivo dos jogadores espanhóis e sobre o bom clima",
+      "url": "https://www.instagram.com/reel/Da6KE52p_WI/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 215749,
+      "reach": 157919,
+      "likes": 18910,
+      "comments": 126,
+      "shares": 1894,
+      "saves": 771,
+      "platform": "instagram"
+    },
+    {
       "id": "18368044627231714",
       "date": "2026-07-19",
       "caption": "“O QUE ELES MOSTRAM, É O QUE TODO TORCEDOR QUER VER NO SEU TIME”\n\nMauro fala sobre a energia que envolve todo o time da ",
@@ -151,11 +172,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 208197,
-      "likes": 10429,
-      "comments": 1606,
-      "shares": 0,
-      "saves": 0,
+      "views": 212161,
+      "reach": 162247,
+      "likes": 10574,
+      "comments": 1792,
+      "shares": 2237,
+      "saves": 528,
       "platform": "instagram"
     },
     {
@@ -168,11 +190,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 206947,
-      "likes": 6794,
-      "comments": 3327,
-      "shares": 0,
-      "saves": 0,
+      "views": 211995,
+      "reach": 134219,
+      "likes": 6986,
+      "comments": 3373,
+      "shares": 1020,
+      "saves": 324,
       "platform": "instagram"
     },
     {
@@ -185,28 +208,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 204441,
-      "likes": 11927,
+      "views": 205573,
+      "reach": 135006,
+      "likes": 11974,
       "comments": 165,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram"
-    },
-    {
-      "id": "17868721929632148",
-      "date": "2026-07-17",
-      "caption": "\"É A CELEBRAÇÃO DO COLETIVO!\" \n\nFernando Kallás falou do pensamento coletivo dos jogadores espanhóis e sobre o bom clima",
-      "url": "https://www.instagram.com/reel/Da6KE52p_WI/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 203897,
-      "likes": 17832,
-      "comments": 117,
-      "shares": 0,
-      "saves": 0,
+      "shares": 1490,
+      "saves": 518,
       "platform": "instagram"
     },
     {
@@ -218,45 +225,44 @@
         "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 201188,
-      "likes": 5484,
+      "views": 201672,
+      "reach": 141147,
+      "likes": 5497,
       "comments": 120,
-      "shares": 0,
-      "saves": 0,
+      "shares": 238,
+      "saves": 175,
       "platform": "instagram"
     },
     {
-      "id": "18109988287869774",
-      "date": "2026-07-18",
-      "caption": "O ESTÁDIO DO FLAMENGO VAI SAIR?\n\nMauro Cezar dá detalhes sobre a construção do estádio e o que poderia ter acontecido em",
-      "url": "https://www.instagram.com/reel/Da80rUvxifT/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla"
-      ],
+      "id": "18083792528262985",
+      "date": "2026-07-20",
+      "caption": "PELÉ JOGOU ATÉ DE GOLEIRO! 👑🧤\n\nSe liga no que o Juca Kfouri faltou a respeito do rei do futebol.",
+      "url": "https://www.instagram.com/reel/DbBmpLCN6a0/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 185041,
-      "likes": 6468,
-      "comments": 212,
-      "shares": 0,
-      "saves": 0,
+      "views": 188558,
+      "reach": 117234,
+      "likes": 19235,
+      "comments": 341,
+      "shares": 3837,
+      "saves": 1357,
       "platform": "instagram"
     }
   ],
   "ai_summary": {
-    "resumo_semana": "Semana excepcional para o Charla Podcast com 5.4M de visualizações distribuídas entre 126 posts (61 Instagram, 65 YouTube). O conteúdo sobre Pelé dominou a performance, gerando engajamento massivo com 339.2K likes e 24.9K comentários. A estratégia de patrocínio manteve forte presença, com Brahma e Melitta liderando em views e interações.",
-    "destaque_semana": "O post sobre 'PELÉ É E SEMPRE SERÁ O MAIOR E MELHOR DA HISTÓRIA?' atingiu 541.2K views, consolidando debates comparativos entre lendas do futebol como temática viral de alto desempenho.",
+    "resumo_semana": "Semana de grande desempenho com 5.6M de views distribuídos entre 125 posts (61 Instagram, 64 YouTube). O conteúdo sobre Pelé dominou o engajamento, com os 3 top posts gerando mais de 1.26M de views combinados. Taxa de interação saudável com 353K likes e 26.7K comentários, indicando audiência altamente engajada.",
+    "destaque_semana": "A série de debates sobre Pelé versus Messi foi o destaque absoluto da semana, com o post 'PELÉ É E SEMPRE SERÁ O MAIOR E MELHOR DA HISTÓRIA?' atingindo 543K views e demonstrando forte apelo do público por conteúdo que provoca discussão sobre lendas do futebol.",
     "padroes": [
-      "Conteúdo polêmico e comparativo sobre ídolos do futebol gera engagement exponencial",
-      "Posts no Instagram com thumbnails visuais e emojis capturam melhor as visualizações que YouTube",
-      "Patrocinadores com maior quantidade de posts (Brahma: 29, Melitta: 27) mantêm proporcionalmente melhor desempenho"
+      "Conteúdo polêmico e provocativo sobre comparações de craques gera 3-4x mais views que média",
+      "Brahma lidera significativamente em performance entre patrocinadores (3.2M views, 29 posts)",
+      "Formato de debate/argumento estruturado tem melhor taxa de conversão que simples cobertura de notícias"
     ],
     "recomendacoes": [
-      "Intensificar conteúdo de debates polarizantes sobre ranking de craques e momentos históricos do futebol",
-      "Aumentar frequência de posts no Instagram em relação ao YouTube, visto o maior ROI de views",
-      "Expandir parceria com Brahma e Melitta mantendo frequência de posts acima de 25/semana"
+      "Intensificar conteúdo de debates comparativos entre ícones do futebol nas próximas semanas",
+      "Aumentar frequência de posts patrocinados Brahma e Melitta (maior ROI) mantendo qualidade",
+      "Revisar estratégia de SportingBet - performance abaixo da média apesar de 21 posts investidos"
     ],
-    "analise_patrocinadores": "Brahma e Melitta dominaram a semana com 3.1M e 3.0M views respectivamente, acumulando 447.2K interações conjuntas. SportingBet mantém presença relevante com 1.2M views, enquanto Forneri e Granfino apresentam oportunidades de aumento de frequência de posts para potencializar seus números.",
-    "proximo_foco": "Desenvolver série de conteúdos sobre 'Maiores polêmicas do futebol mundial' e 'Rankings de craques por posição', mantendo formato de debate com múltiplos apresentadores para replicar sucesso dos posts top 3 desta semana."
+    "analise_patrocinadores": "Brahma e Melitta dominaram a semana com desempenho praticamente equivalente (3.2M e 3.1M views respectivamente), representando 72% do total de views patrocinados. SportingBet underperformou com apenas 1.2M views em 21 posts, sugerindo necessidade de realinhamento de conteúdo ou posicionamento.",
+    "proximo_foco": "Expandir série de debates com personalidades do podcast sobre tópicos polêmicos do futebol, mantendo foco em Brahma/Melitta como âncoras principais e testando novos formatos de confronto de opiniões para maximizar engajamento."
   }
 }

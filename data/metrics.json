@@ -492,15 +492,83 @@
       },
       {
         "date": "2026-07-22",
-        "followers": 956763,
+        "followers": 956715,
         "following": 1113,
-        "media_count": 6991,
+        "media_count": 6997,
         "views": 0,
         "reach": 0,
-        "likes": 0
+        "likes": 2520
       }
     ],
     "posts": [
+      {
+        "id": "18118858471865745",
+        "date": "2026-07-22",
+        "caption": "FOI HISTÓRICO, TROPA! 🚀🤩\n\nCom muito carinho, recordações e agradecimentos, nos despedimos da Copa. A todas as marcas, co",
+        "url": "https://www.instagram.com/p/DbGzrqclaoR/",
+        "tags": [],
+        "type": "CAROUSEL_ALBUM",
+        "views": 0,
+        "reach": 0,
+        "likes": 251,
+        "comments": 33,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "18047421023794986",
+        "date": "2026-07-22",
+        "caption": "JOGO FUNDAMENTAL PARA O FLAMENGO!\n\nO Mengão vai encarar a Chape e a mesa da Charla de Quinta cravou: é jogo fundamental ",
+        "url": "https://www.instagram.com/reel/DbGyxnJBwxa/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#brahmanocharla",
+          "#fornerianocharla",
+          "#absolutnocharla"
+        ],
+        "type": "VIDEO",
+        "views": 12411,
+        "reach": 8600,
+        "likes": 312,
+        "comments": 22,
+        "shares": 2,
+        "saves": 9
+      },
+      {
+        "id": "17974396622908205",
+        "date": "2026-07-22",
+        "caption": "AS CONTRATAÇÕES DO VASCO!\n\nA mesa da Charla de Quinta falou sobre as transferências do Gigante da Colina e sobre contrat",
+        "url": "https://www.instagram.com/reel/DbGwGk6BXn-/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#brahmanocharla",
+          "#fornerianocharla",
+          "#absolutnocharla"
+        ],
+        "type": "VIDEO",
+        "views": 67024,
+        "reach": 40699,
+        "likes": 1902,
+        "comments": 164,
+        "shares": 32,
+        "saves": 64
+      },
+      {
+        "id": "18104542448123164",
+        "date": "2026-07-22",
+        "caption": "É DIA DE VASCO NO CHARLA FUTEBOL!\n\nPela Sula, o Gigante da Colina encara Independiente Medellín e só quer saber de um re",
+        "url": "https://www.instagram.com/p/DbGX8T5yIx2/",
+        "tags": [
+          "#charlafutebol"
+        ],
+        "type": "IMAGE",
+        "views": 0,
+        "reach": 0,
+        "likes": 55,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0
+      },
       {
         "id": "18126084178670461",
         "date": "2026-07-21",
@@ -508,11 +576,12 @@
         "url": "https://www.instagram.com/reel/DbCLjeYTLB0/",
         "tags": [],
         "type": "VIDEO",
-        "views": 40853,
-        "likes": 3473,
+        "views": 41962,
+        "reach": 30407,
+        "likes": 3572,
         "comments": 220,
-        "shares": 0,
-        "saves": 0
+        "shares": 73,
+        "saves": 51
       },
       {
         "id": "18092918339615834",
@@ -526,11 +595,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 11032,
-        "likes": 259,
-        "comments": 7,
-        "shares": 0,
-        "saves": 0
+        "views": 12858,
+        "reach": 9744,
+        "likes": 281,
+        "comments": 8,
+        "shares": 7,
+        "saves": 6
       },
       {
         "id": "17863091469648464",
@@ -544,11 +614,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 50673,
-        "likes": 1532,
-        "comments": 60,
-        "shares": 0,
-        "saves": 0
+        "views": 59371,
+        "reach": 40873,
+        "likes": 1732,
+        "comments": 71,
+        "shares": 113,
+        "saves": 30
       },
       {
         "id": "17900186913524320",
@@ -558,7 +629,8 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 57,
+        "reach": 0,
+        "likes": 61,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -573,11 +645,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 14155,
-        "likes": 250,
-        "comments": 17,
-        "shares": 0,
-        "saves": 0
+        "views": 15661,
+        "reach": 11704,
+        "likes": 274,
+        "comments": 20,
+        "shares": 3,
+        "saves": 1
       },
       {
         "id": "18100865549184483",
@@ -588,11 +661,12 @@
           "#charlanamix"
         ],
         "type": "VIDEO",
-        "views": 29365,
-        "likes": 1349,
-        "comments": 39,
-        "shares": 0,
-        "saves": 0
+        "views": 33207,
+        "reach": 23462,
+        "likes": 1502,
+        "comments": 41,
+        "shares": 99,
+        "saves": 30
       },
       {
         "id": "18110216473985364",
@@ -604,11 +678,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 257820,
-        "likes": 27426,
-        "comments": 2375,
-        "shares": 0,
-        "saves": 0
+        "views": 267770,
+        "reach": 185195,
+        "likes": 28277,
+        "comments": 2415,
+        "shares": 7496,
+        "saves": 927
       },
       {
         "id": "18083792528262985",
@@ -617,11 +692,12 @@
         "url": "https://www.instagram.com/reel/DbBmpLCN6a0/",
         "tags": [],
         "type": "VIDEO",
-        "views": 183773,
-        "likes": 18697,
-        "comments": 332,
-        "shares": 0,
-        "saves": 0
+        "views": 188558,
+        "reach": 117234,
+        "likes": 19235,
+        "comments": 341,
+        "shares": 3837,
+        "saves": 1357
       },
       {
         "id": "18016584947909326",
@@ -630,11 +706,12 @@
         "url": "https://www.instagram.com/reel/DbBbdWzubeY/",
         "tags": [],
         "type": "VIDEO",
-        "views": 40026,
-        "likes": 3852,
-        "comments": 111,
-        "shares": 0,
-        "saves": 0
+        "views": 42356,
+        "reach": 29492,
+        "likes": 4058,
+        "comments": 112,
+        "shares": 250,
+        "saves": 169
       },
       {
         "id": "18107176613277142",
@@ -643,11 +720,12 @@
         "url": "https://www.instagram.com/reel/DbBapfRzJqv/",
         "tags": [],
         "type": "VIDEO",
-        "views": 45419,
-        "likes": 2540,
-        "comments": 138,
-        "shares": 0,
-        "saves": 0
+        "views": 46568,
+        "reach": 31705,
+        "likes": 2587,
+        "comments": 139,
+        "shares": 150,
+        "saves": 104
       },
       {
         "id": "18126445105662975",
@@ -656,11 +734,12 @@
         "url": "https://www.instagram.com/reel/DbBUjrhpJ_S/",
         "tags": [],
         "type": "VIDEO",
-        "views": 169020,
-        "likes": 13226,
-        "comments": 321,
-        "shares": 0,
-        "saves": 0
+        "views": 176441,
+        "reach": 130750,
+        "likes": 13824,
+        "comments": 329,
+        "shares": 2814,
+        "saves": 863
       },
       {
         "id": "18368044627231714",
@@ -672,11 +751,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 209716,
-        "likes": 10490,
-        "comments": 1676,
-        "shares": 0,
-        "saves": 0
+        "views": 212161,
+        "reach": 162247,
+        "likes": 10574,
+        "comments": 1792,
+        "shares": 2237,
+        "saves": 528
       },
       {
         "id": "18100537832220406",
@@ -688,11 +768,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 98014,
-        "likes": 3475,
-        "comments": 72,
-        "shares": 0,
-        "saves": 0
+        "views": 99933,
+        "reach": 71215,
+        "likes": 3522,
+        "comments": 80,
+        "shares": 86,
+        "saves": 116
       },
       {
         "id": "17918690364407720",
@@ -701,11 +782,12 @@
         "url": "https://www.instagram.com/reel/Da_iFVghzxV/",
         "tags": [],
         "type": "VIDEO",
-        "views": 81538,
-        "likes": 9533,
+        "views": 81984,
+        "reach": 67548,
+        "likes": 9577,
         "comments": 126,
-        "shares": 0,
-        "saves": 0
+        "shares": 1037,
+        "saves": 315
       },
       {
         "id": "18412649110145133",
@@ -714,11 +796,12 @@
         "url": "https://www.instagram.com/reel/Da_e3AwOlqI/",
         "tags": [],
         "type": "VIDEO",
-        "views": 19016,
-        "likes": 883,
-        "comments": 5,
-        "shares": 0,
-        "saves": 0
+        "views": 19273,
+        "reach": 14391,
+        "likes": 892,
+        "comments": 6,
+        "shares": 44,
+        "saves": 16
       },
       {
         "id": "18401816551080720",
@@ -727,11 +810,12 @@
         "url": "https://www.instagram.com/reel/Da_bGv9pqJ1/",
         "tags": [],
         "type": "VIDEO",
-        "views": 19623,
-        "likes": 1014,
-        "comments": 31,
-        "shares": 0,
-        "saves": 0
+        "views": 19894,
+        "reach": 16102,
+        "likes": 1025,
+        "comments": 32,
+        "shares": 90,
+        "saves": 23
       },
       {
         "id": "18135737272580044",
@@ -741,7 +825,8 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 377,
+        "reach": 0,
+        "likes": 378,
         "comments": 21,
         "shares": 0,
         "saves": 0
@@ -754,7 +839,8 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 252,
+        "reach": 0,
+        "likes": 253,
         "comments": 8,
         "shares": 0,
         "saves": 0
@@ -767,6 +853,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
+        "reach": 0,
         "likes": 18,
         "comments": 6,
         "shares": 0,
@@ -782,11 +869,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 18703,
-        "likes": 639,
+        "views": 18931,
+        "reach": 13867,
+        "likes": 644,
         "comments": 4,
-        "shares": 0,
-        "saves": 0
+        "shares": 66,
+        "saves": 28
       },
       {
         "id": "18095873153627557",
@@ -796,7 +884,8 @@
         "tags": [],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 477,
+        "reach": 0,
+        "likes": 536,
         "comments": 30,
         "shares": 0,
         "saves": 0
@@ -812,11 +901,12 @@
           "#granfinonocharla"
         ],
         "type": "VIDEO",
-        "views": 45671,
-        "likes": 2472,
-        "comments": 223,
-        "shares": 0,
-        "saves": 0
+        "views": 46407,
+        "reach": 31462,
+        "likes": 2528,
+        "comments": 235,
+        "shares": 219,
+        "saves": 120
       },
       {
         "id": "17863122075645194",
@@ -827,11 +917,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 17750,
-        "likes": 515,
-        "comments": 70,
-        "shares": 0,
-        "saves": 0
+        "views": 17837,
+        "reach": 13909,
+        "likes": 516,
+        "comments": 71,
+        "shares": 5,
+        "saves": 10
       },
       {
         "id": "17871823908554728",
@@ -844,11 +935,12 @@
           "#granfinonocharla"
         ],
         "type": "VIDEO",
-        "views": 45779,
-        "likes": 1195,
-        "comments": 958,
-        "shares": 0,
-        "saves": 0
+        "views": 47373,
+        "reach": 30883,
+        "likes": 1235,
+        "comments": 1047,
+        "shares": 85,
+        "saves": 51
       },
       {
         "id": "18127508623634934",
@@ -859,10 +951,11 @@
           "#brahmanocharla"
         ],
         "type": "VIDEO",
-        "views": 6662,
+        "views": 6717,
+        "reach": 5591,
         "likes": 69,
         "comments": 5,
-        "shares": 0,
+        "shares": 1,
         "saves": 0
       },
       {
@@ -873,7 +966,8 @@
         "tags": [],
         "type": "CAROUSEL_ALBUM",
         "views": 0,
-        "likes": 877,
+        "reach": 0,
+        "likes": 903,
         "comments": 13,
         "shares": 0,
         "saves": 0
@@ -886,8 +980,9 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 240,
-        "comments": 436,
+        "reach": 0,
+        "likes": 241,
+        "comments": 443,
         "shares": 0,
         "saves": 0
       },
@@ -899,6 +994,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
+        "reach": 0,
         "likes": 67,
         "comments": 3,
         "shares": 0,
@@ -913,11 +1009,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 33008,
+        "views": 33089,
+        "reach": 25631,
         "likes": 479,
         "comments": 33,
-        "shares": 0,
-        "saves": 0
+        "shares": 121,
+        "saves": 10
       },
       {
         "id": "18111248831477417",
@@ -928,11 +1025,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 18054,
+        "views": 18081,
+        "reach": 13801,
         "likes": 472,
         "comments": 11,
-        "shares": 0,
-        "saves": 0
+        "shares": 7,
+        "saves": 3
       },
       {
         "id": "18109988287869774",
@@ -944,11 +1042,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 185642,
-        "likes": 6480,
+        "views": 186245,
+        "reach": 128811,
+        "likes": 6496,
         "comments": 212,
-        "shares": 0,
-        "saves": 0
+        "shares": 125,
+        "saves": 194
       },
       {
         "id": "18432726241125207",
@@ -960,11 +1059,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 70882,
-        "likes": 2854,
-        "comments": 173,
-        "shares": 0,
-        "saves": 0
+        "views": 72369,
+        "reach": 51940,
+        "likes": 2920,
+        "comments": 181,
+        "shares": 165,
+        "saves": 106
       },
       {
         "id": "18082622654224959",
@@ -976,11 +1076,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 127237,
-        "likes": 3824,
-        "comments": 536,
-        "shares": 0,
-        "saves": 0
+        "views": 128073,
+        "reach": 88509,
+        "likes": 3841,
+        "comments": 546,
+        "shares": 511,
+        "saves": 217
       },
       {
         "id": "18033000839819141",
@@ -992,11 +1093,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 209320,
-        "likes": 6890,
-        "comments": 3350,
-        "shares": 0,
-        "saves": 0
+        "views": 211995,
+        "reach": 134219,
+        "likes": 6986,
+        "comments": 3373,
+        "shares": 1020,
+        "saves": 324
       },
       {
         "id": "18079711877672889",
@@ -1008,11 +1110,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 445453,
-        "likes": 40941,
-        "comments": 2283,
-        "shares": 0,
-        "saves": 0
+        "views": 449394,
+        "reach": 333094,
+        "likes": 41294,
+        "comments": 2311,
+        "shares": 15986,
+        "saves": 2263
       },
       {
         "id": "18105127096845175",
@@ -1024,11 +1127,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 51540,
-        "likes": 3362,
+        "views": 51885,
+        "reach": 38376,
+        "likes": 3370,
         "comments": 63,
-        "shares": 0,
-        "saves": 0
+        "shares": 96,
+        "saves": 99
       },
       {
         "id": "17979146456887117",
@@ -1038,8 +1142,9 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 780,
-        "comments": 281,
+        "reach": 0,
+        "likes": 782,
+        "comments": 282,
         "shares": 0,
         "saves": 0
       },
@@ -1052,11 +1157,12 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 201355,
-        "likes": 5486,
+        "views": 201672,
+        "reach": 141147,
+        "likes": 5497,
         "comments": 120,
-        "shares": 0,
-        "saves": 0
+        "shares": 238,
+        "saves": 175
       },
       {
         "id": "18183158827398272",
@@ -1097,11 +1203,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 21340,
+        "views": 21389,
+        "reach": 16836,
         "likes": 635,
         "comments": 37,
-        "shares": 0,
-        "saves": 0
+        "shares": 15,
+        "saves": 9
       },
       {
         "id": "18069682781427460",
@@ -1112,11 +1219,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 11206,
+        "views": 11250,
+        "reach": 8430,
         "likes": 124,
         "comments": 0,
         "shares": 0,
-        "saves": 0
+        "saves": 1
       },
       {
         "id": "18131313937546120",
@@ -1128,11 +1236,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 205022,
-        "likes": 11955,
+        "views": 205573,
+        "reach": 135006,
+        "likes": 11974,
         "comments": 165,
-        "shares": 0,
-        "saves": 0
+        "shares": 1490,
+        "saves": 518
       },
       {
         "id": "18106303721039142",
@@ -1144,11 +1253,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 24327,
-        "likes": 776,
+        "views": 24510,
+        "reach": 17917,
+        "likes": 783,
         "comments": 10,
-        "shares": 0,
-        "saves": 0
+        "shares": 13,
+        "saves": 29
       },
       {
         "id": "18148429471512177",
@@ -1160,11 +1270,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 117378,
-        "likes": 4781,
-        "comments": 277,
-        "shares": 0,
-        "saves": 0
+        "views": 119476,
+        "reach": 76985,
+        "likes": 4883,
+        "comments": 285,
+        "shares": 404,
+        "saves": 197
       },
       {
         "id": "18476003440100180",
@@ -1176,11 +1287,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 53194,
-        "likes": 1743,
+        "views": 53268,
+        "reach": 34588,
+        "likes": 1745,
         "comments": 177,
-        "shares": 0,
-        "saves": 0
+        "shares": 102,
+        "saves": 65
       },
       {
         "id": "17868721929632148",
@@ -1192,11 +1304,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 208844,
-        "likes": 18361,
-        "comments": 122,
-        "shares": 0,
-        "saves": 0
+        "views": 215749,
+        "reach": 157919,
+        "likes": 18910,
+        "comments": 126,
+        "shares": 1894,
+        "saves": 771
       },
       {
         "id": "17975868381100465",
@@ -1208,11 +1321,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 16402,
-        "likes": 460,
+        "views": 16501,
+        "reach": 13055,
+        "likes": 463,
         "comments": 4,
-        "shares": 0,
-        "saves": 0
+        "shares": 41,
+        "saves": 14
       },
       {
         "id": "17900136900333918",
@@ -1225,7 +1339,8 @@
         ],
         "type": "IMAGE",
         "views": 0,
-        "likes": 39,
+        "reach": 0,
+        "likes": 40,
         "comments": 6,
         "shares": 0,
         "saves": 0
@@ -1241,11 +1356,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 542155,
-        "likes": 57020,
-        "comments": 2926,
-        "shares": 0,
-        "saves": 0
+        "views": 542967,
+        "reach": 379057,
+        "likes": 57095,
+        "comments": 2925,
+        "shares": 18164,
+        "saves": 2923
       },
       {
         "id": "18171879979438849",
@@ -1257,11 +1373,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 24534,
+        "views": 24693,
+        "reach": 17808,
         "likes": 567,
         "comments": 1,
-        "shares": 0,
-        "saves": 0
+        "shares": 48,
+        "saves": 7
       },
       {
         "id": "17999075165970518",
@@ -1270,11 +1387,12 @@
         "url": "https://www.instagram.com/reel/Da3gDOvPy1-/",
         "tags": [],
         "type": "VIDEO",
-        "views": 13514,
-        "likes": 412,
+        "views": 13573,
+        "reach": 11397,
+        "likes": 413,
         "comments": 7,
-        "shares": 0,
-        "saves": 0
+        "shares": 15,
+        "saves": 7
       },
       {
         "id": "17979128832063786",
@@ -1287,11 +1405,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 21765,
-        "likes": 339,
+        "views": 22004,
+        "reach": 16732,
+        "likes": 342,
         "comments": 8,
-        "shares": 0,
-        "saves": 0
+        "shares": 5,
+        "saves": 6
       },
       {
         "id": "18564386815068170",
@@ -1304,11 +1423,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 13510,
-        "likes": 338,
+        "views": 13594,
+        "reach": 10266,
+        "likes": 339,
         "comments": 11,
-        "shares": 0,
-        "saves": 0
+        "shares": 7,
+        "saves": 3
       },
       {
         "id": "18613695175019463",
@@ -1321,11 +1441,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 35198,
-        "likes": 2358,
-        "comments": 464,
-        "shares": 0,
-        "saves": 0
+        "views": 37140,
+        "reach": 26625,
+        "likes": 2386,
+        "comments": 471,
+        "shares": 58,
+        "saves": 69
       },
       {
         "id": "18060800918758463",
@@ -1337,6 +1458,7 @@
         ],
         "type": "IMAGE",
         "views": 0,
+        "reach": 0,
         "likes": 119,
         "comments": 10,
         "shares": 0,
@@ -1351,11 +1473,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 24520,
+        "views": 24545,
+        "reach": 17469,
         "likes": 944,
         "comments": 88,
-        "shares": 0,
-        "saves": 0
+        "shares": 69,
+        "saves": 28
       },
       {
         "id": "18085808651170478",
@@ -1366,11 +1489,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 142103,
+        "views": 142160,
+        "reach": 94092,
         "likes": 11501,
         "comments": 298,
-        "shares": 0,
-        "saves": 0
+        "shares": 941,
+        "saves": 310
       },
       {
         "id": "18028702808659319",
@@ -1383,11 +1507,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 26531,
+        "views": 26597,
+        "reach": 20043,
         "likes": 1037,
         "comments": 29,
-        "shares": 0,
-        "saves": 0
+        "shares": 24,
+        "saves": 14
       },
       {
         "id": "18337536250265816",
@@ -1400,11 +1525,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 11261,
-        "likes": 332,
+        "views": 12414,
+        "reach": 9956,
+        "likes": 334,
         "comments": 8,
-        "shares": 0,
-        "saves": 0
+        "shares": 3,
+        "saves": 2
       },
       {
         "id": "17953082535000472",
@@ -1417,11 +1543,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 36078,
-        "likes": 1207,
+        "views": 37895,
+        "reach": 29034,
+        "likes": 1209,
         "comments": 99,
-        "shares": 0,
-        "saves": 0
+        "shares": 96,
+        "saves": 22
       },
       {
         "id": "18098817416255277",
@@ -1431,6 +1558,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
+        "reach": 0,
         "likes": 118,
         "comments": 7,
         "shares": 0,
@@ -1446,11 +1574,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 259338,
-        "likes": 9047,
+        "views": 260253,
+        "reach": 194543,
+        "likes": 9077,
         "comments": 67,
-        "shares": 0,
-        "saves": 0
+        "shares": 473,
+        "saves": 249
       },
       {
         "id": "18117914362880014",
@@ -1462,11 +1591,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 59693,
-        "likes": 4883,
+        "views": 60105,
+        "reach": 44312,
+        "likes": 4898,
         "comments": 12,
-        "shares": 0,
-        "saves": 0
+        "shares": 136,
+        "saves": 75
       },
       {
         "id": "18002015780959189",
@@ -1478,11 +1608,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 16630,
-        "likes": 1344,
+        "views": 16743,
+        "reach": 13683,
+        "likes": 1349,
         "comments": 6,
-        "shares": 0,
-        "saves": 0
+        "shares": 23,
+        "saves": 26
       },
       {
         "id": "18007488311945370",
@@ -1494,11 +1625,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 23668,
-        "likes": 1080,
+        "views": 23767,
+        "reach": 17535,
+        "likes": 1085,
         "comments": 15,
-        "shares": 0,
-        "saves": 0
+        "shares": 68,
+        "saves": 34
       },
       {
         "id": "18064994012723789",
@@ -1511,11 +1643,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 31086,
-        "likes": 1039,
-        "comments": 23,
-        "shares": 0,
-        "saves": 0
+        "views": 32582,
+        "reach": 23233,
+        "likes": 1077,
+        "comments": 26,
+        "shares": 67,
+        "saves": 31
       },
       {
         "id": "18109164302063596",
@@ -1528,11 +1661,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 15284,
-        "likes": 714,
+        "views": 15336,
+        "reach": 12248,
+        "likes": 716,
         "comments": 15,
-        "shares": 0,
-        "saves": 0
+        "shares": 29,
+        "saves": 3
       },
       {
         "id": "18026379284838413",
@@ -1545,11 +1679,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 9736,
-        "likes": 245,
+        "views": 10968,
+        "reach": 8574,
+        "likes": 246,
         "comments": 4,
-        "shares": 0,
-        "saves": 0
+        "shares": 1,
+        "saves": 2
       },
       {
         "id": "18419537824199740",
@@ -1561,11 +1696,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 17181,
-        "likes": 950,
+        "views": 17215,
+        "reach": 13347,
+        "likes": 951,
         "comments": 8,
-        "shares": 0,
-        "saves": 0
+        "shares": 45,
+        "saves": 22
       },
       {
         "id": "17890507890595206",
@@ -1577,11 +1713,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 20913,
-        "likes": 1369,
+        "views": 21031,
+        "reach": 15733,
+        "likes": 1373,
         "comments": 12,
-        "shares": 0,
-        "saves": 0
+        "shares": 67,
+        "saves": 36
       },
       {
         "id": "17983223385020305",
@@ -1593,11 +1730,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 18489,
+        "views": 18537,
+        "reach": 12813,
         "likes": 673,
         "comments": 2,
-        "shares": 0,
-        "saves": 0
+        "shares": 1,
+        "saves": 16
       },
       {
         "id": "18176852746414733",
@@ -1609,11 +1747,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 44844,
+        "views": 44917,
+        "reach": 29741,
         "likes": 2511,
         "comments": 17,
-        "shares": 0,
-        "saves": 0
+        "shares": 50,
+        "saves": 47
       },
       {
         "id": "17983943649019942",
@@ -1625,11 +1764,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 44066,
-        "likes": 4615,
+        "views": 44251,
+        "reach": 32593,
+        "likes": 4627,
         "comments": 32,
-        "shares": 0,
-        "saves": 0
+        "shares": 6,
+        "saves": 48
       },
       {
         "id": "17949431739211517",
@@ -1641,11 +1781,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 65620,
-        "likes": 3440,
+        "views": 65697,
+        "reach": 46744,
+        "likes": 3441,
         "comments": 54,
-        "shares": 0,
-        "saves": 0
+        "shares": 177,
+        "saves": 92
       },
       {
         "id": "18104403857517324",
@@ -1659,11 +1800,12 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 116474,
-        "likes": 5573,
-        "comments": 239,
-        "shares": 0,
-        "saves": 0
+        "views": 116609,
+        "reach": 76118,
+        "likes": 5580,
+        "comments": 242,
+        "shares": 788,
+        "saves": 126
       },
       {
         "id": "18601529419020808",
@@ -1675,11 +1817,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 67269,
-        "likes": 2979,
+        "views": 67453,
+        "reach": 46519,
+        "likes": 2989,
         "comments": 57,
-        "shares": 0,
-        "saves": 0
+        "shares": 171,
+        "saves": 97
       },
       {
         "id": "18104103083469859",
@@ -1692,11 +1835,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 375131,
-        "likes": 17441,
-        "comments": 6458,
-        "shares": 0,
-        "saves": 0
+        "views": 377328,
+        "reach": 262458,
+        "likes": 17462,
+        "comments": 6478,
+        "shares": 4509,
+        "saves": 770
       },
       {
         "id": "18100512595937798",
@@ -1706,6 +1850,7 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
+        "reach": 0,
         "likes": 34,
         "comments": 5,
         "shares": 0,
@@ -1721,11 +1866,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 53920,
+        "views": 53989,
+        "reach": 34243,
         "likes": 3296,
         "comments": 23,
-        "shares": 0,
-        "saves": 0
+        "shares": 246,
+        "saves": 74
       },
       {
         "id": "18159040747481339",
@@ -1739,11 +1885,12 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 88669,
-        "likes": 5416,
+        "views": 89503,
+        "reach": 58817,
+        "likes": 5454,
         "comments": 56,
-        "shares": 0,
-        "saves": 0
+        "shares": 394,
+        "saves": 88
       },
       {
         "id": "18081035645691859",
@@ -1755,11 +1902,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 134512,
-        "likes": 7246,
+        "views": 134810,
+        "reach": 89101,
+        "likes": 7261,
         "comments": 139,
-        "shares": 0,
-        "saves": 0
+        "shares": 920,
+        "saves": 260
       },
       {
         "id": "18118252846862926",
@@ -1771,11 +1919,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 49037,
-        "likes": 2990,
+        "views": 49132,
+        "reach": 32666,
+        "likes": 2996,
         "comments": 25,
-        "shares": 0,
-        "saves": 0
+        "shares": 398,
+        "saves": 64
       },
       {
         "id": "17935667592304282",
@@ -1786,11 +1935,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 21216,
-        "likes": 601,
+        "views": 21261,
+        "reach": 15373,
+        "likes": 602,
         "comments": 19,
-        "shares": 0,
-        "saves": 0
+        "shares": 1,
+        "saves": 11
       },
       {
         "id": "17974433354900677",
@@ -1803,11 +1953,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 40284,
-        "likes": 1091,
+        "views": 42073,
+        "reach": 29461,
+        "likes": 1097,
         "comments": 241,
-        "shares": 0,
-        "saves": 0
+        "shares": 477,
+        "saves": 80
       },
       {
         "id": "17920904655399986",
@@ -1817,7 +1968,8 @@
         "tags": [],
         "type": "IMAGE",
         "views": 0,
-        "likes": 125,
+        "reach": 0,
+        "likes": 126,
         "comments": 3,
         "shares": 0,
         "saves": 0
@@ -1829,11 +1981,12 @@
         "url": "https://www.instagram.com/reel/DarDlYLgTno/",
         "tags": [],
         "type": "VIDEO",
-        "views": 134390,
+        "views": 134398,
+        "reach": 80081,
         "likes": 2393,
         "comments": 256,
-        "shares": 0,
-        "saves": 0
+        "shares": 701,
+        "saves": 93
       },
       {
         "id": "18091779638456612",
@@ -1846,11 +1999,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 288266,
-        "likes": 29657,
-        "comments": 1574,
-        "shares": 0,
-        "saves": 0
+        "views": 290847,
+        "reach": 199287,
+        "likes": 29944,
+        "comments": 1590,
+        "shares": 5042,
+        "saves": 414
       },
       {
         "id": "18120422968810298",
@@ -1862,11 +2016,12 @@
           "#futebollegendstalks"
         ],
         "type": "VIDEO",
-        "views": 244454,
-        "likes": 30044,
+        "views": 244669,
+        "reach": 169110,
+        "likes": 30060,
         "comments": 721,
-        "shares": 0,
-        "saves": 0
+        "shares": 773,
+        "saves": 493
       },
       {
         "id": "17867358243651468",
@@ -1880,11 +2035,12 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 27438,
+        "views": 27477,
+        "reach": 19773,
         "likes": 696,
-        "comments": 117,
-        "shares": 0,
-        "saves": 0
+        "comments": 120,
+        "shares": 18,
+        "saves": 19
       },
       {
         "id": "18107519597004181",
@@ -1898,11 +2054,12 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 22068,
+        "views": 22100,
+        "reach": 16991,
         "likes": 594,
         "comments": 9,
-        "shares": 0,
-        "saves": 0
+        "shares": 11,
+        "saves": 10
       },
       {
         "id": "18127606201655274",
@@ -1915,11 +2072,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 115737,
-        "likes": 6232,
-        "comments": 266,
-        "shares": 0,
-        "saves": 0
+        "views": 116221,
+        "reach": 84944,
+        "likes": 6265,
+        "comments": 269,
+        "shares": 335,
+        "saves": 171
       },
       {
         "id": "18032775413649536",
@@ -1932,11 +2090,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 19689,
-        "likes": 678,
-        "comments": 235,
-        "shares": 0,
-        "saves": 0
+        "views": 20595,
+        "reach": 15712,
+        "likes": 688,
+        "comments": 237,
+        "shares": 20,
+        "saves": 16
       },
       {
         "id": "17998776716973026",
@@ -1949,11 +2108,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 20606,
+        "views": 20641,
+        "reach": 15999,
         "likes": 629,
         "comments": 21,
-        "shares": 0,
-        "saves": 0
+        "shares": 25,
+        "saves": 6
       },
       {
         "id": "18473314975107813",
@@ -1966,11 +2126,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 56885,
-        "likes": 3804,
+        "views": 58080,
+        "reach": 47908,
+        "likes": 3812,
         "comments": 155,
-        "shares": 0,
-        "saves": 0
+        "shares": 812,
+        "saves": 66
       },
       {
         "id": "18117047383683495",
@@ -1983,11 +2144,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 241843,
-        "likes": 16381,
-        "comments": 2413,
-        "shares": 0,
-        "saves": 0
+        "views": 241940,
+        "reach": 178702,
+        "likes": 16388,
+        "comments": 2414,
+        "shares": 494,
+        "saves": 449
       },
       {
         "id": "18102282905335564",
@@ -2000,11 +2162,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 29152,
-        "likes": 928,
+        "views": 29231,
+        "reach": 21449,
+        "likes": 930,
         "comments": 104,
-        "shares": 0,
-        "saves": 0
+        "shares": 45,
+        "saves": 23
       },
       {
         "id": "18011650772875858",
@@ -2013,11 +2176,12 @@
         "url": "https://www.instagram.com/reel/Daq_7GTvik2/",
         "tags": [],
         "type": "VIDEO",
-        "views": 26090,
+        "views": 26101,
+        "reach": 19210,
         "likes": 1428,
         "comments": 300,
-        "shares": 0,
-        "saves": 0
+        "shares": 53,
+        "saves": 28
       },
       {
         "id": "18112556437936951",
@@ -31192,58 +31356,6 @@
         "comments": 277,
         "shares": 0,
         "saves": 0
-      },
-      {
-        "id": "18075207554344038",
-        "date": "2026-01-09",
-        "caption": "UMA RESENHA ABSURDA DE BRASIL X ARGENTINA! \n\nRoni conta história espetacular de um clássico entre Brasil e Argentina, co",
-        "url": "https://www.instagram.com/reel/DTTYmbHjX8u/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 425351,
-        "likes": 32844,
-        "comments": 377,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18105905323740285",
-        "date": "2026-01-09",
-        "caption": "COMO ERAM OS FAMOSOS BICHOS DO JUVENAL? \n\nParte da diretoria do São Paulo nos tempos de Juvenal na presidência do clube,",
-        "url": "https://www.instagram.com/reel/DTTE3pQGNDz/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 95397,
-        "likes": 3713,
-        "comments": 38,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "18309309874270929",
-        "date": "2026-01-09",
-        "caption": "\"DE TODOS OS MALUCOS, O VÁLBER É O PIOR.\" 😂\n\nRoni conta uma história simplesmente absurda dos tempos em que dividia o ve",
-        "url": "https://www.instagram.com/reel/DTS0_dQlDXJ/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 268043,
-        "likes": 14160,
-        "comments": 325,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "17845437570640353",
-        "date": "2026-01-08",
-        "caption": "\"A GENTE VÊ O FUTEBOL DE UMA MANEIRA MUITO SUPERFICIAL.\"\n\nFilho de Sócrates, @gustavocvo falou sobre a importância que o",
-        "url": "https://www.instagram.com/reel/DTQ7YqMgPQV/",
-        "tags": [],
-        "type": "VIDEO",
-        "views": 47732,
-        "likes": 1682,
-        "comments": 167,
-        "shares": 0,
-        "saves": 0
       }
     ],
     "account_views": []
@@ -31676,21 +31788,109 @@
       {
         "date": "2026-07-22",
         "followers": 1250000,
-        "views": 532472124,
-        "video_count": 12706,
-        "likes": 0,
-        "comments": 0,
+        "views": 532720706,
+        "video_count": 12713,
+        "likes": 1208,
+        "comments": 13,
         "shares": 0
       }
     ],
     "posts": [
       {
+        "id": "m_vjG3GXEYg",
+        "date": "2026-07-22",
+        "caption": "ARRASCAETA TITULAR? BOTAFOGO TEM SAÍDAS! BAIXAS NO FLUMINENSE!",
+        "type": "VIDEO",
+        "views": 2405,
+        "likes": 150,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "vhQL3N3iZNE",
+        "date": "2026-07-22",
+        "caption": "PHILL DESABAFA SOBRE O FIM DA COPA E A VOLTA DO BRASILEIRÃO",
+        "type": "VIDEO",
+        "views": 76,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "ErFpuY844EY",
+        "date": "2026-07-22",
+        "caption": "FLAMENGO CORRE ATRÁS DO PALMEIRAS NA BRIGA PELO BRASILEIRÃO",
+        "type": "VIDEO",
+        "views": 105,
+        "likes": 7,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "hnGehlTb9XY",
+        "date": "2026-07-22",
+        "caption": "QUAL A EXPECTATIVA DO BOTAFOGO PARA O RESTANTE DA TEMPORADA?",
+        "type": "VIDEO",
+        "views": 175,
+        "likes": 10,
+        "comments": 4,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "WI6F5X69pJs",
+        "date": "2026-07-22",
+        "caption": "ELENCO DO VASCO É INSUFICIENTE PRO RESTANTE DA TEMPORADA?",
+        "type": "VIDEO",
+        "views": 192,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "TSIErTb3o48",
+        "date": "2026-07-22",
+        "caption": "QUAIS DEVEM SER AS PRIORIDADES DO VASCO NA TEMPORADA?",
+        "type": "VIDEO",
+        "views": 440,
+        "likes": 51,
+        "comments": 5,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "mQ_PiPj3m_g",
+        "date": "2026-07-22",
+        "caption": "INDEPENDIENTE MEDELLÍN x VASCO | NARRAÇÃO AO VIVO | SUL-AMERICANA 2026 | Charla Futebol Sportingbet",
+        "type": "VIDEO",
+        "views": 4039,
+        "likes": 159,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "LIkSdf9EE54",
+        "date": "2026-07-22",
+        "caption": "DIA DE SULA-AMERICANA! VASCO ENFRENTA O INDEPENDIENTE EM MEDELÍM  | CHARLA DE QUINTA",
+        "type": "VIDEO",
+        "views": 8907,
+        "likes": 819,
+        "comments": 4,
+        "shares": 0,
+        "saves": 0
+      },
+      {
         "id": "iPOYjIoi20o",
         "date": "2026-07-21",
         "caption": "FOGÃO REFORÇADO! THIAGO SILVA PODE JOGAR! JOÃO GOMES RENDE MILHÕES AO FLA",
         "type": "VIDEO",
-        "views": 2571,
-        "likes": 150,
+        "views": 2584,
+        "likes": 151,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -31700,20 +31900,9 @@
         "date": "2026-07-21",
         "caption": "CHARLA PODCAST COMENTA AS POLÊMICAS DOS DEBATES SOBRE A POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 14347,
-        "likes": 783,
-        "comments": 338,
-        "shares": 0,
-        "saves": 0
-      },
-      {
-        "id": "m_vjG3GXEYg",
-        "date": "2026-07-21",
-        "caption": "ARRASCAETA TITULAR? BOTAFOGO TEM SAÍDAS! BAIXAS NO FLUMINENSE!",
-        "type": "VIDEO",
-        "views": 2258,
-        "likes": 145,
-        "comments": 0,
+        "views": 15622,
+        "likes": 846,
+        "comments": 370,
         "shares": 0,
         "saves": 0
       },
@@ -31722,9 +31911,9 @@
         "date": "2026-07-21",
         "caption": "ADVOGADO ESCLARECE OS PRÓXIMOS PASSOS DO BOTAFOGO APÓS A RECUPERAÇÃO JUDICIAL",
         "type": "VIDEO",
-        "views": 767,
-        "likes": 39,
-        "comments": 0,
+        "views": 1266,
+        "likes": 62,
+        "comments": 4,
         "shares": 0,
         "saves": 0
       },
@@ -31733,9 +31922,9 @@
         "date": "2026-07-21",
         "caption": "ADVOGADO EXPLICA AS POLÊMICAS DA POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 5972,
-        "likes": 239,
-        "comments": 156,
+        "views": 9309,
+        "likes": 344,
+        "comments": 221,
         "shares": 0,
         "saves": 0
       },
@@ -31744,9 +31933,9 @@
         "date": "2026-07-21",
         "caption": "BRUNO AZEVEDO DESABAFA APÓS DECLARAÇÕES SOBRE A POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 12932,
-        "likes": 532,
-        "comments": 456,
+        "views": 18091,
+        "likes": 762,
+        "comments": 634,
         "shares": 0,
         "saves": 0
       },
@@ -31755,9 +31944,9 @@
         "date": "2026-07-21",
         "caption": "ELENCO DO VASCO É SUPERVALORIZADO PELA SUA TORCIDA?",
         "type": "VIDEO",
-        "views": 10374,
-        "likes": 380,
-        "comments": 57,
+        "views": 18070,
+        "likes": 635,
+        "comments": 95,
         "shares": 0,
         "saves": 0
       },
@@ -31766,9 +31955,9 @@
         "date": "2026-07-21",
         "caption": "THIAGO ALMADA TEM VAGA NO TIME TITULAR DO FLAMENGO?",
         "type": "VIDEO",
-        "views": 13492,
-        "likes": 499,
-        "comments": 50,
+        "views": 21607,
+        "likes": 729,
+        "comments": 85,
         "shares": 0,
         "saves": 0
       },
@@ -31777,9 +31966,9 @@
         "date": "2026-07-21",
         "caption": "EMPATE NA VOLTA DO BRASILEIRÃO PREOCUPA O TORCEDOR DO FLUMINENSE?",
         "type": "VIDEO",
-        "views": 5505,
-        "likes": 218,
-        "comments": 11,
+        "views": 9059,
+        "likes": 325,
+        "comments": 18,
         "shares": 0,
         "saves": 0
       },
@@ -31788,9 +31977,9 @@
         "date": "2026-07-21",
         "caption": "ACABOU A COPA! HORA DE VOLTAR PRA ROTINA DO FUTEBOL BRASILEIRO! | CHARLA DE QUINTA",
         "type": "VIDEO",
-        "views": 11061,
-        "likes": 937,
-        "comments": 5,
+        "views": 11517,
+        "likes": 955,
+        "comments": 8,
         "shares": 0,
         "saves": 0
       },
@@ -31799,9 +31988,9 @@
         "date": "2026-07-21",
         "caption": "CANTARELLI FICA ALUCINADO COM O TÍTULO DA ESPANHA CONTRA A ARGENTINA",
         "type": "VIDEO",
-        "views": 1915,
-        "likes": 193,
-        "comments": 18,
+        "views": 2988,
+        "likes": 270,
+        "comments": 27,
         "shares": 0,
         "saves": 0
       },
@@ -31810,9 +31999,9 @@
         "date": "2026-07-20",
         "caption": "DEBATE ACALORADO SOBRE BRASILEIROS QUE TORCEM PARA A ARGENTINA",
         "type": "VIDEO",
-        "views": 34652,
-        "likes": 1484,
-        "comments": 874,
+        "views": 38233,
+        "likes": 1665,
+        "comments": 955,
         "shares": 0,
         "saves": 0
       },
@@ -31821,8 +32010,8 @@
         "date": "2026-07-20",
         "caption": "MBAPPÉ VAI SE TORNAR UM DOS MAIORES JOGADORES DA HISTÓRIA?",
         "type": "VIDEO",
-        "views": 482,
-        "likes": 16,
+        "views": 498,
+        "likes": 17,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -31832,9 +32021,9 @@
         "date": "2026-07-20",
         "caption": "ESTÁ ENCERRADA A DISCUSSÃO SOBRE QUEM É O MAIOR JOGADOR DA HISTÓRIA DO FUTEBOL?",
         "type": "VIDEO",
-        "views": 8400,
-        "likes": 390,
-        "comments": 136,
+        "views": 8840,
+        "likes": 410,
+        "comments": 147,
         "shares": 0,
         "saves": 0
       },
@@ -31843,9 +32032,9 @@
         "date": "2026-07-20",
         "caption": "BRUNO CANTARELLI MANDA A REAL SOBRE A ATUAÇÃO DE MESSI E DA ARGENTINA NA FINAL",
         "type": "VIDEO",
-        "views": 11142,
-        "likes": 466,
-        "comments": 265,
+        "views": 11894,
+        "likes": 487,
+        "comments": 275,
         "shares": 0,
         "saves": 0
       },
@@ -31854,9 +32043,9 @@
         "date": "2026-07-20",
         "caption": "CONFIRA A NARRAÇÃO DE BRUNO CANTARELLI QUE VIRALIZOU NA FINAL DA COPA DO MUNDO",
         "type": "VIDEO",
-        "views": 10703,
-        "likes": 752,
-        "comments": 40,
+        "views": 16561,
+        "likes": 1193,
+        "comments": 74,
         "shares": 0,
         "saves": 0
       },
@@ -31865,9 +32054,9 @@
         "date": "2026-07-20",
         "caption": "BRUNO CANTARELLI E BETO JR SE EMOCIONAM AO FALAR DA PRIMEIRA COPA DO MUNDO DO CHARLA",
         "type": "VIDEO",
-        "views": 6682,
-        "likes": 641,
-        "comments": 30,
+        "views": 6909,
+        "likes": 676,
+        "comments": 31,
         "shares": 0,
         "saves": 0
       },
@@ -31876,8 +32065,8 @@
         "date": "2026-07-20",
         "caption": "ESPANHA CAMPEÃ EM CIMA DA ARGENTINA! FIM DO DEBATE MESSI X PELÉ?  | CHARLA DE COPA",
         "type": "VIDEO",
-        "views": 23247,
-        "likes": 1608,
+        "views": 23437,
+        "likes": 1621,
         "comments": 44,
         "shares": 0,
         "saves": 0
@@ -39138,5 +39327,5 @@
     "snapshots": [],
     "posts": []
   },
-  "updated_at": "2026-07-22T11:47:14.832805"
+  "updated_at": "2026-07-22T22:44:24.039405"
 }
