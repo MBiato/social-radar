@@ -1,75 +1,131 @@
 {
-  "generated_at": "2026-07-27T12:55:31.879275",
-  "period_start": "2026-07-20",
-  "period_end": "2026-07-26",
-  "week_label": "2026-07-20 a 2026-07-26",
+  "generated_at": "2026-07-30T15:24:29.943865",
+  "period_start": "2026-07-23",
+  "period_end": "2026-07-29",
+  "week_label": "2026-07-23 a 2026-07-29",
   "metrics": {
-    "total_posts": 105,
-    "instagram_posts": 42,
-    "youtube_posts": 63,
-    "total_views": 3975956,
-    "total_likes": 193383,
-    "total_comments": 12325
+    "total_posts": 139,
+    "instagram_posts": 59,
+    "youtube_posts": 80,
+    "total_views": 6589283,
+    "total_likes": 303506,
+    "total_comments": 13163
   },
   "sponsor_stats": {
-    "#brahmanocharla": {
-      "posts": 12,
-      "views": 921894,
-      "likes": 54742,
-      "comments": 4326,
-      "tag": "#brahmanocharla"
-    },
-    "#melittanocharla": {
-      "posts": 8,
-      "views": 745833,
-      "likes": 49791,
-      "comments": 3885,
-      "tag": "#melittanocharla"
-    },
     "#sportingbetnocharla": {
-      "posts": 16,
-      "views": 744681,
-      "likes": 28734,
-      "comments": 2016,
+      "posts": 26,
+      "views": 2394143,
+      "likes": 140627,
+      "comments": 6251,
       "tag": "#sportingbetnocharla"
     },
-    "#charlanamix": {
-      "posts": 6,
-      "views": 690683,
-      "likes": 25767,
-      "comments": 603,
-      "tag": "#charlanamix"
+    "#brahmanocharla": {
+      "posts": 19,
+      "views": 2193161,
+      "likes": 136148,
+      "comments": 5841,
+      "tag": "#brahmanocharla"
     },
     "#assainocharla": {
-      "posts": 6,
-      "views": 405008,
-      "likes": 17796,
-      "comments": 1445,
+      "posts": 15,
+      "views": 2073754,
+      "likes": 131585,
+      "comments": 5733,
       "tag": "#assainocharla"
     },
+    "#melittanocharla": {
+      "posts": 14,
+      "views": 1768500,
+      "likes": 110355,
+      "comments": 5062,
+      "tag": "#melittanocharla"
+    },
+    "#charlanamix": {
+      "posts": 9,
+      "views": 956300,
+      "likes": 38156,
+      "comments": 1024,
+      "tag": "#charlanamix"
+    },
     "#fornerianocharla": {
-      "posts": 5,
-      "views": 198166,
-      "likes": 5804,
-      "comments": 490,
+      "posts": 6,
+      "views": 447343,
+      "likes": 26658,
+      "comments": 828,
       "tag": "#fornerianocharla"
+    },
+    "#charlanopremiere": {
+      "posts": 3,
+      "views": 114308,
+      "likes": 2873,
+      "comments": 227,
+      "tag": "#charlanopremiere"
+    },
+    "#charlafutebol": {
+      "posts": 5,
+      "views": 68679,
+      "likes": 2202,
+      "comments": 115,
+      "tag": "#charlafutebol"
     },
     "#absolutnocharla": {
       "posts": 2,
-      "views": 132011,
-      "likes": 3564,
-      "comments": 327,
+      "views": 27719,
+      "likes": 900,
+      "comments": 57,
       "tag": "#absolutnocharla"
     },
-    "#charlafutebol": {
-      "posts": 6,
-      "views": 65935,
-      "likes": 2249,
-      "comments": 117,
-      "tag": "#charlafutebol"
+    "#charlanacopa": {
+      "posts": 1,
+      "views": 26925,
+      "likes": 503,
+      "comments": 3,
+      "tag": "#charlanacopa"
+    },
+    "#741": {
+      "posts": 1,
+      "views": 0,
+      "likes": 1371,
+      "comments": 34,
+      "tag": "#741"
     }
   },
   "top_posts": [
+    {
+      "id": "17937633021337959",
+      "date": "2026-07-29",
+      "caption": "O ADNET IMITANDO O GALVÃO É SURREAL! KKKKKKKKKKKK 😂😂\n\nGênio da comédia, Marcelo Adnet deu uma palinha de como seria o gi",
+      "url": "https://www.instagram.com/reel/DbZSPfsvVg7/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 627207,
+      "reach": 417209,
+      "likes": 58881,
+      "comments": 1881,
+      "shares": 26713,
+      "saves": 2371,
+      "platform": "instagram"
+    },
+    {
+      "id": "18038407214684418",
+      "date": "2026-07-29",
+      "caption": "CAUÃ REYMOND E ADNET NO CHARLA! \n\nOs atores da série Jogada de Risco estiveram na resenha do Charla hoje! Se liga aí!",
+      "url": "https://www.instagram.com/reel/DbY-Wfhwr1Y/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 596687,
+      "reach": 413844,
+      "likes": 30722,
+      "comments": 509,
+      "shares": 1890,
+      "saves": 1523,
+      "platform": "instagram"
+    },
     {
       "id": "17873258961549046",
       "date": "2026-07-26",
@@ -77,12 +133,12 @@
       "url": "https://www.instagram.com/reel/DbRc9rvxTwa/",
       "tags": [],
       "type": "VIDEO",
-      "views": 381469,
-      "reach": 249160,
-      "likes": 9605,
-      "comments": 1156,
-      "shares": 5742,
-      "saves": 374,
+      "views": 550879,
+      "reach": 348305,
+      "likes": 14299,
+      "comments": 1828,
+      "shares": 8886,
+      "saves": 552,
       "platform": "instagram"
     },
     {
@@ -92,12 +148,12 @@
       "url": "https://www.instagram.com/reel/DbRiB_6xlYq/",
       "tags": [],
       "type": "VIDEO",
-      "views": 346757,
-      "reach": 273465,
-      "likes": 19083,
-      "comments": 406,
-      "shares": 18176,
-      "saves": 535,
+      "views": 455864,
+      "reach": 357091,
+      "likes": 24354,
+      "comments": 532,
+      "shares": 24262,
+      "saves": 641,
       "platform": "instagram"
     },
     {
@@ -107,30 +163,32 @@
       "url": "https://www.instagram.com/reel/DbRgGLMx_f3/",
       "tags": [],
       "type": "VIDEO",
-      "views": 341497,
-      "reach": 231385,
-      "likes": 5447,
-      "comments": 121,
-      "shares": 20,
-      "saves": 54,
+      "views": 403271,
+      "reach": 273798,
+      "likes": 6173,
+      "comments": 127,
+      "shares": 21,
+      "saves": 62,
       "platform": "instagram"
     },
     {
-      "id": "18110216473985364",
-      "date": "2026-07-20",
-      "caption": "“FOI UMA FINAL RIDÍCULA DO MESSI!” 👀\n\nNa Charla de Copa, Cantarelli detonou a partida da Argentina e de seu camisa 10, M",
-      "url": "https://www.instagram.com/reel/DbCKa_MJy7k/",
+      "id": "18027154631842232",
+      "date": "2026-07-27",
+      "caption": "QUEM AÍ TÁ COM SAUDADE DO MADRUGADÃO? 👀\n\nEssa resenha do Leandro Bochecha é inacreditável de boa. 😂\n\n#SportingbetNoCharl",
+      "url": "https://www.instagram.com/reel/DbTyM5VM-l-/",
       "tags": [
+        "#sportingbetnocharla",
+        "#assainocharla",
         "#brahmanocharla",
-        "#melittanocharla"
+        "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 282506,
-      "reach": 194060,
-      "likes": 29696,
-      "comments": 2487,
-      "shares": 7710,
-      "saves": 953,
+      "views": 351062,
+      "reach": 233799,
+      "likes": 23471,
+      "comments": 608,
+      "shares": 16839,
+      "saves": 575,
       "platform": "instagram"
     },
     {
@@ -145,12 +203,32 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 265487,
-      "reach": 177806,
-      "likes": 13553,
-      "comments": 1202,
-      "shares": 3063,
-      "saves": 399,
+      "views": 271909,
+      "reach": 181142,
+      "likes": 13820,
+      "comments": 1212,
+      "shares": 3127,
+      "saves": 402,
+      "platform": "instagram"
+    },
+    {
+      "id": "18400269742090548",
+      "date": "2026-07-29",
+      "caption": "JOGADA DE RISCO!\n\nCauã Reymond fala sobre sua nova série na Globoplay e como se inspirou pra criar um conteúdo com foco ",
+      "url": "https://www.instagram.com/reel/DbY7PngOeH4/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 229138,
+      "reach": 161133,
+      "likes": 10954,
+      "comments": 188,
+      "shares": 1164,
+      "saves": 532,
       "platform": "instagram"
     },
     {
@@ -162,42 +240,12 @@
         "#charlanamix"
       ],
       "type": "VIDEO",
-      "views": 211284,
-      "reach": 139974,
-      "likes": 9882,
-      "comments": 240,
-      "shares": 302,
-      "saves": 189,
-      "platform": "instagram"
-    },
-    {
-      "id": "18126445105662975",
-      "date": "2026-07-20",
-      "caption": "REI SÓ EXISTE UM! 👑\n\nPVC deu o papo quando participou da Charla conosco. A comparação é sempre com o Pelé!",
-      "url": "https://www.instagram.com/reel/DbBUjrhpJ_S/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 201776,
-      "reach": 148664,
-      "likes": 15995,
-      "comments": 338,
-      "shares": 3285,
-      "saves": 1002,
-      "platform": "instagram"
-    },
-    {
-      "id": "18083792528262985",
-      "date": "2026-07-20",
-      "caption": "PELÉ JOGOU ATÉ DE GOLEIRO! 👑🧤\n\nSe liga no que o Juca Kfouri faltou a respeito do rei do futebol.",
-      "url": "https://www.instagram.com/reel/DbBmpLCN6a0/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 195868,
-      "reach": 122541,
-      "likes": 19843,
-      "comments": 358,
-      "shares": 3972,
-      "saves": 1407,
+      "views": 222887,
+      "reach": 148327,
+      "likes": 10624,
+      "comments": 246,
+      "shares": 308,
+      "saves": 192,
       "platform": "instagram"
     },
     {
@@ -209,32 +257,12 @@
         "#charlanamix"
       ],
       "type": "VIDEO",
-      "views": 186836,
-      "reach": 131599,
-      "likes": 6234,
-      "comments": 187,
-      "shares": 167,
-      "saves": 126,
-      "platform": "instagram"
-    },
-    {
-      "id": "17974396622908205",
-      "date": "2026-07-22",
-      "caption": "AS CONTRATAÇÕES DO VASCO!\n\nA mesa da Charla de Quinta falou sobre as transferências do Gigante da Colina e sobre contrat",
-      "url": "https://www.instagram.com/reel/DbGwGk6BXn-/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 111285,
-      "reach": 72242,
-      "likes": 3115,
-      "comments": 283,
-      "shares": 73,
-      "saves": 94,
+      "views": 199738,
+      "reach": 140874,
+      "likes": 6535,
+      "comments": 193,
+      "shares": 174,
+      "saves": 132,
       "platform": "instagram"
     }
   ],
