@@ -440,6 +440,8 @@ let charts = {followers: null, views: null, velocity: null};
 // ═══ HELPERS ═══════════════════════════════════════════
 const qs = id => document.getElementById(id);
 const fmt = n => { if(n==null||isNaN(n)) return '—'; if(n>=1e6) return (n/1e6).toFixed(1)+'M'; if(n>=1000) return (n/1000).toFixed(1)+'K'; return String(Math.round(n)); };
+// Formata minutos de watch time do YouTube Analytics em "Xh Ymin" (ou só "Ymin" se < 1h)
+const fmtDur = min => { if(min==null||isNaN(min)) return '—'; min=Math.round(min); const h=Math.floor(min/60), m=min%60; return h>0 ? `${h}h ${m}min` : `${m}min`; };
 const ds = d => d.toISOString().slice(0,10);
 const pctChg = (a,b) => b&&b!==0 ? ((a-b)/Math.abs(b)*100) : null;
 
@@ -696,17 +698,17 @@ function renderKPIs() {
   const snaps = getSnaps(), prev = getPrevSnaps();
   const { s, e } = getRange();
   const last = snaps[snaps.length-1], first = snaps[0], plast = prev[prev.length-1];
-  // Pra Instagram, usa a série de views de conta (histórico completo, soma certinha
-  // por período). Pro YouTube, o 'views' salvo por dia é o TOTAL HISTÓRICO do canal
-  // (viewCount da API), repetido em cada snapshot — somar isso por período multiplica
-  // um total histórico pelos dias do período, dando número absurdo. Até termos a
-  // integração YouTube Analytics (OAuth), tratamos como valor acumulado — igual já
-  // fazemos com Seguidores — mostrando o mais recente, não a soma dos dias.
+  // Instagram usa a série de views de conta (histórico completo, soma certinha por
+  // período). YouTube agora também soma direto do snapshot: desde a integração com
+  // YouTube Analytics (OAuth), o coletor grava a view diária REAL de cada dia (e
+  // corrige retroativamente os últimos dias assim que a API fecha os números, que
+  // tem atraso de 1-3 dias) — resolve em definitivo o antigo bug de "Views Totais"
+  // mostrando um número absurdo (total histórico do canal multiplicado pelos dias
+  // do período). Sem a integração ativa, o 'views' do dia continua sendo o total
+  // histórico do canal (comportamento antigo, só naquele dia específico).
   const totalViews = platform==='instagram' ? getAccountViews(s,e)
-                    : platform==='youtube'   ? (last?.views ?? 0)
                     : snaps.reduce((a,s)=>a+(s.views||0),0);
   const prevViews  = platform==='instagram' ? getPrevAccountViews()
-                    : platform==='youtube'   ? (plast?.views ?? 0)
                     : prev.reduce((a,s)=>a+(s.views||0),0);
   const totalReach = snaps.reduce((a,s)=>a+(s.reach||0),0);
   const prevReach  = prev.reduce((a,s) =>a+(s.reach||0),0);
@@ -715,14 +717,24 @@ function renderKPIs() {
   const avgViews = snaps.length ? Math.round(totalViews/snaps.length) : 0;
   const avgEng   = snaps.length ? Math.round(totalEng/snaps.length) : 0;
   const fDelta = (a,b) => { const d=a-b; return (d>=0?'+':'')+fmt(Math.abs(d))+' vs ant.'; };
-  const viewsLabel = platform==='instagram' ? 'Views da Conta' : platform==='youtube' ? 'Views do Canal (total)' : 'Views Totais';
+  const viewsLabel = platform==='instagram' ? 'Views da Conta' : 'Views Totais';
   const viewsSub   = platform==='instagram' ? `${fmt(avgViews)}/dia · conta inteira, não só posts do período`
-                    : platform==='youtube'   ? 'total histórico — views diárias reais chegam com a integração YouTube Analytics'
                     : `${fmt(avgViews)}/dia em média`;
+
+  // Tempo de Exibição (watch time) — só existe pro YouTube, e só depois que a
+  // integração com YouTube Analytics rodou pelo menos uma vez nesse período.
+  // Substitui o card de "Reach Total" (métrica que o YouTube nunca teve).
+  const hasWatchTime  = platform==='youtube' && snaps.some(x => x.watch_minutes != null);
+  const totalWatchMin = hasWatchTime ? snaps.reduce((a,x)=>a+(x.watch_minutes||0),0) : 0;
+  const prevWatchMin  = hasWatchTime ? prev.reduce((a,x)=>a+(x.watch_minutes||0),0)  : 0;
+  const thirdCard = hasWatchTime
+    ? { label:'Tempo de Exibição', val:fmt(Math.round(totalWatchMin/60))+'h', cmp:pctChg(totalWatchMin,prevWatchMin), abs:fDelta(Math.round(totalWatchMin/60),Math.round(prevWatchMin/60)), sub:'horas assistidas no período · YouTube Analytics' }
+    : { label:'Reach Total', val:fmt(totalReach), cmp:pctChg(totalReach,prevReach), abs:fDelta(totalReach,prevReach), sub:'alcance orgânico' };
+
   const kpis = [
     { label:'Seguidores',  val:fmt(last?.followers??0),  cmp:pctChg(last?.followers??0,plast?.followers??0), abs:fDelta(last?.followers??0,plast?.followers??0), sub:`+${fmt((last?.followers??0)-(first?.followers??0))} no período` },
     { label:viewsLabel,    val:fmt(totalViews),  cmp:pctChg(totalViews,prevViews),   abs:fDelta(totalViews,prevViews),  sub:viewsSub },
-    { label:'Reach Total', val:fmt(totalReach),  cmp:pctChg(totalReach,prevReach),   abs:fDelta(totalReach,prevReach),  sub:'alcance orgânico' },
+    thirdCard,
     { label:'Engajamento', val:fmt(totalEng),    cmp:null, abs:null,                 sub:`${fmt(avgEng)}/dia em média` },
   ];
   qs('kpi-row').innerHTML = kpis.map(k => {
@@ -1461,8 +1473,13 @@ function gerarRelatorio() {
     y+=10;
 
     // Tabela YouTube
-    const ytHeaders=['#','Data','Título / Link','Impressões','Views','Watch Time','Unique Viewers','Interações'];
-    const ytCols=[10,16,58,20,18,22,24,14];
+    // "Impressões" e "Unique Viewers" foram removidas de propósito: nenhuma API
+    // pública do YouTube fornece esses dois números pra ninguém (só aparecem
+    // dentro do YouTube Studio) — mantê-las como "—" pra sempre seria enganoso.
+    // "Watch Time" agora é real, vindo do YouTube Analytics (quando configurado).
+    const ytHeaders=['#','Data','Título / Link','Views','Watch Time','Interações'];
+    const ytCols=[10,16,80,26,26,24];
+    const ytColX = ytCols.reduce((acc,w,i)=>{ acc.push((acc[i-1]??MAR+2)+(i===0?0:ytCols[i-1])); return acc; },[]);
     doc.setFillColor('#252525'); doc.rect(MAR,y,CW,7,'F');
     doc.setFont('helvetica','bold'); doc.setFontSize(6); doc.setTextColor('#666666');
     x=MAR+2;
@@ -1480,7 +1497,7 @@ function gerarRelatorio() {
       doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#888888');
       doc.text((p.date||'').slice(5),x,y+6.5); x+=ytCols[1];
       doc.setFontSize(7); doc.setTextColor('#cccccc');
-      const title=doc.splitTextToSize(stripEmoji(p.caption||'—').slice(0,70),ytCols[2]-3)[0];
+      const title=doc.splitTextToSize(stripEmoji(p.caption||'—').slice(0,90),ytCols[2]-3)[0];
       doc.text(title,x,y+5);
       if(p.url){
         doc.setTextColor('#FF5A1F'); doc.setFontSize(6);
@@ -1488,22 +1505,20 @@ function gerarRelatorio() {
         doc.link(x,y+1,ytCols[2]-3,8,{url:p.url});
       }
       x+=ytCols[2];
-      doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#444444');
-      doc.text('—',x,y+6.5); x+=ytCols[3];
-      doc.setFont('helvetica','bold'); doc.setTextColor('#ffffff');
-      doc.text(fmt(p.views||0),x,y+6.5); x+=ytCols[4];
-      doc.setFont('helvetica','normal'); doc.setTextColor('#444444');
-      doc.text('—',x,y+6.5); x+=ytCols[5];
-      doc.text('—',x,y+6.5); x+=ytCols[6];
+      doc.setFont('helvetica','bold'); doc.setFontSize(8); doc.setTextColor('#ffffff');
+      doc.text(fmt(p.views||0),x,y+6.5); x+=ytCols[3];
+      doc.setFont('helvetica','normal'); doc.setFontSize(7);
+      doc.setTextColor(p.watch_minutes!=null?'#aaaaaa':'#444444');
+      doc.text(p.watch_minutes!=null?fmtDur(p.watch_minutes):'—',x,y+6.5); x+=ytCols[4];
       doc.setFont('helvetica','bold'); doc.setTextColor('#FF5A1F');
       doc.text(fmt((p.likes||0)+(p.comments||0)),x,y+6.5);
       y+=rh;
     });
 
-    // Nota OAuth
+    // Nota — explica de forma honesta por que Impressões/Unique Viewers não existem
     y+=3;
     doc.setFont('helvetica','normal'); doc.setFontSize(7); doc.setTextColor('#444444');
-    doc.text('* Impressões, Watch Time e Unique Viewers disponíveis após integração YouTube Analytics.',MAR,y);
+    doc.text('* Watch Time via YouTube Analytics. Impressões e Unique Viewers não são fornecidos pelo YouTube em nenhuma API — só existem dentro do YouTube Studio.',MAR,y);
     y+=6;
 
     // Subtotais YT
@@ -1511,9 +1526,11 @@ function gerarRelatorio() {
     doc.setFont('helvetica','bold'); doc.setFontSize(7); doc.setTextColor('#ef4444');
     doc.text('TOTAL YOUTUBE',MAR+2,y+4.5);
     doc.setTextColor('#ffffff');
-    doc.text(fmt(sv(ytP)),MAR+104,y+4.5);
-    doc.setTextColor('#FF5A1F');
-    doc.text(fmt(si(ytP)),MAR+168,y+4.5);
+    doc.text(fmt(sv(ytP)),ytColX[3],y+4.5);
+    doc.setFontSize(6.5);
+    doc.text(fmtDur(ytP.reduce((a,x)=>a+(x.watch_minutes||0),0)),ytColX[4],y+4.5);
+    doc.setFontSize(7); doc.setTextColor('#FF5A1F');
+    doc.text(fmt(si(ytP)),ytColX[5],y+4.5);
     y+=12;
   }
 
