@@ -453,7 +453,9 @@ def collect_youtube_video_analytics(video_ids: list, access_token: str) -> dict:
                 continue
             data = r.json()
             cols = [c['name'] for c in data.get('columnHeaders', [])]
-            for row in data.get('rows', []):
+            rows = data.get('rows', [])
+            log.info(f'YouTube Analytics (watch time por vídeo, lote {i // 200 + 1}): {len(rows)} de {len(batch)} vídeos retornaram dados (colunas: {cols})')
+            for row in rows:
                 rec = dict(zip(cols, row))
                 vid = rec.get('video')
                 if not vid:
@@ -590,6 +592,8 @@ def collect_youtube(metrics: dict) -> bool:
                     enriched += 1
             if enriched:
                 log.info(f'YouTube Analytics: watch time real coletado para {enriched} de {len(posts)} vídeos')
+            else:
+                log.info(f'YouTube Analytics: nenhum dos {len(posts)} vídeos tinha watch time disponível ainda (normal para vídeos muito recentes — a API tem o mesmo atraso de 1-3 dias das views diárias; deve aparecer nos próximos dias)')
     else:
         log.info('YouTube Analytics: secrets OAuth não configurados — "views" continua sendo o total histórico do canal e o relatório PDF fica sem watch time real (comportamento antigo, nada quebra)')
 
