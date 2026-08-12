@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:57:19.940928",
+  "generated_at": "2026-08-12T22:04:44.327934",
   "period_start": "2026-08-05",
   "period_end": "2026-08-11",
   "week_label": "2026-08-05 a 2026-08-11",
@@ -7,57 +7,57 @@
     "total_posts": 177,
     "instagram_posts": 80,
     "youtube_posts": 97,
-    "total_views": 7288015,
-    "total_likes": 431910,
-    "total_comments": 13858
+    "total_views": 7327039,
+    "total_likes": 432005,
+    "total_comments": 13862
   },
   "sponsor_stats": {
     "#sportingbetnocharla": {
       "posts": 41,
-      "views": 3927574,
-      "likes": 272259,
-      "comments": 6679,
+      "views": 3928636,
+      "likes": 272324,
+      "comments": 6680,
       "tag": "#sportingbetnocharla"
     },
     "#brahmanocharla": {
       "posts": 26,
-      "views": 3243451,
-      "likes": 205887,
-      "comments": 4977,
+      "views": 3244391,
+      "likes": 205946,
+      "comments": 4978,
       "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
       "posts": 16,
-      "views": 2674111,
-      "likes": 171075,
-      "comments": 4118,
+      "views": 2674987,
+      "likes": 171132,
+      "comments": 4119,
       "tag": "#melittanocharla"
     },
     "#assainocharla": {
       "posts": 14,
-      "views": 2008833,
-      "likes": 113963,
-      "comments": 3169,
+      "views": 2009611,
+      "likes": 114006,
+      "comments": 3170,
       "tag": "#assainocharla"
     },
     "#fornerianocharla": {
       "posts": 17,
-      "views": 1563824,
-      "likes": 117408,
+      "views": 1564100,
+      "likes": 117431,
       "comments": 2399,
       "tag": "#fornerianocharla"
     },
     "#absolutnocharla": {
       "posts": 12,
-      "views": 662833,
-      "likes": 39507,
+      "views": 663008,
+      "likes": 39515,
       "comments": 1038,
       "tag": "#absolutnocharla"
     },
     "#mcdonaldsnocharla": {
       "posts": 5,
-      "views": 389317,
-      "likes": 15460,
+      "views": 389386,
+      "likes": 15462,
       "comments": 1422,
       "tag": "#mcdonaldsnocharla"
     },
@@ -70,7 +70,7 @@
     },
     "#charlanamix": {
       "posts": 2,
-      "views": 25927,
+      "views": 63096,
       "likes": 1813,
       "comments": 193,
       "tag": "#charlanamix"
@@ -105,9 +105,9 @@
       "url": "https://www.instagram.com/reel/Db1o9ioJoiy/",
       "tags": [],
       "type": "VIDEO",
-      "views": 576619,
+      "views": 576625,
       "reach": 355824,
-      "likes": 25950,
+      "likes": 25949,
       "comments": 383,
       "shares": 3180,
       "saves": 316,
@@ -125,11 +125,11 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 389262,
+      "views": 389441,
       "reach": 245812,
-      "likes": 32041,
-      "comments": 637,
-      "shares": 589,
+      "likes": 32049,
+      "comments": 638,
+      "shares": 590,
       "saves": 471,
       "platform": "instagram"
     },
@@ -140,12 +140,12 @@
       "url": "https://www.instagram.com/reel/Db1izmvukLu/",
       "tags": [],
       "type": "VIDEO",
-      "views": 330599,
+      "views": 330613,
       "reach": 219580,
       "likes": 9880,
       "comments": 375,
       "shares": 802,
-      "saves": 113,
+      "saves": 112,
       "platform": "instagram"
     },
     {
@@ -155,7 +155,7 @@
       "url": "https://www.instagram.com/reel/Db1faFDA9aK/",
       "tags": [],
       "type": "VIDEO",
-      "views": 289498,
+      "views": 289507,
       "reach": 200465,
       "likes": 8004,
       "comments": 190,
@@ -175,9 +175,9 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 272346,
+      "views": 272385,
       "reach": 159480,
-      "likes": 14288,
+      "likes": 14290,
       "comments": 290,
       "shares": 458,
       "saves": 395,
@@ -192,9 +192,9 @@
         "#mcdonaldsnocharla"
       ],
       "type": "VIDEO",
-      "views": 266694,
+      "views": 266720,
       "reach": 175707,
-      "likes": 8752,
+      "likes": 8753,
       "comments": 1330,
       "shares": 676,
       "saves": 379,
@@ -212,9 +212,9 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 263606,
+      "views": 263762,
       "reach": 152249,
-      "likes": 12324,
+      "likes": 12333,
       "comments": 166,
       "shares": 241,
       "saves": 357,
@@ -232,9 +232,9 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 250841,
+      "views": 250872,
       "reach": 164204,
-      "likes": 14488,
+      "likes": 14489,
       "comments": 606,
       "shares": 2855,
       "saves": 491,
@@ -252,11 +252,11 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 250160,
-      "reach": 150402,
-      "likes": 14690,
+      "views": 250323,
+      "reach": 150794,
+      "likes": 14704,
       "comments": 738,
-      "shares": 480,
+      "shares": 482,
       "saves": 347,
       "platform": "instagram"
     },
@@ -272,9 +272,9 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 245885,
+      "views": 245903,
       "reach": 165957,
-      "likes": 18265,
+      "likes": 18266,
       "comments": 590,
       "shares": 4148,
       "saves": 746,
