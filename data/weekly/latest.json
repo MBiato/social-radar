@@ -1,92 +1,99 @@
 {
-  "generated_at": "2026-08-10T11:08:27.641977",
-  "period_start": "2026-08-03",
-  "period_end": "2026-08-09",
-  "week_label": "2026-08-03 a 2026-08-09",
+  "generated_at": "2026-08-12T21:57:19.940928",
+  "period_start": "2026-08-05",
+  "period_end": "2026-08-11",
+  "week_label": "2026-08-05 a 2026-08-11",
   "metrics": {
-    "total_posts": 158,
-    "instagram_posts": 73,
-    "youtube_posts": 85,
-    "total_views": 5325654,
-    "total_likes": 317574,
-    "total_comments": 9987
+    "total_posts": 177,
+    "instagram_posts": 80,
+    "youtube_posts": 97,
+    "total_views": 7288015,
+    "total_likes": 431910,
+    "total_comments": 13858
   },
   "sponsor_stats": {
     "#sportingbetnocharla": {
-      "posts": 42,
-      "views": 2960683,
-      "likes": 204057,
-      "comments": 5661,
+      "posts": 41,
+      "views": 3927574,
+      "likes": 272259,
+      "comments": 6679,
       "tag": "#sportingbetnocharla"
     },
     "#brahmanocharla": {
-      "posts": 30,
-      "views": 2357316,
-      "likes": 142074,
-      "comments": 4124,
+      "posts": 26,
+      "views": 3243451,
+      "likes": 205887,
+      "comments": 4977,
       "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
-      "posts": 15,
-      "views": 1638414,
-      "likes": 102428,
-      "comments": 2555,
+      "posts": 16,
+      "views": 2674111,
+      "likes": 171075,
+      "comments": 4118,
       "tag": "#melittanocharla"
     },
-    "#fornerianocharla": {
-      "posts": 20,
-      "views": 1563577,
-      "likes": 110809,
-      "comments": 2760,
-      "tag": "#fornerianocharla"
-    },
     "#assainocharla": {
-      "posts": 13,
-      "views": 1025504,
-      "likes": 50961,
-      "comments": 1696,
+      "posts": 14,
+      "views": 2008833,
+      "likes": 113963,
+      "comments": 3169,
       "tag": "#assainocharla"
     },
+    "#fornerianocharla": {
+      "posts": 17,
+      "views": 1563824,
+      "likes": 117408,
+      "comments": 2399,
+      "tag": "#fornerianocharla"
+    },
     "#absolutnocharla": {
-      "posts": 15,
-      "views": 718902,
-      "likes": 39646,
-      "comments": 1569,
+      "posts": 12,
+      "views": 662833,
+      "likes": 39507,
+      "comments": 1038,
       "tag": "#absolutnocharla"
     },
-    "#texaconocharla": {
+    "#mcdonaldsnocharla": {
       "posts": 5,
-      "views": 332528,
-      "likes": 16990,
-      "comments": 394,
-      "tag": "#texaconocharla"
+      "views": 389317,
+      "likes": 15460,
+      "comments": 1422,
+      "tag": "#mcdonaldsnocharla"
     },
     "#charlafutebol": {
-      "posts": 11,
-      "views": 204966,
-      "likes": 8907,
-      "comments": 180,
+      "posts": 8,
+      "views": 125565,
+      "likes": 6144,
+      "comments": 133,
       "tag": "#charlafutebol"
     },
     "#charlanamix": {
-      "posts": 4,
-      "views": 166363,
-      "likes": 5341,
-      "comments": 289,
+      "posts": 2,
+      "views": 25927,
+      "likes": 1813,
+      "comments": 193,
       "tag": "#charlanamix"
+    },
+    "#745": {
+      "posts": 1,
+      "views": 0,
+      "likes": 423,
+      "comments": 6,
+      "tag": "#745"
     },
     "#744": {
       "posts": 1,
       "views": 0,
-      "likes": 280,
+      "likes": 287,
       "comments": 6,
       "tag": "#744"
     },
     "#743": {
       "posts": 1,
       "views": 0,
-      "likes": 275,
-      "comments": 11,
+      "likes": 296,
+      "comments": 12,
       "tag": "#743"
     }
   },
@@ -98,12 +105,32 @@
       "url": "https://www.instagram.com/reel/Db1o9ioJoiy/",
       "tags": [],
       "type": "VIDEO",
-      "views": 322976,
-      "reach": 189304,
-      "likes": 13739,
-      "comments": 181,
-      "shares": 1807,
-      "saves": 186,
+      "views": 576619,
+      "reach": 355824,
+      "likes": 25950,
+      "comments": 383,
+      "shares": 3180,
+      "saves": 316,
+      "platform": "instagram"
+    },
+    {
+      "id": "18425633080199183",
+      "date": "2026-08-11",
+      "caption": "\"VASCO VAI PRECISAR FAZER UM JOGO QUASE PERFEITO EM CASA!\"\n\nO sorteio da Copa do Brasil definiu, hoje, que Vasco e Vitór",
+      "url": "https://www.instagram.com/reel/Db57snRsA4-/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 389262,
+      "reach": 245812,
+      "likes": 32041,
+      "comments": 637,
+      "shares": 589,
+      "saves": 471,
       "platform": "instagram"
     },
     {
@@ -113,12 +140,12 @@
       "url": "https://www.instagram.com/reel/Db1izmvukLu/",
       "tags": [],
       "type": "VIDEO",
-      "views": 271985,
-      "reach": 180161,
-      "likes": 8354,
-      "comments": 316,
-      "shares": 622,
-      "saves": 101,
+      "views": 330599,
+      "reach": 219580,
+      "likes": 9880,
+      "comments": 375,
+      "shares": 802,
+      "saves": 113,
       "platform": "instagram"
     },
     {
@@ -128,12 +155,12 @@
       "url": "https://www.instagram.com/reel/Db1faFDA9aK/",
       "tags": [],
       "type": "VIDEO",
-      "views": 264325,
-      "reach": 183232,
-      "likes": 7407,
-      "comments": 175,
-      "shares": 204,
-      "saves": 88,
+      "views": 289498,
+      "reach": 200465,
+      "likes": 8004,
+      "comments": 190,
+      "shares": 221,
+      "saves": 92,
       "platform": "instagram"
     },
     {
@@ -148,12 +175,49 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 255305,
-      "reach": 148204,
-      "likes": 13206,
-      "comments": 268,
-      "shares": 428,
-      "saves": 385,
+      "views": 272346,
+      "reach": 159480,
+      "likes": 14288,
+      "comments": 290,
+      "shares": 458,
+      "saves": 395,
+      "platform": "instagram"
+    },
+    {
+      "id": "18061829399685095",
+      "date": "2026-08-11",
+      "caption": "QUEM TEM O MELHOR TIME? \n\nRivais na próxima fase da Libertadores, analisamos posição a posição, quem é mais forte, Cruze",
+      "url": "https://www.instagram.com/reel/Db4QEN5ODYU/",
+      "tags": [
+        "#mcdonaldsnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 266694,
+      "reach": 175707,
+      "likes": 8752,
+      "comments": 1330,
+      "shares": 676,
+      "saves": 379,
+      "platform": "instagram"
+    },
+    {
+      "id": "17979405705119139",
+      "date": "2026-08-11",
+      "caption": "\"O VASCO RACHOU!\"\n\nA gestão do Pedrinho e os problemas internos no Gigante da Colina foram pauta na charla de hoje com o",
+      "url": "https://www.instagram.com/reel/Db6UKJWxJM2/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 263606,
+      "reach": 152249,
+      "likes": 12324,
+      "comments": 166,
+      "shares": 241,
+      "saves": 357,
       "platform": "instagram"
     },
     {
@@ -168,12 +232,32 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 229816,
-      "reach": 151082,
-      "likes": 13051,
-      "comments": 590,
-      "shares": 2430,
-      "saves": 459,
+      "views": 250841,
+      "reach": 164204,
+      "likes": 14488,
+      "comments": 606,
+      "shares": 2855,
+      "saves": 491,
+      "platform": "instagram"
+    },
+    {
+      "id": "18130382842639257",
+      "date": "2026-08-11",
+      "caption": "\"NÃO É ELE QUE DEFINE!\"\n\nLucas Pedrosa falou sobre a SAF do Vasco e a respeito das declarações do BAP, presidente do Fla",
+      "url": "https://www.instagram.com/reel/Db6I5OCujds/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 250160,
+      "reach": 150402,
+      "likes": 14690,
+      "comments": 738,
+      "shares": 480,
+      "saves": 347,
       "platform": "instagram"
     },
     {
@@ -188,86 +272,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 229344,
-      "reach": 155496,
-      "likes": 17018,
-      "comments": 566,
-      "shares": 3847,
-      "saves": 713,
-      "platform": "instagram"
-    },
-    {
-      "id": "17902822599494020",
-      "date": "2026-08-06",
-      "caption": "O VASCO AMASSA E ELIMINA O FLUMINENSE!\n\nNo último lance, Pumita amplia pro Vasco e fecha o caixão do Flu no Maraca, 3 a ",
-      "url": "https://www.instagram.com/reel/DbrtFr2OQsq/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 214854,
-      "reach": 152369,
-      "likes": 27469,
-      "comments": 569,
-      "shares": 2854,
-      "saves": 358,
-      "platform": "instagram"
-    },
-    {
-      "id": "18077787899444352",
-      "date": "2026-08-07",
-      "caption": "VOCÊ NÃO VAI ACREDITAR NO RUMO DESSA HISTÓRIA! 😂😂\n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #AbsolutNoCharla",
-      "url": "https://www.instagram.com/reel/DbwTwkiwmSX/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 184784,
-      "reach": 120976,
-      "likes": 8860,
-      "comments": 195,
-      "shares": 14483,
-      "saves": 316,
-      "platform": "instagram"
-    },
-    {
-      "id": "17879422119503456",
-      "date": "2026-08-06",
-      "caption": "“UM AMASSO! O MELHOR JOGO DO VASCO NO ANO!”\n\nCantarelli foi à loucura com a vitória do Vasco sobre o Fluminense na Copa ",
-      "url": "https://www.instagram.com/reel/Dbr2ZStvwK1/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 173941,
-      "reach": 136637,
-      "likes": 18375,
-      "comments": 298,
-      "shares": 2713,
-      "saves": 265,
-      "platform": "instagram"
-    },
-    {
-      "id": "18135579571612729",
-      "date": "2026-08-08",
-      "caption": "\"TODO MUNDO ACHA QUE ELE É MALUCO, QUE SE RASGA, MAS ELE É UM DOCE!\" \n\nGiovane Gávio falou sobre Bernardinho, lendário t",
-      "url": "https://www.instagram.com/reel/DbyfBFEwGMx/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 156594,
-      "reach": 108927,
-      "likes": 10678,
-      "comments": 136,
-      "shares": 554,
-      "saves": 336,
+      "views": 245885,
+      "reach": 165957,
+      "likes": 18265,
+      "comments": 590,
+      "shares": 4148,
+      "saves": 746,
       "platform": "instagram"
     }
   ],
