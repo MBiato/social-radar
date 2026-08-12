@@ -41,6 +41,19 @@ IG_MAX_PAGES   = 20 if FULL_HISTORY else 1
 YT_DAYS_BACK   = 365 if FULL_HISTORY else 28
 YT_MAX_PAGES   = 10  if FULL_HISTORY else 1   # 10 páginas x 50 = até 500 vídeos no modo completo
 
+# YouTube Analytics API (OAuth) — views diárias reais, watch time, duração média
+# e engajamento por dia a nível de CANAL, além de watch time por VÍDEO (usado no
+# relatório PDF). Só é ativado se os 3 secrets abaixo estiverem configurados:
+#   YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET, YOUTUBE_REFRESH_TOKEN
+# Sem eles, o coletor cai de volta no comportamento antigo (Data API só, sem
+# watch time, "views" do dia = total histórico do canal) — nada quebra.
+YT_ANALYTICS_BASE = 'https://youtubeanalytics.googleapis.com/v2'
+YT_TOKEN_URL       = 'https://oauth2.googleapis.com/token'
+# Coleta normal só reconcilia os últimos dias (a API do YouTube Analytics tem
+# atraso de 1-3 dias pra fechar os números de um dia). --full faz um backfill
+# bem maior pra reconstruir o histórico de views diárias reais.
+YT_ANALYTICS_DAYS_BACK = 400 if FULL_HISTORY else 5
+
 logging.basicConfig(level=logging.INFO, format=LOG_FMT)
 log = logging.getLogger('sr-collector')
 
@@ -290,6 +303,169 @@ def collect_instagram(metrics: dict) -> bool:
     log.info(f'Instagram: {len(posts)} posts coletados')
     return True
 
+# ─── YOUTUBE ANALYTICS (OAuth) ────────────────────────────────────────────────
+def youtube_get_access_token() -> Optional[str]:
+    """
+    Troca o refresh_token (obtido uma vez via OAuth Playground, com validade
+    indefinida porque o app está publicado em produção — não em modo "Teste",
+    que limitaria o refresh_token a 7 dias) por um access_token novo, válido
+    por ~1h. Precisa dos secrets YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET e
+    YOUTUBE_REFRESH_TOKEN — sem eles, a integração com YouTube Analytics fica
+    desativada e o coletor cai de volta no comportamento antigo (só Data API,
+    sem watch time, "views" do dia = total histórico do canal).
+    """
+    client_id     = get_env('YOUTUBE_CLIENT_ID',     required=False)
+    client_secret = get_env('YOUTUBE_CLIENT_SECRET', required=False)
+    refresh_token = get_env('YOUTUBE_REFRESH_TOKEN', required=False)
+    if not (client_id and client_secret and refresh_token):
+        return None
+    try:
+        r = requests.post(YT_TOKEN_URL, data={
+            'grant_type':    'refresh_token',
+            'refresh_token': refresh_token,
+            'client_id':     client_id,
+            'client_secret': client_secret,
+        }, timeout=15)
+        if r.ok:
+            return r.json().get('access_token')
+        log.error(f'YouTube Analytics: falha ao renovar access token — HTTP {r.status_code}: {r.text[:200]}')
+    except Exception as e:
+        log.error(f'YouTube Analytics: erro ao renovar access token — {e}')
+    return None
+
+def collect_youtube_analytics(metrics: dict, access_token: str) -> Optional[dict]:
+    """
+    Busca a série diária REAL do YouTube Analytics API a nível de CANAL: views,
+    watch time, duração média, likes/comentários/compart. e inscritos ganhos
+    por dia. Resolve em definitivo o bug #10 ("Views Totais" mostrando 15+
+    bilhões porque o coletor somava o total histórico do canal repetido em
+    cada dia do período).
+
+    IMPORTANTE — o que essa API NÃO fornece (limitação do próprio YouTube, não
+    nossa): "Impressões" e "CTR de impressões" (cliques na miniatura) só
+    existem dentro do YouTube Studio — não são expostas por nenhuma API
+    pública. "Visualizadores únicos" (uniques) foi descontinuado pelo YouTube
+    em 2016. Não tentamos buscar nenhum dos três porque não tem como.
+
+    Grava a série em metrics['youtube']['analytics_daily'][] — igual ao
+    account_views do Instagram: um array separado de 'snapshots' (que só
+    ganha 1 entrada por execução do coletor), pra permitir reconciliar dias
+    passados assim que a API fecha os números (atraso normal de 1-3 dias).
+
+    Retorna os dados de HOJE (se já disponíveis) pra alimentar o snapshot do
+    dia, ou None se ainda não tiver fechado.
+    """
+    metrics['youtube'].setdefault('analytics_daily', [])
+    existing = {d['date']: d for d in metrics['youtube']['analytics_daily']}
+
+    end   = datetime.datetime.utcnow().date()
+    start = end - datetime.timedelta(days=YT_ANALYTICS_DAYS_BACK)
+
+    try:
+        r = requests.get(f'{YT_ANALYTICS_BASE}/reports', params={
+            'ids':        'channel==MINE',
+            'startDate':  start.strftime('%Y-%m-%d'),
+            'endDate':    end.strftime('%Y-%m-%d'),
+            'dimensions': 'day',
+            'metrics':    'views,estimatedMinutesWatched,averageViewDuration,likes,comments,shares,subscribersGained',
+            'sort':       'day',
+        }, headers={'Authorization': f'Bearer {access_token}'}, timeout=30)
+        if not r.ok:
+            log.warning(f'YouTube Analytics (série diária): HTTP {r.status_code} — {r.text[:300]}')
+            return existing.get(today())
+        data = r.json()
+        cols = [c['name'] for c in data.get('columnHeaders', [])]
+        for row in data.get('rows', []):
+            rec = dict(zip(cols, row))
+            d = rec.get('day')
+            if not d:
+                continue
+            existing[d] = {
+                'date':                  d,
+                'views':                 int(rec.get('views', 0) or 0),
+                'watch_minutes':         int(rec.get('estimatedMinutesWatched', 0) or 0),
+                'avg_view_duration_sec': int(rec.get('averageViewDuration', 0) or 0),
+                'likes':                 int(rec.get('likes', 0) or 0),
+                'comments':              int(rec.get('comments', 0) or 0),
+                'shares':                int(rec.get('shares', 0) or 0),
+                'subscribers_gained':    int(rec.get('subscribersGained', 0) or 0),
+            }
+    except Exception as e:
+        log.error(f'YouTube Analytics (série diária): {e}')
+        return existing.get(today())
+
+    metrics['youtube']['analytics_daily'] = sorted(existing.values(), key=lambda d: d['date'])
+    log.info(f"YouTube Analytics: {len(metrics['youtube']['analytics_daily'])} dias de dados reais armazenados")
+    return existing.get(today())
+
+def reconcile_youtube_snapshots(metrics: dict, analytics_by_date: dict):
+    """
+    Corrige snapshots dos últimos dias com os números reais assim que eles
+    fecham na API (atraso de 1-3 dias). Sem isso, um snapshot salvo no dia em
+    que os dados ainda não tinham fechado ficaria com o total histórico do
+    canal (valor antigo/errado) pra sempre, em vez de ser corrigido no dia
+    seguinte quando os dados reais já estiverem disponíveis.
+    """
+    for snap in metrics['youtube']['snapshots']:
+        d = analytics_by_date.get(snap['date'])
+        if not d:
+            continue
+        snap['views']                 = d['views']
+        snap['watch_minutes']         = d['watch_minutes']
+        snap['avg_view_duration_sec'] = d['avg_view_duration_sec']
+        snap['subscribers_gained']    = d['subscribers_gained']
+        # Likes/comentários/compart. reais do CANAL INTEIRO naquele dia (todo
+        # o conteúdo, não só vídeos publicados naquele dia) — mais precisos
+        # que a soma feita a partir só dos vídeos novos do dia, então
+        # substituem esse valor.
+        snap['likes']    = d['likes']
+        snap['comments'] = d['comments']
+        snap['shares']   = d['shares']
+
+def collect_youtube_video_analytics(video_ids: list, access_token: str) -> dict:
+    """
+    Busca watch time e duração média POR VÍDEO (dimensions=video), em lotes de
+    até 200 IDs (o filtro 'video==' aceita até 500 IDs por chamada, mas esse
+    tipo de relatório limita maxResults a 200 — lotes maiores perderiam vídeos
+    silenciosamente). Usado pra preencher a coluna "Watch Time" real no
+    relatório PDF de patrocinador (antes ficava sempre fixa em "—").
+
+    Retorna {video_id: {watch_minutes, avg_view_duration_sec}}.
+    """
+    if not video_ids:
+        return {}
+    out = {}
+    for i in range(0, len(video_ids), 200):
+        batch = video_ids[i:i + 200]
+        try:
+            r = requests.get(f'{YT_ANALYTICS_BASE}/reports', params={
+                'ids':        'channel==MINE',
+                'startDate':  '2005-01-01',   # cobre qualquer vídeo já publicado no canal
+                'endDate':    today(),
+                'dimensions': 'video',
+                'metrics':    'views,estimatedMinutesWatched,averageViewDuration,likes,comments,shares',
+                'filters':    'video==' + ','.join(batch),
+                'maxResults': 200,
+                'sort':       '-views',
+            }, headers={'Authorization': f'Bearer {access_token}'}, timeout=30)
+            if not r.ok:
+                log.warning(f'YouTube Analytics (watch time por vídeo, lote {i // 200 + 1}): HTTP {r.status_code} — {r.text[:200]}')
+                continue
+            data = r.json()
+            cols = [c['name'] for c in data.get('columnHeaders', [])]
+            for row in data.get('rows', []):
+                rec = dict(zip(cols, row))
+                vid = rec.get('video')
+                if not vid:
+                    continue
+                out[vid] = {
+                    'watch_minutes':         int(rec.get('estimatedMinutesWatched', 0) or 0),
+                    'avg_view_duration_sec': int(rec.get('averageViewDuration', 0) or 0),
+                }
+        except Exception as e:
+            log.warning(f'YouTube Analytics (watch time por vídeo, lote {i // 200 + 1}): {e}')
+    return out
+
 # ─── YOUTUBE ─────────────────────────────────────────────────────────────────
 def collect_youtube(metrics: dict) -> bool:
     api_key    = get_env('YOUTUBE_API_KEY')
@@ -320,7 +496,9 @@ def collect_youtube(metrics: dict) -> bool:
     snapshot = {
         'date':        today(),
         'followers':   int(stats.get('subscriberCount', 0)),
-        'views':       int(stats.get('viewCount',       0)),
+        'views':       int(stats.get('viewCount',       0)),  # fallback: total histórico do canal —
+                                                                # só fica assim se o YouTube Analytics
+                                                                # não estiver configurado (ver abaixo)
         'video_count': int(stats.get('videoCount',      0)),
         'likes':       0,   # agregado abaixo
         'comments':    0,
@@ -381,15 +559,39 @@ def collect_youtube(metrics: dict) -> bool:
                         'shares':   0,
                         'saves':    int(s.get('favoriteCount', 0)),
                     })
-            # Agrega likes/comments do dia nos snapshots
+            # Agrega likes/comments do dia nos snapshots (pode ser substituído
+            # abaixo pelos números reais do YouTube Analytics, se disponíveis)
             today_posts = [p for p in posts if p['date'] == today()]
             snapshot['likes']    = sum(p['likes']    for p in today_posts)
             snapshot['comments'] = sum(p['comments'] for p in today_posts)
         except Exception as e:
             log.error(f'YouTube videos: {e}')
 
-    # Views do canal hoje via Analytics (requer OAuth — use o views do canal se não tiver)
-    # snapshot['views'] já é o total histórico. Para views diárias, use YouTube Analytics API.
+    # ── YouTube Analytics (OAuth) — só roda se os 3 secrets estiverem configurados ──
+    access_token = youtube_get_access_token()
+    if access_token:
+        # 1) Série diária a nível de canal: corrige 'views' do dia (bug #10),
+        #    e adiciona watch time / duração média / inscritos ganhos reais.
+        today_analytics = collect_youtube_analytics(metrics, access_token)
+        analytics_by_date = {d['date']: d for d in metrics['youtube'].get('analytics_daily', [])}
+        reconcile_youtube_snapshots(metrics, analytics_by_date)
+        if not today_analytics:
+            log.info('YouTube Analytics: dados de hoje ainda não fechados na API (atraso normal de 1-3 dias) — corrigido automaticamente no próximo dia')
+
+        # 2) Watch time por vídeo — preenche a coluna "Watch Time" do relatório PDF
+        if posts:
+            vid_analytics = collect_youtube_video_analytics([p['id'] for p in posts], access_token)
+            enriched = 0
+            for p in posts:
+                va = vid_analytics.get(p['id'])
+                if va:
+                    p['watch_minutes']         = va['watch_minutes']
+                    p['avg_view_duration_sec'] = va['avg_view_duration_sec']
+                    enriched += 1
+            if enriched:
+                log.info(f'YouTube Analytics: watch time real coletado para {enriched} de {len(posts)} vídeos')
+    else:
+        log.info('YouTube Analytics: secrets OAuth não configurados — "views" continua sendo o total histórico do canal e o relatório PDF fica sem watch time real (comportamento antigo, nada quebra)')
 
     upsert_snapshot(metrics, 'youtube', snapshot)
     upsert_posts(metrics, 'youtube', posts)
@@ -497,7 +699,7 @@ def main():
     log.info('=' * 50)
     log.info(f'Social Radar Collector — {today()}')
     if FULL_HISTORY:
-        log.info('Modo --full ativado: varredura completa do Instagram (até 2.000 posts) e do YouTube (até 500 vídeos, janela de 1 ano) — pode levar ~15-20 min')
+        log.info('Modo --full ativado: varredura completa do Instagram (até 2.000 posts) e do YouTube (até 500 vídeos, janela de 1 ano, backfill de ~400 dias de YouTube Analytics) — pode levar ~15-20 min')
     log.info('=' * 50)
 
     metrics = load_metrics()
