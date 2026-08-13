@@ -333,13 +333,21 @@ def youtube_get_access_token() -> Optional[str]:
         log.error(f'YouTube Analytics: erro ao renovar access token — {e}')
     return None
 
-def collect_youtube_analytics(metrics: dict, access_token: str) -> Optional[dict]:
+def collect_youtube_analytics(metrics: dict, access_token: str, channel_id: str) -> Optional[dict]:
     """
     Busca a série diária REAL do YouTube Analytics API a nível de CANAL: views,
     watch time, duração média, likes/comentários/compart. e inscritos ganhos
     por dia. Resolve em definitivo o bug #10 ("Views Totais" mostrando 15+
     bilhões porque o coletor somava o total histórico do canal repetido em
     cada dia do período).
+
+    IMPORTANTE sobre o 'ids': usamos 'channel==<ID>' (o mesmo YOUTUBE_CHANNEL_ID
+    já configurado, que a Data API já usa e confirmadamente resolve pro canal
+    certo) — NÃO 'channel==MINE'. 'MINE' resolve pro canal padrão vinculado à
+    conta Google autenticada, que pode ser diferente do canal (Conta de Marca)
+    que essa conta apenas administra. Foi exatamente isso que causou o bug
+    descoberto em produção: 'MINE' devolvia um canal quase vazio (poucos vídeos,
+    views de dígito único) em vez do Charla Podcast de verdade.
 
     IMPORTANTE — o que essa API NÃO fornece (limitação do próprio YouTube, não
     nossa): "Impressões" e "CTR de impressões" (cliques na miniatura) só
@@ -363,7 +371,7 @@ def collect_youtube_analytics(metrics: dict, access_token: str) -> Optional[dict
 
     try:
         r = requests.get(f'{YT_ANALYTICS_BASE}/reports', params={
-            'ids':        'channel==MINE',
+            'ids':        f'channel=={channel_id}',
             'startDate':  start.strftime('%Y-%m-%d'),
             'endDate':    end.strftime('%Y-%m-%d'),
             'dimensions': 'day',
@@ -422,13 +430,17 @@ def reconcile_youtube_snapshots(metrics: dict, analytics_by_date: dict):
         snap['comments'] = d['comments']
         snap['shares']   = d['shares']
 
-def collect_youtube_video_analytics(video_ids: list, access_token: str) -> dict:
+def collect_youtube_video_analytics(video_ids: list, access_token: str, channel_id: str) -> dict:
     """
     Busca watch time e duração média POR VÍDEO (dimensions=video), em lotes de
     até 200 IDs (o filtro 'video==' aceita até 500 IDs por chamada, mas esse
     tipo de relatório limita maxResults a 200 — lotes maiores perderiam vídeos
     silenciosamente). Usado pra preencher a coluna "Watch Time" real no
     relatório PDF de patrocinador (antes ficava sempre fixa em "—").
+
+    Usa 'channel==<ID>' (não 'channel==MINE' — ver nota em collect_youtube_analytics
+    sobre por que 'MINE' pode resolver pro canal errado quando o canal é uma
+    Conta de Marca administrada, não o canal padrão da conta Google logada).
 
     Retorna {video_id: {watch_minutes, avg_view_duration_sec}}.
     """
@@ -439,7 +451,7 @@ def collect_youtube_video_analytics(video_ids: list, access_token: str) -> dict:
         batch = video_ids[i:i + 200]
         try:
             r = requests.get(f'{YT_ANALYTICS_BASE}/reports', params={
-                'ids':        'channel==MINE',
+                'ids':        f'channel=={channel_id}',
                 'startDate':  '2005-01-01',   # cobre qualquer vídeo já publicado no canal
                 'endDate':    today(),
                 'dimensions': 'video',
@@ -574,7 +586,7 @@ def collect_youtube(metrics: dict) -> bool:
     if access_token:
         # 1) Série diária a nível de canal: corrige 'views' do dia (bug #10),
         #    e adiciona watch time / duração média / inscritos ganhos reais.
-        today_analytics = collect_youtube_analytics(metrics, access_token)
+        today_analytics = collect_youtube_analytics(metrics, access_token, channel_id)
         analytics_by_date = {d['date']: d for d in metrics['youtube'].get('analytics_daily', [])}
         reconcile_youtube_snapshots(metrics, analytics_by_date)
         if not today_analytics:
@@ -582,7 +594,7 @@ def collect_youtube(metrics: dict) -> bool:
 
         # 2) Watch time por vídeo — preenche a coluna "Watch Time" do relatório PDF
         if posts:
-            vid_analytics = collect_youtube_video_analytics([p['id'] for p in posts], access_token)
+            vid_analytics = collect_youtube_video_analytics([p['id'] for p in posts], access_token, channel_id)
             enriched = 0
             for p in posts:
                 va = vid_analytics.get(p['id'])
