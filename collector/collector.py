@@ -457,7 +457,11 @@ def collect_youtube_video_analytics(video_ids: list, access_token: str, channel_
     sobre por que 'MINE' pode resolver pro canal errado quando o canal é uma
     Conta de Marca administrada, não o canal padrão da conta Google logada).
 
-    Retorna {video_id: {watch_minutes, avg_view_duration_sec}}.
+    A consulta já pede 'shares' (junto com watch time) — a Data API não
+    fornece compartilhamentos por vídeo (sempre ficava fixo em 0), mas o
+    YouTube Analytics fornece de graça nessa mesma chamada, então aproveitamos.
+
+    Retorna {video_id: {watch_minutes, avg_view_duration_sec, shares}}.
     """
     if not video_ids:
         return {}
@@ -490,6 +494,7 @@ def collect_youtube_video_analytics(video_ids: list, access_token: str, channel_
                 out[vid] = {
                     'watch_minutes':         int(rec.get('estimatedMinutesWatched', 0) or 0),
                     'avg_view_duration_sec': int(rec.get('averageViewDuration', 0) or 0),
+                    'shares':                int(rec.get('shares', 0) or 0),
                 }
         except Exception as e:
             log.warning(f'YouTube Analytics (watch time por vídeo, lote {i // 200 + 1}): {e}')
@@ -585,8 +590,8 @@ def collect_youtube(metrics: dict) -> bool:
                         'views':    int(s.get('viewCount',    0)),
                         'likes':    int(s.get('likeCount',    0)),
                         'comments': int(s.get('commentCount', 0)),
-                        'shares':   0,
-                        'saves':    int(s.get('favoriteCount', 0)),
+                        'shares':   0,   # placeholder — substituído abaixo pelo valor real do YouTube Analytics, se disponível
+                        'saves':    int(s.get('favoriteCount', 0)),   # 'favoriteCount' foi descontinuado pelo YouTube — sempre retorna 0, não é bug nosso
                     })
             # Agrega likes/comments do dia nos snapshots (pode ser substituído
             # abaixo pelos números reais do YouTube Analytics, se disponíveis)
@@ -616,6 +621,7 @@ def collect_youtube(metrics: dict) -> bool:
                 if va:
                     p['watch_minutes']         = va['watch_minutes']
                     p['avg_view_duration_sec'] = va['avg_view_duration_sec']
+                    p['shares']                = va['shares']   # Data API não fornece isso por vídeo (ficava sempre 0)
                     enriched += 1
             if enriched:
                 log.info(f'YouTube Analytics: watch time real coletado para {enriched} de {len(posts)} vídeos')
