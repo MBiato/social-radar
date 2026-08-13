@@ -721,15 +721,24 @@ function renderKPIs() {
   const viewsSub   = platform==='instagram' ? `${fmt(avgViews)}/dia · conta inteira, não só posts do período`
                     : `${fmt(avgViews)}/dia em média`;
 
-  // Tempo de Exibição (watch time) — só existe pro YouTube, e só depois que a
-  // integração com YouTube Analytics rodou pelo menos uma vez nesse período.
-  // Substitui o card de "Reach Total" (métrica que o YouTube nunca teve).
+  // "Reach Total" só é dado real pro Instagram — YouTube e TikTok não têm
+  // alcance/visualizadores únicos disponível em nenhuma API pública hoje
+  // (não é falta nossa, é limitação das duas plataformas). Pro YouTube,
+  // trocamos por "Tempo de Exibição" (watch time real, via YouTube
+  // Analytics) assim que houver dado. Sem isso (YouTube ainda sem dado
+  // fechado, ou TikTok), mostramos "Vídeos no Período" — sempre real,
+  // nunca inventado.
   const hasWatchTime  = platform==='youtube' && snaps.some(x => x.watch_minutes != null);
   const totalWatchMin = hasWatchTime ? snaps.reduce((a,x)=>a+(x.watch_minutes||0),0) : 0;
   const prevWatchMin  = hasWatchTime ? prev.reduce((a,x)=>a+(x.watch_minutes||0),0)  : 0;
-  const thirdCard = hasWatchTime
-    ? { label:'Tempo de Exibição', val:fmt(Math.round(totalWatchMin/60))+'h', cmp:pctChg(totalWatchMin,prevWatchMin), abs:fDelta(Math.round(totalWatchMin/60),Math.round(prevWatchMin/60)), sub:'horas assistidas no período · YouTube Analytics' }
-    : { label:'Reach Total', val:fmt(totalReach), cmp:pctChg(totalReach,prevReach), abs:fDelta(totalReach,prevReach), sub:'alcance orgânico' };
+  let thirdCard;
+  if (platform === 'instagram') {
+    thirdCard = { label:'Reach Total', val:fmt(totalReach), cmp:pctChg(totalReach,prevReach), abs:fDelta(totalReach,prevReach), sub:'alcance orgânico' };
+  } else if (hasWatchTime) {
+    thirdCard = { label:'Tempo de Exibição', val:fmt(Math.round(totalWatchMin/60))+'h', cmp:pctChg(totalWatchMin,prevWatchMin), abs:fDelta(Math.round(totalWatchMin/60),Math.round(prevWatchMin/60)), sub:'horas assistidas no período · YouTube Analytics' };
+  } else {
+    thirdCard = { label:'Posts no Período', val:fmt(posts.length), cmp:null, abs:null, sub:platform==='youtube' ? 'watch time chega quando a API fechar os números' : 'alcance não disponível nesta rede' };
+  }
 
   const kpis = [
     { label:'Seguidores',  val:fmt(last?.followers??0),  cmp:pctChg(last?.followers??0,plast?.followers??0), abs:fDelta(last?.followers??0,plast?.followers??0), sub:`+${fmt((last?.followers??0)-(first?.followers??0))} no período` },
@@ -878,15 +887,32 @@ function renderRankings() {
   if(curPage >= tot) curPage = 0;
   const posts = all.slice(curPage*PAGE_SIZE,(curPage+1)*PAGE_SIZE);
 
-  const hdr = `<div style="display:grid;grid-template-columns:28px 1fr 74px 70px 66px 66px 70px 66px;align-items:center;gap:8px;padding:7px 10px;border-bottom:1px solid var(--b1);">
+  // Alcance e Salvos só são dados REAIS pro Instagram — YouTube e TikTok não
+  // expõem essas métricas em nenhuma API pública hoje (visualizadores únicos
+  // e "saves" de vídeo foram descontinuados/nunca existiram nas APIs deles).
+  // Em vez de mostrar colunas sempre zeradas fingindo que é dado real, elas
+  // somem da tabela pra essas redes.
+  const cols = platform === 'instagram'
+    ? [
+        {key:'views',    label:'Views',    w:'74px', hi:'views'},
+        {key:'reach',    label:'Alcance',  w:'70px'},
+        {key:'likes',    label:'Likes',    w:'66px', hi:'likes'},
+        {key:'comments', label:'Coment.',  w:'66px', hi:'comments'},
+        {key:'shares',   label:'Compart.', w:'70px'},
+        {key:'saves',    label:'Salvos',   w:'66px'},
+      ]
+    : [
+        {key:'views',    label:'Views',    w:'74px', hi:'views'},
+        {key:'likes',    label:'Likes',    w:'66px', hi:'likes'},
+        {key:'comments', label:'Coment.',  w:'66px', hi:'comments'},
+        {key:'shares',   label:'Compart.', w:'70px'},
+      ];
+  const gridTemplate = `28px 1fr ${cols.map(c=>c.w).join(' ')}`;
+
+  const hdr = `<div style="display:grid;grid-template-columns:${gridTemplate};align-items:center;gap:8px;padding:7px 10px;border-bottom:1px solid var(--b1);">
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);">#</div>
     <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;">Post</div>
-    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Views</div>
-    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Alcance</div>
-    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Likes</div>
-    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Coment.</div>
-    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Compart.</div>
-    <div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">Salvos</div>
+    ${cols.map(c=>`<div style="font-family:'Barlow Condensed',sans-serif;font-size:11px;color:var(--t3);letter-spacing:1px;text-transform:uppercase;text-align:right;">${c.label}</div>`).join('')}
   </div>`;
 
   const rows = posts.map((p,i) => {
@@ -901,8 +927,9 @@ function renderRankings() {
     const captionEl = p.url
       ? `<a href="${p.url}" target="_blank" style="color:var(--t1);text-decoration:none;font-family:'Barlow Condensed',sans-serif;font-size:14px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;" onmouseover="this.style.color='var(--ac)'" onmouseout="this.style.color='var(--t1)'">${p.caption||'—'}</a>`
       : `<div class="rank-caption">${p.caption||'—'}</div>`;
+    const cellsHtml = cols.map(c => `<div class="rank-val${c.hi && rankBy===c.hi ? ' ac' : ''}">${fmt(p[c.key]||0)}</div>`).join('');
 
-    return `<div class="rank-row">
+    return `<div class="rank-row" style="display:grid;grid-template-columns:${gridTemplate};">
       <div class="${gi===1?'td-r1':'td-rn'}">${gi}</div>
       <div style="min-width:0;">
         ${captionEl}
@@ -913,12 +940,7 @@ function renderRankings() {
           <span style="font-family:'Barlow Condensed',sans-serif;font-size:13px;color:${hiC?'var(--ac)':'var(--t2)'};">${fmt(p.comments)} coment.</span>
         </div>
       </div>
-      <div class="rank-val${hiV?' ac':''}">${fmt(p.views)}</div>
-      <div class="rank-val">${fmt(p.reach||0)}</div>
-      <div class="rank-val${hiL?' ac':''}">${fmt(p.likes)}</div>
-      <div class="rank-val${hiC?' ac':''}">${fmt(p.comments)}</div>
-      <div class="rank-val">${fmt(p.shares||0)}</div>
-      <div class="rank-val">${fmt(p.saves||0)}</div>
+      ${cellsHtml}
     </div>`;
   }).join('');
 
