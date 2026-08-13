@@ -1,84 +1,77 @@
 {
-  "generated_at": "2026-08-12T22:10:38.899848",
-  "period_start": "2026-08-05",
-  "period_end": "2026-08-11",
-  "week_label": "2026-08-05 a 2026-08-11",
+  "generated_at": "2026-08-13T00:24:10.289120",
+  "period_start": "2026-08-06",
+  "period_end": "2026-08-12",
+  "week_label": "2026-08-06 a 2026-08-12",
   "metrics": {
     "total_posts": 177,
-    "instagram_posts": 80,
-    "youtube_posts": 97,
-    "total_views": 7328132,
-    "total_likes": 432075,
-    "total_comments": 13867
+    "instagram_posts": 83,
+    "youtube_posts": 94,
+    "total_views": 7581305,
+    "total_likes": 450918,
+    "total_comments": 14178
   },
   "sponsor_stats": {
     "#sportingbetnocharla": {
-      "posts": 41,
-      "views": 3929309,
-      "likes": 272361,
-      "comments": 6683,
+      "posts": 46,
+      "views": 4239317,
+      "likes": 292927,
+      "comments": 7266,
       "tag": "#sportingbetnocharla"
     },
     "#brahmanocharla": {
-      "posts": 26,
-      "views": 3244996,
-      "likes": 205976,
-      "comments": 4980,
+      "posts": 30,
+      "views": 3494288,
+      "likes": 222335,
+      "comments": 5342,
       "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
-      "posts": 16,
-      "views": 2675555,
-      "likes": 171157,
-      "comments": 4120,
+      "posts": 20,
+      "views": 2924103,
+      "likes": 187477,
+      "comments": 4481,
       "tag": "#melittanocharla"
     },
     "#assainocharla": {
-      "posts": 14,
-      "views": 2010092,
-      "likes": 114031,
-      "comments": 3172,
+      "posts": 18,
+      "views": 2256937,
+      "likes": 130189,
+      "comments": 3533,
       "tag": "#assainocharla"
     },
     "#fornerianocharla": {
       "posts": 17,
-      "views": 1564296,
-      "likes": 117443,
-      "comments": 2401,
+      "views": 1568353,
+      "likes": 117720,
+      "comments": 2408,
       "tag": "#fornerianocharla"
     },
     "#absolutnocharla": {
       "posts": 12,
-      "views": 663111,
-      "likes": 39526,
-      "comments": 1040,
+      "views": 665359,
+      "likes": 39634,
+      "comments": 1046,
       "tag": "#absolutnocharla"
     },
     "#mcdonaldsnocharla": {
       "posts": 5,
-      "views": 389414,
-      "likes": 15465,
-      "comments": 1422,
+      "views": 390421,
+      "likes": 15505,
+      "comments": 1423,
       "tag": "#mcdonaldsnocharla"
     },
     "#charlafutebol": {
       "posts": 8,
-      "views": 125565,
-      "likes": 6144,
-      "comments": 133,
+      "views": 125602,
+      "likes": 6438,
+      "comments": 139,
       "tag": "#charlafutebol"
-    },
-    "#charlanamix": {
-      "posts": 2,
-      "views": 63097,
-      "likes": 1813,
-      "comments": 193,
-      "tag": "#charlanamix"
     },
     "#745": {
       "posts": 1,
       "views": 0,
-      "likes": 423,
+      "likes": 427,
       "comments": 6,
       "tag": "#745"
     },
@@ -92,7 +85,7 @@
     "#743": {
       "posts": 1,
       "views": 0,
-      "likes": 296,
+      "likes": 297,
       "comments": 12,
       "tag": "#743"
     }
@@ -105,9 +98,9 @@
       "url": "https://www.instagram.com/reel/Db1o9ioJoiy/",
       "tags": [],
       "type": "VIDEO",
-      "views": 576629,
+      "views": 576787,
       "reach": 355824,
-      "likes": 25949,
+      "likes": 25960,
       "comments": 383,
       "shares": 3180,
       "saves": 316,
@@ -125,11 +118,11 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 389548,
-      "reach": 245812,
-      "likes": 32054,
+      "views": 392482,
+      "reach": 248223,
+      "likes": 32258,
       "comments": 639,
-      "shares": 589,
+      "shares": 593,
       "saves": 471,
       "platform": "instagram"
     },
@@ -140,8 +133,8 @@
       "url": "https://www.instagram.com/reel/Db1izmvukLu/",
       "tags": [],
       "type": "VIDEO",
-      "views": 330615,
-      "reach": 219580,
+      "views": 330783,
+      "reach": 219627,
       "likes": 9880,
       "comments": 375,
       "shares": 802,
@@ -155,8 +148,8 @@
       "url": "https://www.instagram.com/reel/Db1faFDA9aK/",
       "tags": [],
       "type": "VIDEO",
-      "views": 289515,
-      "reach": 200485,
+      "views": 289624,
+      "reach": 200498,
       "likes": 8004,
       "comments": 190,
       "shares": 221,
@@ -175,12 +168,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 272405,
+      "views": 273002,
       "reach": 159480,
-      "likes": 14291,
+      "likes": 14320,
       "comments": 290,
       "shares": 458,
-      "saves": 395,
+      "saves": 394,
       "platform": "instagram"
     },
     {
@@ -192,10 +185,10 @@
         "#mcdonaldsnocharla"
       ],
       "type": "VIDEO",
-      "views": 266732,
+      "views": 266934,
       "reach": 175707,
-      "likes": 8753,
-      "comments": 1330,
+      "likes": 8762,
+      "comments": 1331,
       "shares": 676,
       "saves": 379,
       "platform": "instagram"
@@ -212,32 +205,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 263861,
-      "reach": 152249,
-      "likes": 12337,
-      "comments": 166,
-      "shares": 241,
-      "saves": 357,
-      "platform": "instagram"
-    },
-    {
-      "id": "17947230384249444",
-      "date": "2026-08-07",
-      "caption": "\"NUNCA ACREDITEI MUITO NA ESPANHOLIZAÇÃO!\"\n\nRodrigo Capelo falou sobre Palmeiras e Flamengo no cenário nacional, e citou",
-      "url": "https://www.instagram.com/reel/DbvwfKKhiKW/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 250890,
-      "reach": 164204,
-      "likes": 14490,
-      "comments": 606,
-      "shares": 2855,
-      "saves": 491,
+      "views": 266762,
+      "reach": 154167,
+      "likes": 12483,
+      "comments": 168,
+      "shares": 242,
+      "saves": 362,
       "platform": "instagram"
     },
     {
@@ -252,12 +225,32 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 250445,
-      "reach": 151265,
-      "likes": 14710,
-      "comments": 738,
-      "shares": 482,
-      "saves": 347,
+      "views": 252509,
+      "reach": 152433,
+      "likes": 14837,
+      "comments": 741,
+      "shares": 497,
+      "saves": 351,
+      "platform": "instagram"
+    },
+    {
+      "id": "17947230384249444",
+      "date": "2026-08-07",
+      "caption": "\"NUNCA ACREDITEI MUITO NA ESPANHOLIZAÇÃO!\"\n\nRodrigo Capelo falou sobre Palmeiras e Flamengo no cenário nacional, e citou",
+      "url": "https://www.instagram.com/reel/DbvwfKKhiKW/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 251365,
+      "reach": 164481,
+      "likes": 14517,
+      "comments": 606,
+      "shares": 2858,
+      "saves": 493,
       "platform": "instagram"
     },
     {
@@ -272,12 +265,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 245924,
-      "reach": 165957,
-      "likes": 18266,
+      "views": 246192,
+      "reach": 166242,
+      "likes": 18282,
       "comments": 590,
-      "shares": 4151,
-      "saves": 746,
+      "shares": 4160,
+      "saves": 747,
       "platform": "instagram"
     }
   ],
