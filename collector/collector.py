@@ -23,7 +23,14 @@ load_dotenv(Path(__file__).parent / '.env')
 
 DATA_FILE   = Path(__file__).parent.parent / 'data' / 'metrics.json'
 LOG_FMT     = '%(asctime)s [%(levelname)s] %(message)s'
-MAX_POSTS   = 2000   # máximo de posts por plataforma no JSON
+
+# Máximo de posts por plataforma guardados no metrics.json (upsert_posts mantém
+# só os mais recentes, descarta o resto). Com o Charla publicando 10-20 vídeos/
+# dia no YouTube, 2.000 posts durava só uns 4-5 meses antes de vídeos mais
+# antigos começarem a "sumir" do dashboard/relatórios (continuam no YouTube,
+# só saem do nosso arquivo). Subido pra 6.000 — dá quase 1 ano de folga mesmo
+# no ritmo mais puxado (20/dia).
+MAX_POSTS   = 6000
 
 # Coleta normal (diária, via cron) busca só a 1ª página de 100 posts mais recentes
 # do Instagram — rápido, mas não "revisita" posts mais antigos (ex: se você editou
@@ -35,11 +42,19 @@ MAX_POSTS   = 2000   # máximo de posts por plataforma no JSON
 FULL_HISTORY   = '--full' in sys.argv
 IG_MAX_PAGES   = 20 if FULL_HISTORY else 1
 
-# YouTube: coleta normal só busca vídeos dos últimos 28 dias (25 por vez), então
-# vídeos que saem dessa janela param de ser atualizados (views ficam "congeladas").
-# No modo --full, amplia a janela pra 1 ano e pagina em blocos de 50 (limite da API).
+# YouTube: coleta normal só busca vídeos dos últimos 28 dias, então vídeos que
+# saem dessa janela param de ser atualizados (views ficam "congeladas"). No modo
+# --full, amplia a janela pra 1 ano.
+#
+# O Charla publica 10-20 vídeos/dia — isso pode encher até 560 vídeos só nos
+# últimos 28 dias. Por isso pagina bastante em AMBOS os modos (não só no --full):
+# 20 páginas x 50 = até 1.000 vídeos na coleta diária normal (folga confortável
+# acima do pior caso de 560), e 40 páginas x 50 = até 2.000 no --full (cobre o
+# ano inteiro até o teto do MAX_POSTS). Cada página custa 100 unidades de quota
+# da YouTube Data API (limite padrão: 10.000/dia) — 20 páginas/dia = 2.000
+# unidades, folga tranquila mesmo rodando todo dia.
 YT_DAYS_BACK   = 365 if FULL_HISTORY else 28
-YT_MAX_PAGES   = 10  if FULL_HISTORY else 1   # 10 páginas x 50 = até 500 vídeos no modo completo
+YT_MAX_PAGES   = 40  if FULL_HISTORY else 20
 
 # YouTube Analytics API (OAuth) — views diárias reais, watch time, duração média
 # e engajamento por dia a nível de CANAL, além de watch time por VÍDEO (usado no
@@ -530,7 +545,7 @@ def collect_youtube(metrics: dict) -> bool:
                 'channelId':      channel_id,
                 'type':           'video',
                 'order':          'date',
-                'maxResults':     50 if FULL_HISTORY else 25,
+                'maxResults':     50,   # máximo permitido pela API — usado nos dois modos
                 'publishedAfter': published_after,
                 'key':            api_key,
             }
@@ -715,7 +730,7 @@ def main():
     log.info('=' * 50)
     log.info(f'Social Radar Collector — {today()}')
     if FULL_HISTORY:
-        log.info('Modo --full ativado: varredura completa do Instagram (até 2.000 posts) e do YouTube (até 500 vídeos, janela de 1 ano, backfill de ~400 dias de YouTube Analytics) — pode levar ~15-20 min')
+        log.info('Modo --full ativado: varredura completa do Instagram (até 2.000 posts) e do YouTube (até 2.000 vídeos, janela de 1 ano, backfill de ~400 dias de YouTube Analytics) — pode levar bem mais que os 15-20 min de antes, dado o volume de vídeos/dia do canal')
     log.info('=' * 50)
 
     metrics = load_metrics()
