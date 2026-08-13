@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:24:10.289120",
+  "generated_at": "2026-08-13T12:48:48.540098",
   "period_start": "2026-08-06",
   "period_end": "2026-08-12",
   "week_label": "2026-08-06 a 2026-08-12",
@@ -7,71 +7,71 @@
     "total_posts": 177,
     "instagram_posts": 83,
     "youtube_posts": 94,
-    "total_views": 7581305,
-    "total_likes": 450918,
-    "total_comments": 14178
+    "total_views": 8228192,
+    "total_likes": 475643,
+    "total_comments": 16305
   },
   "sponsor_stats": {
     "#sportingbetnocharla": {
       "posts": 46,
-      "views": 4239317,
-      "likes": 292927,
-      "comments": 7266,
+      "views": 4345887,
+      "likes": 298867,
+      "comments": 7415,
       "tag": "#sportingbetnocharla"
     },
     "#brahmanocharla": {
       "posts": 30,
-      "views": 3494288,
-      "likes": 222335,
-      "comments": 5342,
+      "views": 3596906,
+      "likes": 228105,
+      "comments": 5488,
       "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
       "posts": 20,
-      "views": 2924103,
-      "likes": 187477,
-      "comments": 4481,
+      "views": 3025130,
+      "likes": 193147,
+      "comments": 4625,
       "tag": "#melittanocharla"
     },
     "#assainocharla": {
       "posts": 18,
-      "views": 2256937,
-      "likes": 130189,
-      "comments": 3533,
+      "views": 2352911,
+      "likes": 135399,
+      "comments": 3667,
       "tag": "#assainocharla"
     },
     "#fornerianocharla": {
       "posts": 17,
-      "views": 1568353,
-      "likes": 117720,
-      "comments": 2408,
+      "views": 1577368,
+      "likes": 118375,
+      "comments": 2423,
       "tag": "#fornerianocharla"
     },
     "#absolutnocharla": {
       "posts": 12,
-      "views": 665359,
-      "likes": 39634,
-      "comments": 1046,
+      "views": 668998,
+      "likes": 39816,
+      "comments": 1051,
       "tag": "#absolutnocharla"
     },
     "#mcdonaldsnocharla": {
       "posts": 5,
-      "views": 390421,
-      "likes": 15505,
-      "comments": 1423,
+      "views": 393061,
+      "likes": 15595,
+      "comments": 1439,
       "tag": "#mcdonaldsnocharla"
     },
     "#charlafutebol": {
       "posts": 8,
-      "views": 125602,
-      "likes": 6438,
+      "views": 125795,
+      "likes": 6476,
       "comments": 139,
       "tag": "#charlafutebol"
     },
     "#745": {
       "posts": 1,
       "views": 0,
-      "likes": 427,
+      "likes": 432,
       "comments": 6,
       "tag": "#745"
     },
@@ -85,7 +85,7 @@
     "#743": {
       "posts": 1,
       "views": 0,
-      "likes": 297,
+      "likes": 299,
       "comments": 12,
       "tag": "#743"
     }
@@ -98,12 +98,12 @@
       "url": "https://www.instagram.com/reel/Db1o9ioJoiy/",
       "tags": [],
       "type": "VIDEO",
-      "views": 576787,
-      "reach": 355824,
-      "likes": 25960,
+      "views": 577253,
+      "reach": 355983,
+      "likes": 25971,
       "comments": 383,
       "shares": 3180,
-      "saves": 316,
+      "saves": 317,
       "platform": "instagram"
     },
     {
@@ -118,12 +118,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 392482,
-      "reach": 248223,
-      "likes": 32258,
-      "comments": 639,
-      "shares": 593,
-      "saves": 471,
+      "views": 396607,
+      "reach": 250184,
+      "likes": 32532,
+      "comments": 643,
+      "shares": 594,
+      "saves": 475,
       "platform": "instagram"
     },
     {
@@ -133,9 +133,9 @@
       "url": "https://www.instagram.com/reel/Db1izmvukLu/",
       "tags": [],
       "type": "VIDEO",
-      "views": 330783,
-      "reach": 219627,
-      "likes": 9880,
+      "views": 331291,
+      "reach": 220220,
+      "likes": 9883,
       "comments": 375,
       "shares": 802,
       "saves": 112,
@@ -148,7 +148,7 @@
       "url": "https://www.instagram.com/reel/Db1faFDA9aK/",
       "tags": [],
       "type": "VIDEO",
-      "views": 289624,
+      "views": 289872,
       "reach": 200498,
       "likes": 8004,
       "comments": 190,
@@ -168,29 +168,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 273002,
-      "reach": 159480,
-      "likes": 14320,
-      "comments": 290,
-      "shares": 458,
-      "saves": 394,
-      "platform": "instagram"
-    },
-    {
-      "id": "18061829399685095",
-      "date": "2026-08-11",
-      "caption": "QUEM TEM O MELHOR TIME? \n\nRivais na próxima fase da Libertadores, analisamos posição a posição, quem é mais forte, Cruze",
-      "url": "https://www.instagram.com/reel/Db4QEN5ODYU/",
-      "tags": [
-        "#mcdonaldsnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 266934,
-      "reach": 175707,
-      "likes": 8762,
-      "comments": 1331,
-      "shares": 676,
-      "saves": 379,
+      "views": 274814,
+      "reach": 160016,
+      "likes": 14421,
+      "comments": 291,
+      "shares": 460,
+      "saves": 393,
       "platform": "instagram"
     },
     {
@@ -205,12 +188,49 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 266762,
-      "reach": 154167,
-      "likes": 12483,
-      "comments": 168,
+      "views": 272140,
+      "reach": 157259,
+      "likes": 12723,
+      "comments": 171,
       "shares": 242,
-      "saves": 362,
+      "saves": 372,
+      "platform": "instagram"
+    },
+    {
+      "id": "17877742029526357",
+      "date": "2026-08-12",
+      "caption": "A VIDA DO TRICOLOR NÃO TÁ FÁCIL...\n\nO momento para o Fluminense tá tão complicado que o Phill virou compositor. \n\n#Sport",
+      "url": "https://www.instagram.com/reel/Db8b37XPjeJ/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
+      "type": "VIDEO",
+      "views": 268703,
+      "reach": 203527,
+      "likes": 18184,
+      "comments": 505,
+      "shares": 12898,
+      "saves": 455,
+      "platform": "instagram"
+    },
+    {
+      "id": "18061829399685095",
+      "date": "2026-08-11",
+      "caption": "QUEM TEM O MELHOR TIME? \n\nRivais na próxima fase da Libertadores, analisamos posição a posição, quem é mais forte, Cruze",
+      "url": "https://www.instagram.com/reel/Db4QEN5ODYU/",
+      "tags": [
+        "#mcdonaldsnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 267212,
+      "reach": 175725,
+      "likes": 8763,
+      "comments": 1344,
+      "shares": 676,
+      "saves": 377,
       "platform": "instagram"
     },
     {
@@ -225,12 +245,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 252509,
-      "reach": 152433,
-      "likes": 14837,
-      "comments": 741,
-      "shares": 497,
-      "saves": 351,
+      "views": 256342,
+      "reach": 155113,
+      "likes": 15043,
+      "comments": 760,
+      "shares": 499,
+      "saves": 354,
       "platform": "instagram"
     },
     {
@@ -245,32 +265,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 251365,
-      "reach": 164481,
-      "likes": 14517,
-      "comments": 606,
-      "shares": 2858,
-      "saves": 493,
-      "platform": "instagram"
-    },
-    {
-      "id": "17962473006167386",
-      "date": "2026-08-07",
-      "caption": "\"FOMOS TREINADOS PRA SER CASCUDOS. MAS DOEU!\" \n\nNa Charla de hoje, Giovane Gávio contou como era antigamente, as cobranç",
-      "url": "https://www.instagram.com/reel/Dbv5PjAszl8/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 246192,
-      "reach": 166242,
-      "likes": 18282,
-      "comments": 590,
-      "shares": 4160,
-      "saves": 747,
+      "views": 252517,
+      "reach": 165827,
+      "likes": 14581,
+      "comments": 608,
+      "shares": 2864,
+      "saves": 496,
       "platform": "instagram"
     }
   ],
