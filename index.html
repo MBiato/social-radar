@@ -991,7 +991,7 @@ async function dispararColeta(full) {
   const btn = qs(full ? 'collect-full-btn' : 'collect-btn');
   const label = full ? '🔍 Coleta Completa' : '⚡ Coletar agora';
 
-  if(full && !confirm('A Coleta Completa varre até 2.000 posts do Instagram e pode levar 15-20 minutos.\n\nUse isso quando editar hashtag/legenda de um post mais antigo no Instagram — a coleta rápida de todo dia não revisita posts antigos.\n\nContinuar?')) {
+  if(full && !confirm('A Coleta Completa varre até 2.000 posts do Instagram e até 2.000 vídeos do YouTube (com watch time real) e pode levar 20-30 minutos.\n\nUse isso quando editar hashtag/legenda de um post mais antigo, ou pra preencher de uma vez o histórico de YouTube Analytics.\n\nContinuar?')) {
     return;
   }
 
@@ -1015,7 +1015,7 @@ async function dispararColeta(full) {
     });
     if(r.status===204) {
       btn.textContent='⏳ Em andamento...';
-      const espera = full ? 18*60*1000 : 3*60*1000; // coleta completa demora bem mais
+      const espera = full ? 25*60*1000 : 3*60*1000; // coleta completa demora bem mais
       setTimeout(async()=>{
         btn.textContent='↻ Atualizando...';
         await refreshData();
