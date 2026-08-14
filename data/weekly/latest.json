@@ -1,93 +1,114 @@
 {
-  "generated_at": "2026-08-13T12:48:48.540098",
-  "period_start": "2026-08-06",
-  "period_end": "2026-08-12",
-  "week_label": "2026-08-06 a 2026-08-12",
+  "generated_at": "2026-08-14T00:02:11.678172",
+  "period_start": "2026-08-07",
+  "period_end": "2026-08-13",
+  "week_label": "2026-08-07 a 2026-08-13",
   "metrics": {
-    "total_posts": 177,
-    "instagram_posts": 83,
-    "youtube_posts": 94,
-    "total_views": 8228192,
-    "total_likes": 475643,
-    "total_comments": 16305
+    "total_posts": 191,
+    "instagram_posts": 82,
+    "youtube_posts": 109,
+    "total_views": 7744336,
+    "total_likes": 407280,
+    "total_comments": 15409
   },
   "sponsor_stats": {
     "#sportingbetnocharla": {
-      "posts": 46,
-      "views": 4345887,
-      "likes": 298867,
-      "comments": 7415,
+      "posts": 43,
+      "views": 4036741,
+      "likes": 250455,
+      "comments": 6863,
       "tag": "#sportingbetnocharla"
     },
     "#brahmanocharla": {
-      "posts": 30,
-      "views": 3596906,
-      "likes": 228105,
-      "comments": 5488,
+      "posts": 29,
+      "views": 3708706,
+      "likes": 230142,
+      "comments": 6221,
       "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
-      "posts": 20,
-      "views": 3025130,
-      "likes": 193147,
-      "comments": 4625,
+      "posts": 22,
+      "views": 3142347,
+      "likes": 199559,
+      "comments": 5199,
       "tag": "#melittanocharla"
     },
     "#assainocharla": {
-      "posts": 18,
-      "views": 2352911,
-      "likes": 135399,
-      "comments": 3667,
+      "posts": 20,
+      "views": 2466771,
+      "likes": 141513,
+      "comments": 4241,
       "tag": "#assainocharla"
     },
     "#fornerianocharla": {
-      "posts": 17,
-      "views": 1577368,
-      "likes": 118375,
-      "comments": 2423,
+      "posts": 11,
+      "views": 1234548,
+      "likes": 85337,
+      "comments": 1983,
       "tag": "#fornerianocharla"
     },
-    "#absolutnocharla": {
-      "posts": 12,
-      "views": 668998,
-      "likes": 39816,
-      "comments": 1051,
-      "tag": "#absolutnocharla"
-    },
     "#mcdonaldsnocharla": {
-      "posts": 5,
-      "views": 393061,
-      "likes": 15595,
-      "comments": 1439,
+      "posts": 7,
+      "views": 561906,
+      "likes": 28854,
+      "comments": 1781,
       "tag": "#mcdonaldsnocharla"
     },
+    "#absolutnocharla": {
+      "posts": 7,
+      "views": 498534,
+      "likes": 22315,
+      "comments": 873,
+      "tag": "#absolutnocharla"
+    },
+    "#texaconocharla": {
+      "posts": 4,
+      "views": 187740,
+      "likes": 13965,
+      "comments": 348,
+      "tag": "#texaconocharla"
+    },
     "#charlafutebol": {
-      "posts": 8,
-      "views": 125795,
-      "likes": 6476,
-      "comments": 139,
+      "posts": 9,
+      "views": 126063,
+      "likes": 6668,
+      "comments": 144,
       "tag": "#charlafutebol"
+    },
+    "#charlapodcast": {
+      "posts": 1,
+      "views": 22791,
+      "likes": 1075,
+      "comments": 29,
+      "tag": "#charlapodcast"
+    },
+    "#jogadaderisco": {
+      "posts": 1,
+      "views": 22791,
+      "likes": 1075,
+      "comments": 29,
+      "tag": "#jogadaderisco"
+    },
+    "#746": {
+      "posts": 1,
+      "views": 0,
+      "likes": 89,
+      "comments": 0,
+      "tag": "#746"
     },
     "#745": {
       "posts": 1,
       "views": 0,
-      "likes": 432,
+      "likes": 440,
       "comments": 6,
       "tag": "#745"
     },
     "#744": {
       "posts": 1,
       "views": 0,
-      "likes": 287,
+      "likes": 291,
       "comments": 6,
       "tag": "#744"
-    },
-    "#743": {
-      "posts": 1,
-      "views": 0,
-      "likes": 299,
-      "comments": 12,
-      "tag": "#743"
     }
   },
   "top_posts": [
@@ -98,11 +119,11 @@
       "url": "https://www.instagram.com/reel/Db1o9ioJoiy/",
       "tags": [],
       "type": "VIDEO",
-      "views": 577253,
+      "views": 577675,
       "reach": 355983,
-      "likes": 25971,
+      "likes": 25974,
       "comments": 383,
-      "shares": 3180,
+      "shares": 3186,
       "saves": 317,
       "platform": "instagram"
     },
@@ -118,12 +139,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 396607,
-      "reach": 250184,
-      "likes": 32532,
-      "comments": 643,
-      "shares": 594,
-      "saves": 475,
+      "views": 400054,
+      "reach": 251735,
+      "likes": 32728,
+      "comments": 646,
+      "shares": 596,
+      "saves": 478,
       "platform": "instagram"
     },
     {
@@ -133,67 +154,12 @@
       "url": "https://www.instagram.com/reel/Db1izmvukLu/",
       "tags": [],
       "type": "VIDEO",
-      "views": 331291,
-      "reach": 220220,
-      "likes": 9883,
+      "views": 331708,
+      "reach": 220251,
+      "likes": 9889,
       "comments": 375,
       "shares": 802,
-      "saves": 112,
-      "platform": "instagram"
-    },
-    {
-      "id": "18057305429525973",
-      "date": "2026-08-09",
-      "caption": "É GOL DO MELHOR JOGADOR DO CAMPEONATO!\n\nViveros abre o placar pro Athletico em cima do Santos na Vila Belmiro! Ninguém p",
-      "url": "https://www.instagram.com/reel/Db1faFDA9aK/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 289872,
-      "reach": 200498,
-      "likes": 8004,
-      "comments": 190,
-      "shares": 221,
-      "saves": 92,
-      "platform": "instagram"
-    },
-    {
-      "id": "17900877222549400",
-      "date": "2026-08-07",
-      "caption": "AS DIFERENÇAS ENTRE TANDE E GIBA! 👀😂\n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCharla #MelittaNoCharla",
-      "url": "https://www.instagram.com/reel/Dbv8hPAwdIv/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 274814,
-      "reach": 160016,
-      "likes": 14421,
-      "comments": 291,
-      "shares": 460,
-      "saves": 393,
-      "platform": "instagram"
-    },
-    {
-      "id": "17979405705119139",
-      "date": "2026-08-11",
-      "caption": "\"O VASCO RACHOU!\"\n\nA gestão do Pedrinho e os problemas internos no Gigante da Colina foram pauta na charla de hoje com o",
-      "url": "https://www.instagram.com/reel/Db6UKJWxJM2/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 272140,
-      "reach": 157259,
-      "likes": 12723,
-      "comments": 171,
-      "shares": 242,
-      "saves": 372,
+      "saves": 113,
       "platform": "instagram"
     },
     {
@@ -208,12 +174,67 @@
         "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 268703,
-      "reach": 203527,
-      "likes": 18184,
-      "comments": 505,
-      "shares": 12898,
-      "saves": 455,
+      "views": 294048,
+      "reach": 221102,
+      "likes": 19196,
+      "comments": 542,
+      "shares": 13595,
+      "saves": 471,
+      "platform": "instagram"
+    },
+    {
+      "id": "18057305429525973",
+      "date": "2026-08-09",
+      "caption": "É GOL DO MELHOR JOGADOR DO CAMPEONATO!\n\nViveros abre o placar pro Athletico em cima do Santos na Vila Belmiro! Ninguém p",
+      "url": "https://www.instagram.com/reel/Db1faFDA9aK/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 290161,
+      "reach": 200862,
+      "likes": 8007,
+      "comments": 190,
+      "shares": 221,
+      "saves": 91,
+      "platform": "instagram"
+    },
+    {
+      "id": "17979405705119139",
+      "date": "2026-08-11",
+      "caption": "\"O VASCO RACHOU!\"\n\nA gestão do Pedrinho e os problemas internos no Gigante da Colina foram pauta na charla de hoje com o",
+      "url": "https://www.instagram.com/reel/Db6UKJWxJM2/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 276373,
+      "reach": 158239,
+      "likes": 12918,
+      "comments": 173,
+      "shares": 257,
+      "saves": 374,
+      "platform": "instagram"
+    },
+    {
+      "id": "17900877222549400",
+      "date": "2026-08-07",
+      "caption": "AS DIFERENÇAS ENTRE TANDE E GIBA! 👀😂\n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCharla #MelittaNoCharla",
+      "url": "https://www.instagram.com/reel/Dbv8hPAwdIv/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 276321,
+      "reach": 161081,
+      "likes": 14505,
+      "comments": 291,
+      "shares": 461,
+      "saves": 395,
       "platform": "instagram"
     },
     {
@@ -225,12 +246,12 @@
         "#mcdonaldsnocharla"
       ],
       "type": "VIDEO",
-      "views": 267212,
-      "reach": 175725,
-      "likes": 8763,
-      "comments": 1344,
+      "views": 267607,
+      "reach": 176085,
+      "likes": 8771,
+      "comments": 1345,
       "shares": 676,
-      "saves": 377,
+      "saves": 375,
       "platform": "instagram"
     },
     {
@@ -245,12 +266,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 256342,
-      "reach": 155113,
-      "likes": 15043,
-      "comments": 760,
-      "shares": 499,
-      "saves": 354,
+      "views": 259241,
+      "reach": 156618,
+      "likes": 15174,
+      "comments": 766,
+      "shares": 508,
+      "saves": 352,
       "platform": "instagram"
     },
     {
@@ -265,12 +286,12 @@
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 252517,
-      "reach": 165827,
-      "likes": 14581,
-      "comments": 608,
-      "shares": 2864,
-      "saves": 496,
+      "views": 254310,
+      "reach": 166702,
+      "likes": 14696,
+      "comments": 615,
+      "shares": 2890,
+      "saves": 502,
       "platform": "instagram"
     }
   ],
