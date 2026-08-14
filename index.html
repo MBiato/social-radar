@@ -1629,8 +1629,11 @@ function gerarRelatorio() {
     // pública do YouTube fornece esses dois números pra ninguém (só aparecem
     // dentro do YouTube Studio) — mantê-las como "—" pra sempre seria enganoso.
     // "Watch Time" agora é real, vindo do YouTube Analytics (quando configurado).
-    const ytHeaders=['#','Data','Título / Link','Views','Watch Time','Interações'];
-    const ytCols=[10,16,80,26,26,24];
+    // Interações = Likes + Comentários (soma simples, sem métrica própria do
+    // YouTube pra "engajamento") — Likes e Comentários aparecem separados
+    // também, pra facilitar a conferência de cada um.
+    const ytHeaders=['#','Data','Título / Link','Views','Watch Time','Likes','Coment.','Interações'];
+    const ytCols=[8,14,62,20,20,18,18,22];
     const ytColX = ytCols.reduce((acc,w,i)=>{ acc.push((acc[i-1]??MAR+2)+(i===0?0:ytCols[i-1])); return acc; },[]);
     doc.setFillColor('#252525'); doc.rect(MAR,y,CW,7,'F');
     doc.setFont('helvetica','bold'); doc.setFontSize(6); doc.setTextColor('#666666');
@@ -1662,6 +1665,9 @@ function gerarRelatorio() {
       doc.setFont('helvetica','normal'); doc.setFontSize(7);
       doc.setTextColor(p.watch_minutes!=null?'#aaaaaa':'#444444');
       doc.text(p.watch_minutes!=null?fmtDur(p.watch_minutes):'—',x,y+6.5); x+=ytCols[4];
+      doc.setTextColor('#cccccc');
+      doc.text(fmt(p.likes||0),x,y+6.5); x+=ytCols[5];
+      doc.text(fmt(p.comments||0),x,y+6.5); x+=ytCols[6];
       doc.setFont('helvetica','bold'); doc.setTextColor('#FF5A1F');
       doc.text(fmt((p.likes||0)+(p.comments||0)),x,y+6.5);
       y+=rh;
@@ -1681,8 +1687,11 @@ function gerarRelatorio() {
     doc.text(fmt(sv(ytP)),ytColX[3],y+4.5);
     doc.setFontSize(6.5);
     doc.text(fmtDur(ytP.reduce((a,x)=>a+(x.watch_minutes||0),0)),ytColX[4],y+4.5);
-    doc.setFontSize(7); doc.setTextColor('#FF5A1F');
-    doc.text(fmt(si(ytP)),ytColX[5],y+4.5);
+    doc.setFontSize(7); doc.setTextColor('#ffffff');
+    doc.text(fmt(sl(ytP)),ytColX[5],y+4.5);
+    doc.text(fmt(sc(ytP)),ytColX[6],y+4.5);
+    doc.setTextColor('#FF5A1F');
+    doc.text(fmt(si(ytP)),ytColX[7],y+4.5);
     y+=12;
   }
 
