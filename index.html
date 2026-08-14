@@ -442,43 +442,65 @@ const qs = id => document.getElementById(id);
 const fmt = n => { if(n==null||isNaN(n)) return '—'; if(n>=1e6) return (n/1e6).toFixed(1)+'M'; if(n>=1000) return (n/1000).toFixed(1)+'K'; return String(Math.round(n)); };
 // Formata minutos de watch time do YouTube Analytics em "Xh Ymin" (ou só "Ymin" se < 1h)
 const fmtDur = min => { if(min==null||isNaN(min)) return '—'; min=Math.round(min); const h=Math.floor(min/60), m=min%60; return h>0 ? `${h}h ${m}min` : `${m}min`; };
-const ds = d => d.toISOString().slice(0,10);
+// Data local em 'YYYY-MM-DD' a partir dos componentes de calendário (ano/mês/
+// dia LOCAIS do navegador) — NÃO usa toISOString(), que converte pra UTC antes
+// de cortar a string e podia "pular" pro dia seguinte (ou anterior) perto da
+// meia-noite em fusos como o do Brasil (UTC-3). Todas as datas de posts/
+// snapshots já vêm do coletor como 'YYYY-MM-DD' puro (sem hora), então
+// comparar como STRING (em vez de criar objetos Date e comparar instantes)
+// evita esse tipo de problema de fuso horário por completo.
+const ds = d => { const y=d.getFullYear(), m=String(d.getMonth()+1).padStart(2,'0'), day=String(d.getDate()).padStart(2,'0'); return `${y}-${m}-${day}`; };
 const pctChg = (a,b) => b&&b!==0 ? ((a-b)/Math.abs(b)*100) : null;
 
+// Intervalo de datas ativo. Retorna 'sStr'/'eStr' ('YYYY-MM-DD', usados pra
+// filtrar posts/snapshots por comparação direta de string) e também 's'/'e'
+// (objetos Date, usados só onde é preciso formatar data pra exibição, como no
+// cabeçalho do PDF).
 function getRange() {
-  if(dStart && dEnd) return { s: new Date(dStart+'T00:00:00'), e: new Date(dEnd+'T23:59:59') };
-  const e = new Date(), s = new Date();
-  s.setDate(s.getDate() - parseInt(period));
-  return { s, e };
+  if(dStart && dEnd) return { sStr: dStart, eStr: dEnd, s: new Date(dStart+'T00:00:00'), e: new Date(dEnd+'T23:59:59') };
+  const eDate = new Date(), sDate = new Date();
+  sDate.setDate(sDate.getDate() - parseInt(period));
+  return { sStr: ds(sDate), eStr: ds(eDate), s: sDate, e: eDate };
+}
+// Período anterior, com a MESMA duração (em dias) do período atual em uso —
+// calculada a partir do intervalo REAL (respeita datas customizadas do
+// calendário). Antes, a comparação "vs. período anterior" sempre usava a
+// duração do botão 7D/30D/90D clicado por último, mesmo com um intervalo
+// customizado ativo — dando uma % de variação errada nesse caso. Também
+// corrige uma inconsistência: o período atual sempre incluía o dia final
+// (N+1 dias no total), mas o período anterior comparava só N dias — as duas
+// janelas agora têm exatamente o mesmo tamanho.
+function getPrevRange() {
+  const { sStr, eStr } = getRange();
+  const sDate = new Date(sStr+'T00:00:00'), eDate = new Date(eStr+'T00:00:00');
+  const days = Math.round((eDate - sDate) / 86400000) + 1;
+  const prevEnd = new Date(sDate); prevEnd.setDate(prevEnd.getDate() - 1);
+  const prevStart = new Date(prevEnd); prevStart.setDate(prevStart.getDate() - (days - 1));
+  return { sStr: ds(prevStart), eStr: ds(prevEnd) };
 }
 // Views a nível de CONTA do Instagram (não por post) — soma a série diária
 // coletada via account_views, filtrada pelo período. É o número que bate com
 // o "visualizações" mostrado no Painel Profissional do app do Instagram.
 // Só existe pra Instagram (YouTube/TikTok não têm esse tipo de coleta ainda).
-function getAccountViews(s, e) {
+function getAccountViews(sStr, eStr) {
   const arr = metrics.instagram?.account_views || [];
-  return arr.filter(d => { const dt = new Date(d.date+'T12:00:00'); return dt >= s && dt <= e; })
-            .reduce((a,d) => a + (d.views||0), 0);
+  return arr.filter(d => d.date >= sStr && d.date <= eStr).reduce((a,d) => a + (d.views||0), 0);
 }
 function getPrevAccountViews() {
-  const days = parseInt(period);
-  const e = new Date(); e.setDate(e.getDate() - days);
-  const s = new Date(); s.setDate(s.getDate() - days * 2);
-  return getAccountViews(s, e);
+  const { sStr, eStr } = getPrevRange();
+  return getAccountViews(sStr, eStr);
 }
 function getSnaps() {
-  const { s, e } = getRange();
-  return (metrics[platform]?.snapshots || []).filter(x => { const d = new Date(x.date); return d >= s && d <= e; }).sort((a,b) => a.date.localeCompare(b.date));
+  const { sStr, eStr } = getRange();
+  return (metrics[platform]?.snapshots || []).filter(x => x.date >= sStr && x.date <= eStr).sort((a,b) => a.date.localeCompare(b.date));
 }
 function getPrevSnaps() {
-  const days = parseInt(period);
-  const e = new Date(); e.setDate(e.getDate() - days);
-  const s = new Date(); s.setDate(s.getDate() - days * 2);
-  return (metrics[platform]?.snapshots || []).filter(x => { const d = new Date(x.date); return d >= s && d < e; });
+  const { sStr, eStr } = getPrevRange();
+  return (metrics[platform]?.snapshots || []).filter(x => x.date >= sStr && x.date <= eStr);
 }
 function getFilteredPosts() {
-  const { s, e } = getRange();
-  let posts = (metrics[platform]?.posts || []).filter(p => { const d = new Date(p.date); return d >= s && d <= e; });
+  const { sStr, eStr } = getRange();
+  let posts = (metrics[platform]?.posts || []).filter(p => p.date >= sStr && p.date <= eStr);
   if(activeTags.size > 0) posts = posts.filter(p => { const pt = (p.tags||[]).map(t=>t.toLowerCase()); return [...activeTags].every(t => pt.includes(t)); });
   return posts.sort((a,b) => {
     if(rankBy === 'date') return b.date.localeCompare(a.date);
@@ -488,8 +510,8 @@ function getFilteredPosts() {
   });
 }
 function getPostsByPlat(plat) {
-  const { s, e } = getRange();
-  let posts = (metrics[plat]?.posts || []).filter(p => { const d = new Date(p.date); return d >= s && d <= e; });
+  const { sStr, eStr } = getRange();
+  let posts = (metrics[plat]?.posts || []).filter(p => p.date >= sStr && p.date <= eStr);
   if(activeTags.size > 0) posts = posts.filter(p => { const pt = (p.tags||[]).map(t=>t.toLowerCase()); return [...activeTags].every(t => pt.includes(t)); });
   return posts.sort((a,b) => b.date.localeCompare(a.date));
 }
@@ -575,6 +597,52 @@ function saveLocal() { try { localStorage.setItem('cr_v1', JSON.stringify(metric
 // a Contents API só aceita arquivos de até 1MB no campo "content" — e o metrics.json
 // do Charla Radar (até 2.000 posts, captions completas sem truncamento) pode passar
 // facilmente desse limite. A Git Data API não tem esse teto.
+// Mescla um array do servidor com um array local por uma chave (ex: 'id' pros
+// posts, 'date' pros snapshots). Quando o mesmo item existe dos dois lados, faz
+// mescla CAMPO A CAMPO (não substitui o registro inteiro) — assim, se a coleta
+// automática já tiver preenchido watch_minutes/shares num vídeo no servidor e o
+// navegador só estiver atualizando título/views por uma importação manual, os
+// dois conjuntos de campos sobrevivem em vez de um apagar o outro.
+// preferLocal=true faz os campos locais vencerem em caso de conflito de mesmo
+// campo (usado pra posts — é o que acabou de ser editado na tela); preferLocal
+// =false faz os campos do servidor vencerem (usado pra dados de coleta
+// automática, que o navegador não edita de propósito).
+function mergeArraysByKey(serverArr, localArr, key, preferLocal) {
+  const map = new Map();
+  (serverArr || []).forEach(item => map.set(item[key], item));
+  (localArr || []).forEach(item => {
+    if (map.has(item[key])) {
+      const existing = map.get(item[key]);
+      map.set(item[key], preferLocal ? { ...existing, ...item } : { ...item, ...existing });
+    } else {
+      map.set(item[key], item);
+    }
+  });
+  return Array.from(map.values());
+}
+function mergeMetrics(serverMetrics, localMetrics) {
+  const merged = {};
+  for (const plat of ['instagram', 'youtube', 'tiktok']) {
+    const s = serverMetrics[plat] || {}, l = localMetrics[plat] || {};
+    merged[plat] = {
+      snapshots: mergeArraysByKey(s.snapshots, l.snapshots, 'date', false).sort((a, b) => a.date.localeCompare(b.date)),
+      posts:     mergeArraysByKey(s.posts, l.posts, 'id', true).sort((a, b) => b.date.localeCompare(a.date)),
+    };
+    if (s.account_views || l.account_views) merged[plat].account_views = mergeArraysByKey(s.account_views, l.account_views, 'date', false).sort((a, b) => a.date.localeCompare(b.date));
+    if (s.analytics_daily || l.analytics_daily) merged[plat].analytics_daily = mergeArraysByKey(s.analytics_daily, l.analytics_daily, 'date', false).sort((a, b) => a.date.localeCompare(b.date));
+  }
+  return merged;
+}
+
+// Persiste `metrics` de volta no data/metrics.json do repositório, MESCLANDO
+// com o que já estiver lá em vez de sobrescrever cegamente. Sem isso, uma
+// importação manual pelo navegador podia apagar dados que a coleta automática
+// (GitHub Actions, roda todo dia às 7h e também sob demanda) tivesse salvado
+// bem no meio do processo — e ainda por cima falhava com "422 — Update is not
+// a fast forward", porque as duas gravações competiam pelo mesmo commit base.
+// Agora: busca a versão mais fresca do arquivo na hora de salvar, mescla, e
+// tenta de novo automaticamente (até 3x) se outra gravação ganhar a corrida
+// entre a busca e o commit.
 let lastCommitError = '';
 async function commitMetricsToGitHub() {
   const REPO = 'MBiato/social-radar';
@@ -595,60 +663,93 @@ async function commitMetricsToGitHub() {
     if(!r.ok) {
       let detail = '';
       try { const j = await r.json(); detail = j.message || ''; } catch {}
-      throw new Error(`${r.status} ${r.statusText}${detail ? ' — ' + detail : ''} (${url.replace('https://api.github.com','')})`);
+      const err = new Error(`${r.status} ${r.statusText}${detail ? ' — ' + detail : ''} (${url.replace('https://api.github.com','')})`);
+      err.status = r.status;
+      throw err;
     }
     return r.json();
   }
 
-  try {
-    // 1. Branch padrão do repositório
-    const repoInfo = await gh(`https://api.github.com/repos/${REPO}`, { headers });
-    const branch = repoInfo.default_branch || 'main';
+  const MAX_ATTEMPTS = 3;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      // 1. Branch padrão do repositório
+      const repoInfo = await gh(`https://api.github.com/repos/${REPO}`, { headers });
+      const branch = repoInfo.default_branch || 'main';
 
-    // 2. Commit e árvore atuais da branch
-    const ref = await gh(`https://api.github.com/repos/${REPO}/git/ref/heads/${branch}`, { headers });
-    const baseCommitSha = ref.object.sha;
-    const baseCommit = await gh(`https://api.github.com/repos/${REPO}/git/commits/${baseCommitSha}`, { headers });
-    const baseTreeSha = baseCommit.tree.sha;
+      // 2. Commit e árvore atuais da branch — buscados na hora, nunca em cache
+      const ref = await gh(`https://api.github.com/repos/${REPO}/git/ref/heads/${branch}`, { headers });
+      const baseCommitSha = ref.object.sha;
+      const baseCommit = await gh(`https://api.github.com/repos/${REPO}/git/commits/${baseCommitSha}`, { headers });
+      const baseTreeSha = baseCommit.tree.sha;
 
-    // 3. Cria o blob com o conteúdo novo (sem limite de 1MB, ao contrário da Contents API)
-    const contentStr = JSON.stringify(metrics, null, 2);
-    const blob = await gh(`https://api.github.com/repos/${REPO}/git/blobs`, {
-      method: 'POST', headers: jsonHeaders,
-      body: JSON.stringify({ content: contentStr, encoding: 'utf-8' })
-    });
+      // 3. Busca o metrics.json ATUAL dessa árvore e mescla com o que está sendo
+      //    salvo — em vez de sobrescrever cegamente (o que apagaria dados novos
+      //    que a coleta automática tenha salvado nesse meio-tempo)
+      const treeFull = await gh(`https://api.github.com/repos/${REPO}/git/trees/${baseTreeSha}?recursive=1`, { headers });
+      const fileEntry = (treeFull.tree || []).find(t => t.path === PATH);
+      let serverMetrics = null;
+      if (fileEntry) {
+        try {
+          const blobData = await gh(`https://api.github.com/repos/${REPO}/git/blobs/${fileEntry.sha}`, { headers });
+          const binary = atob((blobData.content || '').replace(/\n/g, ''));
+          const bytes  = Uint8Array.from(binary, c => c.charCodeAt(0));
+          serverMetrics = JSON.parse(new TextDecoder('utf-8').decode(bytes));
+        } catch (e) {
+          console.warn('Não consegui ler o metrics.json atual do servidor pra mesclar — seguindo só com os dados locais:', e);
+        }
+      }
+      const merged = serverMetrics ? mergeMetrics(serverMetrics, metrics) : metrics;
+      merged.updated_at = new Date().toISOString();
 
-    // 4. Cria uma nova árvore apontando o path para o blob novo
-    const tree = await gh(`https://api.github.com/repos/${REPO}/git/trees`, {
-      method: 'POST', headers: jsonHeaders,
-      body: JSON.stringify({
-        base_tree: baseTreeSha,
-        tree: [{ path: PATH, mode: '100644', type: 'blob', sha: blob.sha }]
-      })
-    });
+      // 4. Cria o blob com o conteúdo mesclado (sem limite de 1MB, ao contrário da Contents API)
+      const contentStr = JSON.stringify(merged, null, 2);
+      const blob = await gh(`https://api.github.com/repos/${REPO}/git/blobs`, {
+        method: 'POST', headers: jsonHeaders,
+        body: JSON.stringify({ content: contentStr, encoding: 'utf-8' })
+      });
 
-    // 5. Cria o commit
-    const commit = await gh(`https://api.github.com/repos/${REPO}/git/commits`, {
-      method: 'POST', headers: jsonHeaders,
-      body: JSON.stringify({
-        message: 'Atualiza metrics.json via importação manual do dashboard',
-        tree: tree.sha,
-        parents: [baseCommitSha]
-      })
-    });
+      // 5. Cria uma nova árvore apontando o path para o blob novo
+      const tree = await gh(`https://api.github.com/repos/${REPO}/git/trees`, {
+        method: 'POST', headers: jsonHeaders,
+        body: JSON.stringify({
+          base_tree: baseTreeSha,
+          tree: [{ path: PATH, mode: '100644', type: 'blob', sha: blob.sha }]
+        })
+      });
 
-    // 6. Atualiza a branch para apontar pro commit novo
-    await gh(`https://api.github.com/repos/${REPO}/git/refs/heads/${branch}`, {
-      method: 'PATCH', headers: jsonHeaders,
-      body: JSON.stringify({ sha: commit.sha })
-    });
+      // 6. Cria o commit
+      const commit = await gh(`https://api.github.com/repos/${REPO}/git/commits`, {
+        method: 'POST', headers: jsonHeaders,
+        body: JSON.stringify({
+          message: 'Atualiza metrics.json via importação manual do dashboard',
+          tree: tree.sha,
+          parents: [baseCommitSha]
+        })
+      });
 
-    return true;
-  } catch(e) {
-    lastCommitError = e.message || String(e);
-    console.error('commitMetricsToGitHub:', e);
-    return false;
+      // 7. Atualiza a branch para apontar pro commit novo
+      await gh(`https://api.github.com/repos/${REPO}/git/refs/heads/${branch}`, {
+        method: 'PATCH', headers: jsonHeaders,
+        body: JSON.stringify({ sha: commit.sha })
+      });
+
+      metrics = merged;   // reflete no navegador o resultado mesclado (coleta automática + a importação que acabou de ser feita)
+      saveLocal();
+      render();
+      return true;
+    } catch(e) {
+      lastCommitError = e.message || String(e);
+      console.error(`commitMetricsToGitHub (tentativa ${attempt}/${MAX_ATTEMPTS}):`, e);
+      // "422 ... not a fast forward" = outra coisa (a coleta automática, por
+      // exemplo) salvou um commit novo bem nessa hora. Tenta de novo buscando
+      // a versão mais fresca — só desiste depois de esgotar as tentativas.
+      const isConflict = e.status === 422 || /not a fast forward/i.test(lastCommitError);
+      if (!isConflict || attempt === MAX_ATTEMPTS) return false;
+      await new Promise(res => setTimeout(res, 800 * attempt));
+    }
   }
+  return false;
 }
 
 // ═══ RENDER PRINCIPAL ═════════════════════════════════════
@@ -696,7 +797,7 @@ function renderPlatCards() {
 // ═══ KPIs ════════════════════════════════════════════════
 function renderKPIs() {
   const snaps = getSnaps(), prev = getPrevSnaps();
-  const { s, e } = getRange();
+  const { sStr, eStr } = getRange();
   const last = snaps[snaps.length-1], first = snaps[0], plast = prev[prev.length-1];
   // Instagram usa a série de views de conta (histórico completo, soma certinha por
   // período). YouTube agora também soma direto do snapshot: desde a integração com
@@ -706,7 +807,7 @@ function renderKPIs() {
   // mostrando um número absurdo (total histórico do canal multiplicado pelos dias
   // do período). Sem a integração ativa, o 'views' do dia continua sendo o total
   // histórico do canal (comportamento antigo, só naquele dia específico).
-  const totalViews = platform==='instagram' ? getAccountViews(s,e)
+  const totalViews = platform==='instagram' ? getAccountViews(sStr,eStr)
                     : snaps.reduce((a,s)=>a+(s.views||0),0);
   const prevViews  = platform==='instagram' ? getPrevAccountViews()
                     : prev.reduce((a,s)=>a+(s.views||0),0);
@@ -1076,15 +1177,29 @@ function toggleImp() { const el=qs('imp-panel'); el.style.display=el.style.displ
 function handleImport() {
   try {
     const data = JSON.parse(qs('imp-json').value.trim());
-    if(Array.isArray(data)) data.forEach(d=>Object.assign(metrics,d));
-    else Object.assign(metrics,data);
+    // Mescla em vez de sobrescrever (mesma lógica de mergeMetrics usada no
+    // commit pro GitHub) — colar aqui um JSON parcial ou de uma coleta antiga
+    // não apaga mais posts/snapshots de outra rede, nem dados mais novos que
+    // já estivessem carregados no navegador.
+    const imports = Array.isArray(data) ? data : [data];
+    let merged = metrics;
+    imports.forEach(d => { merged = mergeMetrics(d, merged); });
+    merged.updated_at = new Date().toISOString();
+    metrics = merged;
     saveLocal(); render();
-    qs('imp-msg').textContent='✓ Importado!';
+    qs('imp-msg').textContent='✓ Importado (mesclado com o que já existia)!';
     setTimeout(()=>{qs('imp-msg').textContent='';},3000);
   } catch { qs('imp-msg').style.color='var(--red)'; qs('imp-msg').textContent='✗ JSON inválido'; }
 }
 function exportData() { const b=new Blob([JSON.stringify(metrics,null,2)],{type:'application/json'}); const a=document.createElement('a'); a.href=URL.createObjectURL(b); a.download='metrics.json'; a.click(); }
-function resetDemo() { metrics=generateDemo(); saveLocal(); render(); }
+// Confirmação adicionada — antes esse botão trocava os dados reais mostrados
+// na tela por dados fictícios sem avisar nada. Não mexe no GitHub, só no que
+// está carregado no navegador (um recarregar da página traz os dados reais
+// de volta), mas um clique sem querer não devia acontecer sem aviso.
+function resetDemo() {
+  if(!confirm('Isso troca os dados mostrados na tela por dados fictícios de demonstração.\n\nNão afeta o que está salvo no GitHub — só o que está neste navegador agora. Pra ver os dados reais de novo, recarregue a página.\n\nContinuar?')) return;
+  metrics=generateDemo(); saveLocal(); render();
+}
 
 // ═══ YOUTUBE IMPORT ═══════════════════════════════════════
 function abrirYTImport() {
@@ -1178,9 +1293,24 @@ async function salvarYT() {
   if(!metrics.youtube) metrics.youtube={snapshots:[],posts:[]};
   let s=0,a=0;
   ytVids.forEach(v=>{
-    const post={id:'yt_'+v.id,date:v.date,caption:v.title,url:v.url,tags:(v.tags||[]).map(t=>t.toLowerCase()),type:'VIDEO',views:v.views,likes:v.likes,comments:v.comments,shares:0,saves:0};
-    const idx=metrics.youtube.posts.findIndex(p=>p.id===post.id);
-    if(idx>=0){metrics.youtube.posts[idx]=post;a++;}else{metrics.youtube.posts.push(post);s++;}
+    const id = 'yt_'+v.id;
+    const idx = metrics.youtube.posts.findIndex(p=>p.id===id);
+    const camposDaImportacao = {
+      date: v.date, caption: v.title, url: v.url,
+      tags: (v.tags||[]).map(t=>t.toLowerCase()),
+      type: 'VIDEO', views: v.views, likes: v.likes, comments: v.comments,
+    };
+    if(idx>=0) {
+      // Atualiza só os campos que essa importação manual (via API pública,
+      // sem OAuth) realmente conhece. Sobrescrever o post inteiro apagaria
+      // watch_minutes / avg_view_duration_sec / shares reais que a coleta
+      // automática (YouTube Analytics) já tenha adicionado a esse vídeo.
+      Object.assign(metrics.youtube.posts[idx], camposDaImportacao);
+      a++;
+    } else {
+      metrics.youtube.posts.push({ id, shares:0, saves:0, ...camposDaImportacao });
+      s++;
+    }
   });
   metrics.youtube.posts.sort((a,b)=>b.date.localeCompare(a.date));
   saveLocal(); render();
