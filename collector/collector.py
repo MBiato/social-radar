@@ -26,11 +26,9 @@ LOG_FMT     = '%(asctime)s [%(levelname)s] %(message)s'
 
 # Máximo de posts por plataforma guardados no metrics.json (upsert_posts mantém
 # só os mais recentes, descarta o resto). Com o Charla publicando 10-20 vídeos/
-# dia no YouTube, 2.000 posts durava só uns 4-5 meses antes de vídeos mais
-# antigos começarem a "sumir" do dashboard/relatórios (continuam no YouTube,
-# só saem do nosso arquivo). Subido pra 6.000 — dá quase 1 ano de folga mesmo
-# no ritmo mais puxado (20/dia).
-MAX_POSTS   = 6000
+# dia no YouTube, isso pode chegar a ~7.300 vídeos num ano (20/dia). Subido pra
+# 8.000 pra sobrar folga real de 1 ano inteiro mesmo no ritmo mais puxado.
+MAX_POSTS   = 8000
 
 # Coleta normal (diária, via cron) busca só a 1ª página de 100 posts mais recentes
 # do Instagram — rápido, mas não "revisita" posts mais antigos (ex: se você editou
@@ -46,15 +44,20 @@ IG_MAX_PAGES   = 20 if FULL_HISTORY else 1
 # saem dessa janela param de ser atualizados (views ficam "congeladas"). No modo
 # --full, amplia a janela pra 1 ano.
 #
-# O Charla publica 10-20 vídeos/dia — isso pode encher até 560 vídeos só nos
-# últimos 28 dias. Por isso pagina bastante em AMBOS os modos (não só no --full):
-# 20 páginas x 50 = até 1.000 vídeos na coleta diária normal (folga confortável
-# acima do pior caso de 560), e 40 páginas x 50 = até 2.000 no --full (cobre o
-# ano inteiro até o teto do MAX_POSTS). Cada página custa 100 unidades de quota
-# da YouTube Data API (limite padrão: 10.000/dia) — 20 páginas/dia = 2.000
-# unidades, folga tranquila mesmo rodando todo dia.
+# O Charla publica 10-20 vídeos/dia — pra cobrir 1 ano inteiro nesse ritmo dá
+# até ~7.300 vídeos, e 50 por página dá ~150 páginas. A listagem usa a playlist
+# de "uploads" do canal (playlistItems.list, ver get_uploads_playlist_id) em
+# vez de search.list — porque search.list custa 100 unidades de quota POR
+# PÁGINA (150 páginas = 15.000 unidades, estouraria sozinho o limite padrão de
+# 10.000/dia da YouTube Data API), enquanto playlistItems.list custa só 1
+# unidade por página (150 páginas = 150 unidades, folga enorme). Isso também
+# corrige um bug real: com o limite antigo de 40 páginas via search.list
+# (2.000 vídeos), uma coleta --full só alcançava uns 100-130 dias pra trás no
+# ritmo do canal — MENOS que os 365 dias pretendidos — por isso vídeos de
+# ~4 meses atrás (ex: abril) não tinham dados de watch time preenchidos mesmo
+# depois de uma Coleta Completa.
 YT_DAYS_BACK   = 365 if FULL_HISTORY else 28
-YT_MAX_PAGES   = 40  if FULL_HISTORY else 20
+YT_MAX_PAGES   = 200 if FULL_HISTORY else 20
 
 # YouTube Analytics API (OAuth) — views diárias reais, watch time, duração média
 # e engajamento por dia a nível de CANAL, além de watch time por VÍDEO (usado no
@@ -500,6 +503,28 @@ def collect_youtube_video_analytics(video_ids: list, access_token: str, channel_
             log.warning(f'YouTube Analytics (watch time por vídeo, lote {i // 200 + 1}): {e}')
     return out
 
+def get_uploads_playlist_id(channel_id: str, api_key: str, base: str) -> Optional[str]:
+    """
+    Pega o ID da playlist "uploads" do canal (todo canal do YouTube tem uma,
+    criada automaticamente, com todos os vídeos publicados). Usada em vez de
+    search.list pra listar vídeos — ver comentário de YT_MAX_PAGES no topo do
+    arquivo pra explicação completa (quota).
+    """
+    try:
+        r = requests.get(f'{base}/channels', params={
+            'part': 'contentDetails',
+            'id':   channel_id,
+            'key':  api_key,
+        }, timeout=15)
+        r.raise_for_status()
+        items = r.json().get('items', [])
+        if not items:
+            return None
+        return items[0]['contentDetails']['relatedPlaylists']['uploads']
+    except Exception as e:
+        log.error(f'YouTube uploads playlist: {e}')
+        return None
+
 # ─── YOUTUBE ─────────────────────────────────────────────────────────────────
 def collect_youtube(metrics: dict) -> bool:
     api_key    = get_env('YOUTUBE_API_KEY')
@@ -539,33 +564,49 @@ def collect_youtube(metrics: dict) -> bool:
         'shares':      0,
     }
 
-    # Vídeos recentes (28 dias na coleta normal; até 1 ano no modo --full)
+    # Vídeos recentes (28 dias na coleta normal; até 1 ano no modo --full).
+    # Lista via a playlist de "uploads" do canal (playlistItems.list), não
+    # search.list — ver comentário de YT_MAX_PAGES acima pra explicação da
+    # troca (quota) e do bug que ela corrige (backfill incompleto no --full).
     published_after = (datetime.datetime.utcnow() - datetime.timedelta(days=YT_DAYS_BACK)).strftime('%Y-%m-%dT%H:%M:%SZ')
     video_ids = []
-    page_token = None
-    try:
-        for _ in range(YT_MAX_PAGES):
-            params = {
-                'part':           'snippet',
-                'channelId':      channel_id,
-                'type':           'video',
-                'order':          'date',
-                'maxResults':     50,   # máximo permitido pela API — usado nos dois modos
-                'publishedAfter': published_after,
-                'key':            api_key,
-            }
-            if page_token:
-                params['pageToken'] = page_token
-            r = requests.get(f'{base}/search', params=params, timeout=15)
-            r.raise_for_status()
-            data = r.json()
-            for item in data.get('items', []):
-                video_ids.append(item['id']['videoId'])
-            page_token = data.get('nextPageToken')
-            if not page_token:
-                break
-    except Exception as e:
-        log.error(f'YouTube search: {e}')
+    uploads_playlist_id = get_uploads_playlist_id(channel_id, api_key, base)
+    if not uploads_playlist_id:
+        log.error('YouTube: não achei a playlist de uploads do canal — pulando listagem de vídeos')
+    else:
+        page_token = None
+        try:
+            for _ in range(YT_MAX_PAGES):
+                params = {
+                    'part':       'contentDetails',
+                    'playlistId': uploads_playlist_id,
+                    'maxResults': 50,
+                    'key':        api_key,
+                }
+                if page_token:
+                    params['pageToken'] = page_token
+                r = requests.get(f'{base}/playlistItems', params=params, timeout=15)
+                r.raise_for_status()
+                data = r.json()
+                items = data.get('items', [])
+                page_has_recent = False
+                for item in items:
+                    cd = item.get('contentDetails', {})
+                    published_at = cd.get('videoPublishedAt', '')
+                    vid = cd.get('videoId')
+                    if vid and published_at and published_at >= published_after:
+                        video_ids.append(vid)
+                        page_has_recent = True
+                # A playlist de uploads vem do mais novo pro mais antigo — assim
+                # que uma página inteira sai da janela de published_after, o
+                # resto só vai ficar mais antigo ainda, então já pode parar.
+                if items and not page_has_recent:
+                    break
+                page_token = data.get('nextPageToken')
+                if not page_token:
+                    break
+        except Exception as e:
+            log.error(f'YouTube playlistItems: {e}')
 
     posts = []
     if video_ids:
