@@ -705,6 +705,15 @@
         "views": 0,
         "reach": 0,
         "likes": 19103
+      },
+      {
+        "date": "2026-08-15",
+        "followers": 970894,
+        "following": 1124,
+        "media_count": 7282,
+        "views": 0,
+        "reach": 0,
+        "likes": 0
       }
     ],
     "posts": [
@@ -717,12 +726,12 @@
           "#sportingbetnocharla."
         ],
         "type": "VIDEO",
-        "views": 62722,
-        "reach": 37955,
-        "likes": 1764,
-        "comments": 100,
-        "shares": 62,
-        "saves": 39
+        "views": 73571,
+        "reach": 44816,
+        "likes": 1984,
+        "comments": 119,
+        "shares": 73,
+        "saves": 44
       },
       {
         "id": "17947296030266799",
@@ -733,12 +742,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 188215,
-        "reach": 121229,
-        "likes": 16052,
-        "comments": 1269,
-        "shares": 1436,
-        "saves": 282
+        "views": 231178,
+        "reach": 154608,
+        "likes": 18976,
+        "comments": 1511,
+        "shares": 1782,
+        "saves": 318
       },
       {
         "id": "18391121128165937",
@@ -749,12 +758,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 7885,
-        "reach": 5740,
-        "likes": 390,
-        "comments": 19,
-        "shares": 10,
-        "saves": 5
+        "views": 9173,
+        "reach": 6623,
+        "likes": 443,
+        "comments": 20,
+        "shares": 14,
+        "saves": 4
       },
       {
         "id": "18105160709157014",
@@ -765,10 +774,10 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 10876,
-        "reach": 7695,
-        "likes": 490,
-        "comments": 16,
+        "views": 12669,
+        "reach": 9074,
+        "likes": 556,
+        "comments": 17,
         "shares": 17,
         "saves": 5
       },
@@ -781,12 +790,143 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 24350,
-        "reach": 16250,
-        "likes": 407,
-        "comments": 18,
-        "shares": 47,
+        "views": 26693,
+        "reach": 17800,
+        "likes": 456,
+        "comments": 19,
+        "shares": 51,
+        "saves": 9
+      },
+      {
+        "id": "18107095919177117",
+        "date": "2026-08-14",
+        "caption": "AS PRISÕES E MÁQUINAS CAÇA-NÍQUEIS! \n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #MelittaNoCharla",
+        "url": "https://www.instagram.com/reel/DcCWEDDunAd/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#brahmanocharla",
+          "#assainocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 42655,
+        "reach": 26840,
+        "likes": 1726,
+        "comments": 30,
+        "shares": 270,
+        "saves": 116
+      },
+      {
+        "id": "18022119155698379",
+        "date": "2026-08-14",
+        "caption": "\"ELE ERA UM SER HUMANO ESPETACULAR!\"\n\nMichel Assef falou durante a charla sobre o Castor de Andrade e suas histórias.\n\n#",
+        "url": "https://www.instagram.com/reel/DcCMpNhBlfa/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#brahmanocharla",
+          "#assainocharla",
+          "#melittanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 73288,
+        "reach": 47371,
+        "likes": 4193,
+        "comments": 125,
+        "shares": 1053,
+        "saves": 237
+      },
+      {
+        "id": "17981169693115934",
+        "date": "2026-08-14",
+        "caption": "CAAAAALMA, AZEVEDO! CANTA JUNTO! 🤣\n\nAcho que o Azevedo não curtiu muito a cantoria durante a Charla de Quinta... \n\n#Spor",
+        "url": "https://www.instagram.com/reel/DcB-mxuBAYA/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#mcdonaldsnocharla",
+          "#fornerianocharla",
+          "#absolutnocharla"
+        ],
+        "type": "VIDEO",
+        "views": 38607,
+        "reach": 27227,
+        "likes": 1876,
+        "comments": 117,
+        "shares": 88,
+        "saves": 43
+      },
+      {
+        "id": "17902211523474417",
+        "date": "2026-08-14",
+        "caption": "PEDRO EMANUEL MUDOU O VASCO? \n\n#SportingbetNoCharla #McDonaldsNoCharla #ForneriaNoCharla #AbsolutNoCharla",
+        "url": "https://www.instagram.com/reel/DcB9xVRzyrp/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#mcdonaldsnocharla",
+          "#fornerianocharla",
+          "#absolutnocharla"
+        ],
+        "type": "VIDEO",
+        "views": 22779,
+        "reach": 15301,
+        "likes": 1925,
+        "comments": 22,
+        "shares": 40,
+        "saves": 29
+      },
+      {
+        "id": "18327597469263184",
+        "date": "2026-08-14",
+        "caption": "UMA ELIMINAÇÃO VAI CULMINAR EM MUDANÇA DE TREINADOR?\n\nA goleada sofrida para o Cienciano muda o rumo do Botafogo no plan",
+        "url": "https://www.instagram.com/reel/DcBtXjcOtGF/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#mcdonaldsnocharla",
+          "#fornerianocharla",
+          "#absolutnocharla"
+        ],
+        "type": "VIDEO",
+        "views": 13508,
+        "reach": 9545,
+        "likes": 462,
+        "comments": 56,
+        "shares": 7,
         "saves": 7
+      },
+      {
+        "id": "18110272256041421",
+        "date": "2026-08-14",
+        "caption": "O QUE ACONTECEU COM O BOTAFOGO NA PARTIDA DE ONTEM?\n\nA mesa da Charla de Quinta comentou sobre a derrota do Glorioso, ci",
+        "url": "https://www.instagram.com/reel/DcBsgfOPJYV/",
+        "tags": [
+          "#sportingbetnocharla",
+          "#mcdonaldsnocharla",
+          "#fornerianocharla",
+          "#absolutnocharla"
+        ],
+        "type": "VIDEO",
+        "views": 22876,
+        "reach": 16923,
+        "likes": 819,
+        "comments": 23,
+        "shares": 28,
+        "saves": 18
+      },
+      {
+        "id": "18106237382175548",
+        "date": "2026-08-14",
+        "caption": "HABEMUS NOVA PROMESSA DA BRAHMA! 👀\n\nA Brahma quer MUITO dar cerveja de graça e lançaram mais uma campanha F*D*. O hexa n",
+        "url": "https://www.instagram.com/reel/DcBnkaNTLnu/",
+        "tags": [
+          "#charlapodcast",
+          "#brahmanocharla"
+        ],
+        "type": "VIDEO",
+        "views": 38050,
+        "reach": 24351,
+        "likes": 1096,
+        "comments": 29,
+        "shares": 552,
+        "saves": 43
       },
       {
         "id": "18105905870154866",
@@ -797,10 +937,10 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 21095,
-        "reach": 15563,
-        "likes": 1356,
-        "comments": 31,
+        "views": 21779,
+        "reach": 16107,
+        "likes": 1387,
+        "comments": 32,
         "shares": 14,
         "saves": 10
       },
@@ -813,9 +953,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 20301,
-        "reach": 15661,
-        "likes": 1895,
+        "views": 20664,
+        "reach": 15989,
+        "likes": 1917,
         "comments": 60,
         "shares": 13,
         "saves": 8
@@ -829,9 +969,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 32303,
-        "reach": 23962,
-        "likes": 3232,
+        "views": 33168,
+        "reach": 24629,
+        "likes": 3313,
         "comments": 49,
         "shares": 65,
         "saves": 33
@@ -845,12 +985,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 31069,
-        "reach": 22681,
-        "likes": 2480,
-        "comments": 64,
-        "shares": 189,
-        "saves": 46
+        "views": 32981,
+        "reach": 23910,
+        "likes": 2649,
+        "comments": 71,
+        "shares": 204,
+        "saves": 52
       },
       {
         "id": "18164176912482653",
@@ -861,12 +1001,12 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 47553,
-        "reach": 33970,
-        "likes": 3693,
-        "comments": 87,
-        "shares": 1556,
-        "saves": 36
+        "views": 52498,
+        "reach": 36662,
+        "likes": 4020,
+        "comments": 91,
+        "shares": 1844,
+        "saves": 38
       },
       {
         "id": "18108024889949599",
@@ -880,12 +1020,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 30135,
-        "reach": 20242,
-        "likes": 1132,
-        "comments": 6,
-        "shares": 46,
-        "saves": 35
+        "views": 38370,
+        "reach": 25371,
+        "likes": 1449,
+        "comments": 7,
+        "shares": 48,
+        "saves": 40
       },
       {
         "id": "18113429776764988",
@@ -896,10 +1036,10 @@
           "#texaconocharla"
         ],
         "type": "VIDEO",
-        "views": 15196,
-        "reach": 10815,
-        "likes": 488,
-        "comments": 2,
+        "views": 18210,
+        "reach": 13030,
+        "likes": 566,
+        "comments": 6,
         "shares": 0,
         "saves": 5
       },
@@ -915,12 +1055,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 96125,
-        "reach": 64168,
-        "likes": 7138,
-        "comments": 1244,
-        "shares": 1601,
-        "saves": 263
+        "views": 120283,
+        "reach": 81920,
+        "likes": 8827,
+        "comments": 1616,
+        "shares": 2071,
+        "saves": 338
       },
       {
         "id": "17902054671544152",
@@ -931,12 +1071,12 @@
           "#texaconocharla"
         ],
         "type": "VIDEO",
-        "views": 14258,
-        "reach": 10238,
-        "likes": 558,
-        "comments": 7,
+        "views": 15870,
+        "reach": 11393,
+        "likes": 597,
+        "comments": 8,
         "shares": 9,
-        "saves": 9
+        "saves": 8
       },
       {
         "id": "18111894079967507",
@@ -949,8 +1089,8 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 116,
-        "comments": 0,
+        "likes": 127,
+        "comments": 1,
         "shares": 0,
         "saves": 0
       },
@@ -965,7 +1105,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 191,
+        "likes": 196,
         "comments": 5,
         "shares": 0,
         "saves": 0
@@ -982,11 +1122,11 @@
           "#texaconocharla"
         ],
         "type": "VIDEO",
-        "views": 15406,
-        "reach": 10887,
-        "likes": 486,
+        "views": 16826,
+        "reach": 11857,
+        "likes": 506,
         "comments": 4,
-        "shares": 2,
+        "shares": 3,
         "saves": 5
       },
       {
@@ -998,7 +1138,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 61,
+        "likes": 63,
         "comments": 4,
         "shares": 0,
         "saves": 0
@@ -1015,12 +1155,12 @@
           "#texaconocharla"
         ],
         "type": "VIDEO",
-        "views": 199157,
-        "reach": 144141,
-        "likes": 14916,
-        "comments": 365,
-        "shares": 6045,
-        "saves": 383
+        "views": 215252,
+        "reach": 160780,
+        "likes": 15405,
+        "comments": 380,
+        "shares": 6188,
+        "saves": 385
       },
       {
         "id": "18086398631196193",
@@ -1032,12 +1172,12 @@
           "#jogadaderisco"
         ],
         "type": "VIDEO",
-        "views": 30282,
-        "reach": 22038,
-        "likes": 1331,
-        "comments": 32,
-        "shares": 35,
-        "saves": 11
+        "views": 34850,
+        "reach": 25441,
+        "likes": 1442,
+        "comments": 34,
+        "shares": 37,
+        "saves": 12
       },
       {
         "id": "18072787229398188",
@@ -1048,9 +1188,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 40721,
-        "reach": 29954,
-        "likes": 2965,
+        "views": 40905,
+        "reach": 30202,
+        "likes": 2971,
         "comments": 178,
         "shares": 147,
         "saves": 16
@@ -1064,12 +1204,12 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 20947,
-        "reach": 16625,
-        "likes": 1353,
+        "views": 21137,
+        "reach": 16853,
+        "likes": 1366,
         "comments": 38,
         "shares": 48,
-        "saves": 11
+        "saves": 10
       },
       {
         "id": "17885264256612249",
@@ -1083,12 +1223,12 @@
           "#assainocharla"
         ],
         "type": "VIDEO",
-        "views": 20116,
-        "reach": 16724,
-        "likes": 351,
+        "views": 21238,
+        "reach": 17848,
+        "likes": 370,
         "comments": 1,
         "shares": 1,
-        "saves": 7
+        "saves": 6
       },
       {
         "id": "17995308827812189",
@@ -1102,12 +1242,12 @@
           "#assainocharla"
         ],
         "type": "VIDEO",
-        "views": 6833,
-        "reach": 5240,
-        "likes": 114,
+        "views": 7104,
+        "reach": 5451,
+        "likes": 117,
         "comments": 2,
         "shares": 2,
-        "saves": 4
+        "saves": 3
       },
       {
         "id": "18112980565951874",
@@ -1121,12 +1261,12 @@
           "#assainocharla"
         ],
         "type": "VIDEO",
-        "views": 14617,
-        "reach": 10735,
-        "likes": 603,
+        "views": 15059,
+        "reach": 11035,
+        "likes": 621,
         "comments": 3,
         "shares": 16,
-        "saves": 11
+        "saves": 10
       },
       {
         "id": "17953309260227100",
@@ -1140,12 +1280,12 @@
           "#assainocharla"
         ],
         "type": "VIDEO",
-        "views": 10205,
-        "reach": 7287,
-        "likes": 236,
+        "views": 10417,
+        "reach": 7422,
+        "likes": 241,
         "comments": 22,
         "shares": 24,
-        "saves": 6
+        "saves": 5
       },
       {
         "id": "18097207046202482",
@@ -1158,7 +1298,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 382,
+        "likes": 388,
         "comments": 7,
         "shares": 0,
         "saves": 0
@@ -1175,11 +1315,11 @@
           "#assainocharla"
         ],
         "type": "VIDEO",
-        "views": 34963,
-        "reach": 23858,
-        "likes": 1389,
-        "comments": 32,
-        "shares": 123,
+        "views": 35299,
+        "reach": 24110,
+        "likes": 1396,
+        "comments": 33,
+        "shares": 124,
         "saves": 20
       },
       {
@@ -1194,12 +1334,12 @@
           "#assainocharla"
         ],
         "type": "VIDEO",
-        "views": 297421,
-        "reach": 222988,
-        "likes": 19297,
-        "comments": 542,
-        "shares": 13619,
-        "saves": 471
+        "views": 298735,
+        "reach": 223705,
+        "likes": 19359,
+        "comments": 544,
+        "shares": 13633,
+        "saves": 470
       },
       {
         "id": "18061829399685095",
@@ -1210,12 +1350,12 @@
           "#mcdonaldsnocharla"
         ],
         "type": "VIDEO",
-        "views": 267836,
-        "reach": 176195,
-        "likes": 8777,
-        "comments": 1345,
+        "views": 268387,
+        "reach": 176941,
+        "likes": 8792,
+        "comments": 1346,
         "shares": 676,
-        "saves": 372
+        "saves": 369
       },
       {
         "id": "18616860451038778",
@@ -1228,9 +1368,9 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 87125,
-        "reach": 63631,
-        "likes": 4639,
+        "views": 87621,
+        "reach": 63967,
+        "likes": 4666,
         "comments": 182,
         "shares": 50,
         "saves": 51
@@ -1246,8 +1386,8 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 11889,
-        "reach": 9271,
+        "views": 12000,
+        "reach": 9418,
         "likes": 285,
         "comments": 10,
         "shares": 4,
@@ -1265,12 +1405,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 277777,
-        "reach": 159461,
-        "likes": 12975,
-        "comments": 175,
+        "views": 279989,
+        "reach": 161109,
+        "likes": 13062,
+        "comments": 180,
         "shares": 260,
-        "saves": 372
+        "saves": 376
       },
       {
         "id": "18105046526269630",
@@ -1284,9 +1424,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 109275,
-        "reach": 69309,
-        "likes": 4336,
+        "views": 110362,
+        "reach": 70038,
+        "likes": 4359,
         "comments": 41,
         "shares": 23,
         "saves": 48
@@ -1303,11 +1443,11 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 196838,
-        "reach": 120046,
-        "likes": 10292,
-        "comments": 195,
-        "shares": 390,
+        "views": 198840,
+        "reach": 121968,
+        "likes": 10366,
+        "comments": 197,
+        "shares": 393,
         "saves": 192
       },
       {
@@ -1322,11 +1462,11 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 260389,
-        "reach": 157286,
-        "likes": 15230,
-        "comments": 769,
-        "shares": 512,
+        "views": 262530,
+        "reach": 158497,
+        "likes": 15335,
+        "comments": 774,
+        "shares": 516,
         "saves": 351
       },
       {
@@ -1340,7 +1480,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 82,
+        "likes": 83,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -1357,12 +1497,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 401007,
-        "reach": 252242,
-        "likes": 32758,
-        "comments": 646,
-        "shares": 597,
-        "saves": 478
+        "views": 402517,
+        "reach": 253326,
+        "likes": 32824,
+        "comments": 648,
+        "shares": 600,
+        "saves": 473
       },
       {
         "id": "18100080157982908",
@@ -1375,7 +1515,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 443,
+        "likes": 447,
         "comments": 6,
         "shares": 0,
         "saves": 0
@@ -1389,10 +1529,10 @@
           "#mcdonaldsnocharla"
         ],
         "type": "VIDEO",
-        "views": 16136,
-        "reach": 13675,
-        "likes": 531,
-        "comments": 12,
+        "views": 16409,
+        "reach": 13847,
+        "likes": 538,
+        "comments": 13,
         "shares": 30,
         "saves": 8
       },
@@ -1405,7 +1545,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 933,
+        "likes": 945,
         "comments": 8,
         "shares": 0,
         "saves": 0
@@ -1419,9 +1559,9 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 13321,
-        "reach": 10266,
-        "likes": 355,
+        "views": 13394,
+        "reach": 10319,
+        "likes": 356,
         "comments": 6,
         "shares": 2,
         "saves": 8
@@ -1435,8 +1575,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 9443,
-        "reach": 7344,
+        "views": 9501,
+        "reach": 7381,
         "likes": 201,
         "comments": 7,
         "shares": 3,
@@ -1451,8 +1591,8 @@
           "#fornerianocharla"
         ],
         "type": "VIDEO",
-        "views": 19715,
-        "reach": 15238,
+        "views": 19761,
+        "reach": 15248,
         "likes": 1792,
         "comments": 77,
         "shares": 20,
@@ -1467,8 +1607,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 21363,
-        "reach": 16328,
+        "views": 21462,
+        "reach": 16378,
         "likes": 931,
         "comments": 7,
         "shares": 2,
@@ -1483,8 +1623,8 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 13849,
-        "reach": 10666,
+        "views": 13917,
+        "reach": 10700,
         "likes": 468,
         "comments": 6,
         "shares": 8,
@@ -1499,11 +1639,11 @@
           "#sportingbetnocharla"
         ],
         "type": "VIDEO",
-        "views": 11409,
-        "reach": 9068,
-        "likes": 565,
+        "views": 11480,
+        "reach": 9098,
+        "likes": 568,
         "comments": 6,
-        "shares": 13,
+        "shares": 23,
         "saves": 5
       },
       {
@@ -1513,9 +1653,9 @@
         "url": "https://www.instagram.com/reel/Db1wukBOjbg/",
         "tags": [],
         "type": "VIDEO",
-        "views": 38675,
-        "reach": 27869,
-        "likes": 381,
+        "views": 39191,
+        "reach": 28140,
+        "likes": 382,
         "comments": 5,
         "shares": 12,
         "saves": 5
@@ -1527,10 +1667,10 @@
         "url": "https://www.instagram.com/reel/Db1tfw4OgDv/",
         "tags": [],
         "type": "VIDEO",
-        "views": 78680,
-        "reach": 54887,
-        "likes": 857,
-        "comments": 172,
+        "views": 78987,
+        "reach": 54996,
+        "likes": 858,
+        "comments": 173,
         "shares": 267,
         "saves": 20
       },
@@ -1541,9 +1681,9 @@
         "url": "https://www.instagram.com/reel/Db1rl-0vAHm/",
         "tags": [],
         "type": "VIDEO",
-        "views": 84369,
-        "reach": 64855,
-        "likes": 4211,
+        "views": 85184,
+        "reach": 65281,
+        "likes": 4214,
         "comments": 447,
         "shares": 1895,
         "saves": 57
@@ -1557,7 +1697,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 172,
+        "likes": 173,
         "comments": 1,
         "shares": 0,
         "saves": 0
@@ -1571,9 +1711,9 @@
           "#mcdonaldsnocharla"
         ],
         "type": "VIDEO",
-        "views": 31626,
-        "reach": 22187,
-        "likes": 836,
+        "views": 31914,
+        "reach": 22322,
+        "likes": 841,
         "comments": 24,
         "shares": 11,
         "saves": 9
@@ -1601,9 +1741,9 @@
           "#mcdonaldsnocharla"
         ],
         "type": "VIDEO",
-        "views": 53382,
-        "reach": 38559,
-        "likes": 4093,
+        "views": 53585,
+        "reach": 38689,
+        "likes": 4102,
         "comments": 29,
         "shares": 49,
         "saves": 56
@@ -1617,12 +1757,12 @@
           "#mcdonaldsnocharla"
         ],
         "type": "VIDEO",
-        "views": 27816,
-        "reach": 21430,
-        "likes": 1476,
+        "views": 28162,
+        "reach": 21718,
+        "likes": 1486,
         "comments": 30,
         "shares": 4,
-        "saves": 18
+        "saves": 17
       },
       {
         "id": "17938238400088002",
@@ -1633,8 +1773,8 @@
           "#charlafutebol"
         ],
         "type": "VIDEO",
-        "views": 23668,
-        "reach": 16452,
+        "views": 23702,
+        "reach": 16473,
         "likes": 1351,
         "comments": 15,
         "shares": 9,
@@ -1649,8 +1789,8 @@
           "#charlafutebol"
         ],
         "type": "VIDEO",
-        "views": 21269,
-        "reach": 16994,
+        "views": 21324,
+        "reach": 17107,
         "likes": 1194,
         "comments": 12,
         "shares": 2,
@@ -1665,8 +1805,8 @@
           "#charlafutebol"
         ],
         "type": "VIDEO",
-        "views": 52935,
-        "reach": 39948,
+        "views": 53006,
+        "reach": 40010,
         "likes": 2604,
         "comments": 94,
         "shares": 7,
@@ -1681,8 +1821,8 @@
           "#charlafutebol"
         ],
         "type": "VIDEO",
-        "views": 10958,
-        "reach": 8620,
+        "views": 11003,
+        "reach": 8651,
         "likes": 169,
         "comments": 1,
         "shares": 2,
@@ -1697,8 +1837,8 @@
           "#charlafutebol"
         ],
         "type": "VIDEO",
-        "views": 17428,
-        "reach": 12458,
+        "views": 17474,
+        "reach": 12473,
         "likes": 617,
         "comments": 5,
         "shares": 3,
@@ -1711,9 +1851,9 @@
         "url": "https://www.instagram.com/reel/Db1o9ioJoiy/",
         "tags": [],
         "type": "VIDEO",
-        "views": 578052,
+        "views": 578606,
         "reach": 356762,
-        "likes": 25979,
+        "likes": 25985,
         "comments": 385,
         "shares": 3186,
         "saves": 316
@@ -1725,11 +1865,11 @@
         "url": "https://www.instagram.com/reel/Db1izmvukLu/",
         "tags": [],
         "type": "VIDEO",
-        "views": 332198,
-        "reach": 220502,
-        "likes": 9895,
-        "comments": 375,
-        "shares": 802,
+        "views": 333040,
+        "reach": 220550,
+        "likes": 9902,
+        "comments": 376,
+        "shares": 803,
         "saves": 113
       },
       {
@@ -1739,8 +1879,8 @@
         "url": "https://www.instagram.com/reel/Db1hMogN5Fi/",
         "tags": [],
         "type": "VIDEO",
-        "views": 34168,
-        "reach": 24574,
+        "views": 34332,
+        "reach": 24609,
         "likes": 936,
         "comments": 5,
         "shares": 5,
@@ -1753,9 +1893,9 @@
         "url": "https://www.instagram.com/reel/Db1gUjIBtC4/",
         "tags": [],
         "type": "VIDEO",
-        "views": 15501,
-        "reach": 12730,
-        "likes": 517,
+        "views": 15625,
+        "reach": 12818,
+        "likes": 518,
         "comments": 3,
         "shares": 3,
         "saves": 2
@@ -1767,10 +1907,10 @@
         "url": "https://www.instagram.com/reel/Db1faFDA9aK/",
         "tags": [],
         "type": "VIDEO",
-        "views": 290455,
-        "reach": 200966,
-        "likes": 8008,
-        "comments": 189,
+        "views": 290819,
+        "reach": 201149,
+        "likes": 8010,
+        "comments": 187,
         "shares": 221,
         "saves": 91
       },
@@ -1781,9 +1921,9 @@
         "url": "https://www.instagram.com/reel/Db1d8kchQJr/",
         "tags": [],
         "type": "VIDEO",
-        "views": 110394,
-        "reach": 79743,
-        "likes": 4814,
+        "views": 110648,
+        "reach": 80040,
+        "likes": 4815,
         "comments": 33,
         "shares": 32,
         "saves": 62
@@ -1795,9 +1935,9 @@
         "url": "https://www.instagram.com/reel/Db1V1cDBNHH/",
         "tags": [],
         "type": "VIDEO",
-        "views": 48413,
-        "reach": 33909,
-        "likes": 2917,
+        "views": 49027,
+        "reach": 34360,
+        "likes": 2942,
         "comments": 16,
         "shares": 9,
         "saves": 42
@@ -1809,8 +1949,8 @@
         "url": "https://www.instagram.com/reel/Db1UXMdO79p/",
         "tags": [],
         "type": "VIDEO",
-        "views": 12589,
-        "reach": 9763,
+        "views": 12647,
+        "reach": 9815,
         "likes": 193,
         "comments": 77,
         "shares": 3,
@@ -1827,7 +1967,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 36,
+        "likes": 37,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -1858,12 +1998,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 185240,
-        "reach": 122604,
-        "likes": 17173,
-        "comments": 305,
-        "shares": 1157,
-        "saves": 362
+        "views": 187399,
+        "reach": 124706,
+        "likes": 17366,
+        "comments": 307,
+        "shares": 1162,
+        "saves": 365
       },
       {
         "id": "18135579571612729",
@@ -1877,11 +2017,11 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 181584,
-        "reach": 127791,
-        "likes": 12789,
-        "comments": 160,
-        "shares": 671,
+        "views": 183439,
+        "reach": 128781,
+        "likes": 12948,
+        "comments": 163,
+        "shares": 679,
         "saves": 391
       },
       {
@@ -1896,9 +2036,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 35308,
-        "reach": 23836,
-        "likes": 1617,
+        "views": 35435,
+        "reach": 23869,
+        "likes": 1620,
         "comments": 4,
         "shares": 18,
         "saves": 25
@@ -1931,12 +2071,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 127312,
-        "reach": 90219,
-        "likes": 8775,
-        "comments": 63,
+        "views": 127669,
+        "reach": 90485,
+        "likes": 8802,
+        "comments": 64,
         "shares": 1761,
-        "saves": 298
+        "saves": 299
       },
       {
         "id": "18602433853033014",
@@ -1950,9 +2090,9 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 27596,
-        "reach": 18502,
-        "likes": 1828,
+        "views": 27636,
+        "reach": 18513,
+        "likes": 1831,
         "comments": 58,
         "shares": 153,
         "saves": 37
@@ -1969,9 +2109,9 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 70417,
+        "views": 70505,
         "reach": 45632,
-        "likes": 2583,
+        "likes": 2585,
         "comments": 167,
         "shares": 46,
         "saves": 105
@@ -1988,11 +2128,11 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 222181,
-        "reach": 142652,
-        "likes": 11074,
-        "comments": 239,
-        "shares": 18595,
+        "views": 223377,
+        "reach": 144086,
+        "likes": 11135,
+        "comments": 240,
+        "shares": 18667,
         "saves": 376
       },
       {
@@ -2007,9 +2147,9 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 65381,
+        "views": 65439,
         "reach": 41620,
-        "likes": 1722,
+        "likes": 1725,
         "comments": 189,
         "shares": 65,
         "saves": 29
@@ -2026,8 +2166,8 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 15631,
-        "reach": 11033,
+        "views": 15648,
+        "reach": 11043,
         "likes": 275,
         "comments": 29,
         "shares": 58,
@@ -2045,9 +2185,9 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 37531,
-        "reach": 26774,
-        "likes": 1426,
+        "views": 37616,
+        "reach": 26928,
+        "likes": 1428,
         "comments": 7,
         "shares": 92,
         "saves": 47
@@ -2064,11 +2204,11 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 278172,
-        "reach": 161822,
-        "likes": 14609,
-        "comments": 293,
-        "shares": 465,
+        "views": 279969,
+        "reach": 162702,
+        "likes": 14713,
+        "comments": 294,
+        "shares": 466,
         "saves": 399
       },
       {
@@ -2083,11 +2223,11 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 247870,
-        "reach": 167248,
-        "likes": 18400,
-        "comments": 592,
-        "shares": 4186,
+        "views": 248461,
+        "reach": 167501,
+        "likes": 18449,
+        "comments": 594,
+        "shares": 4196,
         "saves": 744
       },
       {
@@ -2102,12 +2242,12 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 255381,
-        "reach": 167908,
-        "likes": 14764,
-        "comments": 622,
-        "shares": 2892,
-        "saves": 506
+        "views": 257036,
+        "reach": 169304,
+        "likes": 14859,
+        "comments": 627,
+        "shares": 2910,
+        "saves": 508
       },
       {
         "id": "17937628614301578",
@@ -2121,11 +2261,11 @@
           "#melittanocharla"
         ],
         "type": "VIDEO",
-        "views": 125813,
-        "reach": 78140,
-        "likes": 9499,
-        "comments": 234,
-        "shares": 725,
+        "views": 126506,
+        "reach": 78465,
+        "likes": 9563,
+        "comments": 235,
+        "shares": 727,
         "saves": 225
       },
       {
@@ -2153,7 +2293,7 @@
         "type": "IMAGE",
         "views": 0,
         "reach": 0,
-        "likes": 457,
+        "likes": 462,
         "comments": 9,
         "shares": 0,
         "saves": 0
@@ -2293,9 +2433,9 @@
         "url": "https://www.instagram.com/reel/DbtuOB0O4sU/",
         "tags": [],
         "type": "VIDEO",
-        "views": 57195,
-        "reach": 43014,
-        "likes": 4489,
+        "views": 57299,
+        "reach": 43132,
+        "likes": 4493,
         "comments": 90,
         "shares": 42,
         "saves": 27
@@ -2311,7 +2451,7 @@
         "type": "CAROUSEL_ALBUM",
         "views": 0,
         "reach": 0,
-        "likes": 304,
+        "likes": 306,
         "comments": 12,
         "shares": 0,
         "saves": 0
@@ -2328,9 +2468,9 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 15793,
-        "reach": 12100,
-        "likes": 1020,
+        "views": 15827,
+        "reach": 12102,
+        "likes": 1023,
         "comments": 11,
         "shares": 6,
         "saves": 9
@@ -2347,12 +2487,12 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 32741,
-        "reach": 25001,
-        "likes": 4149,
+        "views": 32769,
+        "reach": 25038,
+        "likes": 4150,
         "comments": 39,
         "shares": 76,
-        "saves": 26
+        "saves": 25
       },
       {
         "id": "18112995157754813",
@@ -2366,7 +2506,7 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 15762,
+        "views": 15778,
         "reach": 11746,
         "likes": 533,
         "comments": 6,
@@ -2385,12 +2525,12 @@
           "#absolutnocharla"
         ],
         "type": "VIDEO",
-        "views": 29433,
-        "reach": 22385,
-        "likes": 3839,
+        "views": 29469,
+        "reach": 22421,
+        "likes": 3845,
         "comments": 32,
         "shares": 99,
-        "saves": 22
+        "saves": 21
       },
       {
         "id": "18120406528849818",
@@ -35000,11 +35140,14 @@
       {
         "date": "2026-08-12",
         "followers": 1260000,
-        "views": 538320447,
+        "views": 286226,
         "video_count": 12969,
-        "likes": 2345,
-        "comments": 23,
-        "shares": 0
+        "likes": 10772,
+        "comments": 462,
+        "shares": 665,
+        "watch_minutes": 2509911,
+        "avg_view_duration_sec": 535,
+        "subscribers_gained": 440
       },
       {
         "date": "2026-08-13",
@@ -35023,16 +35166,91 @@
         "likes": 6907,
         "comments": 620,
         "shares": 0
+      },
+      {
+        "date": "2026-08-15",
+        "followers": 1260000,
+        "views": 539202786,
+        "video_count": 13019,
+        "likes": 391,
+        "comments": 37,
+        "shares": 0
       }
     ],
     "posts": [
+      {
+        "id": "VHgudLRTEls",
+        "date": "2026-08-15",
+        "caption": "BRUNO AZEVEDO VAI À LOUCURA COM ELOGIOS AOS ESTRANGEIROS DO VASCO",
+        "type": "VIDEO",
+        "views": 3207,
+        "likes": 152,
+        "comments": 15,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "svVqDelQsxQ",
+        "date": "2026-08-15",
+        "caption": "BRUNO AZEVEDO ESTÁ COM MEDO DE ENFRENTAR O NEYMAR?",
+        "type": "VIDEO",
+        "views": 1271,
+        "likes": 52,
+        "comments": 5,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "LZhNCOplPqU",
+        "date": "2026-08-15",
+        "caption": "VASCO JOGA BEM MAS NÃO CONSGUE VENCER O OLIMPIA EM SÃO JANUÁRIO",
+        "type": "VIDEO",
+        "views": 1697,
+        "likes": 90,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "HJf7XF5B-6I",
+        "date": "2026-08-15",
+        "caption": "BOTAFOGO JÁ ESTÁ ELIMINADO DA COPA SUL-AMERICANA?",
+        "type": "VIDEO",
+        "views": 663,
+        "likes": 36,
+        "comments": 4,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "UnMfqZihebI",
+        "date": "2026-08-15",
+        "caption": "BOTAFOGO ERROU AO NÃO LIBERAR O DANILO PARA O PALMEIRAS?",
+        "type": "VIDEO",
+        "views": 1234,
+        "likes": 40,
+        "comments": 13,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "HjXsJhEnKDo",
+        "date": "2026-08-15",
+        "caption": "FRANCLIM CARVALHO MERECE SER DEMITIDO APÓS SOFRER GOLEADA HISTÓRICA NA SUL AMERICANA?",
+        "type": "VIDEO",
+        "views": 542,
+        "likes": 21,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
       {
         "id": "j0vcOJ32B7Q",
         "date": "2026-08-14",
         "caption": "VASCO X OLIMPIA | NARRAÇÃO AO VIVO | Copa Sul-Americana | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 26238,
-        "likes": 690,
+        "views": 26291,
+        "likes": 684,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -35042,9 +35260,9 @@
         "date": "2026-08-14",
         "caption": "A GOLEADA SOFRIDA PELO BOTAFOGO FOI IGUAL AO 7 A 1 DO BRASIL?",
         "type": "VIDEO",
-        "views": 6354,
-        "likes": 305,
-        "comments": 28,
+        "views": 9425,
+        "likes": 391,
+        "comments": 35,
         "shares": 0,
         "saves": 0
       },
@@ -35053,9 +35271,9 @@
         "date": "2026-08-14",
         "caption": "CANTARELLI FAZ DESABAFO APÓS BOTAFOGO SER HUMILHADO",
         "type": "VIDEO",
-        "views": 36955,
-        "likes": 3029,
-        "comments": 483,
+        "views": 63587,
+        "likes": 3889,
+        "comments": 617,
         "shares": 0,
         "saves": 0
       },
@@ -35064,9 +35282,9 @@
         "date": "2026-08-14",
         "caption": "NARRAÇÃO DO CANTARELLI NA GOLEADA SOFRIDA PELO BOTAFOGO",
         "type": "VIDEO",
-        "views": 6393,
-        "likes": 424,
-        "comments": 63,
+        "views": 10633,
+        "likes": 546,
+        "comments": 73,
         "shares": 0,
         "saves": 0
       },
@@ -35075,9 +35293,9 @@
         "date": "2026-08-14",
         "caption": "CIENCIANO X BOTAFOGO | NARRAÇÃO BRUNO CANTARELLI | Copa Sul-Americana | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 53577,
-        "likes": 1745,
-        "comments": 10,
+        "views": 54023,
+        "likes": 1748,
+        "comments": 13,
         "shares": 0,
         "saves": 0
       },
@@ -35086,9 +35304,9 @@
         "date": "2026-08-14",
         "caption": "O VASCO PERDEU A GRANDE CHANCE DE SE CLASSIFICAR CONTRA O OLIMPIA?",
         "type": "VIDEO",
-        "views": 2808,
-        "likes": 170,
-        "comments": 27,
+        "views": 4154,
+        "likes": 186,
+        "comments": 32,
         "shares": 0,
         "saves": 0
       },
@@ -35097,8 +35315,8 @@
         "date": "2026-08-14",
         "caption": "FLUZÃO BUSCA NOVO TÉCNICO! FOGÃO COMPLETO NA ALTITUDE! BH LESIONADO?",
         "type": "VIDEO",
-        "views": 2466,
-        "likes": 205,
+        "views": 2567,
+        "likes": 206,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -35108,9 +35326,9 @@
         "date": "2026-08-14",
         "caption": "BOTAFOGO LEVA GOLEADA HISTÓRICA NA SULA! VASCO EMPATA EM CASA E SE COMPLICA! ",
         "type": "VIDEO",
-        "views": 519,
-        "likes": 139,
-        "comments": 0,
+        "views": 21160,
+        "likes": 1486,
+        "comments": 28,
         "shares": 0,
         "saves": 0
       },
@@ -35119,9 +35337,9 @@
         "date": "2026-08-14",
         "caption": "EURICO MIRANDA FOI O RESPONSÁVEL PELO FLUMINENSE NÃO JOGAR A SÉRIE B EM 1997?",
         "type": "VIDEO",
-        "views": 45,
-        "likes": 5,
-        "comments": 4,
+        "views": 2596,
+        "likes": 156,
+        "comments": 114,
         "shares": 0,
         "saves": 0
       },
@@ -35130,9 +35348,9 @@
         "date": "2026-08-14",
         "caption": "FLAMENGO FOI BENEFICIADO PELO WRIGHT EM 81?",
         "type": "VIDEO",
-        "views": 35,
-        "likes": 9,
-        "comments": 0,
+        "views": 1344,
+        "likes": 90,
+        "comments": 25,
         "shares": 0,
         "saves": 0
       },
@@ -35141,9 +35359,9 @@
         "date": "2026-08-14",
         "caption": "MICHEL ASSEF FALA SOBRE A IMPORTÂNCIA DO FLAMENGO PARA O FUTEBOL BRASILEIRO",
         "type": "VIDEO",
-        "views": 72,
-        "likes": 15,
-        "comments": 0,
+        "views": 3093,
+        "likes": 196,
+        "comments": 10,
         "shares": 0,
         "saves": 0
       },
@@ -35152,9 +35370,9 @@
         "date": "2026-08-14",
         "caption": "DETALHES DA RENOVAÇÃO QUE MUDOU A HISTÓRIA DO FLAMENGO",
         "type": "VIDEO",
-        "views": 191,
-        "likes": 28,
-        "comments": 2,
+        "views": 7836,
+        "likes": 380,
+        "comments": 10,
         "shares": 0,
         "saves": 0
       },
@@ -35163,8 +35381,8 @@
         "date": "2026-08-14",
         "caption": "TORCIDAS ORGANIZADAS SÃO PERSEGUIDAS NO BRASIL?",
         "type": "VIDEO",
-        "views": 24,
-        "likes": 5,
+        "views": 272,
+        "likes": 18,
         "comments": 0,
         "shares": 0,
         "saves": 0
@@ -35174,9 +35392,9 @@
         "date": "2026-08-14",
         "caption": "CASTOR DE ANDRADE ERA PERSEGUIDO PELO SISTEMA?",
         "type": "VIDEO",
-        "views": 157,
-        "likes": 21,
-        "comments": 0,
+        "views": 6383,
+        "likes": 227,
+        "comments": 30,
         "shares": 0,
         "saves": 0
       },
@@ -35185,9 +35403,9 @@
         "date": "2026-08-14",
         "caption": "O DIA EM QUE O EURICO MIRANDA PARTIU PRA CIMA DO PABLO ESCOBAR",
         "type": "VIDEO",
-        "views": 105,
-        "likes": 11,
-        "comments": 0,
+        "views": 4224,
+        "likes": 258,
+        "comments": 9,
         "shares": 0,
         "saves": 0
       },
@@ -35196,9 +35414,9 @@
         "date": "2026-08-14",
         "caption": "AS MELHORES HISTÓRIAS DO CASTOR DE ANDRADE",
         "type": "VIDEO",
-        "views": 129,
-        "likes": 9,
-        "comments": 0,
+        "views": 9273,
+        "likes": 426,
+        "comments": 25,
         "shares": 0,
         "saves": 0
       },
@@ -35207,9 +35425,9 @@
         "date": "2026-08-14",
         "caption": "MICHEL ASSEF REVELA TODA A VERDADE SOBRE O CAMPEONATO BRASILEIRO DE 87",
         "type": "VIDEO",
-        "views": 177,
-        "likes": 34,
-        "comments": 0,
+        "views": 8180,
+        "likes": 647,
+        "comments": 73,
         "shares": 0,
         "saves": 0
       },
@@ -35218,9 +35436,9 @@
         "date": "2026-08-14",
         "caption": "MICHEL ASSEF CONTA AS MELHORES HISTÓRIAS DO EURICO MIRANDA",
         "type": "VIDEO",
-        "views": 160,
-        "likes": 23,
-        "comments": 2,
+        "views": 8114,
+        "likes": 362,
+        "comments": 18,
         "shares": 0,
         "saves": 0
       },
@@ -35229,9 +35447,9 @@
         "date": "2026-08-14",
         "caption": "ZICO É UM DOS MAIORES JOGADORES DA HISTÓRIA DO FUTEBOL?",
         "type": "VIDEO",
-        "views": 38,
-        "likes": 11,
-        "comments": 0,
+        "views": 2676,
+        "likes": 175,
+        "comments": 36,
         "shares": 0,
         "saves": 0
       },
@@ -35240,9 +35458,64 @@
         "date": "2026-08-14",
         "caption": "MICHEL ASSEF REVELA COMO SE TORNOU ADVOGADO DO FLAMENGO",
         "type": "VIDEO",
-        "views": 212,
-        "likes": 29,
-        "comments": 1,
+        "views": 3622,
+        "likes": 183,
+        "comments": 4,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "ht9v0w6mga0",
+        "date": "2026-08-14",
+        "caption": "FRANCLIM FICA NO FOGÃO? MERCADO NO VASCO? FLA COMPLETO EM MIRASSOL?",
+        "type": "VIDEO",
+        "views": 3134,
+        "likes": 175,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "OYElBdtcrK0",
+        "date": "2026-08-14",
+        "caption": "BOTAFOGO PROTAGONIZA VEXAME HISTÓRICO NA SUL AMERICANA",
+        "type": "VIDEO",
+        "views": 5228,
+        "likes": 242,
+        "comments": 8,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "G48xE7pwmeU",
+        "date": "2026-08-14",
+        "caption": "TODOS OS DETALHES SOBRE O REBAIXAMENTO DA PORTUGUESA EM 2013",
+        "type": "VIDEO",
+        "views": 6407,
+        "likes": 267,
+        "comments": 188,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "JBDV-au5qeY",
+        "date": "2026-08-14",
+        "caption": "COMO O APOLINHO SE TORNOU O TREINADOR DO FLAMENGO",
+        "type": "VIDEO",
+        "views": 1169,
+        "likes": 57,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0
+      },
+      {
+        "id": "PyGTs3h35rw",
+        "date": "2026-08-14",
+        "caption": "A MELHOR RESENHA COM EVARISTO DE MACEDO 🤣🤣🤣",
+        "type": "VIDEO",
+        "views": 1407,
+        "likes": 83,
+        "comments": 0,
         "shares": 0,
         "saves": 0
       },
@@ -35251,53 +35524,61 @@
         "date": "2026-08-13",
         "caption": "QUAL SENTIMENTO DO FLAMENGUISTA APÓS EMPATE COM O CRUZEIRO?",
         "type": "VIDEO",
-        "views": 6229,
-        "likes": 251,
-        "comments": 29,
-        "shares": 0,
-        "saves": 0
+        "views": 7255,
+        "likes": 277,
+        "comments": 40,
+        "shares": 1,
+        "saves": 0,
+        "watch_minutes": 2646,
+        "avg_view_duration_sec": 110
       },
       {
         "id": "-DhmuVDAwFU",
         "date": "2026-08-13",
         "caption": "FLAMENGO SAI COM SALDO POSITIVO APÓS EMPATE NO MINEIRÃO?",
         "type": "VIDEO",
-        "views": 12091,
-        "likes": 493,
-        "comments": 30,
+        "views": 12267,
+        "likes": 497,
+        "comments": 31,
         "shares": 0,
-        "saves": 0
+        "saves": 0,
+        "watch_minutes": 8993,
+        "avg_view_duration_sec": 234
       },
       {
         "id": "aLhRkHiBaNg",
         "date": "2026-08-13",
         "caption": "NARRAÇÃO ABSURDA DO CANTARELLI NOS GOLAÇOS DE CRUZEIRO E FLAMENGO!",
         "type": "VIDEO",
-        "views": 1812,
-        "likes": 149,
-        "comments": 14,
-        "shares": 0,
-        "saves": 0
+        "views": 2439,
+        "likes": 194,
+        "comments": 20,
+        "shares": 2,
+        "saves": 0,
+        "watch_minutes": 776,
+        "avg_view_duration_sec": 74
       },
       {
         "id": "EgV4ZfFbhh4",
         "date": "2026-08-13",
         "caption": "CRUZEIRO X FLAMENGO | NARRAÇÃO DE BRUNO CANTARELLI | Copa Libertadores | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 10816,
+        "views": 10859,
         "likes": 521,
         "comments": 0,
-        "shares": 0,
-        "saves": 0
+        "shares": 14,
+        "saves": 0,
+        "watch_minutes": 47989,
+        "avg_view_duration_sec": 275
       },
       {
         "id": "M_zZ59YZ8aI",
         "date": "2026-08-13",
         "caption": "QUEM É FAVORITO PARA AVANÇAR NA LIBERTADORES: FLAMENGO OU CRUZEIRO?",
         "type": "VIDEO",
-        "views": 1545,
-        "likes": 54,
-        "comments": 8,
+        "views": 2282,
+        "likes": 65,
+        "comments": 12,
         "shares": 0,
         "saves": 0
       },
@@ -35306,8 +35587,8 @@
         "date": "2026-08-13",
         "caption": "LEONARDO JARDIM ACERTOU AO DEIXAR O PEDRO NO BANCO CONTRA O CRUZEIRO?",
         "type": "VIDEO",
-        "views": 416,
-        "likes": 24,
+        "views": 527,
+        "likes": 25,
         "comments": 2,
         "shares": 0,
         "saves": 0
@@ -35317,9 +35598,9 @@
         "date": "2026-08-13",
         "caption": "O GRANDE PROBLEMA DO ELENCO DO FLAMENGO",
         "type": "VIDEO",
-        "views": 1806,
-        "likes": 62,
-        "comments": 13,
+        "views": 2347,
+        "likes": 65,
+        "comments": 16,
         "shares": 0,
         "saves": 0
       },
@@ -35328,9 +35609,9 @@
         "date": "2026-08-13",
         "caption": "FLAMENGO BUSCA O EMPATE E DECIDE VAGA CONTRA O CRUZEIRO NO MARACANÃ",
         "type": "VIDEO",
-        "views": 5085,
-        "likes": 160,
-        "comments": 11,
+        "views": 6595,
+        "likes": 174,
+        "comments": 14,
         "shares": 0,
         "saves": 0
       },
@@ -35339,9 +35620,9 @@
         "date": "2026-08-13",
         "caption": "GABRIEL AMARAL TRAZ AS ATUALIZAÇÕES DA BUSCA DO FLUMINENSE POR UM NOVO TREINADOR",
         "type": "VIDEO",
-        "views": 11039,
-        "likes": 621,
-        "comments": 23,
+        "views": 14144,
+        "likes": 767,
+        "comments": 28,
         "shares": 0,
         "saves": 0
       },
@@ -35350,9 +35631,9 @@
         "date": "2026-08-13",
         "caption": "CANTARELLI VAI À LOUCURA APÓS CRÍTICAS AO FERNANDO DINIZ",
         "type": "VIDEO",
-        "views": 1851,
-        "likes": 72,
-        "comments": 5,
+        "views": 3553,
+        "likes": 128,
+        "comments": 7,
         "shares": 0,
         "saves": 0
       },
@@ -35361,9 +35642,9 @@
         "date": "2026-08-13",
         "caption": "PHILL ELEGE O SEU TREINADOR PREFERIDO PARA ASSUMIR O FLUMINENSE",
         "type": "VIDEO",
-        "views": 1062,
-        "likes": 46,
-        "comments": 3,
+        "views": 1910,
+        "likes": 73,
+        "comments": 4,
         "shares": 0,
         "saves": 0
       },
@@ -35372,9 +35653,9 @@
         "date": "2026-08-13",
         "caption": "O FRED VAI TREINAR O FLUMINENSE?",
         "type": "VIDEO",
-        "views": 2743,
-        "likes": 160,
-        "comments": 0,
+        "views": 4339,
+        "likes": 225,
+        "comments": 4,
         "shares": 0,
         "saves": 0
       },
@@ -35383,9 +35664,9 @@
         "date": "2026-08-13",
         "caption": "POR QUE O FLUMINENSE PAROU DE REVELAR JOGADORES?",
         "type": "VIDEO",
-        "views": 3630,
-        "likes": 245,
-        "comments": 4,
+        "views": 4719,
+        "likes": 287,
+        "comments": 5,
         "shares": 0,
         "saves": 0
       },
@@ -35394,9 +35675,9 @@
         "date": "2026-08-13",
         "caption": "CONTRATAÇÕES ERRADAS DO FLUMINENSE NAS ÚLTIMAS TEMPORADAS",
         "type": "VIDEO",
-        "views": 8399,
-        "likes": 342,
-        "comments": 28,
+        "views": 11388,
+        "likes": 430,
+        "comments": 33,
         "shares": 0,
         "saves": 0
       },
@@ -35405,9 +35686,9 @@
         "date": "2026-08-13",
         "caption": "QUEM VAI SER O NOVO TREINADOR DO FLUMINENSE?",
         "type": "VIDEO",
-        "views": 2254,
-        "likes": 86,
-        "comments": 18,
+        "views": 3424,
+        "likes": 115,
+        "comments": 22,
         "shares": 0,
         "saves": 0
       },
@@ -35416,8 +35697,8 @@
         "date": "2026-08-13",
         "caption": "FLUMINENSE ACERTA AO DEMITIR ZUBELDIA?",
         "type": "VIDEO",
-        "views": 3021,
-        "likes": 124,
+        "views": 4326,
+        "likes": 154,
         "comments": 3,
         "shares": 0,
         "saves": 0
@@ -35427,9 +35708,9 @@
         "date": "2026-08-13",
         "caption": "DEMISSÃO DO ZUBELDIA PODE DAR VIDA AO  FLUMINENSE NA LIBERTADORES?",
         "type": "VIDEO",
-        "views": 2895,
-        "likes": 108,
-        "comments": 1,
+        "views": 4482,
+        "likes": 145,
+        "comments": 2,
         "shares": 0,
         "saves": 0
       },
@@ -35438,9 +35719,9 @@
         "date": "2026-08-13",
         "caption": "Charla #746 - Michel Assef [Advogado]",
         "type": "VIDEO",
-        "views": 3858,
-        "likes": 218,
-        "comments": 6,
+        "views": 5234,
+        "likes": 321,
+        "comments": 12,
         "shares": 0,
         "saves": 0
       },
@@ -35449,9 +35730,9 @@
         "date": "2026-08-13",
         "caption": "ZUBELDIA DEMITIDO DO FLUMINENSE! FLAMENGO E CRUZEIRO EMPATAM COM POLÊMICAS DE ARBITRAGEM! ",
         "type": "VIDEO",
-        "views": 27508,
-        "likes": 2361,
-        "comments": 8,
+        "views": 28172,
+        "likes": 2364,
+        "comments": 9,
         "shares": 0,
         "saves": 0
       },
@@ -35460,86 +35741,90 @@
         "date": "2026-08-13",
         "caption": "DECISÃO NA LIBERTA! ZUBELDIA CAI? BRENNER TEM LESÃO GRAVE?",
         "type": "VIDEO",
-        "views": 1894,
+        "views": 1915,
         "likes": 110,
         "comments": 0,
-        "shares": 0,
-        "saves": 0
+        "shares": 3,
+        "saves": 0,
+        "watch_minutes": 6187,
+        "avg_view_duration_sec": 216
       },
       {
         "id": "VR9psy6J13U",
         "date": "2026-08-12",
         "caption": "SOTELDO PASSA A SER SOLUÇÃO PRO FLUMINENSE JOGAR BEM?",
         "type": "VIDEO",
-        "views": 3318,
+        "views": 3332,
         "likes": 130,
         "comments": 9,
-        "shares": 1,
+        "shares": 3,
         "saves": 0,
-        "watch_minutes": 5456,
-        "avg_view_duration_sec": 216
+        "watch_minutes": 11589,
+        "avg_view_duration_sec": 224
       },
       {
         "id": "ZZ7mE7Kbw9s",
         "date": "2026-08-12",
         "caption": "A CHANCE DO FLU SE CLASSIFICAR PASSA PELA DEMISSÃO DE ZUBELDIA?",
         "type": "VIDEO",
-        "views": 2693,
+        "views": 2700,
         "likes": 92,
         "comments": 6,
-        "shares": 6,
+        "shares": 9,
         "saves": 0,
-        "watch_minutes": 2958,
-        "avg_view_duration_sec": 123
+        "watch_minutes": 5550,
+        "avg_view_duration_sec": 129
       },
       {
         "id": "Mk6ikY8TYpQ",
         "date": "2026-08-12",
         "caption": "FLUMINENSE X IND. RIVADAVIA | NARRAÇÃO AO VIVO | Copa Libertadores | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 15624,
+        "views": 15631,
         "likes": 386,
         "comments": 0,
         "shares": 7,
         "saves": 0,
-        "watch_minutes": 63105,
-        "avg_view_duration_sec": 244
+        "watch_minutes": 63503,
+        "avg_view_duration_sec": 243
       },
       {
         "id": "VQxHzWGUk-s",
         "date": "2026-08-12",
         "caption": "YEBOAH E DIEGO CARLOS NO VASCO? PEDRINHO ALFINETA BAP! ALEX SANDRO FORA NO FLA?",
         "type": "VIDEO",
-        "views": 3734,
+        "views": 3735,
         "likes": 180,
         "comments": 2,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 14230,
-        "avg_view_duration_sec": 250
+        "watch_minutes": 16882,
+        "avg_view_duration_sec": 274
       },
       {
         "id": "5_4v1BrSzTo",
         "date": "2026-08-12",
         "caption": "FLU JOGA MAL E ZUBELDIA SEGUE NO COMANDO! NOVAS REGRAS DO FUTEBOL BRASILEIRO! FLAMENGO X CRUZEIRO!",
         "type": "VIDEO",
-        "views": 18012,
+        "views": 17987,
         "likes": 1619,
         "comments": 9,
-        "shares": 0,
-        "saves": 0
+        "shares": 13,
+        "saves": 0,
+        "watch_minutes": 378554,
+        "avg_view_duration_sec": 1318
       },
       {
         "id": "IUwFfiCCJGM",
         "date": "2026-08-11",
         "caption": "SOSA CONTRA O SANTOS? HULK TITULAR AMANHÃ? SANTI DE SAÍDA?",
         "type": "VIDEO",
-        "views": 2103,
+        "views": 2104,
         "likes": 123,
         "comments": 1,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 11126,
+        "watch_minutes": 11143,
         "avg_view_duration_sec": 318
       },
       {
@@ -35547,129 +35832,129 @@
         "date": "2026-08-11",
         "caption": "PEDRINHO MANDA RECADO PARA BAP EM ENTREVISTA",
         "type": "VIDEO",
-        "views": 2471,
-        "likes": 120,
+        "views": 2558,
+        "likes": 123,
         "comments": 16,
-        "shares": 4,
+        "shares": 5,
         "saves": 0,
-        "watch_minutes": 2364,
-        "avg_view_duration_sec": 144
+        "watch_minutes": 5319,
+        "avg_view_duration_sec": 164
       },
       {
         "id": "SUkWjPq63cI",
         "date": "2026-08-11",
         "caption": "QUEM SÃO OS FAVORITOS PARA AVANÇAR NOS CLÁSSICOS DA COPA DO BRASIL?",
         "type": "VIDEO",
-        "views": 2595,
-        "likes": 97,
+        "views": 2678,
+        "likes": 99,
         "comments": 6,
-        "shares": 0,
+        "shares": 2,
         "saves": 0,
-        "watch_minutes": 5492,
-        "avg_view_duration_sec": 411
+        "watch_minutes": 13879,
+        "avg_view_duration_sec": 435
       },
       {
         "id": "_ZLxrx1gQxo",
         "date": "2026-08-11",
         "caption": "QUAL ESTÁDIO O VASCO DEVE UTILIZAR NAS QUARTAS DE FINAL DA COPA DO BRASIL?",
         "type": "VIDEO",
-        "views": 12477,
-        "likes": 457,
-        "comments": 31,
-        "shares": 3,
+        "views": 12820,
+        "likes": 463,
+        "comments": 32,
+        "shares": 12,
         "saves": 0,
-        "watch_minutes": 21239,
-        "avg_view_duration_sec": 344
+        "watch_minutes": 56974,
+        "avg_view_duration_sec": 354
       },
       {
         "id": "huKfpq--NbU",
         "date": "2026-08-11",
         "caption": "ATUALIZAÇÕES SOBRE A REFORMA DE SÃO JANUÁRIO",
         "type": "VIDEO",
-        "views": 4441,
-        "likes": 220,
-        "comments": 7,
-        "shares": 0,
+        "views": 4613,
+        "likes": 228,
+        "comments": 8,
+        "shares": 1,
         "saves": 0,
-        "watch_minutes": 1905,
-        "avg_view_duration_sec": 102
+        "watch_minutes": 6696,
+        "avg_view_duration_sec": 122
       },
       {
         "id": "aKzggJl5Mfs",
         "date": "2026-08-11",
         "caption": "TODA A VERDADE SOBRE A RECUPERAÇÃO JUDICIAL DO VASCO",
         "type": "VIDEO",
-        "views": 3071,
+        "views": 3160,
         "likes": 126,
         "comments": 18,
-        "shares": 3,
+        "shares": 5,
         "saves": 0,
-        "watch_minutes": 3899,
-        "avg_view_duration_sec": 188
+        "watch_minutes": 8302,
+        "avg_view_duration_sec": 191
       },
       {
         "id": "gUmXX2kHhO0",
         "date": "2026-08-11",
         "caption": "AS PRINCIPAIS DICAS PARA QUEM ESTÁ COMEÇANDO NO JORNALISMO ESPORTIVO",
         "type": "VIDEO",
-        "views": 987,
-        "likes": 48,
-        "comments": 3,
+        "views": 1005,
+        "likes": 49,
+        "comments": 4,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 909,
-        "avg_view_duration_sec": 194
+        "watch_minutes": 2829,
+        "avg_view_duration_sec": 226
       },
       {
         "id": "TtqnmA6mPLE",
         "date": "2026-08-11",
         "caption": "LUCAS PEDROSA REVELA OS BASTIDORES DE COMO É TRABALHAR NA CAZÉ TV",
         "type": "VIDEO",
-        "views": 1998,
-        "likes": 76,
-        "comments": 2,
+        "views": 2378,
+        "likes": 85,
+        "comments": 3,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 2725,
-        "avg_view_duration_sec": 324
+        "watch_minutes": 8842,
+        "avg_view_duration_sec": 348
       },
       {
         "id": "qQsFPMDzEGY",
         "date": "2026-08-11",
         "caption": "ALVOS NO MERCADO FAZEM O VASCO TER UM ELENCO DESEQUILIBRADO?",
         "type": "VIDEO",
-        "views": 6562,
-        "likes": 253,
-        "comments": 2,
-        "shares": 0,
+        "views": 7010,
+        "likes": 261,
+        "comments": 3,
+        "shares": 1,
         "saves": 0,
-        "watch_minutes": 5974,
-        "avg_view_duration_sec": 225
+        "watch_minutes": 16016,
+        "avg_view_duration_sec": 230
       },
       {
         "id": "BN5eREDrwhg",
         "date": "2026-08-11",
         "caption": "ELENCO DO VASCO É INSUFICIENTE?",
         "type": "VIDEO",
-        "views": 16186,
-        "likes": 724,
-        "comments": 23,
-        "shares": 5,
+        "views": 17107,
+        "likes": 749,
+        "comments": 25,
+        "shares": 8,
         "saves": 0,
-        "watch_minutes": 64135,
-        "avg_view_duration_sec": 602
+        "watch_minutes": 127401,
+        "avg_view_duration_sec": 598
       },
       {
         "id": "lUWaxhPJVpQ",
         "date": "2026-08-11",
         "caption": "VASCO É INJUSTIÇADO NAS PESQUISAS DE TAMANHO DE TORCIDA?",
         "type": "VIDEO",
-        "views": 8585,
-        "likes": 542,
-        "comments": 246,
-        "shares": 6,
+        "views": 9148,
+        "likes": 576,
+        "comments": 263,
+        "shares": 22,
         "saves": 0,
-        "watch_minutes": 11638,
+        "watch_minutes": 25603,
         "avg_view_duration_sec": 247
       },
       {
@@ -35677,51 +35962,51 @@
         "date": "2026-08-11",
         "caption": "LEILA PEREIRA É VASCAÍNA?",
         "type": "VIDEO",
-        "views": 25426,
-        "likes": 1337,
-        "comments": 57,
-        "shares": 7,
+        "views": 27300,
+        "likes": 1400,
+        "comments": 60,
+        "shares": 26,
         "saves": 0,
-        "watch_minutes": 22193,
-        "avg_view_duration_sec": 250
+        "watch_minutes": 76511,
+        "avg_view_duration_sec": 256
       },
       {
         "id": "KjhEykoFSAA",
         "date": "2026-08-11",
         "caption": "RESULTADO DAS ELEIÇÕES DO VASCO PODE ATRAPALHAR A VENDA DO CLUBE?",
         "type": "VIDEO",
-        "views": 13813,
-        "likes": 579,
+        "views": 15172,
+        "likes": 613,
         "comments": 23,
-        "shares": 1,
+        "shares": 12,
         "saves": 0,
-        "watch_minutes": 22774,
-        "avg_view_duration_sec": 301
+        "watch_minutes": 50631,
+        "avg_view_duration_sec": 303
       },
       {
         "id": "LGM_7zFKdOY",
         "date": "2026-08-11",
         "caption": "EXISTE CONFLITO DE INTERESSE NA PROPOSTA DE SAF DO VASCO? PEDROSA RESPONDE",
         "type": "VIDEO",
-        "views": 6803,
-        "likes": 375,
+        "views": 6950,
+        "likes": 378,
         "comments": 116,
-        "shares": 9,
+        "shares": 14,
         "saves": 0,
-        "watch_minutes": 8152,
-        "avg_view_duration_sec": 224
+        "watch_minutes": 22752,
+        "avg_view_duration_sec": 228
       },
       {
         "id": "4L4KqKYcWiI",
         "date": "2026-08-11",
         "caption": "LUCAS PEDROSA REBATE AS DECLARAÇÕES DO BAP SOBRE A POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 20929,
-        "likes": 1072,
-        "comments": 146,
-        "shares": 11,
+        "views": 21770,
+        "likes": 1098,
+        "comments": 147,
+        "shares": 20,
         "saves": 0,
-        "watch_minutes": 37827,
+        "watch_minutes": 68705,
         "avg_view_duration_sec": 227
       },
       {
@@ -35729,77 +36014,77 @@
         "date": "2026-08-11",
         "caption": "ANÁLISE COMPLETA DE LUCAS PEDROSA SOBRE A POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 38019,
-        "likes": 1810,
-        "comments": 134,
-        "shares": 53,
+        "views": 40400,
+        "likes": 1879,
+        "comments": 142,
+        "shares": 105,
         "saves": 0,
-        "watch_minutes": 155072,
-        "avg_view_duration_sec": 543
+        "watch_minutes": 286018,
+        "avg_view_duration_sec": 545
       },
       {
         "id": "tFakwpjBVPE",
         "date": "2026-08-11",
         "caption": "LUCAS PEDROSA ANALISA O CONFRONTO DO VASCO NA COPA DO BRASIL",
         "type": "VIDEO",
-        "views": 21255,
-        "likes": 1063,
+        "views": 21517,
+        "likes": 1068,
         "comments": 34,
-        "shares": 8,
+        "shares": 13,
         "saves": 0,
-        "watch_minutes": 37069,
-        "avg_view_duration_sec": 200
+        "watch_minutes": 64264,
+        "avg_view_duration_sec": 201
       },
       {
         "id": "2ap1iPg7J-0",
         "date": "2026-08-11",
         "caption": "FLUMINENSE ENFRENTA O RIVADAVIA PELA LIBERTADORES! CRUZEIRO X FLAMENGO: QUEM É O FAVORITO?",
         "type": "VIDEO",
-        "views": 11376,
+        "views": 11382,
         "likes": 797,
         "comments": 4,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 180121,
-        "avg_view_duration_sec": 972
+        "watch_minutes": 184924,
+        "avg_view_duration_sec": 981
       },
       {
         "id": "_iewPIxxvMU",
         "date": "2026-08-11",
         "caption": "Charla #745 - Lucas Pedrosa [Jornalista]",
         "type": "VIDEO",
-        "views": 52209,
-        "likes": 5301,
+        "views": 53302,
+        "likes": 5360,
         "comments": 104,
-        "shares": 188,
+        "shares": 244,
         "saves": 0,
-        "watch_minutes": 1162791,
-        "avg_view_duration_sec": 1750
+        "watch_minutes": 1483396,
+        "avg_view_duration_sec": 1824
       },
       {
         "id": "ysAwjxl0gZU",
         "date": "2026-08-10",
         "caption": "FLAMENGO SE APROXIMA DO PALMEIRAS! VASCO EMPATA FORA E SOSA CHEGA! BOTA E FLU FICAM NO EMPATE!",
         "type": "VIDEO",
-        "views": 28653,
-        "likes": 1899,
+        "views": 28448,
+        "likes": 1900,
         "comments": 17,
-        "shares": 29,
+        "shares": 30,
         "saves": 0,
-        "watch_minutes": 841272,
-        "avg_view_duration_sec": 1794
+        "watch_minutes": 864896,
+        "avg_view_duration_sec": 1823
       },
       {
         "id": "eJ0zw1R9P78",
         "date": "2026-08-10",
         "caption": "CONFIRA A NARRAÇÃO DO AMASSO DO FLAMENGO EM CIMA DO VITÓRIA!",
         "type": "VIDEO",
-        "views": 615,
+        "views": 618,
         "likes": 70,
         "comments": 2,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 577,
+        "watch_minutes": 581,
         "avg_view_duration_sec": 56
       },
       {
@@ -35807,51 +36092,51 @@
         "date": "2026-08-10",
         "caption": "ATHLETICO VENCE O SANTOS NA VILA COM SHOW DE VIVEROS!",
         "type": "VIDEO",
-        "views": 5066,
+        "views": 5027,
         "likes": 279,
         "comments": 21,
-        "shares": 31,
+        "shares": 33,
         "saves": 0,
-        "watch_minutes": 6561,
-        "avg_view_duration_sec": 86
+        "watch_minutes": 7059,
+        "avg_view_duration_sec": 85
       },
       {
         "id": "CPqqx9JBOm8",
         "date": "2026-08-10",
         "caption": "O QUE FALTA PRO FLAMENGO VOLTAR A TER A CONFIANÇA DA TORCIDA?",
         "type": "VIDEO",
-        "views": 1652,
+        "views": 1658,
         "likes": 63,
         "comments": 1,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 6184,
-        "avg_view_duration_sec": 228
+        "watch_minutes": 6193,
+        "avg_view_duration_sec": 227
       },
       {
         "id": "rRss1rxTrjk",
         "date": "2026-08-10",
         "caption": "O FLAMENGO VAI MAIS TRANQUILO PRA LIBERTADORES CONTRA O CRUZEIRO?",
         "type": "VIDEO",
-        "views": 1363,
+        "views": 1365,
         "likes": 88,
         "comments": 2,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 3993,
-        "avg_view_duration_sec": 176
+        "watch_minutes": 3994,
+        "avg_view_duration_sec": 175
       },
       {
         "id": "EWpS1a7thfI",
         "date": "2026-08-10",
         "caption": "FLAMENGO x VITÓRIA | NARRAÇÃO AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 47563,
+        "views": 47570,
         "likes": 494,
         "comments": 0,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 87016,
+        "watch_minutes": 87035,
         "avg_view_duration_sec": 109
       },
       {
@@ -35859,25 +36144,25 @@
         "date": "2026-08-10",
         "caption": "QUEM É O SUBSTITUTO IDEAL DE JOHN KENNEDY NO FLUMINENSE?",
         "type": "VIDEO",
-        "views": 3038,
+        "views": 3042,
         "likes": 118,
         "comments": 4,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 9837,
-        "avg_view_duration_sec": 207
+        "watch_minutes": 10297,
+        "avg_view_duration_sec": 206
       },
       {
         "id": "glzj9eE1ZhA",
         "date": "2026-08-10",
         "caption": "ENZO E CANTARELLI DISCUTEM SOBRE ATUAÇÃO DO BOTAFOGO NO CLÁSSICO",
         "type": "VIDEO",
-        "views": 2221,
+        "views": 2227,
         "likes": 95,
         "comments": 14,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 3921,
+        "watch_minutes": 4182,
         "avg_view_duration_sec": 115
       },
       {
@@ -35885,51 +36170,51 @@
         "date": "2026-08-10",
         "caption": "FLUMINENSE VAI PASSAR PELO RIVADAVIA NA LIBERTADORES?",
         "type": "VIDEO",
-        "views": 6239,
+        "views": 6248,
         "likes": 232,
         "comments": 7,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 18091,
-        "avg_view_duration_sec": 186
+        "watch_minutes": 18736,
+        "avg_view_duration_sec": 183
       },
       {
         "id": "4lClXJwyvBs",
         "date": "2026-08-10",
         "caption": "TAMANHO GIGANTESCO DO ALEX TELLES NO BOTAFOGO",
         "type": "VIDEO",
-        "views": 10957,
-        "likes": 792,
+        "views": 10989,
+        "likes": 793,
         "comments": 36,
-        "shares": 13,
+        "shares": 15,
         "saves": 0,
-        "watch_minutes": 59027,
-        "avg_view_duration_sec": 372
+        "watch_minutes": 65389,
+        "avg_view_duration_sec": 371
       },
       {
         "id": "AAV2QgjGQwI",
         "date": "2026-08-10",
         "caption": "TORCIDA DO FLAMENGO TEM CULPA NAS CRISES INTERNAS DO CLUBE?",
         "type": "VIDEO",
-        "views": 13578,
-        "likes": 457,
+        "views": 13642,
+        "likes": 462,
         "comments": 32,
-        "shares": 10,
+        "shares": 11,
         "saves": 0,
-        "watch_minutes": 156364,
-        "avg_view_duration_sec": 736
+        "watch_minutes": 164460,
+        "avg_view_duration_sec": 737
       },
       {
         "id": "LfDa4bQo8nw",
         "date": "2026-08-10",
         "caption": "O VASCO VAI SE RECUPERAR NA TEMPORADA?",
         "type": "VIDEO",
-        "views": 8893,
+        "views": 8898,
         "likes": 379,
         "comments": 23,
-        "shares": 5,
+        "shares": 8,
         "saves": 0,
-        "watch_minutes": 38243,
+        "watch_minutes": 38623,
         "avg_view_duration_sec": 262
       },
       {
@@ -35937,38 +36222,38 @@
         "date": "2026-08-10",
         "caption": "CHARLA PODCAST FAZ MANO A MANO ENTRE FLAMENGO E CRUZEIRO",
         "type": "VIDEO",
-        "views": 8316,
+        "views": 8314,
         "likes": 308,
         "comments": 97,
-        "shares": 7,
+        "shares": 12,
         "saves": 0,
-        "watch_minutes": 40247,
-        "avg_view_duration_sec": 372
+        "watch_minutes": 49744,
+        "avg_view_duration_sec": 365
       },
       {
         "id": "T82UzDjtXBw",
         "date": "2026-08-10",
         "caption": "FLAMENGO ESTÁ DE VOLTA À BRIGA PELO TÍTULO DO BRASILEIRÃO",
         "type": "VIDEO",
-        "views": 14885,
-        "likes": 519,
+        "views": 15075,
+        "likes": 524,
         "comments": 37,
-        "shares": 7,
+        "shares": 9,
         "saves": 0,
-        "watch_minutes": 88430,
-        "avg_view_duration_sec": 399
+        "watch_minutes": 97296,
+        "avg_view_duration_sec": 398
       },
       {
         "id": "Ra4uET0Myo8",
         "date": "2026-08-09",
         "caption": "BOTAFOGO E FLUMINENSE EMPATAM EM CLÁSSICO AGITADO NO BRASILEIRÃO",
         "type": "VIDEO",
-        "views": 2086,
+        "views": 2087,
         "likes": 129,
         "comments": 6,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 7056,
+        "watch_minutes": 7066,
         "avg_view_duration_sec": 203
       },
       {
@@ -35976,7 +36261,7 @@
         "date": "2026-08-09",
         "caption": "VEJA A NARRAÇÃO DO EMPATE ENTRE BOTAFOGO E FLUMINENSE",
         "type": "VIDEO",
-        "views": 291,
+        "views": 293,
         "likes": 32,
         "comments": 0,
         "shares": 0,
@@ -35989,12 +36274,12 @@
         "date": "2026-08-09",
         "caption": "BOTAFOGO x FLUMINENSE | NARRAÇÃO AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 39104,
-        "likes": 979,
+        "views": 39112,
+        "likes": 980,
         "comments": 0,
         "shares": 9,
         "saves": 0,
-        "watch_minutes": 111958,
+        "watch_minutes": 111975,
         "avg_view_duration_sec": 171
       },
       {
@@ -36002,38 +36287,38 @@
         "date": "2026-08-08",
         "caption": "Charla #744 - Giovane Gávio [Bicampeão Olímpico de Vôlei]",
         "type": "VIDEO",
-        "views": 13758,
-        "likes": 1190,
-        "comments": 56,
-        "shares": 204,
+        "views": 14410,
+        "likes": 1247,
+        "comments": 60,
+        "shares": 227,
         "saves": 0,
-        "watch_minutes": 366960,
-        "avg_view_duration_sec": 1885
+        "watch_minutes": 399478,
+        "avg_view_duration_sec": 1876
       },
       {
         "id": "8PFcfguV_rY",
         "date": "2026-08-08",
         "caption": "JK SÓ EM 2027? LH NÃO VEM MAIS? REFORÇOS NO VASCÃO!",
         "type": "VIDEO",
-        "views": 3169,
+        "views": 3180,
         "likes": 209,
         "comments": 2,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 18772,
-        "avg_view_duration_sec": 360
+        "watch_minutes": 18827,
+        "avg_view_duration_sec": 357
       },
       {
         "id": "NKDCC9LhyJk",
         "date": "2026-08-08",
         "caption": "FRED VAI TREINAR O FLUMINENSE NO FUTURO?",
         "type": "VIDEO",
-        "views": 2850,
+        "views": 2889,
         "likes": 92,
         "comments": 4,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 9352,
+        "watch_minutes": 9574,
         "avg_view_duration_sec": 212
       },
       {
@@ -36041,12 +36326,12 @@
         "date": "2026-08-08",
         "caption": "GIOVANE GÁVIO FALA SOBRE EXPERIÊNCIA NO VÔLEI DE PRAIA AO LADO DO TANDE",
         "type": "VIDEO",
-        "views": 12938,
-        "likes": 470,
+        "views": 14131,
+        "likes": 499,
         "comments": 3,
         "shares": 10,
         "saves": 0,
-        "watch_minutes": 36253,
+        "watch_minutes": 39643,
         "avg_view_duration_sec": 206
       },
       {
@@ -36054,64 +36339,64 @@
         "date": "2026-08-08",
         "caption": "AS LOUCURAS NOS BASTIDORES DA VILA OLÍMPICA",
         "type": "VIDEO",
-        "views": 17479,
-        "likes": 557,
-        "comments": 14,
-        "shares": 12,
+        "views": 18391,
+        "likes": 580,
+        "comments": 16,
+        "shares": 13,
         "saves": 0,
-        "watch_minutes": 81260,
-        "avg_view_duration_sec": 332
+        "watch_minutes": 89663,
+        "avg_view_duration_sec": 331
       },
       {
         "id": "NEB5F5jNVLA",
         "date": "2026-08-08",
         "caption": "GIOVANE GÁVIO REVELA MOMENTO DIFÍCIL NO AUGE DA SUA CARREIRA",
         "type": "VIDEO",
-        "views": 6096,
-        "likes": 244,
+        "views": 6367,
+        "likes": 253,
         "comments": 6,
         "shares": 13,
         "saves": 0,
-        "watch_minutes": 16962,
-        "avg_view_duration_sec": 204
+        "watch_minutes": 19191,
+        "avg_view_duration_sec": 203
       },
       {
         "id": "cawM_No6iKQ",
         "date": "2026-08-08",
         "caption": "GIOVANE GÁVIO REVELA A SENSAÇÃO DE SER BICAMPEÃO OLÍMPICO EM 2004",
         "type": "VIDEO",
-        "views": 7991,
-        "likes": 305,
+        "views": 8292,
+        "likes": 314,
         "comments": 7,
-        "shares": 10,
+        "shares": 11,
         "saves": 0,
-        "watch_minutes": 27244,
-        "avg_view_duration_sec": 249
+        "watch_minutes": 30141,
+        "avg_view_duration_sec": 248
       },
       {
         "id": "R0i4G_khWDc",
         "date": "2026-08-08",
         "caption": "SAQUE HISTÓRICO DE GIOVANE GÁVIO NO MUNDIAL DE VÔLEI DE 2002",
         "type": "VIDEO",
-        "views": 27000,
-        "likes": 1028,
+        "views": 27957,
+        "likes": 1057,
         "comments": 46,
-        "shares": 39,
+        "shares": 44,
         "saves": 0,
-        "watch_minutes": 86576,
-        "avg_view_duration_sec": 223
+        "watch_minutes": 94122,
+        "avg_view_duration_sec": 222
       },
       {
         "id": "3eRF46ihHzQ",
         "date": "2026-08-08",
         "caption": "GIOVANE GÁVIO REVELA COMO FOI JOGAR NO PROJETO DE VÔLEI DO VASCO",
         "type": "VIDEO",
-        "views": 7474,
-        "likes": 297,
-        "comments": 45,
-        "shares": 15,
+        "views": 7800,
+        "likes": 306,
+        "comments": 47,
+        "shares": 16,
         "saves": 0,
-        "watch_minutes": 20672,
+        "watch_minutes": 22906,
         "avg_view_duration_sec": 199
       },
       {
@@ -36119,25 +36404,25 @@
         "date": "2026-08-08",
         "caption": "POR QUE O VÔLEI MASCULINO BRASILEIRO PAROU DE GANHAR?",
         "type": "VIDEO",
-        "views": 56455,
-        "likes": 1876,
-        "comments": 222,
-        "shares": 114,
+        "views": 58619,
+        "likes": 1948,
+        "comments": 231,
+        "shares": 130,
         "saves": 0,
-        "watch_minutes": 171653,
-        "avg_view_duration_sec": 214
+        "watch_minutes": 188068,
+        "avg_view_duration_sec": 213
       },
       {
         "id": "UxU_mfAG_tc",
         "date": "2026-08-08",
         "caption": "OS PRINCIPAIS MOTIVOS DA CRISE DO VÔLEI MASCULINO BRASILEIRO",
         "type": "VIDEO",
-        "views": 23457,
-        "likes": 876,
-        "comments": 64,
-        "shares": 26,
+        "views": 24221,
+        "likes": 904,
+        "comments": 65,
+        "shares": 30,
         "saves": 0,
-        "watch_minutes": 87711,
+        "watch_minutes": 93687,
         "avg_view_duration_sec": 252
       },
       {
@@ -36145,38 +36430,38 @@
         "date": "2026-08-08",
         "caption": "OS MAIORES CRAQUES GERACIONAIS DO VÔLEI BRASILEIRO",
         "type": "VIDEO",
-        "views": 93092,
-        "likes": 2715,
-        "comments": 121,
-        "shares": 133,
+        "views": 99327,
+        "likes": 2851,
+        "comments": 124,
+        "shares": 152,
         "saves": 0,
-        "watch_minutes": 365017,
-        "avg_view_duration_sec": 291
+        "watch_minutes": 402146,
+        "avg_view_duration_sec": 286
       },
       {
         "id": "xf6BRWHaYmM",
         "date": "2026-08-08",
         "caption": "TODA A VERDADE SOBRE O BERNARDINHO NOS BASTIDORES",
         "type": "VIDEO",
-        "views": 27496,
-        "likes": 1082,
-        "comments": 11,
-        "shares": 19,
+        "views": 28930,
+        "likes": 1126,
+        "comments": 12,
+        "shares": 24,
         "saves": 0,
-        "watch_minutes": 115518,
-        "avg_view_duration_sec": 300
+        "watch_minutes": 126769,
+        "avg_view_duration_sec": 299
       },
       {
         "id": "lIAVQi4UE58",
         "date": "2026-08-08",
         "caption": "BASTIDORES INÉDITOS DO OURO OLÍMPICO DO VÔLEI MASCULINO EM 2004",
         "type": "VIDEO",
-        "views": 10322,
-        "likes": 420,
+        "views": 10791,
+        "likes": 438,
         "comments": 11,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 37063,
+        "watch_minutes": 39594,
         "avg_view_duration_sec": 245
       },
       {
@@ -36184,12 +36469,12 @@
         "date": "2026-08-08",
         "caption": "SAIBA TUDO SOBRE O PRIMEIRO OURO OLÍMPICO DA HISTÓRIA DO VÔLEI BRASILEIRO",
         "type": "VIDEO",
-        "views": 26805,
-        "likes": 1092,
+        "views": 28182,
+        "likes": 1142,
         "comments": 23,
-        "shares": 48,
+        "shares": 53,
         "saves": 0,
-        "watch_minutes": 159981,
+        "watch_minutes": 173564,
         "avg_view_duration_sec": 417
       },
       {
@@ -36197,25 +36482,25 @@
         "date": "2026-08-08",
         "caption": "COMO A GERAÇÃO DE PRATA REVOLUCIONOU O VÔLEI BRASILEIRO",
         "type": "VIDEO",
-        "views": 16741,
-        "likes": 681,
-        "comments": 14,
-        "shares": 21,
+        "views": 18272,
+        "likes": 728,
+        "comments": 16,
+        "shares": 25,
         "saves": 0,
-        "watch_minutes": 53678,
-        "avg_view_duration_sec": 247
+        "watch_minutes": 59926,
+        "avg_view_duration_sec": 245
       },
       {
         "id": "_9WKSNPfbk0",
         "date": "2026-08-07",
         "caption": "HULK AINDA PODE RENDER NO FLUMINENSE?",
         "type": "VIDEO",
-        "views": 2143,
+        "views": 2148,
         "likes": 64,
-        "comments": 2,
+        "comments": 3,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 5822,
+        "watch_minutes": 5890,
         "avg_view_duration_sec": 165
       },
       {
@@ -36223,25 +36508,25 @@
         "date": "2026-08-07",
         "caption": "ELENCO DO FLUMINENSE É SUPERESTIMADO?",
         "type": "VIDEO",
-        "views": 2672,
+        "views": 2680,
         "likes": 89,
         "comments": 5,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 10861,
-        "avg_view_duration_sec": 248
+        "watch_minutes": 10923,
+        "avg_view_duration_sec": 247
       },
       {
         "id": "t4fWGHI3eiI",
         "date": "2026-08-07",
         "caption": "O FLUMINENSE VIROU FREGUÊS DO VASCO?",
         "type": "VIDEO",
-        "views": 23783,
-        "likes": 1048,
-        "comments": 137,
+        "views": 23916,
+        "likes": 1054,
+        "comments": 138,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 127159,
+        "watch_minutes": 129272,
         "avg_view_duration_sec": 332
       },
       {
@@ -36249,12 +36534,12 @@
         "date": "2026-08-07",
         "caption": "CLASSIFICAÇÃO PODE SER A VIRADA DE CHAVE DO VASCO NA TEMPORADA?",
         "type": "VIDEO",
-        "views": 6012,
+        "views": 6023,
         "likes": 174,
         "comments": 3,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 38482,
+        "watch_minutes": 38560,
         "avg_view_duration_sec": 385
       },
       {
@@ -36262,25 +36547,25 @@
         "date": "2026-08-07",
         "caption": "TRETA INSANA ENTRE PHILL E AZEVEDO APÓS O VASCO ELIMINAR O FLUMINENSE",
         "type": "VIDEO",
-        "views": 11258,
-        "likes": 528,
+        "views": 11335,
+        "likes": 531,
         "comments": 82,
         "shares": 11,
         "saves": 0,
-        "watch_minutes": 43470,
-        "avg_view_duration_sec": 237
+        "watch_minutes": 43975,
+        "avg_view_duration_sec": 236
       },
       {
         "id": "jNKn6H3skEc",
         "date": "2026-08-07",
         "caption": "AS EVOLUÇÕES DO VASCO DE PEDRO EMANUEL",
         "type": "VIDEO",
-        "views": 3862,
-        "likes": 134,
+        "views": 3889,
+        "likes": 136,
         "comments": 3,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 13708,
+        "watch_minutes": 13852,
         "avg_view_duration_sec": 219
       },
       {
@@ -36288,38 +36573,38 @@
         "date": "2026-08-07",
         "caption": "BRENNER PODE DAR A VOLTA POR CIMA NO VASCO?",
         "type": "VIDEO",
-        "views": 2713,
+        "views": 2715,
         "likes": 106,
         "comments": 7,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 13259,
-        "avg_view_duration_sec": 295
+        "watch_minutes": 13275,
+        "avg_view_duration_sec": 294
       },
       {
         "id": "Ep7hf7xZ2uI",
         "date": "2026-08-07",
         "caption": "ZUBELDIA É O PRINCIPAL CULPADO PELA ELIMINAÇÃO DO FLUMINENSE NA COPA DO BRASIL?",
         "type": "VIDEO",
-        "views": 1656,
+        "views": 1658,
         "likes": 55,
         "comments": 0,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 6507,
-        "avg_view_duration_sec": 241
+        "watch_minutes": 6555,
+        "avg_view_duration_sec": 239
       },
       {
         "id": "wdHvIVectkQ",
         "date": "2026-08-07",
         "caption": "PHILL FAZ DESABAFO FORTE APÓS ELIMINAÇÃO DO FLUMINENSE NA COPA DO BRASIL",
         "type": "VIDEO",
-        "views": 15046,
+        "views": 15063,
         "likes": 511,
         "comments": 32,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 109566,
+        "watch_minutes": 109968,
         "avg_view_duration_sec": 439
       },
       {
@@ -36327,12 +36612,12 @@
         "date": "2026-08-07",
         "caption": "JAIR PODE SER A SOLUÇÃO PARA OS PROBLEMAS DO VASCO",
         "type": "VIDEO",
-        "views": 729,
-        "likes": 50,
+        "views": 732,
+        "likes": 51,
         "comments": 0,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 1612,
+        "watch_minutes": 1636,
         "avg_view_duration_sec": 137
       },
       {
@@ -36340,12 +36625,12 @@
         "date": "2026-08-07",
         "caption": "PEDRO EMANUEL TRANSFORMOU O TIME DO VASCO?",
         "type": "VIDEO",
-        "views": 3879,
+        "views": 3914,
         "likes": 170,
         "comments": 5,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 14079,
+        "watch_minutes": 14278,
         "avg_view_duration_sec": 230
       },
       {
@@ -36353,103 +36638,103 @@
         "date": "2026-08-07",
         "caption": "Charla #743 - Rodrigo Capelo",
         "type": "VIDEO",
-        "views": 38714,
-        "likes": 2178,
-        "comments": 79,
-        "shares": 150,
+        "views": 39689,
+        "likes": 2208,
+        "comments": 82,
+        "shares": 162,
         "saves": 0,
-        "watch_minutes": 1480959,
-        "avg_view_duration_sec": 2513
+        "watch_minutes": 1561320,
+        "avg_view_duration_sec": 2514
       },
       {
         "id": "dO3dmWc0Cmg",
         "date": "2026-08-07",
         "caption": "ENZO LEVA PHILL À LOUCURA APÓS O VASCO ELIMINAR O FLUMINENSE",
         "type": "VIDEO",
-        "views": 34746,
+        "views": 34798,
         "likes": 2325,
         "comments": 74,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 187456,
-        "avg_view_duration_sec": 326
+        "watch_minutes": 188265,
+        "avg_view_duration_sec": 325
       },
       {
         "id": "R9C5-YMapiA",
         "date": "2026-08-07",
         "caption": "LH PODE FICAR NO ZENIT? SOSA MAIS PERTO DO VASCO? VINI JR RENOVA COM O REAL",
         "type": "VIDEO",
-        "views": 1853,
+        "views": 1856,
         "likes": 148,
         "comments": 1,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 9218,
-        "avg_view_duration_sec": 299
+        "watch_minutes": 9237,
+        "avg_view_duration_sec": 298
       },
       {
         "id": "XBjK6wj1SBA",
         "date": "2026-08-07",
         "caption": "ZUBELDIA PERMANECE NO CARGO APÓS ELIMINAÇÃO DO FLUMINENSE DA COPA DO BRASIL",
         "type": "VIDEO",
-        "views": 6890,
+        "views": 6902,
         "likes": 245,
         "comments": 3,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 40376,
-        "avg_view_duration_sec": 358
+        "watch_minutes": 40839,
+        "avg_view_duration_sec": 357
       },
       {
         "id": "NRFRfpquF9U",
         "date": "2026-08-07",
         "caption": "PRESSÃO GIGANTESCA SOBRE LEONARDO JARDIM NO FLAMENGO",
         "type": "VIDEO",
-        "views": 4352,
-        "likes": 98,
+        "views": 4388,
+        "likes": 101,
         "comments": 13,
         "shares": 9,
         "saves": 0,
-        "watch_minutes": 18653,
-        "avg_view_duration_sec": 259
+        "watch_minutes": 18694,
+        "avg_view_duration_sec": 258
       },
       {
         "id": "MgXAbZoJg1k",
         "date": "2026-08-07",
         "caption": "FLAMENGO ESTÁ PERDIDO NO MERCADO?",
         "type": "VIDEO",
-        "views": 15093,
-        "likes": 409,
+        "views": 15163,
+        "likes": 411,
         "comments": 31,
         "shares": 13,
         "saves": 0,
-        "watch_minutes": 93180,
-        "avg_view_duration_sec": 375
+        "watch_minutes": 93741,
+        "avg_view_duration_sec": 374
       },
       {
         "id": "J280k6mwTXI",
         "date": "2026-08-07",
         "caption": "QUAL DEVE SER A PRIORIDADE DO VASCO NA TEMPORADA?",
         "type": "VIDEO",
-        "views": 3871,
+        "views": 3881,
         "likes": 132,
         "comments": 1,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 19124,
-        "avg_view_duration_sec": 307
+        "watch_minutes": 19366,
+        "avg_view_duration_sec": 306
       },
       {
         "id": "otEGUQheAKE",
         "date": "2026-08-07",
         "caption": "VASCO ANUNCIA COLIDIO COMO SEU NOVO REFORÇO",
         "type": "VIDEO",
-        "views": 4794,
-        "likes": 204,
+        "views": 4821,
+        "likes": 205,
         "comments": 10,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 16725,
+        "watch_minutes": 16960,
         "avg_view_duration_sec": 216
       },
       {
@@ -36457,38 +36742,38 @@
         "date": "2026-08-07",
         "caption": "PHILL MANDA RECADO PARA OS VASCAÍNOS",
         "type": "VIDEO",
-        "views": 2837,
-        "likes": 114,
+        "views": 2878,
+        "likes": 115,
         "comments": 8,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 13794,
-        "avg_view_duration_sec": 299
+        "watch_minutes": 13944,
+        "avg_view_duration_sec": 298
       },
       {
         "id": "erZGGPIE1G4",
         "date": "2026-08-07",
         "caption": "TODA A VERDADE SOBRE AS FINANÇAS DO FLUMINENSE",
         "type": "VIDEO",
-        "views": 35907,
-        "likes": 1494,
+        "views": 36582,
+        "likes": 1510,
         "comments": 104,
-        "shares": 253,
+        "shares": 265,
         "saves": 0,
-        "watch_minutes": 174872,
-        "avg_view_duration_sec": 321
+        "watch_minutes": 185899,
+        "avg_view_duration_sec": 320
       },
       {
         "id": "h47WCIqByz4",
         "date": "2026-08-07",
         "caption": "É POR ISSO QUE O BAHIA TEM A MELHOR SAF DO BRASIL",
         "type": "VIDEO",
-        "views": 24674,
-        "likes": 1120,
+        "views": 25116,
+        "likes": 1132,
         "comments": 162,
-        "shares": 140,
+        "shares": 143,
         "saves": 0,
-        "watch_minutes": 62698,
+        "watch_minutes": 66124,
         "avg_view_duration_sec": 167
       },
       {
@@ -36496,12 +36781,12 @@
         "date": "2026-08-07",
         "caption": "DETALHES INÉDITOS SOBRE A POSSÍVEL NOVA SAF DO FLUMINENSE",
         "type": "VIDEO",
-        "views": 16675,
-        "likes": 848,
+        "views": 16971,
+        "likes": 857,
         "comments": 58,
-        "shares": 97,
+        "shares": 98,
         "saves": 0,
-        "watch_minutes": 51368,
+        "watch_minutes": 53922,
         "avg_view_duration_sec": 199
       },
       {
@@ -36509,38 +36794,38 @@
         "date": "2026-08-07",
         "caption": "RODRIGO CAPELO ANALISA TUDO SOBRE NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 63448,
-        "likes": 3237,
-        "comments": 913,
-        "shares": 257,
+        "views": 64275,
+        "likes": 3277,
+        "comments": 919,
+        "shares": 281,
         "saves": 0,
-        "watch_minutes": 690113,
-        "avg_view_duration_sec": 707
+        "watch_minutes": 727704,
+        "avg_view_duration_sec": 705
       },
       {
         "id": "iDu_L5b_RDA",
         "date": "2026-08-07",
         "caption": "PESQUISAS DE TAMANHO DE TORCIDA SÃO CONFIÁVEIS?",
         "type": "VIDEO",
-        "views": 53624,
-        "likes": 2351,
-        "comments": 916,
-        "shares": 78,
+        "views": 54649,
+        "likes": 2397,
+        "comments": 928,
+        "shares": 84,
         "saves": 0,
-        "watch_minutes": 286878,
-        "avg_view_duration_sec": 351
+        "watch_minutes": 303312,
+        "avg_view_duration_sec": 350
       },
       {
         "id": "KoLAcAM8ldw",
         "date": "2026-08-07",
         "caption": "PALMEIRAS E FLAMENGO VÃO DOMINAR O FUTEBOL BRASILEIRO PELOS PRÓXIMOS ANOS?",
         "type": "VIDEO",
-        "views": 50979,
-        "likes": 1517,
+        "views": 51744,
+        "likes": 1550,
         "comments": 192,
-        "shares": 57,
+        "shares": 58,
         "saves": 0,
-        "watch_minutes": 197654,
+        "watch_minutes": 205525,
         "avg_view_duration_sec": 246
       },
       {
@@ -36548,77 +36833,77 @@
         "date": "2026-08-07",
         "caption": "TODA A VERDADE SOBRE A GUERRA ENTRE GLOBO E CAZÉ TV",
         "type": "VIDEO",
-        "views": 111684,
-        "likes": 4214,
-        "comments": 193,
-        "shares": 187,
+        "views": 113255,
+        "likes": 4272,
+        "comments": 195,
+        "shares": 194,
         "saves": 0,
-        "watch_minutes": 1170003,
-        "avg_view_duration_sec": 679
+        "watch_minutes": 1227819,
+        "avg_view_duration_sec": 678
       },
       {
         "id": "deBgKLb-gk8",
         "date": "2026-08-07",
         "caption": "FLAMENGO É O CULPADO PELO FUTEBOL BRASILEIRO AINDA NÃO TER UMA LIGA?",
         "type": "VIDEO",
-        "views": 84754,
-        "likes": 2969,
-        "comments": 490,
-        "shares": 88,
+        "views": 86415,
+        "likes": 3017,
+        "comments": 498,
+        "shares": 99,
         "saves": 0,
-        "watch_minutes": 520906,
-        "avg_view_duration_sec": 411
+        "watch_minutes": 558546,
+        "avg_view_duration_sec": 408
       },
       {
         "id": "6HwRYzRNg4A",
         "date": "2026-08-07",
         "caption": "A FIFA VAI VENDER A COPA DO MUNDO PARA OS ESTADOS UNIDOS?",
         "type": "VIDEO",
-        "views": 38590,
-        "likes": 1134,
+        "views": 39159,
+        "likes": 1143,
         "comments": 40,
-        "shares": 41,
+        "shares": 42,
         "saves": 0,
-        "watch_minutes": 393190,
-        "avg_view_duration_sec": 659
+        "watch_minutes": 413001,
+        "avg_view_duration_sec": 657
       },
       {
         "id": "aiE-XzdUHe8",
         "date": "2026-08-07",
         "caption": "RODRIGO CAPELO ABRE O CORAÇÃO AO FALAR SOBRE NOVA FASE NA CARREIRA",
         "type": "VIDEO",
-        "views": 3665,
-        "likes": 171,
+        "views": 3769,
+        "likes": 175,
         "comments": 0,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 10218,
-        "avg_view_duration_sec": 184
+        "watch_minutes": 10747,
+        "avg_view_duration_sec": 183
       },
       {
         "id": "SSp_Txh1IlA",
         "date": "2026-08-07",
         "caption": "LUIZ HENRIQUE PRÓXIMO DO FLAMENGO?! REFORÇOS DO VASCO CHEGANDO! ZUBELDIA SEGUE NO FLU!",
         "type": "VIDEO",
-        "views": 15042,
+        "views": 15043,
         "likes": 1170,
         "comments": 4,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 276849,
-        "avg_view_duration_sec": 1099
+        "watch_minutes": 277111,
+        "avg_view_duration_sec": 1100
       },
       {
         "id": "-bLRci_8j38",
         "date": "2026-08-06",
         "caption": "ZUBELDIA VAI SER DEMITIDO DEPOIS DA ELLIMINAÇÃO PRO VASCO?",
         "type": "VIDEO",
-        "views": 6004,
+        "views": 6005,
         "likes": 228,
         "comments": 33,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 21602,
+        "watch_minutes": 21646,
         "avg_view_duration_sec": 216
       },
       {
@@ -36626,12 +36911,12 @@
         "date": "2026-08-06",
         "caption": "AZEVEDO FICA MALUCO NA CLASSIFICAÇÃO DO VASCO EM CIMA DO FLUMINENSE!",
         "type": "VIDEO",
-        "views": 11331,
+        "views": 11335,
         "likes": 850,
         "comments": 80,
         "shares": 25,
         "saves": 0,
-        "watch_minutes": 31817,
+        "watch_minutes": 31858,
         "avg_view_duration_sec": 168
       },
       {
@@ -36639,12 +36924,12 @@
         "date": "2026-08-06",
         "caption": "NARRAÇÃO SURREAL DO CANTARELLI NA CLASSIFICAÇÃO DO VASCO!",
         "type": "VIDEO",
-        "views": 57355,
-        "likes": 4466,
+        "views": 57396,
+        "likes": 4467,
         "comments": 183,
         "shares": 627,
         "saves": 0,
-        "watch_minutes": 172564,
+        "watch_minutes": 173047,
         "avg_view_duration_sec": 180
       },
       {
@@ -36652,12 +36937,12 @@
         "date": "2026-08-06",
         "caption": "FLUMINENSE X VASCO | NARRAÇÃO AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 16010,
+        "views": 16019,
         "likes": 769,
         "comments": 6,
         "shares": 10,
         "saves": 0,
-        "watch_minutes": 78904,
+        "watch_minutes": 79670,
         "avg_view_duration_sec": 296
       },
       {
@@ -36665,38 +36950,38 @@
         "date": "2026-08-06",
         "caption": "DIA DE DECISÃO NA CDB! LH NO MENGÃO? SOSA VEM PRO VASCO OU NÃO?",
         "type": "VIDEO",
-        "views": 1749,
+        "views": 1750,
         "likes": 119,
         "comments": 0,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 6072,
-        "avg_view_duration_sec": 208
+        "watch_minutes": 6084,
+        "avg_view_duration_sec": 207
       },
       {
         "id": "Kyv_DATqflg",
         "date": "2026-08-06",
         "caption": "É O DESTINO! VASCO AMASSA O FLUMINENSE E SE CLASSIFICA PARA AS QUARTAS DA COPA DO BRASIL! ",
         "type": "VIDEO",
-        "views": 32282,
+        "views": 32304,
         "likes": 3258,
         "comments": 40,
         "shares": 37,
         "saves": 0,
-        "watch_minutes": 774679,
-        "avg_view_duration_sec": 1444
+        "watch_minutes": 779811,
+        "avg_view_duration_sec": 1447
       },
       {
         "id": "-hSiFf2Ku_s",
         "date": "2026-08-05",
         "caption": "THIAGO ALMADA NÃO VEM MAIS PARA O FLAMENGO?",
         "type": "VIDEO",
-        "views": 5885,
+        "views": 5886,
         "likes": 171,
         "comments": 15,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 55059,
+        "watch_minutes": 55168,
         "avg_view_duration_sec": 562
       },
       {
@@ -36709,7 +36994,7 @@
         "comments": 7,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 26098,
+        "watch_minutes": 26142,
         "avg_view_duration_sec": 411
       },
       {
@@ -36722,33 +37007,33 @@
         "comments": 1,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 15261,
-        "avg_view_duration_sec": 378
+        "watch_minutes": 15288,
+        "avg_view_duration_sec": 377
       },
       {
         "id": "n4ASKztnOU4",
         "date": "2026-08-05",
         "caption": "VICTOR LESSA, DO CANAL DO LESSA",
         "type": "VIDEO",
-        "views": 2672,
+        "views": 2677,
         "likes": 270,
         "comments": 1,
         "shares": 8,
         "saves": 0,
-        "watch_minutes": 27734,
-        "avg_view_duration_sec": 623
+        "watch_minutes": 27862,
+        "avg_view_duration_sec": 624
       },
       {
         "id": "jRqPGr26guQ",
         "date": "2026-08-05",
         "caption": "LUIZ HENRIQUE PERDERÁ A IDOLATRIA NO BOTAFOGO SE FOR PARA O FLAMENGO?",
         "type": "VIDEO",
-        "views": 5397,
+        "views": 5399,
         "likes": 210,
         "comments": 28,
         "shares": 7,
         "saves": 0,
-        "watch_minutes": 22195,
+        "watch_minutes": 22274,
         "avg_view_duration_sec": 247
       },
       {
@@ -36756,26 +37041,26 @@
         "date": "2026-08-05",
         "caption": "QUEM SERIA MAIS ÚTIL AO FLAMENGO: LUIZ HENRIQUE OU ALMADA?",
         "type": "VIDEO",
-        "views": 4257,
+        "views": 4258,
         "likes": 118,
         "comments": 8,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 24684,
-        "avg_view_duration_sec": 348
+        "watch_minutes": 24715,
+        "avg_view_duration_sec": 347
       },
       {
         "id": "5GojRoCszFI",
         "date": "2026-08-05",
         "caption": "LUIZ HENRIQUE MUITO PRÓXIMO DE SER O NOVO REFORÇO DO FLAMENGO",
         "type": "VIDEO",
-        "views": 8881,
+        "views": 8882,
         "likes": 321,
         "comments": 15,
         "shares": 9,
         "saves": 0,
-        "watch_minutes": 43385,
-        "avg_view_duration_sec": 293
+        "watch_minutes": 43454,
+        "avg_view_duration_sec": 292
       },
       {
         "id": "DjIAbrn-BkA",
@@ -36787,7 +37072,7 @@
         "comments": 8,
         "shares": 19,
         "saves": 0,
-        "watch_minutes": 264268,
+        "watch_minutes": 265336,
         "avg_view_duration_sec": 1064
       },
       {
@@ -36795,12 +37080,12 @@
         "date": "2026-08-04",
         "caption": "ANDRÉ GARONE, REVISTA PLACAR",
         "type": "VIDEO",
-        "views": 2394,
+        "views": 2395,
         "likes": 253,
         "comments": 22,
         "shares": 20,
         "saves": 0,
-        "watch_minutes": 10812,
+        "watch_minutes": 10859,
         "avg_view_duration_sec": 273
       },
       {
@@ -36813,7 +37098,7 @@
         "comments": 17,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 1281,
+        "watch_minutes": 1306,
         "avg_view_duration_sec": 142
       },
       {
@@ -36821,12 +37106,12 @@
         "date": "2026-08-04",
         "caption": "TRABALHO DO PEDRO EMANUEL NO VASCO SURPREENDEU POSITIVAMENTE?",
         "type": "VIDEO",
-        "views": 3638,
+        "views": 3639,
         "likes": 112,
         "comments": 5,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 22014,
+        "watch_minutes": 22084,
         "avg_view_duration_sec": 364
       },
       {
@@ -36839,7 +37124,7 @@
         "comments": 0,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 11003,
+        "watch_minutes": 11015,
         "avg_view_duration_sec": 307
       },
       {
@@ -36847,25 +37132,25 @@
         "date": "2026-08-04",
         "caption": "THIAGO ALMADA ENTRE FLAMENGO OU RIVER PLATE! VASCO CONTRATA VOLANTE E BUSCA NOVAS PEÇAS NO MERCADO!",
         "type": "VIDEO",
-        "views": 12557,
+        "views": 12563,
         "likes": 776,
         "comments": 1,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 235107,
-        "avg_view_duration_sec": 1124
+        "watch_minutes": 235672,
+        "avg_view_duration_sec": 1126
       },
       {
         "id": "vDV2J3LlcXQ",
         "date": "2026-08-04",
         "caption": "QUAIS AS EXPECTATIVAS DO BOTAFOGO PARA O RESTANTE DA TEMPORADA?",
         "type": "VIDEO",
-        "views": 20783,
+        "views": 20788,
         "likes": 1066,
         "comments": 88,
         "shares": 25,
         "saves": 0,
-        "watch_minutes": 101108,
+        "watch_minutes": 101328,
         "avg_view_duration_sec": 292
       },
       {
@@ -36873,12 +37158,12 @@
         "date": "2026-08-04",
         "caption": "PEDRO EMANUEL MELHOROU O TIME DO VASCO?",
         "type": "VIDEO",
-        "views": 6247,
+        "views": 6250,
         "likes": 195,
         "comments": 7,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 28597,
+        "watch_minutes": 28659,
         "avg_view_duration_sec": 275
       },
       {
@@ -36886,12 +37171,12 @@
         "date": "2026-08-04",
         "caption": "ELENCO DO VASCO ESTÁ ENTRE OS PIORES DO BRASIL?",
         "type": "VIDEO",
-        "views": 10345,
-        "likes": 298,
+        "views": 10412,
+        "likes": 299,
         "comments": 38,
         "shares": 9,
         "saves": 0,
-        "watch_minutes": 72708,
+        "watch_minutes": 73550,
         "avg_view_duration_sec": 431
       },
       {
@@ -36899,25 +37184,25 @@
         "date": "2026-08-04",
         "caption": "CONTRATAÇÕES VÃO RESOLVER OS PROBLEMAS DO ELENCO DO VASCO?",
         "type": "VIDEO",
-        "views": 14088,
-        "likes": 496,
-        "comments": 47,
+        "views": 14826,
+        "likes": 517,
+        "comments": 48,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 72532,
-        "avg_view_duration_sec": 363
+        "watch_minutes": 76194,
+        "avg_view_duration_sec": 359
       },
       {
         "id": "D7ATxQzc4AE",
         "date": "2026-08-04",
         "caption": "QUAIS SÃO AS EXPECTATIVAS DE FLUMINENSE E VASCO PARA A VOLTA DA COPA DO BRASIL?",
         "type": "VIDEO",
-        "views": 8316,
+        "views": 8318,
         "likes": 353,
         "comments": 14,
         "shares": 5,
         "saves": 0,
-        "watch_minutes": 46615,
+        "watch_minutes": 46636,
         "avg_view_duration_sec": 336
       },
       {
@@ -36930,7 +37215,7 @@
         "comments": 30,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 27373,
+        "watch_minutes": 27385,
         "avg_view_duration_sec": 331
       },
       {
@@ -36938,38 +37223,38 @@
         "date": "2026-08-04",
         "caption": "ZUBELDIA É O GRANDE CULPADO PELA FASE RUIM DO FLUMINENSE?",
         "type": "VIDEO",
-        "views": 17662,
+        "views": 17664,
         "likes": 720,
         "comments": 86,
         "shares": 20,
         "saves": 0,
-        "watch_minutes": 101547,
-        "avg_view_duration_sec": 345
+        "watch_minutes": 101587,
+        "avg_view_duration_sec": 344
       },
       {
         "id": "JF9TebXliG0",
         "date": "2026-08-04",
         "caption": "TORCIDA DO FLAMENGO TEM CULPA NA DEMISSÃO DO FILIPE LUÍS?",
         "type": "VIDEO",
-        "views": 10275,
+        "views": 10279,
         "likes": 376,
         "comments": 109,
         "shares": 25,
         "saves": 0,
-        "watch_minutes": 88305,
-        "avg_view_duration_sec": 517
+        "watch_minutes": 88478,
+        "avg_view_duration_sec": 516
       },
       {
         "id": "ZpSMGfYCfAM",
         "date": "2026-08-04",
         "caption": "LEONARDO JARDIM MERECE SER DEMITIDO DO FLAMENGO?",
         "type": "VIDEO",
-        "views": 4824,
+        "views": 4831,
         "likes": 137,
         "comments": 10,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 30112,
+        "watch_minutes": 30160,
         "avg_view_duration_sec": 375
       },
       {
@@ -36977,12 +37262,12 @@
         "date": "2026-08-04",
         "caption": "JOSÉ BOTO É O GRANDE CULPADO PELA FALTA DE PEÇAS NO ELENCO DO FLAMENGO?",
         "type": "VIDEO",
-        "views": 4729,
+        "views": 4731,
         "likes": 171,
         "comments": 12,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 25824,
+        "watch_minutes": 25841,
         "avg_view_duration_sec": 328
       },
       {
@@ -36990,12 +37275,12 @@
         "date": "2026-08-04",
         "caption": "PHILL E BETÃO DISCUTEM SOBRE A FASE DO FLAMENGO",
         "type": "VIDEO",
-        "views": 3391,
+        "views": 3392,
         "likes": 157,
         "comments": 20,
         "shares": 5,
         "saves": 0,
-        "watch_minutes": 14065,
+        "watch_minutes": 14072,
         "avg_view_duration_sec": 249
       },
       {
@@ -37003,13 +37288,13 @@
         "date": "2026-08-03",
         "caption": "VASCO E FLU INICIAM PREPARAÇÃO PARA O JOGO DE VOLTA! ALMADA VAI JOGAR NO RIVER OU NO FLAMENGO?",
         "type": "VIDEO",
-        "views": 17840,
-        "likes": 1321,
+        "views": 17874,
+        "likes": 1322,
         "comments": 21,
         "shares": 17,
         "saves": 0,
-        "watch_minutes": 736642,
-        "avg_view_duration_sec": 2483
+        "watch_minutes": 738419,
+        "avg_view_duration_sec": 2487
       },
       {
         "id": "1uu2QtCzO4E",
@@ -37029,7 +37314,7 @@
         "date": "2026-08-03",
         "caption": "O INTER TÁ COM A CLASSIFICAÇÃO ENCAMINHADA JÁ?",
         "type": "VIDEO",
-        "views": 1186,
+        "views": 1187,
         "likes": 74,
         "comments": 1,
         "shares": 3,
@@ -37055,13 +37340,13 @@
         "date": "2026-08-03",
         "caption": "INTERNACIONAL X CORINTHIANS  | NARRAÇÃO AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 8358,
+        "views": 8360,
         "likes": 208,
         "comments": 0,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 20852,
-        "avg_view_duration_sec": 149
+        "watch_minutes": 20874,
+        "avg_view_duration_sec": 150
       },
       {
         "id": "a-m0gzhYvx4",
@@ -37073,7 +37358,7 @@
         "comments": 0,
         "shares": 3,
         "saves": 0,
-        "watch_minutes": 1712,
+        "watch_minutes": 1715,
         "avg_view_duration_sec": 138
       },
       {
@@ -37081,12 +37366,12 @@
         "date": "2026-08-02",
         "caption": "BASTIDORES INÉDITOS DA CHEGADA DE ÉVERTON RIBEIRO AO FLAMENGO",
         "type": "VIDEO",
-        "views": 939,
+        "views": 940,
         "likes": 48,
         "comments": 0,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 1937,
+        "watch_minutes": 1945,
         "avg_view_duration_sec": 124
       },
       {
@@ -37099,7 +37384,7 @@
         "comments": 17,
         "shares": 12,
         "saves": 0,
-        "watch_minutes": 6895,
+        "watch_minutes": 6897,
         "avg_view_duration_sec": 148
       },
       {
@@ -37125,7 +37410,7 @@
         "comments": 3,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 1612,
+        "watch_minutes": 1616,
         "avg_view_duration_sec": 140
       },
       {
@@ -37138,33 +37423,33 @@
         "comments": 3,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 1332,
-        "avg_view_duration_sec": 161
+        "watch_minutes": 1337,
+        "avg_view_duration_sec": 160
       },
       {
         "id": "apX_uvrKGbc",
         "date": "2026-08-02",
         "caption": "BANDEIRA DE MELLO REVELA OS BASTIDORES DO PROJETO QUE MUDOU A HISTÓRIA DO FLAMENGO",
         "type": "VIDEO",
-        "views": 3710,
-        "likes": 122,
+        "views": 3721,
+        "likes": 123,
         "comments": 8,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 16093,
-        "avg_view_duration_sec": 261
+        "watch_minutes": 16115,
+        "avg_view_duration_sec": 260
       },
       {
         "id": "eWRlyj_ZGjU",
         "date": "2026-08-02",
         "caption": "BANDEIRA DE MELLO COMENTA SOBRE A FASE ATUAL DO FLAMENGO",
         "type": "VIDEO",
-        "views": 4570,
+        "views": 4576,
         "likes": 200,
         "comments": 14,
         "shares": 11,
         "saves": 0,
-        "watch_minutes": 12954,
+        "watch_minutes": 12972,
         "avg_view_duration_sec": 170
       },
       {
@@ -37172,12 +37457,12 @@
         "date": "2026-08-02",
         "caption": "BANDEIRA DE MELLO ABRE O JOGO SOBRE O NOVO ESTÁDIO DO FLAMENGO",
         "type": "VIDEO",
-        "views": 14042,
-        "likes": 504,
+        "views": 14084,
+        "likes": 506,
         "comments": 93,
         "shares": 38,
         "saves": 0,
-        "watch_minutes": 73103,
+        "watch_minutes": 73160,
         "avg_view_duration_sec": 313
       },
       {
@@ -37185,25 +37470,25 @@
         "date": "2026-08-02",
         "caption": "QUEM É MAIOR, MESSI OU PELÉ?",
         "type": "VIDEO",
-        "views": 1259,
+        "views": 1260,
         "likes": 51,
         "comments": 15,
         "shares": 8,
         "saves": 0,
-        "watch_minutes": 3536,
-        "avg_view_duration_sec": 169
+        "watch_minutes": 3542,
+        "avg_view_duration_sec": 168
       },
       {
         "id": "lbEtWgrfwbY",
         "date": "2026-08-02",
         "caption": "RODRIGO DEADFISH ABRE O CORAÇÃO AO FALAR SOBRE O FLAMENGO",
         "type": "VIDEO",
-        "views": 7035,
+        "views": 7042,
         "likes": 298,
         "comments": 9,
-        "shares": 7,
+        "shares": 8,
         "saves": 0,
-        "watch_minutes": 24147,
+        "watch_minutes": 24198,
         "avg_view_duration_sec": 206
       },
       {
@@ -37211,12 +37496,12 @@
         "date": "2026-08-02",
         "caption": "RODRIGO DEADFISH COMENTA VÍDEO VIRAL SOBRE NEYMAR E CBF",
         "type": "VIDEO",
-        "views": 8078,
+        "views": 8085,
         "likes": 386,
         "comments": 33,
         "shares": 13,
         "saves": 0,
-        "watch_minutes": 36826,
+        "watch_minutes": 36874,
         "avg_view_duration_sec": 274
       },
       {
@@ -37224,12 +37509,12 @@
         "date": "2026-08-02",
         "caption": "HISTÓRIA EMOCIONANTE COM O PAI DO RODRIGO DEADFISH QUE INSPIROU A MÚSICA 49",
         "type": "VIDEO",
-        "views": 1667,
+        "views": 1668,
         "likes": 70,
         "comments": 2,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 4239,
+        "watch_minutes": 4244,
         "avg_view_duration_sec": 152
       },
       {
@@ -37237,12 +37522,12 @@
         "date": "2026-08-02",
         "caption": "RODRIGO DO DEAD FISH FALA SOBRE O ÁLBUM REVOLUCIONÁRIO PONTO CEGO",
         "type": "VIDEO",
-        "views": 3248,
-        "likes": 221,
+        "views": 3258,
+        "likes": 222,
         "comments": 14,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 24796,
+        "watch_minutes": 24975,
         "avg_view_duration_sec": 463
       },
       {
@@ -37250,12 +37535,12 @@
         "date": "2026-08-02",
         "caption": "CONHEÇA A TRAJETÓRIA DA BANDA DEAD FISH ANTES DO SUCESSO",
         "type": "VIDEO",
-        "views": 5470,
-        "likes": 214,
+        "views": 5480,
+        "likes": 215,
         "comments": 22,
         "shares": 5,
         "saves": 0,
-        "watch_minutes": 36809,
+        "watch_minutes": 36948,
         "avg_view_duration_sec": 406
       },
       {
@@ -37263,12 +37548,12 @@
         "date": "2026-08-02",
         "caption": "POR QUE O ROCK NACIONAL ENFRAQUECEU? RODRIGO DEAD FISH RESPONDE",
         "type": "VIDEO",
-        "views": 9112,
+        "views": 9122,
         "likes": 373,
         "comments": 61,
         "shares": 21,
         "saves": 0,
-        "watch_minutes": 50792,
+        "watch_minutes": 50869,
         "avg_view_duration_sec": 335
       },
       {
@@ -37276,12 +37561,12 @@
         "date": "2026-08-02",
         "caption": "HISTÓRIA INACREDITÁVEL DO CHORÃO ANTES DE SER CONHECIDO",
         "type": "VIDEO",
-        "views": 10697,
+        "views": 10711,
         "likes": 336,
         "comments": 5,
         "shares": 19,
         "saves": 0,
-        "watch_minutes": 49002,
+        "watch_minutes": 49081,
         "avg_view_duration_sec": 275
       },
       {
@@ -37289,13 +37574,13 @@
         "date": "2026-08-01",
         "caption": "EDUARDO BANDEIRA DE MELLO NA MIX",
         "type": "VIDEO",
-        "views": 3089,
+        "views": 3094,
         "likes": 283,
         "comments": 13,
         "shares": 18,
         "saves": 0,
-        "watch_minutes": 29886,
-        "avg_view_duration_sec": 581
+        "watch_minutes": 29973,
+        "avg_view_duration_sec": 582
       },
       {
         "id": "MoYEP7PRGJ8",
@@ -37328,12 +37613,12 @@
         "date": "2026-08-01",
         "caption": "VASCO x FLUMINENSE | NARRAÇÃO AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 6402,
+        "views": 6403,
         "likes": 309,
         "comments": 2,
         "shares": 5,
         "saves": 0,
-        "watch_minutes": 25750,
+        "watch_minutes": 25751,
         "avg_view_duration_sec": 241
       },
       {
@@ -37356,13 +37641,13 @@
         "date": "2026-07-31",
         "caption": "Charla #742 - Rodrigo Lima [Vocalista do Deadfish]",
         "type": "VIDEO",
-        "views": 23747,
-        "likes": 2367,
-        "comments": 152,
-        "shares": 361,
+        "views": 23938,
+        "likes": 2381,
+        "comments": 155,
+        "shares": 365,
         "saves": 0,
-        "watch_minutes": 604958,
-        "avg_view_duration_sec": 1562
+        "watch_minutes": 612329,
+        "avg_view_duration_sec": 1563
       },
       {
         "id": "cLNfCm2oY3U",
@@ -37374,7 +37659,7 @@
         "comments": 1,
         "shares": 13,
         "saves": 0,
-        "watch_minutes": 256485,
+        "watch_minutes": 256697,
         "avg_view_duration_sec": 1481
       },
       {
@@ -37395,12 +37680,12 @@
         "date": "2026-07-31",
         "caption": "ERROS DO VASCO NA JANELA DE TRANSFERÊNCIAS",
         "type": "VIDEO",
-        "views": 10117,
+        "views": 10122,
         "likes": 293,
         "comments": 26,
         "shares": 11,
         "saves": 0,
-        "watch_minutes": 71489,
+        "watch_minutes": 71565,
         "avg_view_duration_sec": 425
       },
       {
@@ -37413,7 +37698,7 @@
         "comments": 4,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 20075,
+        "watch_minutes": 20077,
         "avg_view_duration_sec": 316
       },
       {
@@ -37421,12 +37706,12 @@
         "date": "2026-07-31",
         "caption": "PRESSÃO GIGANTESCA SOBRE O TRABALHO DE LEONARDO JARDIM NO FLAMENGO",
         "type": "VIDEO",
-        "views": 22992,
+        "views": 22993,
         "likes": 707,
         "comments": 88,
         "shares": 24,
         "saves": 0,
-        "watch_minutes": 207732,
+        "watch_minutes": 207780,
         "avg_view_duration_sec": 542
       },
       {
@@ -37445,7 +37730,7 @@
         "date": "2026-07-31",
         "caption": "HULK E JOHN KENNEDY PODEM JOGAR JUNTOS NO FLUMINENSE?",
         "type": "VIDEO",
-        "views": 2778,
+        "views": 2779,
         "likes": 93,
         "comments": 10,
         "shares": 2,
@@ -37458,12 +37743,12 @@
         "date": "2026-07-31",
         "caption": "COMO CHEGA O FLUMINENSE PARA O CONFRONTO CONTRA O VASCO?",
         "type": "VIDEO",
-        "views": 10697,
+        "views": 10698,
         "likes": 366,
         "comments": 25,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 76900,
+        "watch_minutes": 76897,
         "avg_view_duration_sec": 431
       },
       {
@@ -37471,13 +37756,13 @@
         "date": "2026-07-31",
         "caption": "CONTRATAR O HULK FOI UM ERRO DA DIRETORIA DO FLUMINENSE?",
         "type": "VIDEO",
-        "views": 28060,
-        "likes": 816,
+        "views": 28151,
+        "likes": 818,
         "comments": 136,
         "shares": 39,
         "saves": 0,
-        "watch_minutes": 115614,
-        "avg_view_duration_sec": 254
+        "watch_minutes": 117050,
+        "avg_view_duration_sec": 253
       },
       {
         "id": "R5HUDICvlXI",
@@ -37510,12 +37795,12 @@
         "date": "2026-07-31",
         "caption": "TRABALHO DO LEONARDO JARDIM NO FLAMENGO ESTÁ PRÓXIMO DO FIM?",
         "type": "VIDEO",
-        "views": 6699,
+        "views": 6701,
         "likes": 213,
         "comments": 37,
         "shares": 2,
         "saves": 0,
-        "watch_minutes": 65400,
+        "watch_minutes": 65421,
         "avg_view_duration_sec": 586
       },
       {
@@ -37549,12 +37834,12 @@
         "date": "2026-07-31",
         "caption": "POLÊMICAS DE ARBITRAGEM EM PALMEIRAS X VITÓRIA",
         "type": "VIDEO",
-        "views": 3003,
+        "views": 3005,
         "likes": 161,
         "comments": 56,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 24405,
+        "watch_minutes": 24421,
         "avg_view_duration_sec": 487
       },
       {
@@ -37616,12 +37901,12 @@
         "date": "2026-07-30",
         "caption": "FLAMENGO JOGA MAL E TROPEÇA MAIS UMA VEZ! FLU EMPATA EM CASA E É VAIADO! VASCO AVANÇA NA SULA!",
         "type": "VIDEO",
-        "views": 11748,
+        "views": 11762,
         "likes": 970,
         "comments": 5,
         "shares": 7,
         "saves": 0,
-        "watch_minutes": 246209,
+        "watch_minutes": 246216,
         "avg_view_duration_sec": 1258
       },
       {
@@ -37642,12 +37927,12 @@
         "date": "2026-07-30",
         "caption": "MARCELO ADNET ABRE O CORAÇÃO AO FALAR DA FINAL DA LIBERTADORES DO BOTAFOGO",
         "type": "VIDEO",
-        "views": 36049,
-        "likes": 2185,
+        "views": 36117,
+        "likes": 2187,
         "comments": 63,
         "shares": 111,
         "saves": 0,
-        "watch_minutes": 157361,
+        "watch_minutes": 157675,
         "avg_view_duration_sec": 262
       },
       {
@@ -37655,12 +37940,12 @@
         "date": "2026-07-30",
         "caption": "MARCELO ADNET FAZ UM SAMBA NO IMPROVISO AO VIVO",
         "type": "VIDEO",
-        "views": 6715,
-        "likes": 388,
-        "comments": 15,
+        "views": 6729,
+        "likes": 389,
+        "comments": 16,
         "shares": 54,
         "saves": 0,
-        "watch_minutes": 16951,
+        "watch_minutes": 16962,
         "avg_view_duration_sec": 151
       },
       {
@@ -37668,12 +37953,12 @@
         "date": "2026-07-30",
         "caption": "DESFILE DA MANGUEIRA ACABOU COM O CAUÃ REYMOND",
         "type": "VIDEO",
-        "views": 4269,
-        "likes": 143,
+        "views": 4272,
+        "likes": 144,
         "comments": 4,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 14438,
+        "watch_minutes": 14458,
         "avg_view_duration_sec": 203
       },
       {
@@ -37681,12 +37966,12 @@
         "date": "2026-07-30",
         "caption": "PERRENGUES DE SER UM ATOR DE NOVELA QUE NINGUÉM TE CONTA",
         "type": "VIDEO",
-        "views": 47008,
-        "likes": 653,
+        "views": 47774,
+        "likes": 667,
         "comments": 16,
         "shares": 20,
         "saves": 0,
-        "watch_minutes": 74273,
+        "watch_minutes": 76955,
         "avg_view_duration_sec": 100
       },
       {
@@ -37694,12 +37979,12 @@
         "date": "2026-07-30",
         "caption": "CAUÃ REYMOND RELEMBRA O SEU PERSONAGEM DE MALHAÇÃO",
         "type": "VIDEO",
-        "views": 2264,
+        "views": 2267,
         "likes": 76,
         "comments": 1,
         "shares": 5,
         "saves": 0,
-        "watch_minutes": 3225,
+        "watch_minutes": 3230,
         "avg_view_duration_sec": 85
       },
       {
@@ -37707,25 +37992,25 @@
         "date": "2026-07-30",
         "caption": "CAUÃ REYMOND RESPONDE COMO É SER UM GALÃ",
         "type": "VIDEO",
-        "views": 45346,
-        "likes": 1649,
-        "comments": 66,
-        "shares": 73,
+        "views": 46670,
+        "likes": 1700,
+        "comments": 68,
+        "shares": 80,
         "saves": 0,
-        "watch_minutes": 184540,
-        "avg_view_duration_sec": 266
+        "watch_minutes": 190369,
+        "avg_view_duration_sec": 263
       },
       {
         "id": "sonlIYC8ht8",
         "date": "2026-07-30",
         "caption": "CAUÃ REYMOND E MARCELO ADNET REVELAM COMO É GRAVAR CENAS +18",
         "type": "VIDEO",
-        "views": 7624,
+        "views": 7655,
         "likes": 292,
         "comments": 5,
-        "shares": 16,
+        "shares": 17,
         "saves": 0,
-        "watch_minutes": 37447,
+        "watch_minutes": 37571,
         "avg_view_duration_sec": 296
       },
       {
@@ -37733,38 +38018,38 @@
         "date": "2026-07-30",
         "caption": "TENTE NÃO RIR COM A IMITAÇÃO MAIS GENIAL DO GALVÃO BUENO 😂😂😂",
         "type": "VIDEO",
-        "views": 106456,
-        "likes": 4508,
-        "comments": 146,
-        "shares": 541,
+        "views": 107732,
+        "likes": 4547,
+        "comments": 148,
+        "shares": 546,
         "saves": 0,
-        "watch_minutes": 363576,
-        "avg_view_duration_sec": 211
+        "watch_minutes": 368206,
+        "avg_view_duration_sec": 210
       },
       {
         "id": "r2gDyGEhAZc",
         "date": "2026-07-30",
         "caption": "RELATO EMOCIONANTE DE CAUÃ REYMOND SOBRE SAÚDE MENTAL",
         "type": "VIDEO",
-        "views": 23933,
-        "likes": 814,
-        "comments": 35,
-        "shares": 80,
+        "views": 24118,
+        "likes": 823,
+        "comments": 38,
+        "shares": 82,
         "saves": 0,
-        "watch_minutes": 123858,
-        "avg_view_duration_sec": 317
+        "watch_minutes": 125237,
+        "avg_view_duration_sec": 316
       },
       {
         "id": "0q0yH52bFJQ",
         "date": "2026-07-30",
         "caption": "CAUÃ REYMOND E ADNET FALAM SOBRE O TABU NO FUTEBOL",
         "type": "VIDEO",
-        "views": 6681,
+        "views": 6699,
         "likes": 267,
         "comments": 5,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 25564,
+        "watch_minutes": 25667,
         "avg_view_duration_sec": 231
       },
       {
@@ -37772,12 +38057,12 @@
         "date": "2026-07-30",
         "caption": "CAUÃ REYMOND REVELA SEU PROCESSO DE PREPARAÇÃO PARA O PERSONAGEM MAURÍCIO, EM JOGADA DE RISCO",
         "type": "VIDEO",
-        "views": 4063,
-        "likes": 129,
+        "views": 4076,
+        "likes": 130,
         "comments": 1,
         "shares": 7,
         "saves": 0,
-        "watch_minutes": 10365,
+        "watch_minutes": 10389,
         "avg_view_duration_sec": 154
       },
       {
@@ -37785,13 +38070,13 @@
         "date": "2026-07-30",
         "caption": "OS BASTIDORES POR TRÁS DA SÉRIE DE FUTEBOL JOGADA DE RISCO",
         "type": "VIDEO",
-        "views": 17857,
-        "likes": 583,
+        "views": 18036,
+        "likes": 587,
         "comments": 19,
         "shares": 25,
         "saves": 0,
-        "watch_minutes": 122898,
-        "avg_view_duration_sec": 420
+        "watch_minutes": 123640,
+        "avg_view_duration_sec": 419
       },
       {
         "id": "yt_W9LLF6zKrm0",
@@ -37813,13 +38098,13 @@
         "date": "2026-07-29",
         "caption": "LUIZ HENRIQUE PERTO DO FLAMENGO! DIA DE VASCO PELA SULA E FLU PELO BRASILEIRO! | CHARLA DE QUINTA",
         "type": "VIDEO",
-        "views": 15154,
+        "views": 15157,
         "likes": 1087,
         "comments": 12,
         "shares": 22,
         "saves": 0,
-        "watch_minutes": 212837,
-        "avg_view_duration_sec": 842
+        "watch_minutes": 212932,
+        "avg_view_duration_sec": 843
       },
       {
         "id": "ErYfKDzAEZc",
@@ -37844,7 +38129,7 @@
         "comments": 60,
         "shares": 9,
         "saves": 0,
-        "watch_minutes": 23332,
+        "watch_minutes": 23333,
         "avg_view_duration_sec": 296
       },
       {
@@ -37878,7 +38163,7 @@
         "date": "2026-07-29",
         "caption": "LEONARDO JARDIM AINDA NÃO ACERTOU O TIME DO FLAMENGO?",
         "type": "VIDEO",
-        "views": 2291,
+        "views": 2292,
         "likes": 69,
         "comments": 5,
         "shares": 3,
@@ -37896,7 +38181,7 @@
         "comments": 31,
         "shares": 27,
         "saves": 0,
-        "watch_minutes": 59079,
+        "watch_minutes": 59080,
         "avg_view_duration_sec": 397
       },
       {
@@ -37909,7 +38194,7 @@
         "comments": 52,
         "shares": 35,
         "saves": 0,
-        "watch_minutes": 93601,
+        "watch_minutes": 93600,
         "avg_view_duration_sec": 269
       },
       {
@@ -37917,12 +38202,12 @@
         "date": "2026-07-29",
         "caption": "NELSON DEOSSA NÃO QUER JOGAR NO VASCO?",
         "type": "VIDEO",
-        "views": 8548,
+        "views": 8550,
         "likes": 281,
         "comments": 28,
         "shares": 13,
         "saves": 0,
-        "watch_minutes": 38123,
+        "watch_minutes": 38133,
         "avg_view_duration_sec": 267
       },
       {
@@ -37935,7 +38220,7 @@
         "comments": 5,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 63749,
+        "watch_minutes": 63759,
         "avg_view_duration_sec": 405
       },
       {
@@ -37943,12 +38228,12 @@
         "date": "2026-07-29",
         "caption": "ENZO GRISALHO FAZ APELO À DIRETORIA DO VASCO",
         "type": "VIDEO",
-        "views": 4933,
+        "views": 4934,
         "likes": 147,
         "comments": 25,
         "shares": 13,
         "saves": 0,
-        "watch_minutes": 17097,
+        "watch_minutes": 17108,
         "avg_view_duration_sec": 207
       },
       {
@@ -37956,12 +38241,12 @@
         "date": "2026-07-29",
         "caption": "LUCIANA CAMPOS, COMENTARISTA ESPORTIVA",
         "type": "VIDEO",
-        "views": 1989,
+        "views": 1992,
         "likes": 174,
         "comments": 1,
         "shares": 17,
         "saves": 0,
-        "watch_minutes": 7665,
+        "watch_minutes": 7678,
         "avg_view_duration_sec": 231
       },
       {
@@ -37969,12 +38254,12 @@
         "date": "2026-07-29",
         "caption": "AS POLÊMICAS POR TRÁS DO JULGAMENTO DE VICTOR GABRIEL PELA ENTRADA EM GABRIEL PEC",
         "type": "VIDEO",
-        "views": 1259,
+        "views": 1260,
         "likes": 39,
         "comments": 4,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 5623,
+        "watch_minutes": 5636,
         "avg_view_duration_sec": 269
       },
       {
@@ -37982,12 +38267,12 @@
         "date": "2026-07-29",
         "caption": "LUIZ HENRIQUE VAI PARA O FLAMENGO OU PARA O BOTAFOGO?",
         "type": "VIDEO",
-        "views": 6631,
+        "views": 6634,
         "likes": 216,
         "comments": 23,
         "shares": 10,
         "saves": 0,
-        "watch_minutes": 53539,
+        "watch_minutes": 53536,
         "avg_view_duration_sec": 484
       },
       {
@@ -37995,12 +38280,12 @@
         "date": "2026-07-29",
         "caption": "BRUNO AZEVEDO FAZ FORTE DESABAFO SOBRE O MOMENTO DO VASCO",
         "type": "VIDEO",
-        "views": 8743,
+        "views": 8745,
         "likes": 335,
         "comments": 38,
         "shares": 27,
         "saves": 0,
-        "watch_minutes": 74385,
+        "watch_minutes": 74424,
         "avg_view_duration_sec": 510
       },
       {
@@ -38013,8 +38298,8 @@
         "comments": 0,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 808,
-        "avg_view_duration_sec": 98
+        "watch_minutes": 817,
+        "avg_view_duration_sec": 99
       },
       {
         "id": "GQa_KtQmKtE",
@@ -38026,7 +38311,7 @@
         "comments": 10,
         "shares": 20,
         "saves": 0,
-        "watch_minutes": 15630,
+        "watch_minutes": 15691,
         "avg_view_duration_sec": 228
       },
       {
@@ -38034,12 +38319,12 @@
         "date": "2026-07-29",
         "caption": "AS MAIORES LOUCURAS QUE O MARCELO FALCÃO PASSOU COM FÃS",
         "type": "VIDEO",
-        "views": 2716,
-        "likes": 89,
+        "views": 2719,
+        "likes": 90,
         "comments": 1,
         "shares": 0,
         "saves": 0,
-        "watch_minutes": 11885,
+        "watch_minutes": 11936,
         "avg_view_duration_sec": 264
       },
       {
@@ -38047,12 +38332,12 @@
         "date": "2026-07-29",
         "caption": "MARCELO FALCÃO EXPLICA O PROCESSO DE COMPOSIÇÃO DA MÚSICA AUTO REVERSE",
         "type": "VIDEO",
-        "views": 9497,
+        "views": 9514,
         "likes": 410,
         "comments": 18,
         "shares": 23,
         "saves": 0,
-        "watch_minutes": 25818,
+        "watch_minutes": 26059,
         "avg_view_duration_sec": 165
       },
       {
@@ -38060,12 +38345,12 @@
         "date": "2026-07-29",
         "caption": "Charla #741 - Cauã Reymond & Marcelo Adnet [Atores]",
         "type": "VIDEO",
-        "views": 120198,
-        "likes": 7631,
+        "views": 120959,
+        "likes": 7662,
         "comments": 213,
-        "shares": 677,
+        "shares": 686,
         "saves": 0,
-        "watch_minutes": 3178029,
+        "watch_minutes": 3200796,
         "avg_view_duration_sec": 1610
       },
       {
@@ -38073,12 +38358,12 @@
         "date": "2026-07-29",
         "caption": "BASTIDORES DO SHOW HISTÓRICO DO O RAPPA NA ROCINHA",
         "type": "VIDEO",
-        "views": 2887,
-        "likes": 129,
+        "views": 2889,
+        "likes": 128,
         "comments": 3,
         "shares": 7,
         "saves": 0,
-        "watch_minutes": 11504,
+        "watch_minutes": 11556,
         "avg_view_duration_sec": 240
       },
       {
@@ -38086,12 +38371,12 @@
         "date": "2026-07-29",
         "caption": "MARCELO FALCÃO RESPONDE SOBRE UMA POSSÍVEL VOLTA DO O RAPPA",
         "type": "VIDEO",
-        "views": 10873,
+        "views": 10889,
         "likes": 388,
         "comments": 51,
         "shares": 49,
         "saves": 0,
-        "watch_minutes": 21191,
+        "watch_minutes": 21409,
         "avg_view_duration_sec": 118
       },
       {
@@ -38099,13 +38384,13 @@
         "date": "2026-07-29",
         "caption": "MARCELO FALCÃO SE REVOLTA E MANDA UM RECADO PARA ANCELOTTI",
         "type": "VIDEO",
-        "views": 2090,
+        "views": 2095,
         "likes": 109,
         "comments": 5,
         "shares": 8,
         "saves": 0,
-        "watch_minutes": 8043,
-        "avg_view_duration_sec": 232
+        "watch_minutes": 8061,
+        "avg_view_duration_sec": 231
       },
       {
         "id": "yt_AeFspmy0lR8",
@@ -38140,12 +38425,12 @@
         "date": "2026-07-28",
         "caption": "QUAL É A PRINCIPAL CAUSA DOS PROBLEMAS DO VASCO?",
         "type": "VIDEO",
-        "views": 7584,
+        "views": 7586,
         "likes": 225,
         "comments": 18,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 41538,
+        "watch_minutes": 41548,
         "avg_view_duration_sec": 328
       },
       {
@@ -38153,12 +38438,12 @@
         "date": "2026-07-28",
         "caption": "BRUNO CANTARELLI ABRE O JOGO SOBRE CRÍTICAS DA TORCIDA DO VASCO AO CHARLA",
         "type": "VIDEO",
-        "views": 9709,
+        "views": 9712,
         "likes": 516,
         "comments": 222,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 36101,
+        "watch_minutes": 36105,
         "avg_view_duration_sec": 223
       },
       {
@@ -38166,12 +38451,12 @@
         "date": "2026-07-28",
         "caption": "VASCO VAI BRIGAR CONTRA O REBAIXAMENTO ATÉ O FINAL DO CAMPEONATO?",
         "type": "VIDEO",
-        "views": 29887,
-        "likes": 1024,
+        "views": 29892,
+        "likes": 1023,
         "comments": 150,
         "shares": 29,
         "saves": 0,
-        "watch_minutes": 323099,
+        "watch_minutes": 323167,
         "avg_view_duration_sec": 649
       },
       {
@@ -38184,7 +38469,7 @@
         "comments": 28,
         "shares": 21,
         "saves": 0,
-        "watch_minutes": 63329,
+        "watch_minutes": 63331,
         "avg_view_duration_sec": 171
       },
       {
@@ -38192,12 +38477,12 @@
         "date": "2026-07-28",
         "caption": "MOLEQUES DA BASE ESTÃO DECIDINDO PARA O BOTAFOGO",
         "type": "VIDEO",
-        "views": 12329,
+        "views": 12331,
         "likes": 645,
         "comments": 15,
         "shares": 22,
         "saves": 0,
-        "watch_minutes": 56544,
+        "watch_minutes": 56564,
         "avg_view_duration_sec": 275
       },
       {
@@ -38205,12 +38490,12 @@
         "date": "2026-07-28",
         "caption": "MARCELO FALCÃO NO CHARLA",
         "type": "VIDEO",
-        "views": 11368,
-        "likes": 799,
+        "views": 11402,
+        "likes": 798,
         "comments": 25,
         "shares": 79,
         "saves": 0,
-        "watch_minutes": 184476,
+        "watch_minutes": 185297,
         "avg_view_duration_sec": 982
       },
       {
@@ -38218,20 +38503,20 @@
         "date": "2026-07-28",
         "caption": "1 HORA DAS MELHORES HISTÓRIAS DO REI PELÉ 👑",
         "type": "VIDEO",
-        "views": 29940,
-        "likes": 1027,
+        "views": 30751,
+        "likes": 1054,
         "comments": 36,
-        "shares": 188,
+        "shares": 189,
         "saves": 0,
-        "watch_minutes": 602119,
-        "avg_view_duration_sec": 1287
+        "watch_minutes": 627405,
+        "avg_view_duration_sec": 1292
       },
       {
         "id": "qTTwSL3qZSY",
         "date": "2026-07-28",
         "caption": "LUIZ HENRIQUE NO FLAMENGO? LUCHO ACOSTA INVESTIGADO! | CHARLA DE QUINTA",
         "type": "VIDEO",
-        "views": 19730,
+        "views": 19734,
         "likes": 1321,
         "comments": 13,
         "shares": 20,
@@ -38285,7 +38570,7 @@
         "date": "2026-07-27",
         "caption": "CONFIRA A NARRAÇÃO DO EMPATE ENTRE FLAMENGO E SÃO PAULO",
         "type": "VIDEO",
-        "views": 288,
+        "views": 289,
         "likes": 36,
         "comments": 1,
         "shares": 1,
@@ -38316,7 +38601,7 @@
         "comments": 119,
         "shares": 24,
         "saves": 0,
-        "watch_minutes": 112749,
+        "watch_minutes": 112763,
         "avg_view_duration_sec": 341
       },
       {
@@ -38342,7 +38627,7 @@
         "comments": 68,
         "shares": 27,
         "saves": 0,
-        "watch_minutes": 130147,
+        "watch_minutes": 130148,
         "avg_view_duration_sec": 454
       },
       {
@@ -38402,7 +38687,7 @@
         "date": "2026-07-26",
         "caption": "VASCO x MIRASSOL | NARRAÇÃO AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 10589,
+        "views": 10591,
         "likes": 330,
         "comments": 2,
         "shares": 4,
@@ -38415,7 +38700,7 @@
         "date": "2026-07-26",
         "caption": "FLAMENGO x SÃO PAULO | NARRAÇÃO AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
         "type": "VIDEO",
-        "views": 60441,
+        "views": 60443,
         "likes": 837,
         "comments": 1,
         "shares": 12,
@@ -38428,12 +38713,12 @@
         "date": "2026-07-26",
         "caption": "MARCOS BRAZ ANALISA AS POLÊMICAS DA POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 10877,
+        "views": 10878,
         "likes": 395,
         "comments": 214,
         "shares": 29,
         "saves": 0,
-        "watch_minutes": 25058,
+        "watch_minutes": 25066,
         "avg_view_duration_sec": 138
       },
       {
@@ -38446,7 +38731,7 @@
         "comments": 29,
         "shares": 10,
         "saves": 0,
-        "watch_minutes": 5767,
+        "watch_minutes": 5769,
         "avg_view_duration_sec": 117
       },
       {
@@ -38467,12 +38752,12 @@
         "date": "2026-07-26",
         "caption": "FLAMENGO UTILIZA POUCO A BASE? MARCOS BRAZ RESPONDE",
         "type": "VIDEO",
-        "views": 12179,
+        "views": 12183,
         "likes": 332,
         "comments": 40,
         "shares": 4,
         "saves": 0,
-        "watch_minutes": 50377,
+        "watch_minutes": 50397,
         "avg_view_duration_sec": 248
       },
       {
@@ -38480,12 +38765,12 @@
         "date": "2026-07-26",
         "caption": "NEYMAR ESTEVE PRÓXIMO DE SER JOGADOR DO FLAMENGO?",
         "type": "VIDEO",
-        "views": 11721,
+        "views": 11722,
         "likes": 264,
         "comments": 9,
         "shares": 10,
         "saves": 0,
-        "watch_minutes": 35358,
+        "watch_minutes": 35367,
         "avg_view_duration_sec": 181
       },
       {
@@ -38493,12 +38778,12 @@
         "date": "2026-07-26",
         "caption": "JORGE JESUS SERIA O NOME IDEAL PARA A SELEÇÃO BRASILEIRA?",
         "type": "VIDEO",
-        "views": 6902,
+        "views": 6901,
         "likes": 207,
         "comments": 31,
         "shares": 20,
         "saves": 0,
-        "watch_minutes": 20968,
+        "watch_minutes": 20973,
         "avg_view_duration_sec": 182
       },
       {
@@ -38532,12 +38817,12 @@
         "date": "2026-07-26",
         "caption": "MÔNACO DE FILIPE LUÍS VAI FAZER A LIMPA NO FLAMENGO?",
         "type": "VIDEO",
-        "views": 24442,
+        "views": 24448,
         "likes": 471,
         "comments": 20,
         "shares": 15,
         "saves": 0,
-        "watch_minutes": 58441,
+        "watch_minutes": 58451,
         "avg_view_duration_sec": 143
       },
       {
@@ -38545,8 +38830,8 @@
         "date": "2026-07-26",
         "caption": "MARCOS BRAZ ANALISA A SITUAÇÃO DO DANILO NO BOTAFOGO",
         "type": "VIDEO",
-        "views": 3784,
-        "likes": 114,
+        "views": 3785,
+        "likes": 115,
         "comments": 10,
         "shares": 3,
         "saves": 0,
@@ -38558,7 +38843,7 @@
         "date": "2026-07-26",
         "caption": "MARCOS BRAZ REVELA TUDO SOBRE THIAGO ALMADA NO FLAMENGO",
         "type": "VIDEO",
-        "views": 20657,
+        "views": 20660,
         "likes": 564,
         "comments": 13,
         "shares": 20,
@@ -38571,12 +38856,12 @@
         "date": "2026-07-25",
         "caption": "MARCOS BRAZ NO CHARLA NA MIX",
         "type": "VIDEO",
-        "views": 4385,
+        "views": 4391,
         "likes": 286,
         "comments": 3,
         "shares": 22,
         "saves": 0,
-        "watch_minutes": 58463,
+        "watch_minutes": 58552,
         "avg_view_duration_sec": 804
       },
       {
@@ -38703,7 +38988,7 @@
         "date": "2026-07-24",
         "caption": "TIMES CARIOCAS DEVERIAM UTILIZAR MAIS AS CATEGORIAS DE BASE?",
         "type": "VIDEO",
-        "views": 4449,
+        "views": 4450,
         "likes": 210,
         "comments": 13,
         "shares": 3,
@@ -38822,7 +39107,7 @@
         "date": "2026-07-23",
         "caption": "DIRETORIA É RESPONSÁVEL PELA MÁ FASE DO VASCO?",
         "type": "VIDEO",
-        "views": 7273,
+        "views": 7276,
         "likes": 230,
         "comments": 54,
         "shares": 10,
@@ -38835,12 +39120,12 @@
         "date": "2026-07-23",
         "caption": "DESABAFO FORTE DE BRUNO AZEVEDO SOBRE A FASE DO VASCO",
         "type": "VIDEO",
-        "views": 23202,
+        "views": 23208,
         "likes": 1067,
         "comments": 92,
         "shares": 62,
         "saves": 0,
-        "watch_minutes": 166334,
+        "watch_minutes": 166375,
         "avg_view_duration_sec": 430
       },
       {
@@ -38848,12 +39133,12 @@
         "date": "2026-07-23",
         "caption": "QUAL É O VERDADEIRO PROBLEMA DO VASCO?",
         "type": "VIDEO",
-        "views": 14935,
-        "likes": 465,
+        "views": 14961,
+        "likes": 464,
         "comments": 53,
         "shares": 18,
         "saves": 0,
-        "watch_minutes": 116065,
+        "watch_minutes": 116332,
         "avg_view_duration_sec": 468
       },
       {
@@ -38866,7 +39151,7 @@
         "comments": 9,
         "shares": 7,
         "saves": 0,
-        "watch_minutes": 44800,
+        "watch_minutes": 44823,
         "avg_view_duration_sec": 443
       },
       {
@@ -38887,12 +39172,12 @@
         "date": "2026-07-23",
         "caption": "GABRIEL PEC SE LESIONA APÓS SOFRER ENTRADA VIOLENTA EM SUA ESTREIA PELO CRUZEIRO",
         "type": "VIDEO",
-        "views": 5188,
+        "views": 5189,
         "likes": 211,
         "comments": 19,
         "shares": 11,
         "saves": 0,
-        "watch_minutes": 9895,
+        "watch_minutes": 9898,
         "avg_view_duration_sec": 114
       },
       {
@@ -38900,13 +39185,13 @@
         "date": "2026-07-23",
         "caption": "PEDRO DECIDE E FLAMENGO GOLEIA! VASCO ARRANCA EMPATE NO FINAL!  | CHARLA DE QUINTA",
         "type": "VIDEO",
-        "views": 16299,
+        "views": 16300,
         "likes": 1256,
         "comments": 11,
         "shares": 20,
         "saves": 0,
-        "watch_minutes": 385675,
-        "avg_view_duration_sec": 1419
+        "watch_minutes": 385834,
+        "avg_view_duration_sec": 1420
       },
       {
         "id": "yt_PIt5mJqBrm0",
@@ -38980,12 +39265,12 @@
         "date": "2026-07-22",
         "caption": "ELENCO DO VASCO É INSUFICIENTE PRO RESTANTE DA TEMPORADA?",
         "type": "VIDEO",
-        "views": 5296,
+        "views": 5298,
         "likes": 136,
         "comments": 11,
         "shares": 1,
         "saves": 0,
-        "watch_minutes": 40713,
+        "watch_minutes": 40731,
         "avg_view_duration_sec": 461
       },
       {
@@ -38993,12 +39278,12 @@
         "date": "2026-07-22",
         "caption": "QUAIS DEVEM SER AS PRIORIDADES DO VASCO NA TEMPORADA?",
         "type": "VIDEO",
-        "views": 8013,
+        "views": 8014,
         "likes": 240,
         "comments": 31,
         "shares": 5,
         "saves": 0,
-        "watch_minutes": 75570,
+        "watch_minutes": 75576,
         "avg_view_duration_sec": 566
       },
       {
@@ -39047,12 +39332,12 @@
         "date": "2026-07-21",
         "caption": "CHARLA PODCAST COMENTA AS POLÊMICAS DOS DEBATES SOBRE A POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 17167,
+        "views": 17169,
         "likes": 902,
         "comments": 393,
         "shares": 18,
         "saves": 0,
-        "watch_minutes": 128461,
+        "watch_minutes": 128462,
         "avg_view_duration_sec": 449
       },
       {
@@ -39073,12 +39358,12 @@
         "date": "2026-07-21",
         "caption": "ADVOGADO EXPLICA AS POLÊMICAS DA POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 11737,
+        "views": 11746,
         "likes": 413,
         "comments": 254,
         "shares": 44,
         "saves": 0,
-        "watch_minutes": 50266,
+        "watch_minutes": 50284,
         "avg_view_duration_sec": 257
       },
       {
@@ -39086,12 +39371,12 @@
         "date": "2026-07-21",
         "caption": "BRUNO AZEVEDO DESABAFA APÓS DECLARAÇÕES SOBRE A POSSÍVEL NOVA SAF DO VASCO",
         "type": "VIDEO",
-        "views": 22840,
+        "views": 22842,
         "likes": 983,
         "comments": 690,
         "shares": 45,
         "saves": 0,
-        "watch_minutes": 151058,
+        "watch_minutes": 151105,
         "avg_view_duration_sec": 397
       },
       {
@@ -39099,12 +39384,12 @@
         "date": "2026-07-21",
         "caption": "ELENCO DO VASCO É SUPERVALORIZADO PELA SUA TORCIDA?",
         "type": "VIDEO",
-        "views": 26815,
+        "views": 26822,
         "likes": 816,
         "comments": 112,
         "shares": 31,
         "saves": 0,
-        "watch_minutes": 284611,
+        "watch_minutes": 284715,
         "avg_view_duration_sec": 637
       },
       {
@@ -39138,7 +39423,7 @@
         "date": "2026-07-21",
         "caption": "ACABOU A COPA! HORA DE VOLTAR PRA ROTINA DO FUTEBOL BRASILEIRO! | CHARLA DE QUINTA",
         "type": "VIDEO",
-        "views": 11864,
+        "views": 11865,
         "likes": 960,
         "comments": 9,
         "shares": 14,
@@ -39151,13 +39436,13 @@
         "date": "2026-07-21",
         "caption": "CANTARELLI FICA ALUCINADO COM O TÍTULO DA ESPANHA CONTRA A ARGENTINA",
         "type": "VIDEO",
-        "views": 7194,
-        "likes": 535,
+        "views": 7248,
+        "likes": 540,
         "comments": 49,
         "shares": 104,
         "saves": 0,
-        "watch_minutes": 10999,
-        "avg_view_duration_sec": 92
+        "watch_minutes": 11009,
+        "avg_view_duration_sec": 91
       },
       {
         "id": "yt_iPOYjIoi20o",
@@ -39179,7 +39464,7 @@
         "date": "2026-07-20",
         "caption": "DEBATE ACALORADO SOBRE BRASILEIROS QUE TORCEM PARA A ARGENTINA",
         "type": "VIDEO",
-        "views": 41833,
+        "views": 41835,
         "likes": 1795,
         "comments": 1043,
         "shares": 171,
@@ -39218,7 +39503,7 @@
         "date": "2026-07-20",
         "caption": "BRUNO CANTARELLI MANDA A REAL SOBRE A ATUAÇÃO DE MESSI E DA ARGENTINA NA FINAL",
         "type": "VIDEO",
-        "views": 12405,
+        "views": 12406,
         "likes": 505,
         "comments": 284,
         "shares": 4,
@@ -39231,12 +39516,12 @@
         "date": "2026-07-20",
         "caption": "CONFIRA A NARRAÇÃO DE BRUNO CANTARELLI QUE VIRALIZOU NA FINAL DA COPA DO MUNDO",
         "type": "VIDEO",
-        "views": 62899,
-        "likes": 3394,
+        "views": 62934,
+        "likes": 3395,
         "comments": 197,
         "shares": 125,
         "saves": 0,
-        "watch_minutes": 137258,
+        "watch_minutes": 137270,
         "avg_view_duration_sec": 130
       },
       {
@@ -39244,7 +39529,7 @@
         "date": "2026-07-20",
         "caption": "BRUNO CANTARELLI E BETO JR SE EMOCIONAM AO FALAR DA PRIMEIRA COPA DO MUNDO DO CHARLA",
         "type": "VIDEO",
-        "views": 7336,
+        "views": 7338,
         "likes": 708,
         "comments": 32,
         "shares": 14,
@@ -39257,12 +39542,12 @@
         "date": "2026-07-20",
         "caption": "ESPANHA CAMPEÃ EM CIMA DA ARGENTINA! FIM DO DEBATE MESSI X PELÉ?  | CHARLA DE COPA",
         "type": "VIDEO",
-        "views": 23903,
-        "likes": 1631,
+        "views": 23904,
+        "likes": 1632,
         "comments": 44,
         "shares": 23,
         "saves": 0,
-        "watch_minutes": 484443,
+        "watch_minutes": 484662,
         "avg_view_duration_sec": 1216
       },
       {
@@ -39315,12 +39600,12 @@
         "date": "2026-07-19",
         "caption": "ATUALIZAÇÕES SOBRE O NOVO ESTÁDIO DO FLAMENGO",
         "type": "VIDEO",
-        "views": 52981,
+        "views": 52993,
         "likes": 1976,
         "comments": 82,
         "shares": 19,
         "saves": 0,
-        "watch_minutes": 310506,
+        "watch_minutes": 310543,
         "avg_view_duration_sec": 351
       },
       {
@@ -39328,12 +39613,12 @@
         "date": "2026-07-19",
         "caption": "TODA A VERDADE SOBRE AS GESTÕES RUINS DO FUTEBOL BRASILEIRO",
         "type": "VIDEO",
-        "views": 35651,
+        "views": 35654,
         "likes": 1148,
         "comments": 136,
         "shares": 25,
         "saves": 0,
-        "watch_minutes": 289890,
+        "watch_minutes": 289895,
         "avg_view_duration_sec": 487
       },
       {
@@ -39341,12 +39626,12 @@
         "date": "2026-07-19",
         "caption": "MAURO CÉZAR RESPONDE O QUE PENSA SOBRE O NEYMAR",
         "type": "VIDEO",
-        "views": 82338,
+        "views": 82343,
         "likes": 3055,
         "comments": 356,
         "shares": 106,
         "saves": 0,
-        "watch_minutes": 428696,
+        "watch_minutes": 428712,
         "avg_view_duration_sec": 312
       },
       {
@@ -39359,7 +39644,7 @@
         "comments": 54,
         "shares": 27,
         "saves": 0,
-        "watch_minutes": 109129,
+        "watch_minutes": 109130,
         "avg_view_duration_sec": 159
       },
       {
@@ -39492,12 +39777,12 @@
         "date": "2026-07-18",
         "caption": "POLÊMICA DA VENDA DO VASCO PARA A FAMÍLIA LAMACCHIA ",
         "type": "VIDEO",
-        "views": 42565,
+        "views": 42586,
         "likes": 2113,
         "comments": 686,
         "shares": 72,
         "saves": 0,
-        "watch_minutes": 213793,
+        "watch_minutes": 213848,
         "avg_view_duration_sec": 301
       },
       {
@@ -39505,12 +39790,12 @@
         "date": "2026-07-18",
         "caption": "MAURO CÉZAR ABRE O JOGO E REVELA VERDADES SOBRE A SELEÇÃO ",
         "type": "VIDEO",
-        "views": 266242,
+        "views": 266274,
         "likes": 9179,
         "comments": 686,
-        "shares": 290,
+        "shares": 291,
         "saves": 0,
-        "watch_minutes": 2552588,
+        "watch_minutes": 2552765,
         "avg_view_duration_sec": 575
       },
       {
@@ -39518,7 +39803,7 @@
         "date": "2026-07-18",
         "caption": "AUMENTAR O NÚMERO DE SELEÇÕES NA COPA DO MUNDO FOI UM ERRO DA FIFA?",
         "type": "VIDEO",
-        "views": 8254,
+        "views": 8255,
         "likes": 246,
         "comments": 21,
         "shares": 4,
@@ -39531,12 +39816,12 @@
         "date": "2026-07-18",
         "caption": "MAURO CÉZAR RESPONDE SE TORCE PELA ARGENTINA",
         "type": "VIDEO",
-        "views": 67579,
+        "views": 67585,
         "likes": 2242,
         "comments": 442,
         "shares": 86,
         "saves": 0,
-        "watch_minutes": 509122,
+        "watch_minutes": 509139,
         "avg_view_duration_sec": 452
       },
       {
@@ -39544,7 +39829,7 @@
         "date": "2026-07-18",
         "caption": "COMO O MESSI SE TRANSFORMOU NA SELEÇÃO ARGENTINA",
         "type": "VIDEO",
-        "views": 7587,
+        "views": 7588,
         "likes": 255,
         "comments": 18,
         "shares": 4,
@@ -39557,12 +39842,12 @@
         "date": "2026-07-18",
         "caption": "PREÇOS INACESSÍVEIS DOS INGRESSOS ESTÃO AFASTANDO O POVO DOS ESTÁDIOS",
         "type": "VIDEO",
-        "views": 39219,
+        "views": 39226,
         "likes": 1185,
         "comments": 89,
         "shares": 29,
         "saves": 0,
-        "watch_minutes": 344610,
+        "watch_minutes": 344640,
         "avg_view_duration_sec": 527
       },
       {
@@ -39570,12 +39855,12 @@
         "date": "2026-07-18",
         "caption": "AULA HISTÓRICA SOBRE PELÉ SER MAIOR QUE O MESSI ",
         "type": "VIDEO",
-        "views": 80206,
-        "likes": 3923,
+        "views": 80223,
+        "likes": 3922,
         "comments": 703,
         "shares": 556,
         "saves": 0,
-        "watch_minutes": 357090,
+        "watch_minutes": 357146,
         "avg_view_duration_sec": 267
       },
       {
@@ -39583,12 +39868,12 @@
         "date": "2026-07-18",
         "caption": "PRINCIPAL DIFERENÇA ENTRE MESSI E MARADONA PARA OS ARGENTINOS",
         "type": "VIDEO",
-        "views": 11536,
+        "views": 11537,
         "likes": 492,
         "comments": 72,
         "shares": 39,
         "saves": 0,
-        "watch_minutes": 44814,
+        "watch_minutes": 44825,
         "avg_view_duration_sec": 233
       },
       {
@@ -39609,12 +39894,12 @@
         "date": "2026-07-18",
         "caption": "Charla #740 - Mauro Cezar [Jornalista]",
         "type": "VIDEO",
-        "views": 125047,
-        "likes": 8878,
+        "views": 125102,
+        "likes": 8882,
         "comments": 258,
         "shares": 364,
         "saves": 0,
-        "watch_minutes": 3406857,
+        "watch_minutes": 3409653,
         "avg_view_duration_sec": 1636
       },
       {
@@ -39685,8 +39970,8 @@
         "comments": 0,
         "shares": 6,
         "saves": 0,
-        "watch_minutes": 4060,
-        "avg_view_duration_sec": 218
+        "watch_minutes": 4084,
+        "avg_view_duration_sec": 219
       },
       {
         "id": "9M1IMvHUJSM",
@@ -97042,6 +97327,16 @@
         "comments": 678,
         "shares": 906,
         "subscribers_gained": 626
+      },
+      {
+        "date": "2026-08-12",
+        "views": 286226,
+        "watch_minutes": 2509911,
+        "avg_view_duration_sec": 535,
+        "likes": 10772,
+        "comments": 462,
+        "shares": 665,
+        "subscribers_gained": 440
       }
     ]
   },
@@ -97049,5 +97344,5 @@
     "snapshots": [],
     "posts": []
   },
-  "updated_at": "2026-08-14T14:38:30.115115"
+  "updated_at": "2026-08-15T10:22:33.051696"
 }
