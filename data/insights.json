@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-27T20:11:31.717879",
-  "date": "2026-08-26",
+  "generated_at": "2026-08-28T21:07:45.717871",
+  "date": "2026-08-27",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 35,
+    "total_posts": 32,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,76 +12,73 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18102448039963451",
-    "melhor_post_caption": "Enzo Grisalho fala do jogo e elogia a partida do Vitão e Fred.\n\n#CharlaNoPremiere",
-    "melhor_post_views": 13849,
+    "melhor_post_id": "18212838328359983",
+    "melhor_post_caption": "NOTA DA ANRESF É COMENTADA NA CHARLA DE QUINTA! \n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCh",
+    "melhor_post_views": 133309,
     "sponsor_stats": {
-      "#charlanopremiere": {
-        "posts": 13,
-        "views": 1162871,
-        "likes": 48196,
-        "comments": 2035
-      },
-      "#fornerianocharla": {
-        "posts": 3,
-        "views": 25543,
-        "likes": 746,
-        "comments": 28
-      },
       "#sportingbetnocharla": {
-        "posts": 4,
-        "views": 211235,
-        "likes": 8098,
-        "comments": 1150
+        "posts": 5,
+        "views": 379604,
+        "likes": 28803,
+        "comments": 1015
       },
       "#brahmanocharla": {
+        "posts": 5,
+        "views": 379604,
+        "likes": 28803,
+        "comments": 1015
+      },
+      "#fornerianocharla": {
+        "posts": 5,
+        "views": 295927,
+        "likes": 21863,
+        "comments": 397
+      },
+      "#absolutnocharla": {
         "posts": 4,
-        "views": 211235,
-        "likes": 8098,
-        "comments": 1150
+        "views": 285672,
+        "likes": 21600,
+        "comments": 396
       },
       "#assainocharla": {
-        "posts": 2,
-        "views": 190317,
-        "likes": 7446,
-        "comments": 1123
+        "posts": 1,
+        "views": 93932,
+        "likes": 7203,
+        "comments": 619
       },
       "#melittanocharla": {
-        "posts": 4,
-        "views": 211235,
-        "likes": 8098,
-        "comments": 1150
+        "posts": 1,
+        "views": 93932,
+        "likes": 7203,
+        "comments": 619
       },
       "#charlafutebol": {
-        "posts": 2,
-        "views": 0,
-        "likes": 440,
-        "comments": 3
-      },
-      "#texaconocharla": {
-        "posts": 1,
-        "views": 28066,
-        "likes": 1389,
-        "comments": 95
+        "posts": 9,
+        "views": 278168,
+        "likes": 37857,
+        "comments": 836
       }
     }
   },
   "posts": [
     {
-      "id": "18102448039963451",
-      "date": "2026-08-26",
-      "caption": "Enzo Grisalho fala do jogo e elogia a partida do Vitão e Fred.\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DcfQVndMzyT/",
+      "id": "18212838328359983",
+      "date": "2026-08-27",
+      "caption": "NOTA DA ANRESF É COMENTADA NA CHARLA DE QUINTA! \n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCharla #AbsolutNoCharl",
+      "url": "https://www.instagram.com/reel/DcjmCQPhOkg/",
       "tags": [
-        "#charlanopremiere"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 13849,
-      "reach": 10655,
-      "likes": 888,
-      "comments": 5,
-      "shares": 15,
-      "saves": 9,
+      "views": 133309,
+      "reach": 89108,
+      "likes": 7332,
+      "comments": 203,
+      "shares": 224,
+      "saves": 192,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -107,20 +104,305 @@
       }
     },
     {
-      "id": "18139286770588294",
-      "date": "2026-08-26",
-      "caption": "Quem vai passar? Matheus Emanuel analisou o Cruzeiro e o Galo!\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DcfPFpSR9s0/",
+      "id": "17955389844218155",
+      "date": "2026-08-27",
+      "caption": "COMO VAI SER A BRIGA NA PARTE DE BAIXO DA TABELA?\n\nComparado com os outros times que estão no \"bolo\", o Vasco apresenta ",
+      "url": "https://www.instagram.com/reel/DcjaHUFuCWz/",
       "tags": [
-        "#charlanopremiere"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 18063,
-      "reach": 14214,
-      "likes": 689,
-      "comments": 12,
+      "views": 47338,
+      "reach": 33713,
+      "likes": 3782,
+      "comments": 49,
+      "shares": 18,
+      "saves": 34,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18222605875334883",
+      "date": "2026-08-27",
+      "caption": "O ATAQUE DO VASCO E A BASE!\n\nColidio foi elogiado na Charla de Quinta e a ausência de um atacante da base foi citada. Co",
+      "url": "https://www.instagram.com/reel/DcjXPFcsnUy/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 44645,
+      "reach": 31059,
+      "likes": 4883,
+      "comments": 86,
+      "shares": 26,
+      "saves": 40,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18088567622433786",
+      "date": "2026-08-27",
+      "caption": "O RESULTADO TÁ NA CONTA DO PEDRO EMANUEL?\n\nA mesa da Charla de Quinta falou da partida do Vasco com um a menos e da falt",
+      "url": "https://www.instagram.com/reel/DcjS_TQNNTU/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 60380,
+      "reach": 46861,
+      "likes": 5603,
+      "comments": 58,
+      "shares": 36,
+      "saves": 40,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18129048079677085",
+      "date": "2026-08-27",
+      "caption": "Existe troca de benefícios entre Palmeiras e Vasco? Lucas Pedrosa falou do assunto!\n\n#SportingbetNoCharla #BrahmaNoCharl",
+      "url": "https://www.instagram.com/reel/DcjDB-gBOc9/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 93932,
+      "reach": 59391,
+      "likes": 7203,
+      "comments": 619,
+      "shares": 448,
+      "saves": 147,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18340711198189258",
+      "date": "2026-08-27",
+      "caption": "A goleada do Palmeiras poderia ter sido ainda maior? Matheus Emanuel  falou da partida!\n\n#ForneriaNoCharla",
+      "url": "https://www.instagram.com/reel/Dch2tdEN_C9/",
+      "tags": [
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 10255,
+      "reach": 8266,
+      "likes": 263,
+      "comments": 1,
+      "shares": 3,
+      "saves": 2,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18035439137645236",
+      "date": "2026-08-27",
+      "caption": "E aí, com Neymar seria diferente? Diz aí! 👀👇🏻\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adverte: Aposta nã",
+      "url": "https://www.instagram.com/p/Dch2Aq_NVz4/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 95,
+      "comments": 69,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18126760423765059",
+      "date": "2026-08-27",
+      "caption": "Enzo Grisalho analisou a vitória do Vasco e falou do treinador. Confere aí! \n\n+18. Jogue com responsabilidade. Ministéri",
+      "url": "https://www.instagram.com/reel/Dch1eaNN5cl/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 21372,
+      "reach": 15887,
+      "likes": 3042,
+      "comments": 22,
+      "shares": 10,
+      "saves": 25,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18088171373196187",
+      "date": "2026-08-27",
+      "caption": "PALMEIRAS ENCAMINHOU A CLASSIFICAÇÃO? \n\n+18. Jogue com responsabilidade. Ministério da Fazenda adverte: Aposta não é inv",
+      "url": "https://www.instagram.com/reel/Dch0jhvJEBG/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 20167,
+      "reach": 15710,
+      "likes": 1215,
+      "comments": 13,
       "shares": 4,
-      "saves": 8,
+      "saves": 10,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -146,18 +428,135 @@
       }
     },
     {
-      "id": "17876487063628446",
-      "date": "2026-08-26",
-      "caption": "O QUE PODEMOS ESPERAR DO JOGO DA VOLTA ENTRE CRUZEIRO E ATLÉTICO-MG?\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DcfN6jvJ65S/",
+      "id": "17934167667371006",
+      "date": "2026-08-27",
+      "caption": "\"ERA PARA O VASCO SAIR COM GOLEADA!\"\n\nBruno Azevedo destacou a partida do Vasco mesmo jogando com um a menos. \n\n+18. Jog",
+      "url": "https://www.instagram.com/reel/DchyJcmsxYg/",
       "tags": [
-        "#charlanopremiere"
+        "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 9952,
-      "reach": 8223,
-      "likes": 229,
-      "comments": 6,
+      "views": 10520,
+      "reach": 7989,
+      "likes": 968,
+      "comments": 20,
+      "shares": 7,
+      "saves": 6,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18153725758517839",
+      "date": "2026-08-27",
+      "caption": "ANDRÉS GOMEZ MARCA E SÃO JANUÁRIO VAI AO DELÍRIO! \n\n🎙: @cantarellibruno\n\n#CharlaFutebol",
+      "url": "https://www.instagram.com/reel/DchrfyvRTpB/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 200548,
+      "reach": 152288,
+      "likes": 31526,
+      "comments": 703,
+      "shares": 2600,
+      "saves": 335,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18145902523546945",
+      "date": "2026-08-27",
+      "caption": "O PALMEIRAS FAZ O TERCEIRO CONTRA O SANTOS! \n\n🎙: @bluthiere\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adve",
+      "url": "https://www.instagram.com/reel/DchqlJKtVUp/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 6855,
+      "reach": 5523,
+      "likes": 382,
+      "comments": 3,
+      "shares": 0,
+      "saves": 4,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18104008735920058",
+      "date": "2026-08-27",
+      "caption": "ANDREAS PEREIRA AMPLIA A VANTAGEM DO VERDÃO! \n\n🎙: @bluthiere\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adv",
+      "url": "https://www.instagram.com/reel/DchmaDKRYv_/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 13200,
+      "reach": 9630,
+      "likes": 397,
+      "comments": 3,
       "shares": 2,
       "saves": 3,
       "platform": "instagram",
@@ -185,483 +584,19 @@
       }
     },
     {
-      "id": "17977725570087978",
-      "date": "2026-08-26",
-      "caption": "OLHA QUEM JÁ ENCONTRAMOS!\n\nAlô, @vitor.fernandes04! Se liga nessa foto que tiramos do baú em que o zagueiro do Atlético-",
-      "url": "https://www.instagram.com/reel/DcfMHzrBiAb/",
+      "id": "18108727286108508",
+      "date": "2026-08-27",
+      "caption": "FLACO ABRE O PLACAR PARA O PALMEIRAS! \n\n🎙: @bluthiere\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adverte: A",
+      "url": "https://www.instagram.com/reel/Dchl7X8hPiW/",
       "tags": [
-        "#charlanopremiere"
+        "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 37845,
-      "reach": 27033,
-      "likes": 2095,
-      "comments": 17,
-      "shares": 65,
-      "saves": 27,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18194435884386512",
-      "date": "2026-08-26",
-      "caption": "FAZ DIFERENÇA ONDE ALAN MINDA VAI ENTRAR? 😂👅",
-      "url": "https://www.instagram.com/reel/DcfJqO1pVH1/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 35142,
-      "reach": 25898,
-      "likes": 553,
+      "views": 5506,
+      "reach": 4434,
+      "likes": 195,
       "comments": 2,
-      "shares": 16,
-      "saves": 8,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18079341686331714",
-      "date": "2026-08-26",
-      "caption": "TEM VÁRIOS TIPOS DE ARROYO! 😂😂\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DcfGXJvP9p4/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 29445,
-      "reach": 18987,
-      "likes": 358,
-      "comments": 0,
-      "shares": 6,
-      "saves": 8,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18574543777069466",
-      "date": "2026-08-26",
-      "caption": "RENAN LODI EMPATA O CLÁSSICO!\n\nO lateral apareceu dentro da área do Cruzeiro, surpreendeu o goleiro e deixou tudo igual ",
-      "url": "https://www.instagram.com/reel/DcfFeDnNnS9/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 181760,
-      "reach": 139177,
-      "likes": 12694,
-      "comments": 314,
-      "shares": 1203,
-      "saves": 155,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18388353409163118",
-      "date": "2026-08-26",
-      "caption": "A PONTARIA DO ARROYO É COISA DE LOUCO! 🎯\n\nLá no meio da rua, Arroyo soltou uma bomba e marcou um GOLAÇO no Mineirão. Que",
-      "url": "https://www.instagram.com/reel/DcfEzWcsrP0/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 108557,
-      "reach": 80993,
-      "likes": 8284,
-      "comments": 95,
-      "shares": 394,
-      "saves": 87,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17906156157304861",
-      "date": "2026-08-26",
-      "caption": "FESTIVAL DE AMARELO NO SEGUNDO TEMPO!\n\nSe no primeiro tempo as faltas não foram punidas, no segundo...\n\n#CharlaNoPremier",
-      "url": "https://www.instagram.com/reel/DcfDkDOhSNH/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 171266,
-      "reach": 112749,
-      "likes": 3220,
-      "comments": 97,
-      "shares": 37,
-      "saves": 56,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18118984693904114",
-      "date": "2026-08-26",
-      "caption": "GERSON CHUTOU PRA FORA!\n\nDe frente para o gol depois do passe do Matheus Pereira, Gerson encheu o pé e bateu pra fora.\n\n",
-      "url": "https://www.instagram.com/reel/DcfCZiLhr0e/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 38684,
-      "reach": 28836,
-      "likes": 844,
-      "comments": 3,
-      "shares": 9,
-      "saves": 4,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18112744087797061",
-      "date": "2026-08-26",
-      "caption": "LANCE POLÊMICO NO MINEIRÃO?\n\nFágner ficou pedindo pênalti nesse lance. Achou também, torcedor? Diz aí nos comentários!\n\n",
-      "url": "https://www.instagram.com/reel/Dce-N9VppD0/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 201912,
-      "reach": 144701,
-      "likes": 5075,
-      "comments": 563,
-      "shares": 2334,
-      "saves": 198,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18076389392379911",
-      "date": "2026-08-26",
-      "caption": "QUE TENHA SIDO SÓ UM SUSTO! 🙏🏻\n\nNo primeiro minuto de jogo, Ruan caiu de uma forma horrível e, no decorrer da partida, p",
-      "url": "https://www.instagram.com/reel/Dce7zFvwhG7/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 317625,
-      "reach": 191020,
-      "likes": 12715,
-      "comments": 906,
-      "shares": 1283,
-      "saves": 266,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18053170988798127",
-      "date": "2026-08-26",
-      "caption": "MATA-MATA, EU TE AMO DEMAIS!\n\nSe liga no clima ABSURDO que foi a entrada das equipes em campo.\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/Dce6k2GOVNA/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 16011,
-      "reach": 11770,
-      "likes": 835,
-      "comments": 10,
-      "shares": 19,
-      "saves": 18,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18001706183971967",
-      "date": "2026-08-26",
-      "caption": "TEM UM 10 BRASILEIRO MELHOR QUE O MATHEUS PEREIRA?\n\nSe liga no debate sobre o armador do Cruzeiro e se ele poderia atuar",
-      "url": "https://www.instagram.com/reel/Dce4FOVNcF1/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 17902,
-      "reach": 14807,
-      "likes": 270,
-      "comments": 7,
-      "shares": 3,
-      "saves": 4,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18089985893157161",
-      "date": "2026-08-26",
-      "caption": "DIA DO CHARLA MARCAR PRESENÇA NA CBF ACADEMY!\n\nNa última terça, fomos convidados para contar um pouco da trajetória do C",
-      "url": "https://www.instagram.com/reel/DchUp7LBtzt/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 5255,
-      "reach": 4315,
-      "likes": 110,
-      "comments": 3,
-      "shares": 3,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17955193221209862",
-      "date": "2026-08-26",
-      "caption": "SE LIGA NESSES PEDRADA DA FORNERIA!\n\nA Forneria Original segue com o Desafio dos Chefs e mostra os sabores criados pelos",
-      "url": "https://www.instagram.com/reel/DchOvl8Nn_a/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 4625,
-      "reach": 3968,
-      "likes": 94,
-      "comments": 1,
-      "shares": 3,
+      "shares": 1,
       "saves": 1,
       "platform": "instagram",
       "analysis": {
@@ -688,182 +623,17 @@
       }
     },
     {
-      "id": "18109296224116908",
-      "date": "2026-08-26",
-      "caption": "LUCAS PEDROSA FALA SOBRE A FAMÍLIA LAMACCHIA! \n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #MelittaNoCharla",
-      "url": "https://www.instagram.com/reel/DchLILMBK28/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 119186,
-      "reach": 78370,
-      "likes": 5479,
-      "comments": 1101,
-      "shares": 463,
-      "saves": 158,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18007304237766521",
-      "date": "2026-08-26",
-      "caption": "QUANTO VAI SER O JOGO? 👀👇🏻\n\nPalmeiras e Santos se enfrentam pela Copa do Brasil e querem a vantagem no primeiro jogo. Ch",
-      "url": "https://www.instagram.com/p/DchKfIrwt1c/",
+      "id": "17942466246076607",
+      "date": "2026-08-27",
+      "caption": "QUEM VAI SAIR COM A VANTAGEM? \n\nÉ dia de Internacional x Grêmio na Copa do Brasil e você vai acompanhar todas as emoções",
+      "url": "https://www.instagram.com/p/DcjpbhcteBH/",
       "tags": [
         "#charlafutebol"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 48,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18046662773805518",
-      "date": "2026-08-26",
-      "caption": "A HISTÓRIA ENTRE NEY FRANCO E ROGÉRIO CENI!\n\nQual é a origem da história que gerou treta entre os dois treinadores? Conf",
-      "url": "https://www.instagram.com/reel/Dcg8bGlJ0ZB/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 71131,
-      "reach": 45473,
-      "likes": 1967,
-      "comments": 22,
-      "shares": 60,
-      "saves": 104,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18149633593521063",
-      "date": "2026-08-26",
-      "caption": "\"CONFIANÇA PASSA DIRETAMENTE PELO PSICOLÓGICO!\"\n\nBruno Azevedo e Bluthiere debateram a respeito do Vasco e os apagões qu",
-      "url": "https://www.instagram.com/reel/DcgwT19hw98/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 7597,
-      "reach": 6018,
-      "likes": 198,
-      "comments": 4,
-      "shares": 2,
-      "saves": 4,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18107168159158639",
-      "date": "2026-08-26",
-      "caption": "É DIA DE COPA DO BRASIL NA COLINA HISTÓRICA!\n\nVasco e Vitória entram em campo nesta quarta (26) em busca de uma vantagem",
-      "url": "https://www.instagram.com/p/DcgsVUpuBvM/",
-      "tags": [
-        "#charlafutebol"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 392,
+      "likes": 37,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -892,94 +662,13 @@
       }
     },
     {
-      "id": "18095868563572203",
-      "date": "2026-08-26",
-      "caption": "QUAL DEVE SER O FOCO DO VASCO NO FINAL DA TEMPORADA?\n\nA mesa da Charla de Quinta debateu sobre as competições que o Vasc",
-      "url": "https://www.instagram.com/reel/DcgqUJbhGDo/",
-      "tags": [
-        "#texaconocharla"
-      ],
+      "id": "Pcnd6hkk0D8",
+      "date": "2026-08-27",
+      "caption": "O PORTUGA TEM UM PLANO! VASCO VENCE O VITÓRIA MESMO COM 1 A MENOS! PALMEIRAS AMASSA O SANTOS!",
       "type": "VIDEO",
-      "views": 28066,
-      "reach": 21377,
-      "likes": 1389,
-      "comments": 95,
-      "shares": 41,
-      "saves": 12,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18103599092524696",
-      "date": "2026-08-26",
-      "caption": "VASCO E VITÓRIA PODEM DECIDIR A CLASSIFICAÇÃO NOS PÊNALTIS?\n\nBruno Azevedo falou do equilíbrio no confronto da Copa do B",
-      "url": "https://www.instagram.com/reel/DcgoARNvGYi/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 13321,
-      "reach": 9478,
-      "likes": 454,
-      "comments": 23,
-      "shares": 5,
-      "saves": 6,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "wC6vg0-6mZc",
-      "date": "2026-08-26",
-      "caption": "PRÉ-JOGO DE CRUZEIRO X ATLÉTICO-MG AO VIVO COM IMAGENS! QUEM VAI VENCER O CLÁSSICO MINEIRO? ",
-      "type": "VIDEO",
-      "views": 16197,
-      "likes": 590,
-      "comments": 7,
+      "views": 46471,
+      "likes": 1516,
+      "comments": 15,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1007,12 +696,12 @@
       }
     },
     {
-      "id": "hwtj5SLZeyo",
-      "date": "2026-08-26",
-      "caption": "POR QUE A DEMORA NA SAF VASCAÍNA? PLATA NA RÚSSIA? BELLÃO SEGUE NO COMANDO?",
+      "id": "GXfWWZVdv3Y",
+      "date": "2026-08-27",
+      "caption": "PALMEIRAS GOLEIA O SANTOS E FICA PRÓXIMO DA SEMI FINAL DA COPA DO BRASIL",
       "type": "VIDEO",
-      "views": 2330,
-      "likes": 150,
+      "views": 2296,
+      "likes": 37,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -1041,182 +730,12 @@
       }
     },
     {
-      "id": "Y5RT6H3Ot_c",
-      "date": "2026-08-26",
-      "caption": "ENTRADA GRAVE DE KAIO JORGE EM RUAN NO CLÁSSICO MINEIRO",
+      "id": "iJ9rvTFnXJc",
+      "date": "2026-08-27",
+      "caption": "NARRAÇÃO ABSURDA DE PALMEIRAS 3 x 0 SANTOS NAS QUARTAS DE FINAL DA COPA DO BRASIL",
       "type": "VIDEO",
-      "views": 688,
-      "likes": 19,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "5YDz4STX5SU",
-      "date": "2026-08-26",
-      "caption": "BAP ANUNCIA QUE VAI PROCESSAR O PEDRINHO",
-      "type": "VIDEO",
-      "views": 7966,
-      "likes": 258,
-      "comments": 75,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "_1LUr-w7Tpc",
-      "date": "2026-08-26",
-      "caption": "POR QUE O VASCO NÃO CONSEGUE REPETIR O DESEMPENHO DAS COPAS NO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 2309,
-      "likes": 66,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "IwrLml9-O1E",
-      "date": "2026-08-26",
-      "caption": "BRUNO AZEVEDO SE REVOLTA COM PROIBIÇÃO DE CLÁSSICOS EM SÃO JANUÁRIO",
-      "type": "VIDEO",
-      "views": 6031,
-      "likes": 218,
-      "comments": 90,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "4CUzP6OwWik",
-      "date": "2026-08-26",
-      "caption": "JAIRZINHO DÁ AULA PARA O TAMANHO DO GARRINCHA PARA O FUTEBOL BRASILEIRO",
-      "type": "VIDEO",
-      "views": 6635,
-      "likes": 326,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "T_Tmg44MNg4",
-      "date": "2026-08-26",
-      "caption": "RAPHAEL REZENDE REVELA O SEGREDO PARA MONTAR O BOTAFOGO CAMPEÃO EM 2024",
-      "type": "VIDEO",
-      "views": 3043,
-      "likes": 105,
+      "views": 621,
+      "likes": 9,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1245,12 +764,80 @@
       }
     },
     {
-      "id": "eMZKykc8dG0",
-      "date": "2026-08-26",
-      "caption": "CAUÃ REYMOND ABRE O CORAÇÃO AO FALAR SOBRE O TÍTULO DE GALÃ",
+      "id": "iMC6aaiobjA",
+      "date": "2026-08-27",
+      "caption": "VASCO JOGA BEM E CONSEGUE UMA VITÓRIA HERÓICA CONTRA O VITÓRIA",
       "type": "VIDEO",
-      "views": 3016,
-      "likes": 133,
+      "views": 17187,
+      "likes": 584,
+      "comments": 42,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "hfb__yMVAfU",
+      "date": "2026-08-27",
+      "caption": "BRUNO CANTARELLI NARRA O GOL DO VASCO CONTRA O VITÓRIA PELA COPA DO BRASIL",
+      "type": "VIDEO",
+      "views": 11003,
+      "likes": 627,
+      "comments": 40,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "kOAUVK9CN9I",
+      "date": "2026-08-27",
+      "caption": "VASCO X VITÓRIA | AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
+      "type": "VIDEO",
+      "views": 22028,
+      "likes": 942,
       "comments": 3,
       "shares": 0,
       "saves": 0,
@@ -1279,12 +866,12 @@
       }
     },
     {
-      "id": "z8FjT_BeiNg",
-      "date": "2026-08-26",
-      "caption": "GUI SANTOS CONTA HISTÓRIA INCRÍVEL SOBRE O DRAFT DA NBA",
+      "id": "hihEtU8R-KQ",
+      "date": "2026-08-27",
+      "caption": "PALMEIRAS X SANTOS | AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
       "type": "VIDEO",
-      "views": 1632,
-      "likes": 64,
+      "views": 23315,
+      "likes": 251,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1313,13 +900,13 @@
       }
     },
     {
-      "id": "6PiimLyVFlY",
-      "date": "2026-08-26",
-      "caption": "BAP PROCESSA PEDRINHO! VASCO FICA PRÓXIMO DE CENTROAVANTE! FLAMENGO PERTO DE NEGOCIAR PLATA!",
+      "id": "ikGqfXrvXTU",
+      "date": "2026-08-27",
+      "caption": "CUIABANO FORA CONTRA O VITÓRIA! LUIZ ARAUJO TRETA COM A NAÇÃO? TIQUINHO DE VOLTA AO FOGÃO",
       "type": "VIDEO",
-      "views": 16311,
-      "likes": 1198,
-      "comments": 9,
+      "views": 2779,
+      "likes": 154,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1347,13 +934,285 @@
       }
     },
     {
-      "id": "VvTGUG-2QRg",
-      "date": "2026-08-26",
-      "caption": "CRUZEIRO E GALO EMPATAM NO JOGO DE IDA DAS QUARTAS-DE-FINAL DA COPA DO BRASIL",
+      "id": "yuT7EA-AbcY",
+      "date": "2026-08-27",
+      "caption": "DISCUSSÃO SOBRE FINANÇAS DOS CLUBES BRASILEIROS CAUSA TRETA GIGANTESCA",
       "type": "VIDEO",
-      "views": 559,
-      "likes": 28,
+      "views": 30975,
+      "likes": 517,
+      "comments": 182,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "dPxKxnOQkho",
+      "date": "2026-08-27",
+      "caption": "BRUNO CANTARELLI EXALTA A FESTA DA TORCIDA DO VASCO EM SÃO JANUÁRIO",
+      "type": "VIDEO",
+      "views": 11259,
+      "likes": 451,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "czHW79fZPbI",
+      "date": "2026-08-27",
+      "caption": "NOVAS RESTRIÇÕES SÃO IMPOSTAS NA RELAÇÃO ENTRE VASCO E CREFISA",
+      "type": "VIDEO",
+      "views": 8819,
+      "likes": 161,
+      "comments": 27,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "uOpcty-P8LQ",
+      "date": "2026-08-27",
+      "caption": "POR QUE O VASCO TEM UM DESEMPENHO TÃO RUIM NO BRASILEIRÃO?",
+      "type": "VIDEO",
+      "views": 3561,
+      "likes": 58,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "nbYOFg3N_nw",
+      "date": "2026-08-27",
+      "caption": "VASCO É O MELHOR TIME NA LUTA CONTRA O REBAIXAMENTO?",
+      "type": "VIDEO",
+      "views": 19591,
+      "likes": 428,
+      "comments": 37,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "pkZS7e77sk4",
+      "date": "2026-08-27",
+      "caption": "JOGO CONTRA O CRUZEIRO É UMA FINAL PARA O VASCO",
+      "type": "VIDEO",
+      "views": 3594,
+      "likes": 64,
       "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "YtwFomO-7JQ",
+      "date": "2026-08-27",
+      "caption": "VASCO PRECISA UTILIZAR MAIS AS CATEGORIAS DE BASE?",
+      "type": "VIDEO",
+      "views": 9145,
+      "likes": 196,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "sH_RrnyxUHQ",
+      "date": "2026-08-27",
+      "caption": "COLIDIO CHEGOU PARA RESOLVER OS PROBLEMAS DO VASCO?",
+      "type": "VIDEO",
+      "views": 6798,
+      "likes": 165,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "eR0xnHkbnvE",
+      "date": "2026-08-27",
+      "caption": "ANÁLISE COMPLETA DA VITÓRIA DO VASCO NO JOGO DE IDA DAS QUARTAS DE FINAL DA COPA DO BRASIL",
+      "type": "VIDEO",
+      "views": 16322,
+      "likes": 362,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
