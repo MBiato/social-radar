@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-03T12:56:04.868440",
-  "date": "2026-08-02",
+  "generated_at": "2026-09-01T14:33:42.133547",
+  "date": "2026-08-31",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 20,
+    "total_posts": 16,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,106 +12,55 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18092695784160270",
-    "melhor_post_caption": "BANDEIRA DE VOLTA AO FLAMENGO? \n\nEx-presidente do clube revela em qual circustância voltaria à direç",
-    "melhor_post_views": 40792,
+    "melhor_post_id": "18122225791888860",
+    "melhor_post_caption": "QUEM VENCE O BRASILEIRO? \n\nPelo atual momento e futebol apresentado, quem tá mais perto do título? F",
+    "melhor_post_views": 28103,
     "sponsor_stats": {
-      "#charlanamix": {
-        "posts": 1,
-        "views": 40792,
-        "likes": 2279,
-        "comments": 136
-      },
       "#sportingbetnocharla": {
-        "posts": 1,
-        "views": 37797,
-        "likes": 944,
-        "comments": 23
+        "posts": 3,
+        "views": 113150,
+        "likes": 4772,
+        "comments": 397
       },
       "#brahmanocharla": {
-        "posts": 1,
-        "views": 37797,
-        "likes": 944,
-        "comments": 23
+        "posts": 3,
+        "views": 113150,
+        "likes": 4772,
+        "comments": 397
       },
-      "#fornerianocharla": {
-        "posts": 1,
-        "views": 37797,
-        "likes": 944,
-        "comments": 23
+      "#assainocharla": {
+        "posts": 3,
+        "views": 113150,
+        "likes": 4772,
+        "comments": 397
       },
       "#melittanocharla": {
-        "posts": 1,
-        "views": 37797,
-        "likes": 944,
-        "comments": 23
-      },
-      "#charlafutebol": {
-        "posts": 1,
-        "views": 0,
-        "likes": 32,
-        "comments": 4
+        "posts": 3,
+        "views": 113150,
+        "likes": 4772,
+        "comments": 397
       }
     }
   },
   "posts": [
     {
-      "id": "18092695784160270",
-      "date": "2026-08-02",
-      "caption": "BANDEIRA DE VOLTA AO FLAMENGO? \n\nEx-presidente do clube revela em qual circustância voltaria à direção do rubro-negro\n\n#",
-      "url": "https://www.instagram.com/reel/DbjM-TDBpp5/",
-      "tags": [
-        "#charlanamix"
-      ],
-      "type": "VIDEO",
-      "views": 40792,
-      "reach": 27238,
-      "likes": 2279,
-      "comments": 136,
-      "shares": 54,
-      "saves": 45,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17985753744040552",
-      "date": "2026-08-02",
-      "caption": "PREVISÍVEL! \n\nFoi assim que o Rodrigo Lima definiu a derrota do Brasil pra Noruega na Copa. \n\n#SportingbetNoCharla #Brah",
-      "url": "https://www.instagram.com/reel/Dbi3cKYO0SG/",
+      "id": "18122225791888860",
+      "date": "2026-08-31",
+      "caption": "QUEM VENCE O BRASILEIRO? \n\nPelo atual momento e futebol apresentado, quem tá mais perto do título? Flamengo ou Palmeiras",
+      "url": "https://www.instagram.com/reel/DctlyD-BSw5/",
       "tags": [
         "#sportingbetnocharla",
         "#brahmanocharla",
-        "#fornerianocharla",
+        "#assainocharla",
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 37797,
-      "reach": 24691,
-      "likes": 944,
-      "comments": 23,
+      "views": 28103,
+      "reach": 18511,
+      "likes": 1468,
+      "comments": 31,
       "shares": 7,
-      "saves": 21,
+      "saves": 23,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -137,17 +86,15 @@
       }
     },
     {
-      "id": "18089593283547622",
-      "date": "2026-08-02",
-      "caption": "RIVALIDADE COM HISTÓRIA! \n\nHoje, Internacional e Corinthians se encontram pela Copa do Brasil e esse jogo vai pegar fogo",
-      "url": "https://www.instagram.com/p/Dbivhq0s3u4/",
-      "tags": [
-        "#charlafutebol"
-      ],
+      "id": "18432118615181049",
+      "date": "2026-08-31",
+      "caption": "AGENDA DA SEMANA! 🚀🔥",
+      "url": "https://www.instagram.com/p/DcuLVsDhQwa/",
+      "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 32,
+      "likes": 206,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -176,16 +123,19 @@
       }
     },
     {
-      "id": "a-m0gzhYvx4",
-      "date": "2026-08-02",
-      "caption": "QUAL A SOLUÇÃO PARA MELHORAR O FUTEBOL BRASILEIRO?",
-      "type": "VIDEO",
-      "views": 678,
-      "likes": 23,
+      "id": "17886745095614341",
+      "date": "2026-08-31",
+      "caption": "AGENDA DE JOGOS DA SEMANA!",
+      "url": "https://www.instagram.com/p/DcuJ0Kwu_7a/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 197,
       "comments": 1,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -210,13 +160,97 @@
       }
     },
     {
-      "id": "6c7uFxSmgYs",
-      "date": "2026-08-02",
-      "caption": "BASTIDORES INÉDITOS DA CHEGADA DE ÉVERTON RIBEIRO AO FLAMENGO",
+      "id": "17949781902254681",
+      "date": "2026-08-31",
+      "caption": "PÔ, NÃO TEM COMO! O PHILL LARGOU UM EMPREGO NO PRIMEIRO DIA! 😂\n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #Mel",
+      "url": "https://www.instagram.com/reel/Dct7NI3vbq0/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
       "type": "VIDEO",
-      "views": 804,
-      "likes": 40,
-      "comments": 0,
+      "views": 41099,
+      "reach": 25040,
+      "likes": 1614,
+      "comments": 19,
+      "shares": 121,
+      "saves": 48,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18109315043469220",
+      "date": "2026-08-31",
+      "caption": "RENATO GAÚCHO É UM BOM NOME PRO BOTAFOGO?\n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #MelittaNoCharla",
+      "url": "https://www.instagram.com/reel/DctxynQBlyv/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 43948,
+      "reach": 30802,
+      "likes": 1690,
+      "comments": 347,
+      "shares": 92,
+      "saves": 37,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "KBKcN7cOjxc",
+      "date": "2026-08-31",
+      "caption": "FLAMENGO VENCE COM FACILIDADE E SE APROXIMA DA LIDERANÇA! BOTAFOGO VAI LUTAR CONTRA O REBAIXAMENTO?",
+      "type": "VIDEO",
+      "views": 53266,
+      "likes": 2589,
+      "comments": 26,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -244,13 +278,13 @@
       }
     },
     {
-      "id": "djKpBU8GawM",
-      "date": "2026-08-02",
-      "caption": "SITUAÇÃO DO VASCO É REVERSÍVEL?",
+      "id": "r3IqsO-0kKk",
+      "date": "2026-08-31",
+      "caption": "MANTER O DANILO FOI UM ERRO DO BOTAFOGO?",
       "type": "VIDEO",
-      "views": 1918,
-      "likes": 89,
-      "comments": 11,
+      "views": 12842,
+      "likes": 345,
+      "comments": 68,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -278,13 +312,13 @@
       }
     },
     {
-      "id": "GPWRSG2J9Pk",
-      "date": "2026-08-02",
-      "caption": "FLAMENGO PRECISA VALORIZAR MAIS O FUTEBOL FEMININO?",
+      "id": "4YTjCJzfs1U",
+      "date": "2026-08-31",
+      "caption": "TRETA SOBRE ELENCOS DE VASCO E BOTAFOGO PERDE O CONTROLE",
       "type": "VIDEO",
-      "views": 259,
-      "likes": 8,
-      "comments": 0,
+      "views": 28885,
+      "likes": 754,
+      "comments": 349,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -312,13 +346,13 @@
       }
     },
     {
-      "id": "3J2f2YlOlAo",
-      "date": "2026-08-02",
-      "caption": "BANDEIRA DE MELLO VAI VOLTAR AO FLAMENGO?",
+      "id": "i-i1mNXGqVI",
+      "date": "2026-08-31",
+      "caption": "BOTAFOGO CORRE RISCO DE REBAIXAMENTO NO BRASILEIRÃO?",
       "type": "VIDEO",
-      "views": 587,
-      "likes": 33,
-      "comments": 3,
+      "views": 19396,
+      "likes": 391,
+      "comments": 61,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -346,13 +380,13 @@
       }
     },
     {
-      "id": "EyEaxvyoAJg",
-      "date": "2026-08-02",
-      "caption": "PREÇO DOS INGRESSOS ESTÁ AFASTANDO O FLAMENGO DA TORCIDA?",
+      "id": "4l-LPH10MeM",
+      "date": "2026-08-31",
+      "caption": "BRUNO CANTARELLI REVELA INFORMAÇÃO INÉDITA SOBRE RENATO GAÚCHO NO BOTAFOGO",
       "type": "VIDEO",
-      "views": 382,
-      "likes": 24,
-      "comments": 3,
+      "views": 20933,
+      "likes": 691,
+      "comments": 132,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -380,12 +414,46 @@
       }
     },
     {
-      "id": "apX_uvrKGbc",
-      "date": "2026-08-02",
-      "caption": "BANDEIRA DE MELLO REVELA OS BASTIDORES DO PROJETO QUE MUDOU A HISTÓRIA DO FLAMENGO",
+      "id": "yqQgfi-ICoU",
+      "date": "2026-08-31",
+      "caption": "CANTARELLI E ENZO DISCUTEM SOBRE O TRABALHO DE RENATO GAÚCHO NO VASCO",
       "type": "VIDEO",
-      "views": 2294,
-      "likes": 100,
+      "views": 22438,
+      "likes": 495,
+      "comments": 122,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "7EBLCXkHwp4",
+      "date": "2026-08-31",
+      "caption": "ANCELOTTINHO FOI INJUSTIÇADO NA SUA PASSAGEM PELO BOTAFOGO?",
+      "type": "VIDEO",
+      "views": 3565,
+      "likes": 65,
       "comments": 8,
       "shares": 0,
       "saves": 0,
@@ -414,80 +482,12 @@
       }
     },
     {
-      "id": "eWRlyj_ZGjU",
-      "date": "2026-08-02",
-      "caption": "BANDEIRA DE MELLO COMENTA SOBRE A FASE ATUAL DO FLAMENGO",
+      "id": "VvCDbyPGKxc",
+      "date": "2026-08-31",
+      "caption": "CASTILLO FOI A PIOR CONTRATAÇÃO DA HISTÓRIA DO FLUMINENSE?",
       "type": "VIDEO",
-      "views": 3733,
-      "likes": 176,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "AajbWbvksAs",
-      "date": "2026-08-02",
-      "caption": "BANDEIRA DE MELLO ABRE O JOGO SOBRE O NOVO ESTÁDIO DO FLAMENGO",
-      "type": "VIDEO",
-      "views": 8907,
-      "likes": 343,
-      "comments": 47,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "t6h0MdGszkw",
-      "date": "2026-08-02",
-      "caption": "QUEM É MAIOR, MESSI OU PELÉ?",
-      "type": "VIDEO",
-      "views": 893,
-      "likes": 32,
+      "views": 14762,
+      "likes": 322,
       "comments": 14,
       "shares": 0,
       "saves": 0,
@@ -516,13 +516,13 @@
       }
     },
     {
-      "id": "lbEtWgrfwbY",
-      "date": "2026-08-02",
-      "caption": "RODRIGO DEADFISH ABRE O CORAÇÃO AO FALAR SOBRE O FLAMENGO",
+      "id": "zANZYZiUMjM",
+      "date": "2026-08-31",
+      "caption": "CONTRATAÇÃO DO PAQUETÁ FOI UM ERRO DE AVALIAÇÃO DO FLAMENGO?",
       "type": "VIDEO",
-      "views": 5598,
-      "likes": 246,
-      "comments": 4,
+      "views": 5392,
+      "likes": 95,
+      "comments": 8,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -550,13 +550,13 @@
       }
     },
     {
-      "id": "DbfEooF163s",
-      "date": "2026-08-02",
-      "caption": "RODRIGO DEADFISH COMENTA VÍDEO VIRAL SOBRE NEYMAR E CBF",
+      "id": "rk-hSLxnxtM",
+      "date": "2026-08-31",
+      "caption": "SAMUEL LINO SE TRANSFORMOU NO FLAMENGO EM 2026",
       "type": "VIDEO",
-      "views": 3542,
-      "likes": 156,
-      "comments": 7,
+      "views": 4624,
+      "likes": 192,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -584,149 +584,13 @@
       }
     },
     {
-      "id": "HHgiykmMJOQ",
-      "date": "2026-08-02",
-      "caption": "HISTÓRIA EMOCIONANTE COM O PAI DO RODRIGO DEADFISH QUE INSPIROU A MÚSICA 49",
+      "id": "GnJq_90cXgE",
+      "date": "2026-08-31",
+      "caption": "FLAMENGO VAI ULTRAPASSAR O PALMEIRAS NA BRIGA PELO BRASILEIRÃO?",
       "type": "VIDEO",
-      "views": 635,
-      "likes": 27,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "wPL5Rciquws",
-      "date": "2026-08-02",
-      "caption": "RODRIGO DO DEAD FISH FALA SOBRE O ÁLBUM REVOLUCIONÁRIO PONTO CEGO",
-      "type": "VIDEO",
-      "views": 1333,
-      "likes": 103,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "1xdrxMHTAAY",
-      "date": "2026-08-02",
-      "caption": "CONHEÇA A TRAJETÓRIA DA BANDA DEAD FISH ANTES DO SUCESSO",
-      "type": "VIDEO",
-      "views": 1584,
-      "likes": 72,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "MjIR-xOIc0U",
-      "date": "2026-08-02",
-      "caption": "POR QUE O ROCK NACIONAL ENFRAQUECEU? RODRIGO DEAD FISH RESPONDE",
-      "type": "VIDEO",
-      "views": 3610,
-      "likes": 141,
-      "comments": 30,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "oeoWXTYLZYE",
-      "date": "2026-08-02",
-      "caption": "HISTÓRIA INACREDITÁVEL DO CHORÃO ANTES DE SER CONHECIDO",
-      "type": "VIDEO",
-      "views": 3816,
-      "likes": 146,
-      "comments": 4,
+      "views": 13173,
+      "likes": 321,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
