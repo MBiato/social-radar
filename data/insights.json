@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T14:33:42.133547",
-  "date": "2026-08-31",
+  "generated_at": "2026-09-02T14:08:01.226880",
+  "date": "2026-09-01",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 16,
+    "total_posts": 17,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,55 +12,76 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18122225791888860",
-    "melhor_post_caption": "QUEM VENCE O BRASILEIRO? \n\nPelo atual momento e futebol apresentado, quem tá mais perto do título? F",
-    "melhor_post_views": 28103,
+    "melhor_post_id": "18091196192559508",
+    "melhor_post_caption": "“RACIONAIS É O MAIOR GRUPO DE RAP DO PAÍS”\n\nDj Saddam fala sobre Racionais e como eles chegaram ao t",
+    "melhor_post_views": 44818,
     "sponsor_stats": {
+      "#charlanamix": {
+        "posts": 1,
+        "views": 44818,
+        "likes": 1638,
+        "comments": 108
+      },
       "#sportingbetnocharla": {
-        "posts": 3,
-        "views": 113150,
-        "likes": 4772,
-        "comments": 397
+        "posts": 4,
+        "views": 182403,
+        "likes": 14561,
+        "comments": 660
       },
       "#brahmanocharla": {
-        "posts": 3,
-        "views": 113150,
-        "likes": 4772,
-        "comments": 397
+        "posts": 4,
+        "views": 182403,
+        "likes": 14561,
+        "comments": 660
       },
       "#assainocharla": {
-        "posts": 3,
-        "views": 113150,
-        "likes": 4772,
-        "comments": 397
+        "posts": 2,
+        "views": 116435,
+        "likes": 8509,
+        "comments": 532
       },
       "#melittanocharla": {
-        "posts": 3,
-        "views": 113150,
-        "likes": 4772,
-        "comments": 397
+        "posts": 2,
+        "views": 116435,
+        "likes": 8509,
+        "comments": 532
+      },
+      "#fornerianocharla": {
+        "posts": 2,
+        "views": 65968,
+        "likes": 6052,
+        "comments": 128
+      },
+      "#absolutnocharla": {
+        "posts": 2,
+        "views": 65968,
+        "likes": 6052,
+        "comments": 128
+      },
+      "#charlafutebol": {
+        "posts": 1,
+        "views": 0,
+        "likes": 80,
+        "comments": 0
       }
     }
   },
   "posts": [
     {
-      "id": "18122225791888860",
-      "date": "2026-08-31",
-      "caption": "QUEM VENCE O BRASILEIRO? \n\nPelo atual momento e futebol apresentado, quem tá mais perto do título? Flamengo ou Palmeiras",
-      "url": "https://www.instagram.com/reel/DctlyD-BSw5/",
+      "id": "18091196192559508",
+      "date": "2026-09-01",
+      "caption": "“RACIONAIS É O MAIOR GRUPO DE RAP DO PAÍS”\n\nDj Saddam fala sobre Racionais e como eles chegaram ao topo do rap nacional\n",
+      "url": "https://www.instagram.com/reel/DcuVUrCB1x_/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
+        "#charlanamix"
       ],
       "type": "VIDEO",
-      "views": 28103,
-      "reach": 18511,
-      "likes": 1468,
-      "comments": 31,
-      "shares": 7,
-      "saves": 23,
+      "views": 44818,
+      "reach": 34427,
+      "likes": 1638,
+      "comments": 108,
+      "shares": 38,
+      "saves": 61,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -86,173 +107,222 @@
       }
     },
     {
-      "id": "18432118615181049",
-      "date": "2026-08-31",
-      "caption": "AGENDA DA SEMANA! 🚀🔥",
-      "url": "https://www.instagram.com/p/DcuLVsDhQwa/",
-      "tags": [],
+      "id": "18149467033544833",
+      "date": "2026-09-01",
+      "caption": "QUEM É O CAMPEÃO DE 87? MICHEL ASSEF FALOU DO ASSUNTO! 👀\n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #MelittaNo",
+      "url": "https://www.instagram.com/reel/DcwmRPkTRea/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 83702,
+      "reach": 56063,
+      "likes": 6714,
+      "comments": 503,
+      "shares": 2485,
+      "saves": 547,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18093423275379744",
+      "date": "2026-09-01",
+      "caption": "Leila Pereira torce para o Vasco? Se liga nessa resenha! \n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #MelittaN",
+      "url": "https://www.instagram.com/reel/Dcwhn_-N-wX/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 32733,
+      "reach": 20853,
+      "likes": 1795,
+      "comments": 29,
+      "shares": 97,
+      "saves": 42,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17915734962441845",
+      "date": "2026-09-01",
+      "caption": "COMO SERÁ O JOGO NO BARRADÃO? 👀\n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCharla #AbsolutNoCharla",
+      "url": "https://www.instagram.com/reel/DcwPikEgj9z/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 53004,
+      "reach": 40781,
+      "likes": 5449,
+      "comments": 112,
+      "shares": 179,
+      "saves": 46,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18102722870463817",
+      "date": "2026-09-01",
+      "caption": "As novas contratações vão precisar de tempo? \n\nA mesa da Charla de Quinta falou das contratações de Joaquin Freitas e An",
+      "url": "https://www.instagram.com/reel/DcwLmIRh-s3/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 12964,
+      "reach": 9499,
+      "likes": 603,
+      "comments": 16,
+      "shares": 15,
+      "saves": 10,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17944477002339547",
+      "date": "2026-09-01",
+      "caption": "HOJE TEM CLÁSSICO NO CHARLA! 👀\n\nChegou o momento da decisão. Atlético-MG e Cruzeiro entram em campo, hoje, em busca da c",
+      "url": "https://www.instagram.com/p/DcwDlZfuNSl/",
+      "tags": [
+        "#charlafutebol"
+      ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 206,
+      "likes": 80,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "6TigcQhVCis",
+      "date": "2026-09-01",
+      "caption": "QUEM VAI PASSAR PARA AS SEMIS? EXPECTATIVA PARA VASCO X VITÓRIA! REFORÇOS NO FLAMENGO!",
+      "type": "VIDEO",
+      "views": 32892,
+      "likes": 1252,
       "comments": 4,
       "shares": 0,
       "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17886745095614341",
-      "date": "2026-08-31",
-      "caption": "AGENDA DE JOGOS DA SEMANA!",
-      "url": "https://www.instagram.com/p/DcuJ0Kwu_7a/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 197,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17949781902254681",
-      "date": "2026-08-31",
-      "caption": "PÔ, NÃO TEM COMO! O PHILL LARGOU UM EMPREGO NO PRIMEIRO DIA! 😂\n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #Mel",
-      "url": "https://www.instagram.com/reel/Dct7NI3vbq0/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 41099,
-      "reach": 25040,
-      "likes": 1614,
-      "comments": 19,
-      "shares": 121,
-      "saves": 48,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18109315043469220",
-      "date": "2026-08-31",
-      "caption": "RENATO GAÚCHO É UM BOM NOME PRO BOTAFOGO?\n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #MelittaNoCharla",
-      "url": "https://www.instagram.com/reel/DctxynQBlyv/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 43948,
-      "reach": 30802,
-      "likes": 1690,
-      "comments": 347,
-      "shares": 92,
-      "saves": 37,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "KBKcN7cOjxc",
-      "date": "2026-08-31",
-      "caption": "FLAMENGO VENCE COM FACILIDADE E SE APROXIMA DA LIDERANÇA! BOTAFOGO VAI LUTAR CONTRA O REBAIXAMENTO?",
-      "type": "VIDEO",
-      "views": 53266,
-      "likes": 2589,
-      "comments": 26,
-      "shares": 0,
-      "saves": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
@@ -278,182 +348,12 @@
       }
     },
     {
-      "id": "r3IqsO-0kKk",
-      "date": "2026-08-31",
-      "caption": "MANTER O DANILO FOI UM ERRO DO BOTAFOGO?",
+      "id": "RG7IwzWAfwM",
+      "date": "2026-09-01",
+      "caption": "DVD RELACIONADO CONTRA O VITÓRIA? REFORÇO DO FLA NO RIO! LESÃO DO TELLES PREOCUPA?",
       "type": "VIDEO",
-      "views": 12842,
-      "likes": 345,
-      "comments": 68,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "4YTjCJzfs1U",
-      "date": "2026-08-31",
-      "caption": "TRETA SOBRE ELENCOS DE VASCO E BOTAFOGO PERDE O CONTROLE",
-      "type": "VIDEO",
-      "views": 28885,
-      "likes": 754,
-      "comments": 349,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "i-i1mNXGqVI",
-      "date": "2026-08-31",
-      "caption": "BOTAFOGO CORRE RISCO DE REBAIXAMENTO NO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 19396,
-      "likes": 391,
-      "comments": 61,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "4l-LPH10MeM",
-      "date": "2026-08-31",
-      "caption": "BRUNO CANTARELLI REVELA INFORMAÇÃO INÉDITA SOBRE RENATO GAÚCHO NO BOTAFOGO",
-      "type": "VIDEO",
-      "views": 20933,
-      "likes": 691,
-      "comments": 132,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "yqQgfi-ICoU",
-      "date": "2026-08-31",
-      "caption": "CANTARELLI E ENZO DISCUTEM SOBRE O TRABALHO DE RENATO GAÚCHO NO VASCO",
-      "type": "VIDEO",
-      "views": 22438,
-      "likes": 495,
-      "comments": 122,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "7EBLCXkHwp4",
-      "date": "2026-08-31",
-      "caption": "ANCELOTTINHO FOI INJUSTIÇADO NA SUA PASSAGEM PELO BOTAFOGO?",
-      "type": "VIDEO",
-      "views": 3565,
-      "likes": 65,
+      "views": 7408,
+      "likes": 235,
       "comments": 8,
       "shares": 0,
       "saves": 0,
@@ -482,12 +382,148 @@
       }
     },
     {
-      "id": "VvCDbyPGKxc",
-      "date": "2026-08-31",
-      "caption": "CASTILLO FOI A PIOR CONTRATAÇÃO DA HISTÓRIA DO FLUMINENSE?",
+      "id": "31hQb3DmIys",
+      "date": "2026-09-01",
+      "caption": "VASCO VAI ACABAR COM O JEJUM DE TÍTULOS NESTA TEMPORADA?",
       "type": "VIDEO",
-      "views": 14762,
-      "likes": 322,
+      "views": 4949,
+      "likes": 141,
+      "comments": 36,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "-EAshd4E3_c",
+      "date": "2026-09-01",
+      "caption": "VASCO É FAVORITO PARA AVANÇAR NA COPA DO BRASIL?",
+      "type": "VIDEO",
+      "views": 9834,
+      "likes": 278,
+      "comments": 27,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "bfbd8T7VUxM",
+      "date": "2026-09-01",
+      "caption": "VITÓRIA ENFRENTA TURBULÊNCIA ANTES DE ENFRENTAR O VASCO PELA COPA DO BRASIL",
+      "type": "VIDEO",
+      "views": 15147,
+      "likes": 527,
+      "comments": 17,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Vxp7IY-tBgo",
+      "date": "2026-09-01",
+      "caption": "A VERDADE POR TRÁS DA JANELA DO FLAMENGO",
+      "type": "VIDEO",
+      "views": 6936,
+      "likes": 153,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Vc2LUCXJU-w",
+      "date": "2026-09-01",
+      "caption": "ANÁLISE COMPLETA DOS NOVOS REFORÇOS DO FLAMENGO",
+      "type": "VIDEO",
+      "views": 6294,
+      "likes": 168,
       "comments": 14,
       "shares": 0,
       "saves": 0,
@@ -516,13 +552,13 @@
       }
     },
     {
-      "id": "zANZYZiUMjM",
-      "date": "2026-08-31",
-      "caption": "CONTRATAÇÃO DO PAQUETÁ FOI UM ERRO DE AVALIAÇÃO DO FLAMENGO?",
+      "id": "9SzF5LjWra0",
+      "date": "2026-09-01",
+      "caption": "A MELHOR RESENHA DO MARCOS QUE VOCÊ VAI OUVIR 🤣🤣🤣",
       "type": "VIDEO",
-      "views": 5392,
-      "likes": 95,
-      "comments": 8,
+      "views": 13816,
+      "likes": 523,
+      "comments": 7,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -550,47 +586,81 @@
       }
     },
     {
-      "id": "rk-hSLxnxtM",
-      "date": "2026-08-31",
-      "caption": "SAMUEL LINO SE TRANSFORMOU NO FLAMENGO EM 2026",
+      "id": "qpdg5h9dLus",
+      "date": "2026-09-01",
+      "caption": "DJ MARLBORO REVELA TUDO SOBRE A CRIAÇÃO DA FURACÃO 2000",
       "type": "VIDEO",
-      "views": 4624,
-      "likes": 192,
+      "views": 2288,
+      "likes": 63,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "NeVQ36YvlwY",
+      "date": "2026-09-01",
+      "caption": "MILTON LEITE COMENTA POLÊMICA COM ROGÉRIO CENI",
+      "type": "VIDEO",
+      "views": 19590,
+      "likes": 507,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "gyLxJCk8uHc",
+      "date": "2026-09-01",
+      "caption": "CAUÃ REYMOND DÁ RELATO EMOCIONANTE SOBRE FASE DIFÍCIL QUE ENFRENTOU DURANTE AVENIDA BRASIL",
+      "type": "VIDEO",
+      "views": 4388,
+      "likes": 194,
       "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "GnJq_90cXgE",
-      "date": "2026-08-31",
-      "caption": "FLAMENGO VAI ULTRAPASSAR O PALMEIRAS NA BRIGA PELO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 13173,
-      "likes": 321,
-      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
