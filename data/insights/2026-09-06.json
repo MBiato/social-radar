@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-09T10:34:54.709142",
-  "date": "2026-08-08",
+  "generated_at": "2026-09-07T15:32:27.288423",
+  "date": "2026-09-06",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 20,
+    "total_posts": 23,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,61 +12,62 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "17952340053211497",
-    "melhor_post_caption": "\"FIZ TRÊS PONTOS NO CAMPEONATO MUNDIAL E SAÍ HERÓI IGUAL AO GIBA\" 😂\n\nDa profecia pré-jogo ao saque d",
-    "melhor_post_views": 90497,
+    "melhor_post_id": "17969916027150549",
+    "melhor_post_caption": "O VASCO PECOU NAS FINALIZAÇÕES DE NOVO!\n\nO Vascão até jogou bem mas parou de novo na precisão dos jo",
+    "melhor_post_views": 94308,
     "sponsor_stats": {
-      "#sportingbetnocharla": {
-        "posts": 3,
-        "views": 217665,
-        "likes": 15893,
-        "comments": 233
-      },
-      "#brahmanocharla": {
-        "posts": 3,
-        "views": 217665,
-        "likes": 15893,
-        "comments": 233
-      },
       "#fornerianocharla": {
-        "posts": 3,
-        "views": 217665,
-        "likes": 15893,
-        "comments": 233
+        "posts": 2,
+        "views": 41697,
+        "likes": 2115,
+        "comments": 197
       },
-      "#melittanocharla": {
-        "posts": 3,
-        "views": 217665,
-        "likes": 15893,
-        "comments": 233
+      "#sportingbetnocharla": {
+        "posts": 5,
+        "views": 405288,
+        "likes": 21105,
+        "comments": 546
       },
       "#charlafutebol": {
-        "posts": 1,
+        "posts": 2,
         "views": 0,
-        "likes": 82,
-        "comments": 3
+        "likes": 263,
+        "comments": 0
+      },
+      "#brahmanocharla": {
+        "posts": 2,
+        "views": 130951,
+        "likes": 8638,
+        "comments": 142
+      },
+      "#melittanocharla": {
+        "posts": 2,
+        "views": 130951,
+        "likes": 8638,
+        "comments": 142
+      },
+      "#assainocharla": {
+        "posts": 1,
+        "views": 118746,
+        "likes": 8249,
+        "comments": 138
       }
     }
   },
   "posts": [
     {
-      "id": "17952340053211497",
-      "date": "2026-08-08",
-      "caption": "\"FIZ TRÊS PONTOS NO CAMPEONATO MUNDIAL E SAÍ HERÓI IGUAL AO GIBA\" 😂\n\nDa profecia pré-jogo ao saque decisivo, como foi a ",
-      "url": "https://www.instagram.com/reel/DbyySohPUIV/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#melittanocharla"
-      ],
+      "id": "17969916027150549",
+      "date": "2026-09-06",
+      "caption": "O VASCO PECOU NAS FINALIZAÇÕES DE NOVO!\n\nO Vascão até jogou bem mas parou de novo na precisão dos jogadores. Se liga nos",
+      "url": "https://www.instagram.com/reel/Dc7ncidOhwZ/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 90497,
-      "reach": 57154,
-      "likes": 8071,
-      "comments": 146,
-      "shares": 467,
-      "saves": 210,
+      "views": 94308,
+      "reach": 64745,
+      "likes": 3642,
+      "comments": 172,
+      "shares": 702,
+      "saves": 59,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -92,23 +93,18 @@
       }
     },
     {
-      "id": "18135579571612729",
-      "date": "2026-08-08",
-      "caption": "\"TODO MUNDO ACHA QUE ELE É MALUCO, QUE SE RASGA, MAS ELE É UM DOCE!\" \n\nGiovane Gávio falou sobre Bernardinho, lendário t",
-      "url": "https://www.instagram.com/reel/DbyfBFEwGMx/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#melittanocharla"
-      ],
+      "id": "17937475722359748",
+      "date": "2026-09-06",
+      "caption": "DEU FLUZÃO NO MARACA!",
+      "url": "https://www.instagram.com/reel/Dc7gFgJNtyO/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 102347,
-      "reach": 70953,
-      "likes": 6697,
-      "comments": 84,
-      "shares": 321,
-      "saves": 219,
+      "views": 29230,
+      "reach": 22348,
+      "likes": 2316,
+      "comments": 132,
+      "shares": 39,
+      "saves": 17,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -134,23 +130,355 @@
       }
     },
     {
-      "id": "18101364314245995",
-      "date": "2026-08-08",
-      "caption": "COMO É ESTAR EM UMA VILA OLÍMPICA! 👀\n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCharla #MelittaNoCharla",
-      "url": "https://www.instagram.com/reel/DbyQtDtNKEj/",
+      "id": "17943109644316781",
+      "date": "2026-09-06",
+      "caption": "TÁ LIBERADO ZOAR SEU RIVAL! \n\nAgora tem que aguentar! 👀",
+      "url": "https://www.instagram.com/reel/Dc7c5Gkp0PE/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 77312,
+      "reach": 55954,
+      "likes": 3397,
+      "comments": 72,
+      "shares": 296,
+      "saves": 49,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17916664170244227",
+      "date": "2026-09-06",
+      "caption": "A REAÇÃO NO GOL DE LUCHO!\n\nFelicidade de um, tristeza de outro! Se liga em como Phill e Enzo reagiram ao gol de Lucho!",
+      "url": "https://www.instagram.com/reel/Dc7aTDTu5no/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 159709,
+      "reach": 108405,
+      "likes": 13069,
+      "comments": 268,
+      "shares": 245,
+      "saves": 127,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18166951378462690",
+      "date": "2026-09-06",
+      "caption": "É GOL DO FLUZÃO! LICHO MARCA!\n\nO baixinho craque de bola recebe de Soteldo e vence Fábio pra abrir o placar no Maraca! \n",
+      "url": "https://www.instagram.com/reel/Dc7Y00lMxSY/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 71585,
+      "reach": 55189,
+      "likes": 4179,
+      "comments": 115,
+      "shares": 285,
+      "saves": 51,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18113485471789228",
+      "date": "2026-09-06",
+      "caption": "“NÃO PODE COLOCAR UM JUÍZ SEM PERSONALIDADE PRA APITAR UM CLÁSSICO DESSE”\n\nHulk saiu de campo na bronca com a arbitragem",
+      "url": "https://www.instagram.com/reel/Dc7VoB1MzkN/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 103079,
+      "reach": 67344,
+      "likes": 5432,
+      "comments": 464,
+      "shares": 118,
+      "saves": 61,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18097719248154098",
+      "date": "2026-09-06",
+      "caption": "SOTELDO NÃO GOSTOU DO CARTÃO! \n\nO jogador do Fluminense saiu gargalhando após o juíz dar um cartão amarelo pra Ignácio",
+      "url": "https://www.instagram.com/reel/Dc7UecCQ1tK/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 225234,
+      "reach": 145184,
+      "likes": 9479,
+      "comments": 490,
+      "shares": 1105,
+      "saves": 175,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18225267544332097",
+      "date": "2026-09-06",
+      "caption": "NÃO SE FAZ ISSO COM AS CRIANÇAS NO FUT! 👀😂",
+      "url": "https://www.instagram.com/reel/Dc7TPG2A-vu/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 149870,
+      "reach": 98652,
+      "likes": 2487,
+      "comments": 60,
+      "shares": 121,
+      "saves": 31,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18366592591214866",
+      "date": "2026-09-06",
+      "caption": "CLIMA TRANQUILO NO MARACANÃ!\n\nVasco e Fluminense vão se estranhando e sobrou peitada até com o juizão!",
+      "url": "https://www.instagram.com/reel/Dc7SQM5Ncm1/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 189543,
+      "reach": 110603,
+      "likes": 4427,
+      "comments": 268,
+      "shares": 273,
+      "saves": 124,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18624597769046929",
+      "date": "2026-09-06",
+      "caption": "A ZOAÇÃO COMEÇA CEDO!\n\nSe liga na provocação das crianças do Vasco em cima do Fluminense!",
+      "url": "https://www.instagram.com/reel/Dc7QCSmuLHM/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 52455,
+      "reach": 37807,
+      "likes": 2407,
+      "comments": 506,
+      "shares": 94,
+      "saves": 35,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17878758408688926",
+      "date": "2026-09-06",
+      "caption": "SAMUEL LINO RESOLVEU DE NOVO! \n\n#ForneriaNoCharla",
+      "url": "https://www.instagram.com/reel/Dc9ktYzO4DR/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#melittanocharla"
+        "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 24821,
-      "reach": 17006,
-      "likes": 1125,
-      "comments": 3,
+      "views": 29492,
+      "reach": 23037,
+      "likes": 1726,
+      "comments": 193,
+      "shares": 85,
+      "saves": 18,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17905133784542249",
+      "date": "2026-09-06",
+      "caption": "\"VITÓRIA MADURA DO FLAMENGO!\"\n\nMatheus Emanuel falou dos três pontos conquistados pelo Flamengo diante do Remo.\n\n+18. Jo",
+      "url": "https://www.instagram.com/reel/Dc9iNmBwaiF/",
+      "tags": [
+        "#sportingbetnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 8059,
+      "reach": 6522,
+      "likes": 460,
+      "comments": 22,
       "shares": 9,
-      "saves": 21,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -176,18 +504,96 @@
       }
     },
     {
-      "id": "18108036557171324",
-      "date": "2026-08-08",
-      "caption": "É DIA DE CLÁSSICO VOVÔ! ⭐️🇭🇺\n\nBotafogo e Fluminense medem forças neste sábado, às 21h, e você pode conferir todas as emo",
-      "url": "https://www.instagram.com/p/DbyJqdoBICk/",
+      "id": "17907356694546548",
+      "date": "2026-09-06",
+      "caption": "PROTESTO NO NILTON SANTOS!\n\nA torcida do Glorioso recebeu o Marlon Freitas com uma faixa e logo na sequência a rasgou. S",
+      "url": "https://www.instagram.com/reel/Dc9hcIZvYdK/",
+      "tags": [
+        "#sportingbetnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 255342,
+      "reach": 197310,
+      "likes": 11245,
+      "comments": 371,
+      "shares": 1796,
+      "saves": 211,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18006397886986089",
+      "date": "2026-09-06",
+      "caption": "FLAMENGO ABRE O PLACAR!\n\nTrama armada por Arrascaeta e Samuel Lino, que termina no chute mortal do camisa 16. Flamengo m",
+      "url": "https://www.instagram.com/reel/Dc9bV-IObAx/",
+      "tags": [
+        "#sportingbetnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 10936,
+      "reach": 8850,
+      "likes": 762,
+      "comments": 11,
+      "shares": 4,
+      "saves": 1,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18091477118667385",
+      "date": "2026-09-06",
+      "caption": "ALERTA DE JOGÃO NO DOMINGO!\n\nConfronto que vem pegando fogo nos últimos anos, Botafogo e Palmeiras entram em campo neste",
+      "url": "https://www.instagram.com/p/Dc9LNGmJsHb/",
       "tags": [
         "#charlafutebol"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 82,
-      "comments": 3,
+      "likes": 164,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -215,16 +621,21 @@
       }
     },
     {
-      "id": "jTrsCbF7Wmo",
-      "date": "2026-08-08",
-      "caption": "Charla #744 - Giovane Gávio [Bicampeão Olímpico de Vôlei]",
-      "type": "VIDEO",
-      "views": 4559,
-      "likes": 474,
-      "comments": 25,
+      "id": "18049048049801198",
+      "date": "2026-09-06",
+      "caption": "QUEM VAI SAIR COM OS TRÊS PONTOS? \n\nDomingo de Brasileirão no Charla Futebol com todas as emoções de Remo e Flamengo. Se",
+      "url": "https://www.instagram.com/p/Dc9Dt_yBt2L/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 99,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -249,387 +660,97 @@
       }
     },
     {
-      "id": "8PFcfguV_rY",
-      "date": "2026-08-08",
-      "caption": "JK SÓ EM 2027? LH NÃO VEM MAIS? REFORÇOS NO VASCÃO!",
+      "id": "18351930424220983",
+      "date": "2026-09-06",
+      "caption": "\"VOCÊ NÃO GANHA NA VÉSPERA!\"\n\nPreparação prévia, referências e coletivo: Tande contou o que uma derrota ensina e usou a ",
+      "url": "https://www.instagram.com/reel/Dc9CaiEBoQu/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#fornerianocharla"
+      ],
       "type": "VIDEO",
-      "views": 3108,
-      "likes": 209,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "NKDCC9LhyJk",
-      "date": "2026-08-08",
-      "caption": "FRED VAI TREINAR O FLUMINENSE NO FUTURO?",
-      "type": "VIDEO",
-      "views": 1088,
-      "likes": 40,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "pzj7PV43XLk",
-      "date": "2026-08-08",
-      "caption": "GIOVANE GÁVIO FALA SOBRE EXPERIÊNCIA NO VÔLEI DE PRAIA AO LADO DO TANDE",
-      "type": "VIDEO",
-      "views": 1752,
-      "likes": 88,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "9aasNM8LBCA",
-      "date": "2026-08-08",
-      "caption": "AS LOUCURAS NOS BASTIDORES DA VILA OLÍMPICA",
-      "type": "VIDEO",
-      "views": 3731,
-      "likes": 128,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "NEB5F5jNVLA",
-      "date": "2026-08-08",
-      "caption": "GIOVANE GÁVIO REVELA MOMENTO DIFÍCIL NO AUGE DA SUA CARREIRA",
-      "type": "VIDEO",
-      "views": 1244,
-      "likes": 70,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "cawM_No6iKQ",
-      "date": "2026-08-08",
-      "caption": "GIOVANE GÁVIO REVELA A SENSAÇÃO DE SER BICAMPEÃO OLÍMPICO EM 2004",
-      "type": "VIDEO",
-      "views": 1565,
-      "likes": 74,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "R0i4G_khWDc",
-      "date": "2026-08-08",
-      "caption": "SAQUE HISTÓRICO DE GIOVANE GÁVIO NO MUNDIAL DE VÔLEI DE 2002",
-      "type": "VIDEO",
-      "views": 5284,
-      "likes": 246,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "3eRF46ihHzQ",
-      "date": "2026-08-08",
-      "caption": "GIOVANE GÁVIO REVELA COMO FOI JOGAR NO PROJETO DE VÔLEI DO VASCO",
-      "type": "VIDEO",
-      "views": 1821,
-      "likes": 101,
-      "comments": 24,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "JxRsGU5EI9s",
-      "date": "2026-08-08",
-      "caption": "POR QUE O VÔLEI MASCULINO BRASILEIRO PAROU DE GANHAR?",
-      "type": "VIDEO",
-      "views": 3215,
-      "likes": 194,
-      "comments": 13,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "UxU_mfAG_tc",
-      "date": "2026-08-08",
-      "caption": "OS PRINCIPAIS MOTIVOS DA CRISE DO VÔLEI MASCULINO BRASILEIRO",
-      "type": "VIDEO",
-      "views": 5516,
-      "likes": 228,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "UtP_J1QZdcI",
-      "date": "2026-08-08",
-      "caption": "OS MAIORES CRAQUES GERACIONAIS DO VÔLEI BRASILEIRO",
-      "type": "VIDEO",
-      "views": 17479,
-      "likes": 587,
-      "comments": 30,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "xf6BRWHaYmM",
-      "date": "2026-08-08",
-      "caption": "TODA A VERDADE SOBRE O BERNARDINHO NOS BASTIDORES",
-      "type": "VIDEO",
-      "views": 6502,
-      "likes": 280,
+      "views": 12205,
+      "reach": 9740,
+      "likes": 389,
       "comments": 4,
+      "shares": 74,
+      "saves": 7,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18108281939600420",
+      "date": "2026-09-06",
+      "caption": "EXISTE UM FLAMENGO NA NFL? 👀\n\n#SportingbetNoCharla #BrahmaNoCharla #AssaiNoCharla #MelittaNoCharla",
+      "url": "https://www.instagram.com/reel/Dc89MZwB0bh/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 118746,
+      "reach": 78417,
+      "likes": 8249,
+      "comments": 138,
+      "shares": 831,
+      "saves": 280,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "EFanrFKAGDU",
+      "date": "2026-09-06",
+      "caption": "CONFIRA O GOL DA VITÓRIA DO FLU SOBRE O VASCO | BRUNO CANTARELLI!",
+      "type": "VIDEO",
+      "views": 8875,
+      "likes": 240,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -657,13 +778,13 @@
       }
     },
     {
-      "id": "lIAVQi4UE58",
-      "date": "2026-08-08",
-      "caption": "BASTIDORES INÉDITOS DO OURO OLÍMPICO DO VÔLEI MASCULINO EM 2004",
+      "id": "S8VUwYTjvP8",
+      "date": "2026-09-06",
+      "caption": "BOTAFOGO X PALMEIRAS | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
       "type": "VIDEO",
-      "views": 2605,
-      "likes": 113,
-      "comments": 2,
+      "views": 39496,
+      "likes": 471,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -691,13 +812,13 @@
       }
     },
     {
-      "id": "mhjMISBP_Ns",
-      "date": "2026-08-08",
-      "caption": "SAIBA TUDO SOBRE O PRIMEIRO OURO OLÍMPICO DA HISTÓRIA DO VÔLEI BRASILEIRO",
+      "id": "ifQ0OYOyYNo",
+      "date": "2026-09-06",
+      "caption": "MATHEUS ANALISA A VITÓRIA DO FLAMENGO CONTRA O REMO",
       "type": "VIDEO",
-      "views": 6822,
-      "likes": 310,
-      "comments": 4,
+      "views": 10765,
+      "likes": 320,
+      "comments": 6,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -725,13 +846,47 @@
       }
     },
     {
-      "id": "yrbxgy50WEE",
-      "date": "2026-08-08",
-      "caption": "COMO A GERAÇÃO DE PRATA REVOLUCIONOU O VÔLEI BRASILEIRO",
+      "id": "7nsHGUmexGw",
+      "date": "2026-09-06",
+      "caption": "VEJA A NARRAÇÃO DO GOL DA VITÓRIA DO FLAMENGO SOBRE O REMO",
       "type": "VIDEO",
-      "views": 3782,
-      "likes": 189,
+      "views": 3380,
+      "likes": 68,
       "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "SCittMtA0go",
+      "date": "2026-09-06",
+      "caption": "REMO x FLAMENGO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
+      "type": "VIDEO",
+      "views": 80901,
+      "likes": 659,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
