@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T14:38:38.478542",
-  "date": "2026-08-13",
+  "generated_at": "2026-09-12T13:22:55.009560",
+  "date": "2026-09-11",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 35,
+    "total_posts": 36,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,93 +12,217 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18105905870154866",
-    "melhor_post_caption": "“O FLAMENGO ESTÁ CONSOLIDANDO SUA EVOLUÇÃO”\n\nMatheus exaltou o momento de crescimento na temporada e",
-    "melhor_post_views": 21095,
+    "melhor_post_id": "18126306781791970",
+    "melhor_post_caption": "BOM DIA, MENGÃO! JÁ TOMOU SEU SUCO HOJE? 👀😂",
+    "melhor_post_views": 0,
     "sponsor_stats": {
-      "#sportingbetnocharla": {
-        "posts": 8,
-        "views": 445591,
-        "likes": 32635,
-        "comments": 1823
-      },
       "#fornerianocharla": {
-        "posts": 1,
-        "views": 47553,
-        "likes": 3693,
-        "comments": 87
+        "posts": 4,
+        "views": 178675,
+        "likes": 13560,
+        "comments": 856
+      },
+      "#sportingbetnocharla": {
+        "posts": 9,
+        "views": 377946,
+        "likes": 25475,
+        "comments": 1035
       },
       "#brahmanocharla": {
-        "posts": 4,
-        "views": 340823,
-        "likes": 23672,
-        "comments": 1619
-      },
-      "#assainocharla": {
-        "posts": 2,
-        "views": 126260,
-        "likes": 8270,
-        "comments": 1250
+        "posts": 5,
+        "views": 235245,
+        "likes": 8744,
+        "comments": 597
       },
       "#melittanocharla": {
         "posts": 2,
-        "views": 126260,
-        "likes": 8270,
-        "comments": 1250
+        "views": 122582,
+        "likes": 3521,
+        "comments": 107
       },
-      "#texaconocharla": {
-        "posts": 4,
-        "views": 244017,
-        "likes": 16448,
-        "comments": 378
+      "#assainocharla": {
+        "posts": 5,
+        "views": 235245,
+        "likes": 8744,
+        "comments": 597
       },
-      "#746": {
+      "#752": {
         "posts": 1,
         "views": 0,
-        "likes": 116,
-        "comments": 0
-      },
-      "#charlafutebol": {
-        "posts": 1,
-        "views": 0,
-        "likes": 191,
-        "comments": 5
-      },
-      "#mcdonaldsnocharla": {
-        "posts": 2,
-        "views": 214563,
-        "likes": 15402,
-        "comments": 369
-      },
-      "#charlapodcast": {
-        "posts": 1,
-        "views": 30282,
-        "likes": 1331,
-        "comments": 32
-      },
-      "#jogadaderisco": {
-        "posts": 1,
-        "views": 30282,
-        "likes": 1331,
-        "comments": 32
+        "likes": 63,
+        "comments": 2
       }
     }
   },
   "posts": [
     {
-      "id": "18105905870154866",
-      "date": "2026-08-13",
-      "caption": "“O FLAMENGO ESTÁ CONSOLIDANDO SUA EVOLUÇÃO”\n\nMatheus exaltou o momento de crescimento na temporada e projeta o jogo de v",
-      "url": "https://www.instagram.com/reel/Db90bq5BOGw/",
+      "id": "18126306781791970",
+      "date": "2026-09-11",
+      "caption": "BOM DIA, MENGÃO! JÁ TOMOU SEU SUCO HOJE? 👀😂",
+      "url": "https://www.instagram.com/p/DdJYp8HvV0F/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 1131,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18105552001931304",
+      "date": "2026-09-11",
+      "caption": "BRUNO HENRIQUE E O FLAMENGO NÃO SENTIRAM A ALTITUDE! \n\nMatheus destacou o protagonismo rubro-negro na Libertadores e com",
+      "url": "https://www.instagram.com/reel/DdIeqywM0bF/",
+      "tags": [
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 66012,
+      "reach": 47798,
+      "likes": 8337,
+      "comments": 366,
+      "shares": 1235,
+      "saves": 124,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18280656754289759",
+      "date": "2026-09-11",
+      "caption": "O FLAMENGO É O BOCA JUNIORS DESSA NOVA GERAÇÃO? 👀\n\nBetão se empolgou com a vitória do Mengão na altitude e deu a canetad",
+      "url": "https://www.instagram.com/reel/DdIbUe_M2LP/",
       "tags": [
         "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 21095,
-      "reach": 15563,
-      "likes": 1356,
+      "views": 93273,
+      "reach": 58977,
+      "likes": 10413,
+      "comments": 378,
+      "shares": 1826,
+      "saves": 158,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17917922616256383",
+      "date": "2026-09-11",
+      "caption": "É GOL DO TREPA-TREPA! LÉO PEREIRA COLOCA O 2 NO PLACAR!\n\nO Flamengo vai tomando conta do jogo no segundo tempo, consegue",
+      "url": "https://www.instagram.com/reel/DdIT7JaPw3r/",
+      "tags": [
+        "#sportingbetnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 22069,
+      "reach": 16727,
+      "likes": 3196,
+      "comments": 25,
+      "shares": 18,
+      "saves": 18,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18099282131037501",
+      "date": "2026-09-11",
+      "caption": "É O BH RESOLVENDO MAIS UMA PRO MENGÃO!\n\nBruno Henrique segue sendo decisivo e, depois de bela jogada com Jorginho e Lino",
+      "url": "https://www.instagram.com/reel/DdISrODB68f/",
+      "tags": [
+        "#sportingbetnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 16640,
+      "reach": 12934,
+      "likes": 2694,
       "comments": 31,
-      "shares": 14,
+      "shares": 22,
       "saves": 10,
       "platform": "instagram",
       "analysis": {
@@ -125,58 +249,22 @@
       }
     },
     {
-      "id": "18117698833912602",
-      "date": "2026-08-13",
-      "caption": "FLAMENGO SAI MAIS FORTE NO DUELO NO MINEIRÃO? \n\nBetão analisa o jogo entre Cruzeiro e Flamengo e projeta quem é o favori",
-      "url": "https://www.instagram.com/reel/Db9wJTlxCNu/",
+      "id": "18204305941372563",
+      "date": "2026-09-11",
+      "caption": "FOI O MILÉSIMO DO ROMÁRIO? 👀🤣\n\nJoilson lembrou das partidas contra o baixinho e a mesa reagiu a um lance na Charla. Conf",
+      "url": "https://www.instagram.com/reel/DdKRaeLJqKr/",
       "tags": [
-        "#sportingbetnocharla"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 20301,
-      "reach": 15661,
-      "likes": 1895,
-      "comments": 60,
-      "shares": 13,
-      "saves": 8,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18085846781230116",
-      "date": "2026-08-13",
-      "caption": "PAQUETÁ ENTRA PRA SALVAR O MENGÃO! \n\nO cria do ninho entra no segundo tempo, aproveita sobre de bola após uma falta e fu",
-      "url": "https://www.instagram.com/reel/Db9pMlKMdiQ/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 32303,
-      "reach": 23962,
-      "likes": 3232,
-      "comments": 49,
-      "shares": 65,
+      "views": 46431,
+      "reach": 33327,
+      "likes": 1130,
+      "comments": 25,
+      "shares": 31,
       "saves": 33,
       "platform": "instagram",
       "analysis": {
@@ -203,341 +291,227 @@
       }
     },
     {
-      "id": "18088899344396932",
-      "date": "2026-08-13",
-      "caption": "QUE GOLAÇO ABSURDO DO ARROYO NO MINEIRÃO! \n\nO jogador do Cruzeiro recebe na entrada da área, deixa Lino no chão e acerta",
-      "url": "https://www.instagram.com/reel/Db9no9PQJTo/",
+      "id": "17926795782446301",
+      "date": "2026-09-11",
+      "caption": "DUPLA FLA-FLU NA MIRA DO MP! 😨\n\nSegundo matéria do jornal O Globo, as autoridades do Ministério Público do Estado do Rio",
+      "url": "https://www.instagram.com/reel/DdKJDHABR4h/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 44327,
+      "reach": 32131,
+      "likes": 2097,
+      "comments": 313,
+      "shares": 827,
+      "saves": 52,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18122282410675429",
+      "date": "2026-09-11",
+      "caption": "E ESSA COMPARAÇÃO HEIN, GALERA?! 👀\n\nMatheus Emanuel trouxe os números, mas e aí, essa comparação é justa? Samuel Lino tá",
+      "url": "https://www.instagram.com/reel/DdKCKdwu6li/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 12517,
+      "reach": 9711,
+      "likes": 685,
+      "comments": 36,
+      "shares": 37,
+      "saves": 12,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18218414749338963",
+      "date": "2026-09-11",
+      "caption": "VAI ACHANDO QUE FUTEBOL É SÓ GLAMOUR, VAI... \n\nSe liga no relato do Joílson sobre os primeiros passos na carreira e quan",
+      "url": "https://www.instagram.com/reel/DdKBBNzTGfi/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
+      "type": "VIDEO",
+      "views": 76151,
+      "reach": 53523,
+      "likes": 2391,
+      "comments": 82,
+      "shares": 246,
+      "saves": 61,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17900936490590768",
+      "date": "2026-09-11",
+      "caption": "PRA QUEM O RIVAL TORCERIA EM UMA FINAL FLAxFLU? 🤔\n\nEssa é a pergunta do milhão! Se a final em Montevidéu for entre Flame",
+      "url": "https://www.instagram.com/reel/DdJ7DheRD9o/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 55819,
+      "reach": 36698,
+      "likes": 2441,
+      "comments": 141,
+      "shares": 213,
+      "saves": 82,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17922389553204527",
+      "date": "2026-09-11",
+      "caption": "Charla #752 - Joílson\n\nEx-jogador do Botafogo e São Paulo, com muita história pra contar, Joílson é o convidado do dia.\n",
+      "url": "https://www.instagram.com/p/DdJ6Q-JOTQ5/",
+      "tags": [
+        "#752"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 63,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18140600911514243",
+      "date": "2026-09-11",
+      "caption": "\"JÁ SONHEI COM ISSO UMA VEZ!\"\n\nRapaz, já pensou o nosso Betão como presidente do Flamengo? Ia dar bom isso? Diz aí!\n\n+18",
+      "url": "https://www.instagram.com/reel/DdJ5FVYB71V/",
       "tags": [
         "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 31069,
-      "reach": 22681,
-      "likes": 2480,
-      "comments": 64,
-      "shares": 189,
-      "saves": 46,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18164176912482653",
-      "date": "2026-08-13",
-      "caption": "“BETÃO, QUEBEC?”\n“QUERO”\n\n😂😂😂\n\n#ForneriaNoCharla",
-      "url": "https://www.instagram.com/reel/Db9kI3eR76r/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 47553,
-      "reach": 33970,
-      "likes": 3693,
-      "comments": 87,
-      "shares": 1556,
-      "saves": 36,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18108024889949599",
-      "date": "2026-08-13",
-      "caption": "\"VOCÊ TEM ESTÁTUA NO REAL MADRID E NO BARCELONA?\" 😂😂\n\nAs resenhas sobre o Evaristo de Macedo são boas demais. O Michel A",
-      "url": "https://www.instagram.com/reel/Db_sdkqO6xz/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 30135,
-      "reach": 20242,
-      "likes": 1132,
-      "comments": 6,
-      "shares": 46,
-      "saves": 35,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18113429776764988",
-      "date": "2026-08-13",
-      "caption": "AS CONTRATAÇÕES DO FLUMINENSE VALERAM A PENA? \n\n#TexacoNoCharla",
-      "url": "https://www.instagram.com/reel/Db_mx2Pp7uR/",
-      "tags": [
-        "#texaconocharla"
-      ],
-      "type": "VIDEO",
-      "views": 15196,
-      "reach": 10815,
-      "likes": 488,
-      "comments": 2,
-      "shares": 0,
-      "saves": 5,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18154999543499306",
-      "date": "2026-08-13",
-      "caption": "\"ACHO O ZICO MUITO MELHOR QUE O MESSI!\" 👀\n\nMichel Assef falou do histórico camisa 10 do Flamengo e comparou com outros g",
-      "url": "https://www.instagram.com/reel/Db_jmabunO3/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 96125,
-      "reach": 64168,
-      "likes": 7138,
-      "comments": 1244,
-      "shares": 1601,
-      "saves": 263,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17902054671544152",
-      "date": "2026-08-13",
-      "caption": "É QUESTÃO DE TEMPO PARA O FRED ASSUMIR O FLU? \n\n#TexacoNoCharla",
-      "url": "https://www.instagram.com/reel/Db_Uz9aOozQ/",
-      "tags": [
-        "#texaconocharla"
-      ],
-      "type": "VIDEO",
-      "views": 14258,
-      "reach": 10238,
-      "likes": 558,
-      "comments": 7,
-      "shares": 9,
-      "saves": 9,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18111894079967507",
-      "date": "2026-08-13",
-      "caption": "Charla #746 - Michel Assef\n\nUm dos maiores, se não o maior advogado do Direito Esportivo, Michel Assef é o convidado de ",
-      "url": "https://www.instagram.com/p/Db_QYAoPpEh/",
-      "tags": [
-        "#746"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 116,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18087792074168840",
-      "date": "2026-08-13",
-      "caption": "NOITE DE CARIOCAS NA SULA! ⚽\n\nVasco e Botafogo entram em campo nesta quinta (13) em busca da vantagem na partida de ida ",
-      "url": "https://www.instagram.com/p/Db_PwexOJT7/",
-      "tags": [
-        "#charlafutebol"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 191,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18606451453012654",
-      "date": "2026-08-13",
-      "caption": "A DEMISSÃO DO ZUBELDÍA!\n\nO trabalho foi bom? Quais foram os pontos positivos? A demissão demorou a acontecer? Confere aí",
-      "url": "https://www.instagram.com/reel/Db_LBGiTG8a/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#mcdonaldsnocharla",
-        "#texaconocharla"
-      ],
-      "type": "VIDEO",
-      "views": 15406,
-      "reach": 10887,
-      "likes": 486,
+      "views": 10719,
+      "reach": 8786,
+      "likes": 428,
       "comments": 4,
-      "shares": 2,
-      "saves": 5,
+      "shares": 11,
+      "saves": 4,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -563,132 +537,13 @@
       }
     },
     {
-      "id": "17944144176269150",
-      "date": "2026-08-13",
-      "caption": "HOJE TEM PAPO COM ADVOGADO!\n\nDaqui a pouco, às 14h, Michel Assef, advogado, estará conosco para uma conversa séria e de ",
-      "url": "https://www.instagram.com/p/Db_Jvwah1uF/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 61,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17962606761170684",
-      "date": "2026-08-13",
-      "caption": "VEIO AÍ A PARTE 2 DA MÚSICA! 😂\n\nO Fluminense informou, na manhã desta quinta (13), que Zubeldía não é mais treinador da ",
-      "url": "https://www.instagram.com/reel/Db_EmxbBjcm/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#mcdonaldsnocharla",
-        "#texaconocharla"
-      ],
+      "id": "tyeGtI2gjGA",
+      "date": "2026-09-11",
+      "caption": "FLA VENCE COM FACILIDADE E ESTÁ PRÓXIMO DA SEMI! TEREMOS UM FLA-FLU NA FINAL? | CHARLA DE QUINTA",
       "type": "VIDEO",
-      "views": 199157,
-      "reach": 144141,
-      "likes": 14916,
-      "comments": 365,
-      "shares": 6045,
-      "saves": 383,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18086398631196193",
-      "date": "2026-08-13",
-      "caption": "SE LIGA NO PAPO DO CAUÃ REYMOND!\n\nQuem não foi correndo ver a série depois da nossa resenha tá vivendo errado, beleza? H",
-      "url": "https://www.instagram.com/reel/Db-_GSmBKnU/",
-      "tags": [
-        "#charlapodcast",
-        "#jogadaderisco"
-      ],
-      "type": "VIDEO",
-      "views": 30282,
-      "reach": 22038,
-      "likes": 1331,
-      "comments": 32,
-      "shares": 35,
-      "saves": 11,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "JgTg11imqAs",
-      "date": "2026-08-13",
-      "caption": "QUAL SENTIMENTO DO FLAMENGUISTA APÓS EMPATE COM O CRUZEIRO?",
-      "type": "VIDEO",
-      "views": 6229,
-      "likes": 251,
-      "comments": 29,
+      "views": 32653,
+      "likes": 1206,
+      "comments": 9,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -716,13 +571,13 @@
       }
     },
     {
-      "id": "-DhmuVDAwFU",
-      "date": "2026-08-13",
-      "caption": "FLAMENGO SAI COM SALDO POSITIVO APÓS EMPATE NO MINEIRÃO?",
+      "id": "894BcrvsSks",
+      "date": "2026-09-11",
+      "caption": "Charla #752- Joílson [Ex-Bota e São Paulo]",
       "type": "VIDEO",
-      "views": 12091,
-      "likes": 493,
-      "comments": 30,
+      "views": 10957,
+      "likes": 187,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -750,12 +605,46 @@
       }
     },
     {
-      "id": "aLhRkHiBaNg",
-      "date": "2026-08-13",
-      "caption": "NARRAÇÃO ABSURDA DO CANTARELLI NOS GOLAÇOS DE CRUZEIRO E FLAMENGO!",
+      "id": "6Thtkxq8dE4",
+      "date": "2026-09-11",
+      "caption": "FLAMENGO HOJE É TÃO DOMINANTE QUANTO FOI O BOCA DE RIQUELME?",
       "type": "VIDEO",
-      "views": 1812,
-      "likes": 149,
+      "views": 31370,
+      "likes": 1011,
+      "comments": 54,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "CJa5WN3IK_8",
+      "date": "2026-09-11",
+      "caption": "BRUNO HENRIQUE É O JOGADOR MAIS DECISIVO DO FLAMENGO?",
+      "type": "VIDEO",
+      "views": 9604,
+      "likes": 333,
       "comments": 14,
       "shares": 0,
       "saves": 0,
@@ -784,488 +673,12 @@
       }
     },
     {
-      "id": "EgV4ZfFbhh4",
-      "date": "2026-08-13",
-      "caption": "CRUZEIRO X FLAMENGO | NARRAÇÃO DE BRUNO CANTARELLI | Copa Libertadores | Charla Futebol Sportingbet",
+      "id": "uloRTJPujz0",
+      "date": "2026-09-11",
+      "caption": "CONFIRA A NARRAÇÃO DA VITÓRIA DO MENGÃO NA LIBERTADORES!",
       "type": "VIDEO",
-      "views": 10816,
-      "likes": 521,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "M_zZ59YZ8aI",
-      "date": "2026-08-13",
-      "caption": "QUEM É FAVORITO PARA AVANÇAR NA LIBERTADORES: FLAMENGO OU CRUZEIRO?",
-      "type": "VIDEO",
-      "views": 1545,
-      "likes": 54,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "CZZOQgpb-xM",
-      "date": "2026-08-13",
-      "caption": "LEONARDO JARDIM ACERTOU AO DEIXAR O PEDRO NO BANCO CONTRA O CRUZEIRO?",
-      "type": "VIDEO",
-      "views": 416,
-      "likes": 24,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "wqd5a5NQX-I",
-      "date": "2026-08-13",
-      "caption": "O GRANDE PROBLEMA DO ELENCO DO FLAMENGO",
-      "type": "VIDEO",
-      "views": 1806,
-      "likes": 62,
-      "comments": 13,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "y917cdXic44",
-      "date": "2026-08-13",
-      "caption": "FLAMENGO BUSCA O EMPATE E DECIDE VAGA CONTRA O CRUZEIRO NO MARACANÃ",
-      "type": "VIDEO",
-      "views": 5085,
-      "likes": 160,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "1VR5BInmLaE",
-      "date": "2026-08-13",
-      "caption": "GABRIEL AMARAL TRAZ AS ATUALIZAÇÕES DA BUSCA DO FLUMINENSE POR UM NOVO TREINADOR",
-      "type": "VIDEO",
-      "views": 11039,
-      "likes": 621,
-      "comments": 23,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "p7Eip6hRLh4",
-      "date": "2026-08-13",
-      "caption": "CANTARELLI VAI À LOUCURA APÓS CRÍTICAS AO FERNANDO DINIZ",
-      "type": "VIDEO",
-      "views": 1851,
-      "likes": 72,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "r3bisyEq0RQ",
-      "date": "2026-08-13",
-      "caption": "PHILL ELEGE O SEU TREINADOR PREFERIDO PARA ASSUMIR O FLUMINENSE",
-      "type": "VIDEO",
-      "views": 1062,
-      "likes": 46,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ztGILpIsnHk",
-      "date": "2026-08-13",
-      "caption": "O FRED VAI TREINAR O FLUMINENSE?",
-      "type": "VIDEO",
-      "views": 2743,
-      "likes": 160,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "rk334Nw0AXU",
-      "date": "2026-08-13",
-      "caption": "POR QUE O FLUMINENSE PAROU DE REVELAR JOGADORES?",
-      "type": "VIDEO",
-      "views": 3630,
-      "likes": 245,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "0nfrDrg2V5Q",
-      "date": "2026-08-13",
-      "caption": "CONTRATAÇÕES ERRADAS DO FLUMINENSE NAS ÚLTIMAS TEMPORADAS",
-      "type": "VIDEO",
-      "views": 8399,
-      "likes": 342,
-      "comments": 28,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "SLdQPt_70iU",
-      "date": "2026-08-13",
-      "caption": "QUEM VAI SER O NOVO TREINADOR DO FLUMINENSE?",
-      "type": "VIDEO",
-      "views": 2254,
-      "likes": 86,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "AEeDd5rvBXo",
-      "date": "2026-08-13",
-      "caption": "FLUMINENSE ACERTA AO DEMITIR ZUBELDIA?",
-      "type": "VIDEO",
-      "views": 3021,
-      "likes": 124,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "7PbgId6fyXM",
-      "date": "2026-08-13",
-      "caption": "DEMISSÃO DO ZUBELDIA PODE DAR VIDA AO  FLUMINENSE NA LIBERTADORES?",
-      "type": "VIDEO",
-      "views": 2895,
-      "likes": 108,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "gNl8tSRAhKM",
-      "date": "2026-08-13",
-      "caption": "Charla #746 - Michel Assef [Advogado]",
-      "type": "VIDEO",
-      "views": 3858,
-      "likes": 218,
+      "views": 2903,
+      "likes": 170,
       "comments": 6,
       "shares": 0,
       "saves": 0,
@@ -1294,13 +707,13 @@
       }
     },
     {
-      "id": "L-oEa3E36-8",
-      "date": "2026-08-13",
-      "caption": "ZUBELDIA DEMITIDO DO FLUMINENSE! FLAMENGO E CRUZEIRO EMPATAM COM POLÊMICAS DE ARBITRAGEM! ",
+      "id": "Y0UTf0UMQPE",
+      "date": "2026-09-11",
+      "caption": "IND. DEL VALLE X FLAMENGO | AO VIVO | Copa Libertadores | Charla Futebol Sportingbet",
       "type": "VIDEO",
-      "views": 27508,
-      "likes": 2361,
-      "comments": 8,
+      "views": 460353,
+      "likes": 2301,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1328,13 +741,591 @@
       }
     },
     {
-      "id": "JCdzlB5ptNU",
-      "date": "2026-08-13",
-      "caption": "DECISÃO NA LIBERTA! ZUBELDIA CAI? BRENNER TEM LESÃO GRAVE?",
+      "id": "bnQuaXrtSWc",
+      "date": "2026-09-11",
+      "caption": "PLATA TITULAR NA LIBERTA? VASCO NÃO DESISTE DO POMBO! CANO LESIONADO DE NOVO?",
       "type": "VIDEO",
-      "views": 1894,
-      "likes": 110,
+      "views": 9589,
+      "likes": 204,
       "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "DwtqwMm-GmA",
+      "date": "2026-09-11",
+      "caption": "ELENCO ABSURDO DO SÃO PAULO TRICAMPEÃO BRASILEIRO",
+      "type": "VIDEO",
+      "views": 1852,
+      "likes": 41,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "mZAPFM5AVsI",
+      "date": "2026-09-11",
+      "caption": "BASTIDORES MALUCOS DO ELENCO DO SÃO PAULO DE 2008",
+      "type": "VIDEO",
+      "views": 6923,
+      "likes": 129,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "1-l3sByosB4",
+      "date": "2026-09-11",
+      "caption": "ESTRUTURA ABSURDA QUE FEZ O SÃO PAULO SER TRICAMPEÃO BRASILEIRO",
+      "type": "VIDEO",
+      "views": 1787,
+      "likes": 18,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "6IKaw57tY7k",
+      "date": "2026-09-11",
+      "caption": "SUPERSTIÇÕES HILÁRIAS DO CUCA ANTES DAS PARTIDAS",
+      "type": "VIDEO",
+      "views": 2588,
+      "likes": 28,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "nFWpy7bG8fc",
+      "date": "2026-09-11",
+      "caption": "BASTIDORES DE COMO ERA MARCAR O ROMÁRIO EM 2007",
+      "type": "VIDEO",
+      "views": 1185,
+      "likes": 15,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "x_fWuLF47TI",
+      "date": "2026-09-11",
+      "caption": "CUCA FEZ GOL NO RACHÃO E BARROU O GOLEIRO NO BOTAFOGO",
+      "type": "VIDEO",
+      "views": 4521,
+      "likes": 136,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "FyDndEAC3qQ",
+      "date": "2026-09-11",
+      "caption": "BASTIDORES ABSURDOS DE COMO ERA JOGAR COM O DODÔ EM 2007",
+      "type": "VIDEO",
+      "views": 1040,
+      "likes": 31,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "MOOfUIYgdJY",
+      "date": "2026-09-11",
+      "caption": "ERRO DE ARBITRAGEM TIROU O BOTAFOGO DA FINAL DA COPA DO BRASIL EM 2007",
+      "type": "VIDEO",
+      "views": 1692,
+      "likes": 39,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "2Di2PcnH_rM",
+      "date": "2026-09-11",
+      "caption": "OS BASTIDORES DA ELIMINAÇÃO DO BOTAFOGO PARA O RIVER PLATE EM 2007",
+      "type": "VIDEO",
+      "views": 891,
+      "likes": 20,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "xSH1zSo4gos",
+      "date": "2026-09-11",
+      "caption": "“O BOTAFOGO AINDA ME DEVE”: JOÍLSON REVELA TUDO",
+      "type": "VIDEO",
+      "views": 2166,
+      "likes": 36,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "5IovB8ONBAc",
+      "date": "2026-09-11",
+      "caption": "JOÍLSON RELEMBRA ERROS DE ARBITRAGEM A FAVOR DO FLAMENGO NA FINAL DO CARIOCA DE 2007",
+      "type": "VIDEO",
+      "views": 2056,
+      "likes": 55,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "htTzYCW9NNc",
+      "date": "2026-09-11",
+      "caption": "A REALIDADE DO FUTEBOL QUE POUCOS CONHECEM",
+      "type": "VIDEO",
+      "views": 1555,
+      "likes": 31,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "MIC9xTICjYQ",
+      "date": "2026-09-11",
+      "caption": "QUAL É O TAMANHO DE BRUNO HENRIQUE NA HISTÓRIA DO FLAMENGO?",
+      "type": "VIDEO",
+      "views": 29116,
+      "likes": 618,
+      "comments": 68,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "CM0AdvvZhTk",
+      "date": "2026-09-11",
+      "caption": "OS MÉRITOS DO TRABALHO DE LEONARDO JARDIM NO FLAMENGO",
+      "type": "VIDEO",
+      "views": 2679,
+      "likes": 67,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "bfmOqH9zPTo",
+      "date": "2026-09-11",
+      "caption": "IMPORTÂNCIA DO LEONARDO JARDIM PARA RECUPERAR O SAMUEL LINO NO FLAMENGO",
+      "type": "VIDEO",
+      "views": 6513,
+      "likes": 154,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "2Z_fpahTmmo",
+      "date": "2026-09-11",
+      "caption": "FLAMENGO DEU AULA DE COMO JOGAR NA ALTITUDE",
+      "type": "VIDEO",
+      "views": 3583,
+      "likes": 96,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "nkmSMswwC2o",
+      "date": "2026-09-11",
+      "caption": "FLA-FLU NA FINAL DA LIBERTADORES JÁ É REALIDADE?",
+      "type": "VIDEO",
+      "views": 29799,
+      "likes": 608,
+      "comments": 85,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
