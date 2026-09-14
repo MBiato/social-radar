@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T10:22:59.626292",
-  "date": "2026-08-15",
+  "generated_at": "2026-09-14T16:11:22.016053",
+  "date": "2026-09-13",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 22,
+    "total_posts": 20,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,57 +12,96 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "17970940214935306",
-    "melhor_post_caption": "“É UM FUTEBOL RUIM”\n\nRodrigo Machado falou sobre o desempenho atual do Palmeiras e projetou o restan",
-    "melhor_post_views": 10186,
+    "melhor_post_id": "18191020444396137",
+    "melhor_post_caption": "QUANTO VAI SER ESSE JOGAÇO?! \n\nHoje, os times com as maiores torcidas do país se enfrentam no Maraca",
+    "melhor_post_views": 0,
     "sponsor_stats": {
-      "#fornerianocharla": {
-        "posts": 4,
-        "views": 78236,
-        "likes": 3775,
-        "comments": 106
-      },
       "#sportingbetnocharla": {
-        "posts": 6,
-        "views": 262252,
-        "likes": 16822,
-        "comments": 2997
+        "posts": 7,
+        "views": 277602,
+        "likes": 14207,
+        "comments": 716
+      },
+      "#fornerianocharla": {
+        "posts": 1,
+        "views": 13343,
+        "likes": 492,
+        "comments": 46
       },
       "#brahmanocharla": {
-        "posts": 1,
-        "views": 221209,
-        "likes": 15289,
-        "comments": 2963
-      },
-      "#assainocharla": {
-        "posts": 1,
-        "views": 221209,
-        "likes": 15289,
-        "comments": 2963
+        "posts": 6,
+        "views": 470578,
+        "likes": 39682,
+        "comments": 977
       },
       "#melittanocharla": {
-        "posts": 1,
-        "views": 221209,
-        "likes": 15289,
-        "comments": 2963
+        "posts": 2,
+        "views": 216931,
+        "likes": 9565,
+        "comments": 567
+      },
+      "#assainocharla": {
+        "posts": 2,
+        "views": 216931,
+        "likes": 9565,
+        "comments": 567
       }
     }
   },
   "posts": [
     {
-      "id": "17970940214935306",
-      "date": "2026-08-15",
-      "caption": "“É UM FUTEBOL RUIM”\n\nRodrigo Machado falou sobre o desempenho atual do Palmeiras e projetou o restante da temporada do c",
-      "url": "https://www.instagram.com/reel/DcFEbwxhYpg/",
+      "id": "18191020444396137",
+      "date": "2026-09-13",
+      "caption": "QUANTO VAI SER ESSE JOGAÇO?! \n\nHoje, os times com as maiores torcidas do país se enfrentam no Maraca e você não pode per",
+      "url": "https://www.instagram.com/p/DdOuWecyIuF/",
+      "tags": [
+        "#sportingbetnocharla"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 60,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18022808486908638",
+      "date": "2026-09-13",
+      "caption": "Rodrigo Machado fala do empate entre Botafogo e Bragantino, e critica a partida do time. \n\n#ForneriaNoCharla",
+      "url": "https://www.instagram.com/reel/DdNfKTxJC4-/",
       "tags": [
         "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 10186,
-      "reach": 7651,
-      "likes": 314,
-      "comments": 8,
-      "shares": 6,
+      "views": 13343,
+      "reach": 10648,
+      "likes": 492,
+      "comments": 46,
+      "shares": 44,
       "saves": 2,
       "platform": "instagram",
       "analysis": {
@@ -89,59 +128,20 @@
       }
     },
     {
-      "id": "17981653643882205",
-      "date": "2026-08-15",
-      "caption": "“É UM TIME ESTRELADO PRA POUCO FUTEBOL”\n\nO Palmeiras pode ser campeão na temporada, jogando um futebol abaixo do seu pot",
-      "url": "https://www.instagram.com/reel/DcFBLVsg6mi/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 13599,
-      "reach": 10019,
-      "likes": 491,
-      "comments": 17,
-      "shares": 0,
-      "saves": 8,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17926147920403302",
-      "date": "2026-08-15",
-      "caption": "“JOGO MAIS COMPLETO DO FLUMINENSE NA TEMPORADA”\n\nMatheus resumiu a vitória do Tricolor em cima do Palmeiras e projetou c",
-      "url": "https://www.instagram.com/reel/DcE9-v8hac0/",
+      "id": "18094076108313470",
+      "date": "2026-09-13",
+      "caption": "BOTAFOGO FICA APENAS COM UM PONTO!\n\nMatheus Emanuel analisou a partida do Botafogo e falou do resultado. \n\n+18. Jogue co",
+      "url": "https://www.instagram.com/reel/DdNdpx7hDLz/",
       "tags": [
         "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 10751,
-      "reach": 8093,
-      "likes": 967,
-      "comments": 12,
-      "shares": 4,
-      "saves": 14,
+      "views": 8934,
+      "reach": 7354,
+      "likes": 332,
+      "comments": 29,
+      "shares": 54,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -167,96 +167,57 @@
       }
     },
     {
-      "id": "18124942753769247",
-      "date": "2026-08-15",
-      "caption": "FAÇA O DUPLO L IMEDIATAMENTE!\n\nO ídolo, Cano, marca no final do jogo e vira pro Fluzão no Maraca!\n\n🎙️ Victor Covarde\n\n#F",
-      "url": "https://www.instagram.com/reel/DcE7HL4BH_S/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 43230,
-      "reach": 29852,
-      "likes": 2329,
-      "comments": 71,
-      "shares": 48,
-      "saves": 31,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18139811875574874",
-      "date": "2026-08-15",
-      "caption": "O TIME DE GUERREIROS NÃO DESISTE!\n\nO Fluminense empata no Maracanã com Serna!\n\n🎙️ Victor Covarde\n\n#ForneriaNoCharla",
-      "url": "https://www.instagram.com/reel/DcE3bsYN6r9/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 11221,
-      "reach": 8226,
-      "likes": 641,
-      "comments": 10,
-      "shares": 0,
-      "saves": 5,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17905140540306221",
-      "date": "2026-08-15",
-      "caption": "O PALMEIRAS NÃO DESISTE!\n\nE desempata no Maraca!\n\n🎙️ Victor Covarde \n\n+18. Jogue com responsabilidade. Ministério da Faz",
-      "url": "https://www.instagram.com/reel/DcE2jiMB3xU/",
+      "id": "18108367481333947",
+      "date": "2026-09-13",
+      "caption": "TUDO IGUAL NO NILTON SANTOS!\n\nVitinho empata o jogo pro Botafogo, que joga com um a mais o segundo tempo inteiro e vai e",
+      "url": "https://www.instagram.com/reel/DdNWRHfJpPW/",
       "tags": [
         "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 6498,
-      "reach": 5128,
-      "likes": 63,
-      "comments": 4,
+      "views": 7356,
+      "reach": 6374,
+      "likes": 81,
+      "comments": 1,
+      "shares": 2,
+      "saves": 1,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18107656913125971",
+      "date": "2026-09-13",
+      "caption": "BRAGANTINO NA FRENTE!\n\nFora de casa, o Bragantino se lançou para o ataque e abriu o placar diante do Botafogo. \n\n🎙: @vic",
+      "url": "https://www.instagram.com/reel/DdNQlW9N5OC/",
+      "tags": [
+        "#sportingbetnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 7341,
+      "reach": 6180,
+      "likes": 48,
+      "comments": 1,
       "shares": 1,
       "saves": 0,
       "platform": "instagram",
@@ -284,19 +245,136 @@
       }
     },
     {
-      "id": "18121587865867815",
-      "date": "2026-08-15",
-      "caption": "HULK ESMAGA!\n\nCanobbio cruza e Hulk coloca a bola no contrapé de Carlos Miguel pra empatar!\n\n🎙️ Victor Covarde \n\n+18. Jo",
-      "url": "https://www.instagram.com/reel/DcEwB3TRfRn/",
+      "id": "17910854829469048",
+      "date": "2026-09-13",
+      "caption": "“O FLAMENGO TÁ PERTO DE FAZER ALGO HISTÓRICO DE NOVO!”\n\nComo você avalia o trabalho de Leonardo Jardim até aqui? Pro Bet",
+      "url": "https://www.instagram.com/reel/DdPxllThx-S/",
       "tags": [
         "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 13516,
-      "reach": 9158,
-      "likes": 146,
-      "comments": 3,
-      "shares": 4,
+      "views": 37040,
+      "reach": 29005,
+      "likes": 4121,
+      "comments": 116,
+      "shares": 62,
+      "saves": 41,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17965386660187252",
+      "date": "2026-09-13",
+      "caption": "“A NAÇÃO QUER BRAHMA!”\n\nVitória no melhor estilo Flamengo e de quebra, os rubro-negros ainda vão levar Brahma de graça! ",
+      "url": "https://www.instagram.com/reel/DdPueeXAepd/",
+      "tags": [
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 203925,
+      "reach": 163983,
+      "likes": 23176,
+      "comments": 294,
+      "shares": 5230,
+      "saves": 278,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18102191162201327",
+      "date": "2026-09-13",
+      "caption": "SE TEM TAÇA, ESQUECE! O BH RESOLVE!\n\nO jogo fica apertado no segundo tempo, mas Bruno Henrique entra e marca pro Mengão!",
+      "url": "https://www.instagram.com/reel/DdPoNlUuOuU/",
+      "tags": [
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 34219,
+      "reach": 25855,
+      "likes": 6422,
+      "comments": 107,
+      "shares": 177,
+      "saves": 50,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18016946861732262",
+      "date": "2026-09-13",
+      "caption": "É GOL DO CORINTHIANS! GOL QUE COLOCA ÁGUA NO CHOPP DO FLAMENGO!\n\nO Corinthians escapa no contra-ataque, cria boa jogada ",
+      "url": "https://www.instagram.com/reel/DdPnDHDTCne/",
+      "tags": [
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 8717,
+      "reach": 6976,
+      "likes": 143,
+      "comments": 1,
+      "shares": 1,
       "saves": 3,
       "platform": "instagram",
       "analysis": {
@@ -323,20 +401,20 @@
       }
     },
     {
-      "id": "18111052109097504",
-      "date": "2026-08-15",
-      "caption": "SEGUE O LÍDER!\n\nO Palmeiras abriu o placar contra o Flu pra se manter isolado na liderança do Brasileiro! \n\n🎙️ Victor Co",
-      "url": "https://www.instagram.com/reel/DcEuq-FBaCO/",
+      "id": "18113550182043741",
+      "date": "2026-09-13",
+      "caption": "É GOL QUE VALE TAÇA! É GOL DE PAQUETÁ! \n\nO Flamengo pressiona o Corinthians no Maraca e consegue furar a retranca com o ",
+      "url": "https://www.instagram.com/reel/DdPj38mvFn-/",
       "tags": [
-        "#sportingbetnocharla"
+        "#brahmanocharla"
       ],
       "type": "VIDEO",
-      "views": 10278,
-      "reach": 7672,
-      "likes": 99,
-      "comments": 6,
-      "shares": 2,
-      "saves": 0,
+      "views": 6786,
+      "reach": 5471,
+      "likes": 376,
+      "comments": 8,
+      "shares": 3,
+      "saves": 4,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -362,23 +440,23 @@
       }
     },
     {
-      "id": "17981049966025668",
-      "date": "2026-08-15",
-      "caption": "“ELE NUNCA BENEFICIOU O FLAMENGO”\n\nMichel Assef fala sobre José Roberto Wright e o polêmico jogo da Libertadores entre F",
-      "url": "https://www.instagram.com/reel/DcEUUOpp_Ik/",
+      "id": "17902708200569708",
+      "date": "2026-09-13",
+      "caption": "“O BOTAFOGO NÃO TINHA FORÇA NENHUMA NOS BASTIDORES”\n\nJoilson relembra expulsão de Dodô na final do Carioca em 2007 e o q",
+      "url": "https://www.instagram.com/reel/DdO_ddyxwTx/",
       "tags": [
         "#sportingbetnocharla",
         "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
+        "#melittanocharla",
+        "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 221209,
-      "reach": 145900,
-      "likes": 15289,
-      "comments": 2963,
-      "shares": 5150,
-      "saves": 1319,
+      "views": 143560,
+      "reach": 106989,
+      "likes": 6444,
+      "comments": 493,
+      "shares": 2191,
+      "saves": 262,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -404,20 +482,23 @@
       }
     },
     {
-      "id": "17960123822981879",
-      "date": "2026-08-15",
-      "caption": "DIZ AÍ QUANTO VAI SER ESSE JOGÃO! \n\nHoje é dia de reencontrar o ex! Após a demissão de seu técnico, o Fluminense recebe ",
-      "url": "https://www.instagram.com/p/DcETAq1hzeZ/",
+      "id": "18096470345549824",
+      "date": "2026-09-13",
+      "caption": "“O CUCA FEZ GOL NELE NO RACHÃO E TIROU ELE DO JOGO.”\n\nJoilson relembra má fase dos goleiros do Botafogo em 2007 e casos ",
+      "url": "https://www.instagram.com/reel/DdO1A5ytCj7/",
       "tags": [
-        "#sportingbetnocharla"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
       ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 258,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
+      "type": "VIDEO",
+      "views": 73371,
+      "reach": 45817,
+      "likes": 3121,
+      "comments": 74,
+      "shares": 884,
+      "saves": 145,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -443,80 +524,12 @@
       }
     },
     {
-      "id": "VHgudLRTEls",
-      "date": "2026-08-15",
-      "caption": "BRUNO AZEVEDO VAI À LOUCURA COM ELOGIOS AOS ESTRANGEIROS DO VASCO",
+      "id": "0P5Au6tlTkk",
+      "date": "2026-09-13",
+      "caption": "BOTAFOGO CORRE SÉRIOS RISCOS DE SER REBAIXADO?",
       "type": "VIDEO",
-      "views": 7754,
-      "likes": 318,
-      "comments": 27,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "svVqDelQsxQ",
-      "date": "2026-08-15",
-      "caption": "BRUNO AZEVEDO ESTÁ COM MEDO DE ENFRENTAR O NEYMAR?",
-      "type": "VIDEO",
-      "views": 3961,
-      "likes": 125,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "LZhNCOplPqU",
-      "date": "2026-08-15",
-      "caption": "VASCO JOGA BEM MAS NÃO CONSGUE VENCER O OLIMPIA EM SÃO JANUÁRIO",
-      "type": "VIDEO",
-      "views": 5033,
-      "likes": 189,
+      "views": 6484,
+      "likes": 70,
       "comments": 5,
       "shares": 0,
       "saves": 0,
@@ -545,13 +558,13 @@
       }
     },
     {
-      "id": "HJf7XF5B-6I",
-      "date": "2026-08-15",
-      "caption": "BOTAFOGO JÁ ESTÁ ELIMINADO DA COPA SUL-AMERICANA?",
+      "id": "1-vpGIS_6hw",
+      "date": "2026-09-13",
+      "caption": "MATHEUS ANALISA EMPATE DO BOTAFOGO COM O BRAGANTINO",
       "type": "VIDEO",
-      "views": 1436,
-      "likes": 64,
-      "comments": 10,
+      "views": 3058,
+      "likes": 34,
+      "comments": 5,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -579,46 +592,12 @@
       }
     },
     {
-      "id": "UnMfqZihebI",
-      "date": "2026-08-15",
-      "caption": "BOTAFOGO ERROU AO NÃO LIBERAR O DANILO PARA O PALMEIRAS?",
+      "id": "Jj5ZWtZ-V9w",
+      "date": "2026-09-13",
+      "caption": "CONFIRA A NARRAÇÃO DO EMPATE ENTRE BOTAFOGO E BRAGANTINO",
       "type": "VIDEO",
-      "views": 2781,
-      "likes": 71,
-      "comments": 30,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "HjXsJhEnKDo",
-      "date": "2026-08-15",
-      "caption": "FRANCLIM CARVALHO MERECE SER DEMITIDO APÓS SOFRER GOLEADA HISTÓRICA NA SUL AMERICANA?",
-      "type": "VIDEO",
-      "views": 943,
-      "likes": 26,
+      "views": 1562,
+      "likes": 38,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -647,12 +626,12 @@
       }
     },
     {
-      "id": "ht9v0w6mga0",
-      "date": "2026-08-15",
-      "caption": "FRANCLIM FICA NO FOGÃO? MERCADO NO VASCO? FLA COMPLETO EM MIRASSOL?",
+      "id": "h0pIs2sPCUg",
+      "date": "2026-09-13",
+      "caption": "BOTAFOGO X RB BRAGANTINO | AO VIVO | BRASILEIRÃO | Charla Futebol Sportingbet",
       "type": "VIDEO",
-      "views": 3383,
-      "likes": 184,
+      "views": 98578,
+      "likes": 774,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -681,13 +660,13 @@
       }
     },
     {
-      "id": "6TmwhuSBWh8",
-      "date": "2026-08-15",
-      "caption": "A SAÍDA DE ZUBELDIA DEU NOVO ÂNIMO PRO FLU NA TEMPORADA?",
+      "id": "XRe3Mt2ZFlg",
+      "date": "2026-09-13",
+      "caption": "QUAL O NÍVEL DO TRABALHO DE LEONARDO JARDIM NO FLAMENGO?",
       "type": "VIDEO",
-      "views": 5039,
-      "likes": 282,
-      "comments": 16,
+      "views": 14226,
+      "likes": 440,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -715,13 +694,13 @@
       }
     },
     {
-      "id": "sLo6Cbd1gIc",
-      "date": "2026-08-15",
-      "caption": "NARRAÇÃO DA VIRADA ÉPICA DO FLUMINENSE EM CIMA DO PALMEIRAS!",
+      "id": "MaUHDaUYtdo",
+      "date": "2026-09-13",
+      "caption": "BRUNO HENRIQUE É O JOGADOR MAIS DECISIVO DA HISTÓRIA DO FLAMENGO?",
       "type": "VIDEO",
-      "views": 1894,
-      "likes": 196,
-      "comments": 16,
+      "views": 10633,
+      "likes": 451,
+      "comments": 22,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -749,13 +728,13 @@
       }
     },
     {
-      "id": "gNxEkm1jy2Q",
-      "date": "2026-08-15",
-      "caption": "A VIRADA CONTRA O PALMEIRAS MOTIVA O FLU PRA LIBERTADORES?",
+      "id": "-0H8jB5I-YQ",
+      "date": "2026-09-13",
+      "caption": "NARRAÇÃO DA VITÓRIA ÉPICA DO FLAMENGO SOBRE O CORINTHIANS!",
       "type": "VIDEO",
-      "views": 1354,
-      "likes": 88,
-      "comments": 3,
+      "views": 5724,
+      "likes": 248,
+      "comments": 6,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -783,47 +762,13 @@
       }
     },
     {
-      "id": "NXiMHSDSurE",
-      "date": "2026-08-15",
-      "caption": "FLUMINENSE x PALMEIRAS | NARRAÇÃO AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
+      "id": "ziockrSZXnI",
+      "date": "2026-09-13",
+      "caption": "FLAMENGO X CORINTHIANS | AO VIVO | BRASILEIRÃO | Charla Futebol Sportingbet",
       "type": "VIDEO",
-      "views": 36257,
-      "likes": 689,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "H_xML4not0c",
-      "date": "2026-08-15",
-      "caption": "TENTE NÃO RIR COM AS MELHORES RESENHAS DO FUTEBOL 😂😂😂",
-      "type": "VIDEO",
-      "views": 3221,
-      "likes": 167,
-      "comments": 3,
+      "views": 30128,
+      "likes": 441,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
