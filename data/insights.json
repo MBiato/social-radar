@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T14:38:43.642416",
-  "date": "2026-09-15",
+  "generated_at": "2026-09-17T14:43:37.083372",
+  "date": "2026-09-16",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 21,
+    "total_posts": 24,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,67 +12,68 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18367357783214718",
-    "melhor_post_caption": "PAULINHO SERRA QUASE FOI PRESO??? 😱\n\nSe não fosse o tio dele, um herói peculiar, tinha dado ruim pro",
-    "melhor_post_views": 127043,
+    "melhor_post_id": "17994037526834708",
+    "melhor_post_caption": "Agenda da semana! 🚀🔥",
+    "melhor_post_views": 0,
     "sponsor_stats": {
       "#sportingbetnocharla": {
-        "posts": 7,
-        "views": 453170,
-        "likes": 25118,
-        "comments": 346
-      },
-      "#brahmanocharla": {
-        "posts": 6,
-        "views": 425421,
-        "likes": 22805,
-        "comments": 309
-      },
-      "#melittanocharla": {
-        "posts": 6,
-        "views": 425421,
-        "likes": 22805,
-        "comments": 309
-      },
-      "#fornerianocharla": {
-        "posts": 5,
-        "views": 342075,
-        "likes": 20782,
+        "posts": 10,
+        "views": 190674,
+        "likes": 17582,
         "comments": 223
       },
-      "#assainocharla": {
-        "posts": 1,
-        "views": 83346,
-        "likes": 2023,
-        "comments": 86
+      "#charlanaconmebolexperience": {
+        "posts": 5,
+        "views": 148447,
+        "likes": 14575,
+        "comments": 180
       },
       "#charlafutebol": {
         "posts": 1,
         "views": 0,
-        "likes": 26,
-        "comments": 1
+        "likes": 70,
+        "comments": 2
+      },
+      "#brahmanocharla": {
+        "posts": 2,
+        "views": 51060,
+        "likes": 4100,
+        "comments": 42
+      },
+      "#assainocharla": {
+        "posts": 2,
+        "views": 51060,
+        "likes": 4100,
+        "comments": 42
+      },
+      "#melittanocharla": {
+        "posts": 2,
+        "views": 51060,
+        "likes": 4100,
+        "comments": 42
+      },
+      "#fornerianocharla": {
+        "posts": 2,
+        "views": 51060,
+        "likes": 4100,
+        "comments": 42
       }
     }
   },
   "posts": [
     {
-      "id": "18367357783214718",
-      "date": "2026-09-15",
-      "caption": "PAULINHO SERRA QUASE FOI PRESO??? 😱\n\nSe não fosse o tio dele, um herói peculiar, tinha dado ruim pro Paulinho! É cada hi",
-      "url": "https://www.instagram.com/reel/DdScVjivR0l/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 127043,
-      "reach": 76986,
-      "likes": 6143,
-      "comments": 34,
-      "shares": 496,
-      "saves": 226,
+      "id": "17994037526834708",
+      "date": "2026-09-16",
+      "caption": "Agenda da semana! 🚀🔥",
+      "url": "https://www.instagram.com/p/DdWf1b6S8bG/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 64,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -98,20 +99,20 @@
       }
     },
     {
-      "id": "18115549207784069",
-      "date": "2026-09-15",
-      "caption": "É GOL QUE VAI CLASSIFICANDO O FLUZÃO! \n\nMesmo no aperto, o Fluminense marca com Canobbio, diminui a vantagem do Platense",
-      "url": "https://www.instagram.com/reel/DdU425KsqdM/",
+      "id": "18410656093087751",
+      "date": "2026-09-16",
+      "caption": "O QUE IMPORTA É O FLUZÃO NA SEMI! \n\nMachado falou sobre a atuação do Fluminense hoje, mas que o importante é a classific",
+      "url": "https://www.instagram.com/reel/DdVBxV_xm8Z/",
       "tags": [
         "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 27749,
-      "reach": 21805,
-      "likes": 2313,
-      "comments": 37,
-      "shares": 23,
-      "saves": 18,
+      "views": 15068,
+      "reach": 12058,
+      "likes": 1313,
+      "comments": 22,
+      "shares": 12,
+      "saves": 5,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -137,23 +138,20 @@
       }
     },
     {
-      "id": "18354973444301727",
-      "date": "2026-09-15",
-      "caption": "TEM QUE METER UM CAÔ... 🤣\n\nSe liga nesses histórias de assalto que o Paulinho Serra contou na charla.\n\n#SportingbetNoCha",
-      "url": "https://www.instagram.com/reel/DdUq-jeJjXt/",
+      "id": "17962629276198591",
+      "date": "2026-09-16",
+      "caption": "HÉROIS TRICOLORES! \n\nPro Azevedo, os responsáveis pela classificação do Fluminense hoje são Fábio e Canobbio! Concorda c",
+      "url": "https://www.instagram.com/reel/DdU_eIdBAmG/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla"
+        "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 163966,
-      "reach": 103789,
-      "likes": 10435,
-      "comments": 79,
-      "shares": 2389,
-      "saves": 322,
+      "views": 14409,
+      "reach": 11646,
+      "likes": 1485,
+      "comments": 20,
+      "shares": 14,
+      "saves": 10,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -179,23 +177,20 @@
       }
     },
     {
-      "id": "17965651827193768",
-      "date": "2026-09-15",
-      "caption": "\"A GENTE FICA MEIO CHATEADO!\"\n\nDurante a Charla, Joilson falou da situação de jogador que ainda aguardam pra receber din",
-      "url": "https://www.instagram.com/reel/DdUgdo3hNCm/",
+      "id": "18124589800915110",
+      "date": "2026-09-16",
+      "caption": "O FOGÃO TÁ NA FRENTE DO PLACAR NOVAMENTE!\n\nDentro de casa, o Glorioso não perdeu tempo e Montoro, logo nos primeiro minu",
+      "url": "https://www.instagram.com/reel/DdXg423hynK/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#assainocharla"
+        "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 83346,
-      "reach": 58992,
-      "likes": 2023,
-      "comments": 86,
-      "shares": 94,
-      "saves": 51,
+      "views": 3793,
+      "reach": 3187,
+      "likes": 99,
+      "comments": 0,
+      "shares": 1,
+      "saves": 2,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -221,23 +216,20 @@
       }
     },
     {
-      "id": "17917358106443864",
-      "date": "2026-09-15",
-      "caption": "É DIA DE VASCO NA SULA!\n\nBruno Azevedo falou do confronto do Gigante da Colina contra o Santa Fe, respondeu se está conf",
-      "url": "https://www.instagram.com/reel/DdUUx_cMReH/",
+      "id": "18095318474431115",
+      "date": "2026-09-16",
+      "caption": "O IMORTAL EMPATA! 👀\n\nJovane Cabral cobrou a falta da entrada da área, contou com o desvio e deixou tudo igual no Rio de ",
+      "url": "https://www.instagram.com/reel/DdXc588MG7d/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla"
+        "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 24749,
-      "reach": 19519,
-      "likes": 2471,
-      "comments": 35,
-      "shares": 24,
-      "saves": 12,
+      "views": 4316,
+      "reach": 3636,
+      "likes": 29,
+      "comments": 0,
+      "shares": 1,
+      "saves": 1,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -263,23 +255,20 @@
       }
     },
     {
-      "id": "18122057483492945",
-      "date": "2026-09-15",
-      "caption": "O FOGÃO TERÁ UM NOVO TREINADOR? 👀\n\nA Charla de Quinta de hoje repercutiu a reunião entre o Botafogo e o Tite, ex-treinad",
-      "url": "https://www.instagram.com/reel/DdUQZ31J6T4/",
+      "id": "17950866264271618",
+      "date": "2026-09-16",
+      "caption": "GOLAÇO DO GLORIOSO! 🔥\n\nJogada absurda do Danilo no meio de campo, que termina com um chute sem chances de defesa! \n\n🎙: @",
+      "url": "https://www.instagram.com/reel/DdXcNtSzeX_/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla"
+        "#sportingbetnocharla"
       ],
       "type": "VIDEO",
-      "views": 15118,
-      "reach": 11501,
-      "likes": 963,
-      "comments": 71,
-      "shares": 47,
-      "saves": 9,
+      "views": 4641,
+      "reach": 4003,
+      "likes": 81,
+      "comments": 1,
+      "shares": 1,
+      "saves": 1,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -305,18 +294,215 @@
       }
     },
     {
-      "id": "18004436735994542",
-      "date": "2026-09-15",
-      "caption": "É DIA DE FLUZÃO NA LIBERTADORES!\n\nO Fluzão encara o Platense nesta terça (15), pra confirmar a classificação na competiç",
-      "url": "https://www.instagram.com/p/DdUK8xzu2zp/",
+      "id": "17932614663389238",
+      "date": "2026-09-16",
+      "caption": "E assim foi o primeiro dia do Charla na Conmebol @libertadores Experience!\n\nTamo bem de convidado, né?! 🤷🏻‍♂️🤣",
+      "url": "https://www.instagram.com/p/DdXagJnFZpA/",
+      "tags": [],
+      "type": "CAROUSEL_ALBUM",
+      "views": 0,
+      "reach": 0,
+      "likes": 260,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18114820009965129",
+      "date": "2026-09-16",
+      "caption": "O ATAQUE BRASILEIRO ERA UM ABSURDO! 🔥\n\nPaulo Nunes falou da diferença do futebol dos anos 90 para o atual, e os atacante",
+      "url": "https://www.instagram.com/reel/DdXZ1xPhHL5/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#charlanaconmebolexperience"
+      ],
+      "type": "VIDEO",
+      "views": 18419,
+      "reach": 13458,
+      "likes": 1223,
+      "comments": 8,
+      "shares": 56,
+      "saves": 14,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17885601600621591",
+      "date": "2026-09-16",
+      "caption": "A IDOLATRIA DO PAULO NUNES COM ZICO!\n\nImagina ter um ídolo, conhecê-lo, jogar junto e conquistar o mesmo título? Paulo N",
+      "url": "https://www.instagram.com/reel/DdXT9vdtyfD/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#charlanaconmebolexperience"
+      ],
+      "type": "VIDEO",
+      "views": 87156,
+      "reach": 60932,
+      "likes": 9206,
+      "comments": 127,
+      "shares": 1115,
+      "saves": 205,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18353803558171487",
+      "date": "2026-09-16",
+      "caption": "O MAESTRO TÁ CONFIANTE!\n\nSó tem craque por aqui. Agora, quem apareceu na Conmebol Experience foi o Maestro Júnior. E ele",
+      "url": "https://www.instagram.com/reel/DdXSg4IvFo0/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#charlanaconmebolexperience"
+      ],
+      "type": "VIDEO",
+      "views": 24875,
+      "reach": 19693,
+      "likes": 2372,
+      "comments": 30,
+      "shares": 10,
+      "saves": 6,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18021688856879812",
+      "date": "2026-09-16",
+      "caption": "SENHORAS E SENHORES: ADRIANO IMPERADOR! 👏🏻\n\nComeçou hoje a Conmebol Experience, na Enseada de Botafogo e se liga em quem",
+      "url": "https://www.instagram.com/reel/DdXPYagxSZJ/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#charlanaconmebolexperience"
+      ],
+      "type": "VIDEO",
+      "views": 17997,
+      "reach": 14691,
+      "likes": 1327,
+      "comments": 8,
+      "shares": 6,
+      "saves": 3,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18115975949071493",
+      "date": "2026-09-16",
+      "caption": "É NOITE DE BRASILEIRÃO NO CHARLA!\n\nBotafogo e Grêmio entram em campo nesta quarta (16), em busca de três pontos MUITO im",
+      "url": "https://www.instagram.com/p/DdXL69Rh6mj/",
       "tags": [
         "#charlafutebol"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 26,
-      "comments": 1,
+      "likes": 70,
+      "comments": 2,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -344,23 +530,23 @@
       }
     },
     {
-      "id": "17917164690446182",
-      "date": "2026-09-15",
-      "caption": "\"SERIA UMA ZEBRA HISTÓRICA O FLUMINENSE NÃO PASSAR!\"\n\nMesmo jogando fora de casa, o Tricolor vai encarar o Platense nest",
-      "url": "https://www.instagram.com/reel/DdUGX-rOjVu/",
+      "id": "18062835083514688",
+      "date": "2026-09-16",
+      "caption": "PEDRO EMANUEL É A MELHOR NOTÍCIA DO VASCO NO ANO?\n\nMatheus e Covarde falam sobre o trabalho do técnico cruzmaltino na te",
+      "url": "https://www.instagram.com/reel/DdW7InHBYKr/",
       "tags": [
-        "#sportingbetnocharla",
         "#brahmanocharla",
+        "#assainocharla",
         "#melittanocharla",
         "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 11199,
-      "reach": 8666,
-      "likes": 770,
-      "comments": 4,
-      "shares": 14,
-      "saves": 4,
+      "views": 31989,
+      "reach": 20683,
+      "likes": 2883,
+      "comments": 22,
+      "shares": 40,
+      "saves": 40,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -386,16 +572,24 @@
       }
     },
     {
-      "id": "eL2CDwwvtVc",
-      "date": "2026-09-15",
-      "caption": "FLU QUER CONFIRMAR FAVORITISMO NA ARGENTINA! VASCO DECIDE EM CASA! | CHARLA DE QUINTA",
+      "id": "17890906683438693",
+      "date": "2026-09-16",
+      "caption": "É HORA DE CELEBRAR A CLASSIFICAÇÃO!\n\nFoi assim que o Matheus e o Covarde classificaram o feito do Fluminense ontem. Conc",
+      "url": "https://www.instagram.com/reel/DdW0oH3J2QW/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#fornerianocharla"
+      ],
       "type": "VIDEO",
-      "views": 40420,
-      "likes": 1309,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 19071,
+      "reach": 12951,
+      "likes": 1217,
+      "comments": 20,
+      "shares": 65,
+      "saves": 14,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -420,15 +614,55 @@
       }
     },
     {
-      "id": "Kk4d7C-eU18",
-      "date": "2026-09-15",
-      "caption": "PAULINHO SERRA ABRE O CORAÇÃO AO FALAR SOBRE RAFINHA BASTOS",
-      "type": "VIDEO",
-      "views": 7680,
-      "likes": 171,
+      "id": "18154187374516216",
+      "date": "2026-09-16",
+      "caption": "É O CHARLA NA CONMEBOL EXPERIENCE!\n\nHoje, a tropa do Charla vai estar presente com a Sportingbet no evento da Conmebol, ",
+      "url": "https://www.instagram.com/p/DdWqeiIuPea/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#charlanaconmebolexperience"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 447,
       "comments": 7,
       "shares": 0,
       "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "9wI20G_Rzto",
+      "date": "2026-09-16",
+      "caption": "FLU CHEGA A SEMI DA LIBERTADORES 3 ANOS DEPOIS DO TÍTULO! VASCO X BOCA NA SULA! | CHARLA DE QUINTA",
+      "type": "VIDEO",
+      "views": 48343,
+      "likes": 1507,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
@@ -454,12 +688,46 @@
       }
     },
     {
-      "id": "rwfjLMW1qqI",
-      "date": "2026-09-15",
-      "caption": "CRESCIMENTO DOS STREAMINGS PODE ACABAR COM O CINEMA?",
+      "id": "SJBBqd8_huA",
+      "date": "2026-09-16",
+      "caption": "TITE SERÁ O NOVO TREINADOR DO BOTAFOGO?",
       "type": "VIDEO",
-      "views": 3415,
-      "likes": 95,
+      "views": 37185,
+      "likes": 550,
+      "comments": 64,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Jat4xsz1S4Q",
+      "date": "2026-09-16",
+      "caption": "TROCAR DE TREINADOR É REALMENTE EFETIVO?",
+      "type": "VIDEO",
+      "views": 3069,
+      "likes": 40,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -488,13 +756,13 @@
       }
     },
     {
-      "id": "rH_hwt2uk_o",
-      "date": "2026-09-15",
-      "caption": "PAULINHO SERRA REVELA COMO FOI NAMORAR COM A VERA FISCHER",
+      "id": "GfgL2m_kwHY",
+      "date": "2026-09-16",
+      "caption": "NOVIDADES DO TITE NO FOGÃO? LORRAN DE SAÍDA DO MENGÃO? RYAN PODE RENDER $ AO VASCO!",
       "type": "VIDEO",
-      "views": 9779,
-      "likes": 197,
-      "comments": 4,
+      "views": 5953,
+      "likes": 101,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -522,148 +790,12 @@
       }
     },
     {
-      "id": "vpVOG8CvbsU",
-      "date": "2026-09-15",
-      "caption": "PERRENGUES DE UM HUMORISTA NOS ESTÁDIOS DE FUTEBOL BRASILEIROS",
+      "id": "bwvEHmKIZ3s",
+      "date": "2026-09-16",
+      "caption": "FLUMINENSE FLERTOU COM A ELIMINAÇÃO NO CONFRONTO CONTRA O PLATENSE?",
       "type": "VIDEO",
-      "views": 24440,
-      "likes": 755,
-      "comments": 19,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "zFam7KXXyHY",
-      "date": "2026-09-15",
-      "caption": "A VERDADE SOBRE O ATENDIMENTO NO RIO DE JANEIRO 🤣🤣🤣",
-      "type": "VIDEO",
-      "views": 44842,
-      "likes": 1396,
-      "comments": 78,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "k73m5yI5ITQ",
-      "date": "2026-09-15",
-      "caption": "TITE SERÁ O TÉCNICO DO FOGÃO? DANILO RENOVARÁ COM O FLA? COUTINHO FALA SOBRE O VASCO",
-      "type": "VIDEO",
-      "views": 10860,
-      "likes": 141,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "HQe0M7f3UjY",
-      "date": "2026-09-15",
-      "caption": "LUCAS PEDROSA RESPONDE SOBRE COMPORTAMENTO DO BAP COM O VASCO",
-      "type": "VIDEO",
-      "views": 14812,
-      "likes": 647,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "D90X7KNRjjQ",
-      "date": "2026-09-15",
-      "caption": "TRAJANO ABRE O JOGO SOBRE EVERALDO MARQUES",
-      "type": "VIDEO",
-      "views": 30055,
-      "likes": 786,
+      "views": 7211,
+      "likes": 121,
       "comments": 9,
       "shares": 0,
       "saves": 0,
@@ -692,13 +824,13 @@
       }
     },
     {
-      "id": "EA210cNZhoY",
-      "date": "2026-09-15",
-      "caption": "MARCOS BRAZ ABRE O JOGO SOBRE POLÊMICA NO SHOPPING COM TORCEDOR DO FLAMENGO",
+      "id": "yv4z9EeiYXQ",
+      "date": "2026-09-16",
+      "caption": "CLASSIFICAÇÃO SOFRIDA DO FLUMINENSE PARA A SEMI FINAL DA LIBERTADORES",
       "type": "VIDEO",
-      "views": 11880,
-      "likes": 232,
-      "comments": 5,
+      "views": 4361,
+      "likes": 68,
+      "comments": 15,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -726,13 +858,13 @@
       }
     },
     {
-      "id": "mHaZMD5mcVs",
-      "date": "2026-09-15",
-      "caption": "PALMEIRAS TEM MUNDIAL? JUCA KFOURI RESPONDE!",
+      "id": "I13LotJ1g-8",
+      "date": "2026-09-16",
+      "caption": "NARRAÇÃO ABSURDA DA CLASSIFICAÇÃO DO FLUMINENSE PARA A SEMI-FINAL DA COPA LIBERTADORES",
       "type": "VIDEO",
-      "views": 36202,
-      "likes": 1125,
-      "comments": 95,
+      "views": 2261,
+      "likes": 69,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -760,47 +892,47 @@
       }
     },
     {
-      "id": "CDIVyojahEQ",
-      "date": "2026-09-15",
-      "caption": "A SUTIL ARTE DE CHEIRAR AS MÃOS COM PAULINHO SERRA 🤣🤣🤣",
+      "id": "GmCZ9z-8YeU",
+      "date": "2026-09-16",
+      "caption": "PLATENSE X FLUMINENSE | AO VIVO | Copa Libertadores | Charla Futebol Sportingbet",
       "type": "VIDEO",
-      "views": 2826,
-      "likes": 42,
+      "views": 113616,
+      "likes": 1160,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "VJ-m6gu51NI",
+      "date": "2026-09-16",
+      "caption": "PAULO NUNES NA CONMEBOL EXPERIENCE -  CORINTHIANS E PALMEIRAS ENTRAM EM CAMPO NA LIBERTADORES!",
+      "type": "VIDEO",
+      "views": 13965,
+      "likes": 229,
       "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Hl3UhyL63Ew",
-      "date": "2026-09-15",
-      "caption": "AS MELHORES HISTÓRIAS DE ASS@LTO DO RIO DE JANEIRO 🤣🤣🤣",
-      "type": "VIDEO",
-      "views": 22585,
-      "likes": 568,
-      "comments": 17,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
