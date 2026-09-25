@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T14:40:16.007037",
-  "date": "2026-09-23",
+  "generated_at": "2026-09-25T15:01:39.810860",
+  "date": "2026-09-24",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 39,
+    "total_posts": 36,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,65 +12,360 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18075213863737145",
-    "melhor_post_caption": "HOJE O PAPO É COM O ZÉ ELIAS! 🔥\n\nComunicador, ex-jogador e da resenha, hoje o papo vai ser com o Zé ",
+    "melhor_post_id": "17923899390200204",
+    "melhor_post_caption": "EU OUVI CONVIDADO SURPRESA? 😱\n\nNessa sexta, 25, às 13h30, tem convidado surpresa na tour de São Paul",
     "melhor_post_views": 0,
     "sponsor_stats": {
       "#sportingbetnocharla": {
-        "posts": 6,
-        "views": 616464,
-        "likes": 37805,
-        "comments": 474
+        "posts": 5,
+        "views": 405740,
+        "likes": 31065,
+        "comments": 653
       },
       "#brahmanocharla": {
-        "posts": 4,
-        "views": 536842,
-        "likes": 34676,
-        "comments": 432
+        "posts": 5,
+        "views": 405740,
+        "likes": 31065,
+        "comments": 653
+      },
+      "#fornerianocharla": {
+        "posts": 2,
+        "views": 64976,
+        "likes": 3115,
+        "comments": 106
+      },
+      "#absolutnocharla": {
+        "posts": 2,
+        "views": 64976,
+        "likes": 3115,
+        "comments": 106
+      },
+      "#melittanocharla": {
+        "posts": 3,
+        "views": 340764,
+        "likes": 27950,
+        "comments": 547
       },
       "#assainocharla": {
         "posts": 3,
-        "views": 372411,
-        "likes": 21261,
-        "comments": 263
+        "views": 340764,
+        "likes": 27950,
+        "comments": 547
       },
-      "#melittanocharla": {
-        "posts": 2,
-        "views": 107280,
-        "likes": 3842,
-        "comments": 60
-      },
-      "#absolutnocharla": {
-        "posts": 3,
-        "views": 462288,
-        "likes": 31848,
-        "comments": 378
-      },
-      "#assaínocharla": {
-        "posts": 1,
-        "views": 164431,
-        "likes": 13415,
-        "comments": 169
-      },
-      "#756": {
+      "#758": {
         "posts": 1,
         "views": 0,
-        "likes": 315,
-        "comments": 8
+        "likes": 264,
+        "comments": 5
+      },
+      "#charlanamix": {
+        "posts": 1,
+        "views": 10304,
+        "likes": 225,
+        "comments": 0
+      },
+      "#757": {
+        "posts": 1,
+        "views": 0,
+        "likes": 1214,
+        "comments": 13
       }
     }
   },
   "posts": [
     {
-      "id": "18075213863737145",
-      "date": "2026-09-23",
-      "caption": "HOJE O PAPO É COM O ZÉ ELIAS! 🔥\n\nComunicador, ex-jogador e da resenha, hoje o papo vai ser com o Zé Elias e se eu fosse ",
-      "url": "https://www.instagram.com/p/Ddogke8RIwU/",
+      "id": "17923899390200204",
+      "date": "2026-09-24",
+      "caption": "EU OUVI CONVIDADO SURPRESA? 😱\n\nNessa sexta, 25, às 13h30, tem convidado surpresa na tour de São Paulo, e a gente chegou ",
+      "url": "https://www.instagram.com/p/DdsCToolVJO/",
+      "tags": [],
+      "type": "CAROUSEL_ALBUM",
+      "views": 0,
+      "reach": 0,
+      "likes": 2133,
+      "comments": 224,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18103323269625349",
+      "date": "2026-09-24",
+      "caption": "É SÉRIO ISSO, BETÃO?? 😱😱😱\n\nRevelação bombástica de Beto Júnior para Bruno Cantarelli com a mediação de ninguém menos que",
+      "url": "https://www.instagram.com/reel/Ddr_nuIB7BI/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 29541,
+      "reach": 20870,
+      "likes": 1577,
+      "comments": 99,
+      "shares": 205,
+      "saves": 31,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17927912619411753",
+      "date": "2026-09-24",
+      "caption": "QUE ESCOLA, HEIN?! 🥹🥹\n\nJoão Kléber aprendeu com ninguém mais, ninguém menos que o velho guerreiro Chacrinha, estando ao ",
+      "url": "https://www.instagram.com/reel/Ddr7ZcfOTQN/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 35435,
+      "reach": 24610,
+      "likes": 1538,
+      "comments": 7,
+      "shares": 22,
+      "saves": 34,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18112076588025811",
+      "date": "2026-09-24",
+      "caption": "\"FIQUEI UMAS TRÊS NOITES SEM DORMIR!\" \n\nPaulo Andrade abriu o coração e revelou uma história de quando não narrou o reco",
+      "url": "https://www.instagram.com/reel/DdryhCghcL_/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
+      "type": "VIDEO",
+      "views": 194308,
+      "reach": 124099,
+      "likes": 17467,
+      "comments": 387,
+      "shares": 991,
+      "saves": 346,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18352908109221676",
+      "date": "2026-09-24",
+      "caption": "Charla #758 - João Kléber\n\nUm dos grandes comunicadores da história da TV brasileira, o nosso convidado da vez é o apres",
+      "url": "https://www.instagram.com/p/Ddrt-kyRwcq/",
+      "tags": [
+        "#758"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 264,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17939883792361323",
+      "date": "2026-09-24",
+      "caption": "TEM QUE TER CUIDADO COM ELEFANTE! 😂\n\nMylena Ciribelli falou da experiência que teve durante a Copa de 2010, na África. S",
+      "url": "https://www.instagram.com/reel/Ddrn1BlzBUu/",
+      "tags": [
+        "#charlanamix"
+      ],
+      "type": "VIDEO",
+      "views": 10304,
+      "reach": 8261,
+      "likes": 225,
+      "comments": 0,
+      "shares": 0,
+      "saves": 7,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17931508383403198",
+      "date": "2026-09-24",
+      "caption": "\"É DE UM PROTAGONISTA QUE O TIME DO POVO PRECISA?\" \n\nSe liga na história por trás da famosa narração do Paulo Andrade em",
+      "url": "https://www.instagram.com/reel/DdrffGHMsxo/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
+      "type": "VIDEO",
+      "views": 93143,
+      "reach": 67741,
+      "likes": 6391,
+      "comments": 40,
+      "shares": 201,
+      "saves": 208,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18118674304949722",
+      "date": "2026-09-24",
+      "caption": "PARA, PARA, PARA!!! 🤚🤚\n\nHoje tem ele, João Kléber, em mais uma resenha na nossa Tour em São Paulo!\n\nImagina o quanto de ",
+      "url": "https://www.instagram.com/p/DdrewlcPPqW/",
       "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 165,
+      "likes": 126,
       "comments": 6,
       "shares": 0,
       "saves": 0,
@@ -99,23 +394,23 @@
       }
     },
     {
-      "id": "18353890768173289",
-      "date": "2026-09-23",
-      "caption": "A COMPLEXA SITUAÇÃO CONTRATUAL DO MEMPHIS COM O CORINTHIANS!\n\nJoanna de Assis falou da conversa que teve com uma pessoa ",
-      "url": "https://www.instagram.com/reel/DdnBPN-MaCx/",
+      "id": "18103722847979900",
+      "date": "2026-09-24",
+      "caption": "COMO FOI NARRAR UMA COPA NA TV ABERTA? 🔥\n\nDo sonho de sair da tv fechada e falar na tv aberta, para o desafio de manter ",
+      "url": "https://www.instagram.com/reel/Ddrae4nhaBc/",
       "tags": [
         "#sportingbetnocharla",
         "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
+        "#melittanocharla",
+        "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 74554,
-      "reach": 49017,
-      "likes": 2828,
-      "comments": 54,
-      "shares": 106,
-      "saves": 120,
+      "views": 53313,
+      "reach": 39937,
+      "likes": 4092,
+      "comments": 120,
+      "shares": 98,
+      "saves": 66,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -141,261 +436,18 @@
       }
     },
     {
-      "id": "18046268672810960",
-      "date": "2026-09-23",
-      "caption": "A DIFERENÇA DA GERAÇÃO DE ANTIGAMENTE COM A ATUAL!\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adverte: Apos",
-      "url": "https://www.instagram.com/reel/DdpV_9nuPTC/",
+      "id": "18185844493412324",
+      "date": "2026-09-24",
+      "caption": "Charla #757 - Paulo Andrade\n\nBrilhante narrador, que hoje está no Grupo Globo, Paulo Andrade é o convidado do dia.\n\nÉ o ",
+      "url": "https://www.instagram.com/p/DdrUTqMObhx/",
       "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 11445,
-      "reach": 8711,
-      "likes": 491,
-      "comments": 6,
-      "shares": 23,
-      "saves": 15,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18130529257779356",
-      "date": "2026-09-23",
-      "caption": "O EVARISTO É UMA MÁQUINA DE HISTÓRIAS BOAS! 🤷🏻‍♂️\n\nO Zé Elias contou pra gente mais uma resenha do nosso Evaristo de Mac",
-      "url": "https://www.instagram.com/reel/DdpK54eB1mS/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 107034,
-      "reach": 67436,
-      "likes": 5455,
-      "comments": 36,
-      "shares": 479,
-      "saves": 91,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18077338376389562",
-      "date": "2026-09-23",
-      "caption": "ZÉ ELIAS E A IMITAÇÃO DO LUXEMBURGO! 🤣🤣\n\nEssa resenha é sacanagem de boa. Vem ver como foi a origem da imitação e a reaç",
-      "url": "https://www.instagram.com/reel/DdpFxdav2O8/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 190823,
-      "reach": 126773,
-      "likes": 12978,
-      "comments": 173,
-      "shares": 3948,
-      "saves": 336,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18136837276628288",
-      "date": "2026-09-23",
-      "caption": "FENÔMENO NO CAMPO E NA RESENHA! 😎\n\nZé Elias teve o privilégio de ser parceiro do Ronaldo Fenômeno na Inter de Milão, e r",
-      "url": "https://www.instagram.com/reel/DdpCZWvudMI/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assaínocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 164431,
-      "reach": 103166,
-      "likes": 13415,
-      "comments": 169,
-      "shares": 2105,
-      "saves": 356,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18097909643387267",
-      "date": "2026-09-23",
-      "caption": "COMO É O GALVÃO PESSOALMENTE?\n\nJoanna de Assis falou do gigante Galvão e sobre os momentos que teve com ele no Bem, Amig",
-      "url": "https://www.instagram.com/reel/Ddo-27GO2-Z/",
-      "tags": [
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 32726,
-      "reach": 23648,
-      "likes": 1014,
-      "comments": 6,
-      "shares": 4,
-      "saves": 22,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18090859250181449",
-      "date": "2026-09-23",
-      "caption": "ESSA HISTÓRIA É INACREDITÁVEL! 😂😂\n\nJoanna de Assis contou sobre quando seu nome era motivo de risadas nos EUA e ela não ",
-      "url": "https://www.instagram.com/reel/Ddo1O8HJs4O/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 68177,
-      "reach": 49734,
-      "likes": 2638,
-      "comments": 36,
-      "shares": 225,
-      "saves": 80,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17959405886998661",
-      "date": "2026-09-23",
-      "caption": "Charla #756 - Zé Elias\n\nEx-jogador do Corinthians é o nosso convidado pra resenha de hoje!\n\nÉ o Charla, mané!\n\nLink nos ",
-      "url": "https://www.instagram.com/p/DdouDAyhWvl/",
-      "tags": [
-        "#756"
+        "#757"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 315,
-      "comments": 8,
+      "likes": 1214,
+      "comments": 13,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -423,13 +475,50 @@
       }
     },
     {
-      "id": "ot9Cp77p8sQ",
-      "date": "2026-09-23",
-      "caption": "Charla Tour SP #756 - Zé Elias [Ex-jogador]",
+      "id": "18001886990991235",
+      "date": "2026-09-24",
+      "caption": "ESSE PAPO VAI SER BOM DEMAIS! 🔥\n\nÉ dia de receber o narrador Paulo Andrade pra mais uma resenha absurda de boa. Te garan",
+      "url": "https://www.instagram.com/p/DdrM3-ghgqN/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 363,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "2oX27ADWc4U",
+      "date": "2026-09-24",
+      "caption": "HISTÓRIA INACREDITÁVEL DO ZÉ ELIAS COM A BANDA IRON MAIDEN",
       "type": "VIDEO",
-      "views": 29214,
-      "likes": 854,
-      "comments": 10,
+      "views": 19287,
+      "likes": 675,
+      "comments": 36,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -457,12 +546,12 @@
       }
     },
     {
-      "id": "u_VCEH1OWk8",
-      "date": "2026-09-23",
-      "caption": "A EMOÇÃO DE GIAN ODDI NA DESPEDIDA DO TOTTI DO FUTEBOL",
+      "id": "7XfhflycKtA",
+      "date": "2026-09-24",
+      "caption": "QUEM SÃO OS FAVORITOS PARA CHEGAR À FINAL DA LIBERTADORES?",
       "type": "VIDEO",
-      "views": 6869,
-      "likes": 152,
+      "views": 1864,
+      "likes": 24,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -491,13 +580,13 @@
       }
     },
     {
-      "id": "AZWw2bFRj10",
-      "date": "2026-09-23",
-      "caption": "BASTIDORES INÉDITOS DA FUSÃO ENTRE ESPN E FOX SPORTS",
+      "id": "I8M7lY1q7yc",
+      "date": "2026-09-24",
+      "caption": "ZÉ ELIAS ABRE O JOGO SOBRE POLÊMICA COM O DANILO",
       "type": "VIDEO",
-      "views": 13324,
-      "likes": 308,
-      "comments": 5,
+      "views": 3869,
+      "likes": 89,
+      "comments": 17,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -525,114 +614,12 @@
       }
     },
     {
-      "id": "plM6MS6c04I",
-      "date": "2026-09-23",
-      "caption": "IDOLATRIA ABSURDA DO MARADONA NA ITÁLIA",
+      "id": "rUAwev-W_6k",
+      "date": "2026-09-24",
+      "caption": "ZÉ ELIAS FALA SOBRE A SUA POSTURA COMO COMENTARISTA",
       "type": "VIDEO",
-      "views": 6033,
-      "likes": 160,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "BtWFoms-5d4",
-      "date": "2026-09-23",
-      "caption": "GIAN ODDI DÁ AULA ESPETACULAR SOBRE O NOVO JORNALISMO ESPORTIVO BRASILEIRO",
-      "type": "VIDEO",
-      "views": 76664,
-      "likes": 1439,
-      "comments": 78,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "gTspMPcnIWs",
-      "date": "2026-09-23",
-      "caption": "IMPORTÂNCIA ABSURDA DO TRAJANO PARA O JORNALISMO ESPORTIVO BRASILEIRO",
-      "type": "VIDEO",
-      "views": 4117,
-      "likes": 113,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "2BJyQ4eUj1Q",
-      "date": "2026-09-23",
-      "caption": "GIAN ODDI RELEMBRA O SEU INÍCIO NO JORNALISMO ESPORTIVO",
-      "type": "VIDEO",
-      "views": 2691,
-      "likes": 42,
+      "views": 3993,
+      "likes": 97,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -661,114 +648,12 @@
       }
     },
     {
-      "id": "me2En_0_9nA",
-      "date": "2026-09-23",
-      "caption": "BRASILEIRÃO VAI DIMINUIR O NÚMERO DE JOGADORES ESTRANGEIROS PERMITIDOS EM CADA CLUBE",
+      "id": "e6p77OXi7Lw",
+      "date": "2026-09-24",
+      "caption": "ZÉ ELIAS DESABAFA SOBRE A PARTICIPAÇÃO DO BRASIL NA COPA DO MUNDO DE 2026",
       "type": "VIDEO",
-      "views": 3383,
-      "likes": 70,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "xe_ZAFXHC2g",
-      "date": "2026-09-23",
-      "caption": "JORNALISTA DA ESPN RESPONDE SOBRE INFLUENCERS NAS COLETIVAS DE IMPRENSA",
-      "type": "VIDEO",
-      "views": 7269,
-      "likes": 126,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "MiObsxnawf4",
-      "date": "2026-09-23",
-      "caption": "PLATA CORTADO. PREOCUPA? TEXTOR ATACA DE NOVO! MONSTRO CHEGA A 4.2",
-      "type": "VIDEO",
-      "views": 16017,
-      "likes": 365,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "UAfhgerSvs4",
-      "date": "2026-09-23",
-      "caption": "GIAN ODDI ABRE O JOGO SOBRE O TRABALHO DE ABEL FERREIRA NO PALMEIRAS",
-      "type": "VIDEO",
-      "views": 4878,
-      "likes": 100,
+      "views": 11625,
+      "likes": 231,
       "comments": 6,
       "shares": 0,
       "saves": 0,
@@ -797,12 +682,12 @@
       }
     },
     {
-      "id": "I6ceho9pDEY",
-      "date": "2026-09-23",
-      "caption": "RONALDO FENÔMENO ASSOMBRAVA O FUTEBOL EUROPEU",
+      "id": "VeoEHAWK7gY",
+      "date": "2026-09-24",
+      "caption": "POR QUE OS JOGADORES BRASILEIROS PERDERAM A PERSONALIDADE?",
       "type": "VIDEO",
-      "views": 15393,
-      "likes": 463,
+      "views": 18394,
+      "likes": 388,
       "comments": 12,
       "shares": 0,
       "saves": 0,
@@ -831,250 +716,12 @@
       }
     },
     {
-      "id": "wKl0YFj46R4",
-      "date": "2026-09-23",
-      "caption": "AS MELHORES HISTÓRIAS DE PORR@DARIA NOS ANOS 90 COM ZÉ ELIAS",
+      "id": "jmguqeYN3Ug",
+      "date": "2026-09-24",
+      "caption": "PRESSÃO ABSURDA DAS TORCIDAS NO FUTEBOL DOS ANOS 90",
       "type": "VIDEO",
-      "views": 9508,
-      "likes": 224,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "d6cODOJfZIw",
-      "date": "2026-09-23",
-      "caption": "DJALMINHA FAZIA MAGIA COM A BOLA EM CAMPO",
-      "type": "VIDEO",
-      "views": 2861,
-      "likes": 75,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "2velzkWPwKo",
-      "date": "2026-09-23",
-      "caption": "MARCELINHO CARIOCA É O MAIOR ÍDOLO DA HISTÓRIA DO CORINTHIANS?",
-      "type": "VIDEO",
-      "views": 5456,
-      "likes": 150,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "FYQN9_mamyI",
-      "date": "2026-09-23",
-      "caption": "ZÉ ELIAS ABRE O CORAÇÃO AO FALAR SOBRE A SUA RELAÇÃO COM O CORINTHIANS",
-      "type": "VIDEO",
-      "views": 4152,
-      "likes": 105,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "oiqc2-Dlw84",
-      "date": "2026-09-23",
-      "caption": "ZÉ ELIAS RELEMBRA A IMPORTÂNCIA DO FUTSAL NO INÍCIO DA SUA CARREIRA",
-      "type": "VIDEO",
-      "views": 3881,
-      "likes": 126,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "WG5FxLLdkaI",
-      "date": "2026-09-23",
-      "caption": "BASTIDORES INÉDITOS DO JULGAMENTO QUE LEVOU MARIN À PRISÃO NOS EUA",
-      "type": "VIDEO",
-      "views": 5380,
-      "likes": 108,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "hr35cUeK-KM",
-      "date": "2026-09-23",
-      "caption": "JOANNA DE ASSIS ABRE O JOGO SOBRE MÁGOA DA TORCIDA DO BOTAFOGO COM ELA",
-      "type": "VIDEO",
-      "views": 15763,
-      "likes": 480,
-      "comments": 130,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "0lth6h48rdo",
-      "date": "2026-09-23",
-      "caption": "JOANNA DE ASSIS CONTA A VEZ EM QUE ERROU UMA INFORMAÇÃO SOBRE FRED AO VIVO",
-      "type": "VIDEO",
-      "views": 4831,
-      "likes": 111,
+      "views": 4386,
+      "likes": 90,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -1103,13 +750,13 @@
       }
     },
     {
-      "id": "71G6vJLFrS0",
-      "date": "2026-09-23",
-      "caption": "BERNARD CONSOLOU A JOANNA DE ASSIS NO MEIO DO REVEILLON EM TRANCOSO 🤣🤣🤣",
+      "id": "APffAHIA9sU",
+      "date": "2026-09-24",
+      "caption": "HISTÓRIAS INACREDITÁVEIS COM O MÁRIO SÉRGIO",
       "type": "VIDEO",
-      "views": 11923,
-      "likes": 238,
-      "comments": 14,
+      "views": 16873,
+      "likes": 383,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1137,11 +784,351 @@
       }
     },
     {
-      "id": "UR9KPGAjDEs",
-      "date": "2026-09-23",
-      "caption": "NEYMAR VAI SAIR DO SANTOS NO FINAL DA TEMPORADA?",
+      "id": "A8ChWV1O_jI",
+      "date": "2026-09-24",
+      "caption": "ZÉ ELIAS CONTA RESENHAS DO EVARISTO DE MACEDO 🤣🤣🤣",
       "type": "VIDEO",
-      "views": 2065,
+      "views": 14991,
+      "likes": 344,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "UhwEympyphU",
+      "date": "2026-09-24",
+      "caption": "Charla Tour SP #758 - João Kleber [Apresentador]",
+      "type": "VIDEO",
+      "views": 35817,
+      "likes": 581,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "MjP_JYoxWhQ",
+      "date": "2026-09-24",
+      "caption": "Charla Tour SP #757 - Paulo Andrade [Narrador do Grupo Globo]",
+      "type": "VIDEO",
+      "views": 36117,
+      "likes": 1040,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "PBaUTpD5IwU",
+      "date": "2026-09-24",
+      "caption": "GRANDE DIFERENCIAL DO LUXEMBURGO QUE O TORNOU UM DOS MAIORES TREINADORES DA HISTÓRIA",
+      "type": "VIDEO",
+      "views": 5505,
+      "likes": 147,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "k-iXJCrifoI",
+      "date": "2026-09-24",
+      "caption": "SAF DO VASCO SOB AMEAÇA? FERRARESI FORA DO CLÁSSICO? FRED TREINADOR DO FLU?",
+      "type": "VIDEO",
+      "views": 27877,
+      "likes": 533,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "4cHMAWvL1JA",
+      "date": "2026-09-24",
+      "caption": "ZÉ ELIAS IMITA O LUXEMBURGO E FAZ TODO MUNDO CAIR NA GARGALHADA 🤣🤣🤣",
+      "type": "VIDEO",
+      "views": 76829,
+      "likes": 1701,
+      "comments": 44,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "5J5am5HBIlo",
+      "date": "2026-09-24",
+      "caption": "PAULO ANDRADE ABRE O JOGO SOBRE OS DIFERENTES ESTILOS DE NARRAÇÃO",
+      "type": "VIDEO",
+      "views": 9035,
+      "likes": 180,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "ZpCC-wRLRuU",
+      "date": "2026-09-24",
+      "caption": "PAULO ANDRADE REVELA ARREPENDIMENTO NA NARRAÇÀO DO RECORDE MUNDIAL DO PIU NO ATLETISMO",
+      "type": "VIDEO",
+      "views": 18598,
+      "likes": 238,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "t51I0dHuBpI",
+      "date": "2026-09-24",
+      "caption": "DESAFIOS ABSURDOS DE NARRAR UMA OLIMPÍADA DE INVERNO",
+      "type": "VIDEO",
+      "views": 1975,
+      "likes": 32,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "EeRVlXUhuGc",
+      "date": "2026-09-24",
+      "caption": "PAULO ANDRADE REVELA OS PRÓXIMOS PASSOS DA SUA CARREIRA",
+      "type": "VIDEO",
+      "views": 3842,
+      "likes": 80,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "scvViiTGT-E",
+      "date": "2026-09-24",
+      "caption": "TITE SE EMOCIONOU AO PRESENCIAR UMA FINAL DE CHAMPIONS LEAGUE NO ESTÁDIO",
+      "type": "VIDEO",
+      "views": 1888,
       "likes": 38,
       "comments": 1,
       "shares": 0,
@@ -1171,12 +1158,80 @@
       }
     },
     {
-      "id": "sFtItpTaq3U",
-      "date": "2026-09-23",
-      "caption": "NEYMAR VAI COMPRAR A SAF DO SANTOS?",
+      "id": "Ilno_ptb4_8",
+      "date": "2026-09-24",
+      "caption": "PREÇOS ABSURDOS DOS INGRESSOS NA PREMIER LEAGUE",
       "type": "VIDEO",
-      "views": 4781,
-      "likes": 99,
+      "views": 6072,
+      "likes": 174,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Gwj8RM0plzc",
+      "date": "2026-09-24",
+      "caption": "PAULO ANDRADE REVELA PARA QUAL TIME TORCE NA PREMIER LEAGUE",
+      "type": "VIDEO",
+      "views": 15329,
+      "likes": 446,
+      "comments": 17,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "5EAQTUi4_9E",
+      "date": "2026-09-24",
+      "caption": "BASTIDORES REVELADOS DA NARRAÇÃO VIRAL DO YURI ALBERTO",
+      "type": "VIDEO",
+      "views": 1222,
+      "likes": 27,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -1205,12 +1260,46 @@
       }
     },
     {
-      "id": "xEXAqxZeoiI",
-      "date": "2026-09-23",
-      "caption": "DETALHES INÉDITOS SOBRE O CONTRATO DE MEMPHIS DEPAY NO CORINTHIANS",
+      "id": "gp1ATBMfxxc",
+      "date": "2026-09-24",
+      "caption": "IMPORTÂNCIA DA NARRAÇÃO ESPORTIVA PARA PESSOAS COM DEFICIÊNCIA VISUAL",
       "type": "VIDEO",
-      "views": 7420,
-      "likes": 136,
+      "views": 1890,
+      "likes": 25,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "M5FC41A3lCE",
+      "date": "2026-09-24",
+      "caption": "DESAFIOS DE NARRAR O BRASILEIRÃO QUE NINGUÉM FICA SABENDO",
+      "type": "VIDEO",
+      "views": 3780,
+      "likes": 82,
       "comments": 6,
       "shares": 0,
       "saves": 0,
@@ -1239,183 +1328,13 @@
       }
     },
     {
-      "id": "7JUldxNqnxY",
-      "date": "2026-09-23",
-      "caption": "O QUE EXPLICA A CRISE DO FUTEBOL PAULISTA?",
+      "id": "QgWrXOJC_PM",
+      "date": "2026-09-24",
+      "caption": "PAULO ANDRADE FALA SOBRE O SENTIMENTO DE NARRAR UMA COPA DO MUNDO NA GLOBO",
       "type": "VIDEO",
-      "views": 20822,
-      "likes": 590,
-      "comments": 83,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "XxOwOroxJYE",
-      "date": "2026-09-23",
-      "caption": "EXISTE UM ETARISMO COM AS MULHERES NO JORNALISMO ESPORTIVO BRASILEIRO?",
-      "type": "VIDEO",
-      "views": 3060,
-      "likes": 87,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "u2xKeuJgplU",
-      "date": "2026-09-23",
-      "caption": "JOANNA DE ASSIS REVELA A DIFICULDADE DE FALAR SOBRE HOMOSSEXUALIDADE NO FUTEBOL",
-      "type": "VIDEO",
-      "views": 15025,
-      "likes": 476,
-      "comments": 57,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "A29rFrAdWPY",
-      "date": "2026-09-23",
-      "caption": "JOANNA DE ASSIS ABRE O JOGO SOBRE SUA SAÍDA DA GLOBO",
-      "type": "VIDEO",
-      "views": 41715,
-      "likes": 1844,
-      "comments": 67,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "x4NR5i53OlU",
-      "date": "2026-09-23",
-      "caption": "BASTIDORES INÉDITOS DA M0RTE DE JUAN IZQUIERDO NO MORUMBI",
-      "type": "VIDEO",
-      "views": 12158,
-      "likes": 375,
-      "comments": 29,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "yyQ-LXUFw00",
-      "date": "2026-09-23",
-      "caption": "JOANNA DE ASSIS É O NOVO REFORÇO DO CHARLA PODCAST",
-      "type": "VIDEO",
-      "views": 22173,
-      "likes": 1104,
-      "comments": 60,
+      "views": 3215,
+      "likes": 138,
+      "comments": 13,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
