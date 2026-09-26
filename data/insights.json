@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T15:01:39.810860",
-  "date": "2026-09-24",
+  "generated_at": "2026-09-26T14:10:46.020442",
+  "date": "2026-09-25",
   "summary": {
     "score_medio": 5.0,
     "total_posts": 36,
@@ -12,78 +12,80 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "17923899390200204",
-    "melhor_post_caption": "EU OUVI CONVIDADO SURPRESA? 😱\n\nNessa sexta, 25, às 13h30, tem convidado surpresa na tour de São Paul",
+    "melhor_post_id": "18005917871785553",
+    "melhor_post_caption": "Charla #759 - Paloma Tocci\n\nJornalista e apresentadora, Paloma Tocci é a convidada do dia.\n\nÉ o Char",
     "melhor_post_views": 0,
     "sponsor_stats": {
-      "#sportingbetnocharla": {
-        "posts": 5,
-        "views": 405740,
-        "likes": 31065,
-        "comments": 653
-      },
-      "#brahmanocharla": {
-        "posts": 5,
-        "views": 405740,
-        "likes": 31065,
-        "comments": 653
-      },
-      "#fornerianocharla": {
-        "posts": 2,
-        "views": 64976,
-        "likes": 3115,
-        "comments": 106
-      },
-      "#absolutnocharla": {
-        "posts": 2,
-        "views": 64976,
-        "likes": 3115,
-        "comments": 106
-      },
-      "#melittanocharla": {
-        "posts": 3,
-        "views": 340764,
-        "likes": 27950,
-        "comments": 547
-      },
-      "#assainocharla": {
-        "posts": 3,
-        "views": 340764,
-        "likes": 27950,
-        "comments": 547
-      },
-      "#758": {
+      "#759": {
         "posts": 1,
         "views": 0,
-        "likes": 264,
-        "comments": 5
+        "likes": 1041,
+        "comments": 18
+      },
+      "#sportingbetnocharla": {
+        "posts": 7,
+        "views": 1001636,
+        "likes": 62728,
+        "comments": 1081
+      },
+      "#brahmanocharla": {
+        "posts": 8,
+        "views": 1049183,
+        "likes": 65163,
+        "comments": 1147
+      },
+      "#melittanocharla": {
+        "posts": 7,
+        "views": 856172,
+        "likes": 63051,
+        "comments": 1115
+      },
+      "#assainocharla": {
+        "posts": 7,
+        "views": 856172,
+        "likes": 63051,
+        "comments": 1115
+      },
+      "#fornerianocharla": {
+        "posts": 1,
+        "views": 193011,
+        "likes": 2112,
+        "comments": 32
+      },
+      "#absolutnocharla": {
+        "posts": 3,
+        "views": 412788,
+        "likes": 13525,
+        "comments": 202
       },
       "#charlanamix": {
         "posts": 1,
-        "views": 10304,
-        "likes": 225,
+        "views": 9746,
+        "likes": 128,
         "comments": 0
       },
-      "#757": {
+      "#760": {
         "posts": 1,
         "views": 0,
-        "likes": 1214,
-        "comments": 13
+        "likes": 131,
+        "comments": 1
       }
     }
   },
   "posts": [
     {
-      "id": "17923899390200204",
-      "date": "2026-09-24",
-      "caption": "EU OUVI CONVIDADO SURPRESA? 😱\n\nNessa sexta, 25, às 13h30, tem convidado surpresa na tour de São Paulo, e a gente chegou ",
-      "url": "https://www.instagram.com/p/DdsCToolVJO/",
-      "tags": [],
-      "type": "CAROUSEL_ALBUM",
+      "id": "18005917871785553",
+      "date": "2026-09-25",
+      "caption": "Charla #759 - Paloma Tocci\n\nJornalista e apresentadora, Paloma Tocci é a convidada do dia.\n\nÉ o Charla, mané!\n\nLink nos ",
+      "url": "https://www.instagram.com/p/DdttAggMdvS/",
+      "tags": [
+        "#759"
+      ],
+      "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 2133,
-      "comments": 224,
+      "likes": 1041,
+      "comments": 18,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -111,94 +113,10 @@
       }
     },
     {
-      "id": "18103323269625349",
-      "date": "2026-09-24",
-      "caption": "É SÉRIO ISSO, BETÃO?? 😱😱😱\n\nRevelação bombástica de Beto Júnior para Bruno Cantarelli com a mediação de ninguém menos que",
-      "url": "https://www.instagram.com/reel/Ddr_nuIB7BI/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 29541,
-      "reach": 20870,
-      "likes": 1577,
-      "comments": 99,
-      "shares": 205,
-      "saves": 31,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17927912619411753",
-      "date": "2026-09-24",
-      "caption": "QUE ESCOLA, HEIN?! 🥹🥹\n\nJoão Kléber aprendeu com ninguém mais, ninguém menos que o velho guerreiro Chacrinha, estando ao ",
-      "url": "https://www.instagram.com/reel/Ddr7ZcfOTQN/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 35435,
-      "reach": 24610,
-      "likes": 1538,
-      "comments": 7,
-      "shares": 22,
-      "saves": 34,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18112076588025811",
-      "date": "2026-09-24",
-      "caption": "\"FIQUEI UMAS TRÊS NOITES SEM DORMIR!\" \n\nPaulo Andrade abriu o coração e revelou uma história de quando não narrou o reco",
-      "url": "https://www.instagram.com/reel/DdryhCghcL_/",
+      "id": "18094392926123962",
+      "date": "2026-09-25",
+      "caption": "A PAIXÃO DO PAULO ANDRADE PELO MANCHESTER UNITED! 👹🔥\n\nDono de narrações históricas no campeonato inglês, Paulo Andrade f",
+      "url": "https://www.instagram.com/reel/DdtoKLFuwvv/",
       "tags": [
         "#sportingbetnocharla",
         "#brahmanocharla",
@@ -206,12 +124,12 @@
         "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 194308,
-      "reach": 124099,
-      "likes": 17467,
-      "comments": 387,
-      "shares": 991,
-      "saves": 346,
+      "views": 127842,
+      "reach": 86987,
+      "likes": 12571,
+      "comments": 209,
+      "shares": 2131,
+      "saves": 566,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -237,18 +155,16 @@
       }
     },
     {
-      "id": "18352908109221676",
-      "date": "2026-09-24",
-      "caption": "Charla #758 - João Kléber\n\nUm dos grandes comunicadores da história da TV brasileira, o nosso convidado da vez é o apres",
-      "url": "https://www.instagram.com/p/Ddrt-kyRwcq/",
-      "tags": [
-        "#758"
-      ],
+      "id": "18104099228209100",
+      "date": "2026-09-25",
+      "caption": "DIA DE PALOMA TOCCI NO CHARLA! 🤩\n\nSextou com tour em SP e hoje receberemos a brilhante jornalista Paloma Tocci para um p",
+      "url": "https://www.instagram.com/p/Ddtjc46Nt9U/",
+      "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 264,
-      "comments": 5,
+      "likes": 762,
+      "comments": 35,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -276,20 +192,104 @@
       }
     },
     {
-      "id": "17939883792361323",
-      "date": "2026-09-24",
-      "caption": "TEM QUE TER CUIDADO COM ELEFANTE! 😂\n\nMylena Ciribelli falou da experiência que teve durante a Copa de 2010, na África. S",
-      "url": "https://www.instagram.com/reel/Ddrn1BlzBUu/",
+      "id": "17919882726439190",
+      "date": "2026-09-25",
+      "caption": "TEVE TRETA COM O OLIVER? 👀🔥\n\nJoão Kléber passou pelo teste de fidelidade? Ele explicou pra gente tudo o que rolou!\n\n#Spo",
+      "url": "https://www.instagram.com/reel/DdsJhVWu4A-/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 193011,
+      "reach": 135591,
+      "likes": 2112,
+      "comments": 32,
+      "shares": 207,
+      "saves": 210,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18107765342331769",
+      "date": "2026-09-25",
+      "caption": "UM SUSTO E A DECISÃO DE SE APOSENTAR! 😰\n\nO Oscar passou por uma sequência de lesões e esse susto, que o fizeram se retir",
+      "url": "https://www.instagram.com/reel/DduoozEJ7W8/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 47547,
+      "reach": 32836,
+      "likes": 2435,
+      "comments": 66,
+      "shares": 241,
+      "saves": 79,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17909325693541944",
+      "date": "2026-09-25",
+      "caption": "Como o Léo Jaime enxerga a criação de músicas com uso de IA? Se liga no papo que rolou no Charla na Mix!\n\n#CharlaNaMix",
+      "url": "https://www.instagram.com/reel/DduRCU0skVO/",
       "tags": [
         "#charlanamix"
       ],
       "type": "VIDEO",
-      "views": 10304,
-      "reach": 8261,
-      "likes": 225,
+      "views": 9746,
+      "reach": 8016,
+      "likes": 128,
       "comments": 0,
-      "shares": 0,
-      "saves": 7,
+      "shares": 3,
+      "saves": 6,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -315,10 +315,53 @@
       }
     },
     {
-      "id": "17931508383403198",
-      "date": "2026-09-24",
-      "caption": "\"É DE UM PROTAGONISTA QUE O TIME DO POVO PRECISA?\" \n\nSe liga na história por trás da famosa narração do Paulo Andrade em",
-      "url": "https://www.instagram.com/reel/DdrffGHMsxo/",
+      "id": "18118154083791597",
+      "date": "2026-09-25",
+      "caption": "OSCAR NO MENGÃO?! 👀🔴⚫️\n\nOscar contou que ficou por detalhes de vestir o manto por alguns meses. O que faltou?\n\nEle expli",
+      "url": "https://www.instagram.com/reel/DduJNIQBUc2/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 172230,
+      "reach": 115662,
+      "likes": 8978,
+      "comments": 104,
+      "shares": 601,
+      "saves": 312,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18149064241552301",
+      "date": "2026-09-25",
+      "caption": "ESSA HISTÓRIA É BOA DEMAIS! KKKKKK 🤣\n\nPaulo Andrade falou de um momento que viveu durante a narração de um gol do México",
+      "url": "https://www.instagram.com/reel/DduH6_SJJT6/",
       "tags": [
         "#sportingbetnocharla",
         "#brahmanocharla",
@@ -326,12 +369,12 @@
         "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 93143,
-      "reach": 67741,
-      "likes": 6391,
-      "comments": 40,
-      "shares": 201,
-      "saves": 208,
+      "views": 359486,
+      "reach": 234762,
+      "likes": 33593,
+      "comments": 564,
+      "shares": 4246,
+      "saves": 1273,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -357,16 +400,60 @@
       }
     },
     {
-      "id": "18118674304949722",
-      "date": "2026-09-24",
-      "caption": "PARA, PARA, PARA!!! 🤚🤚\n\nHoje tem ele, João Kléber, em mais uma resenha na nossa Tour em São Paulo!\n\nImagina o quanto de ",
-      "url": "https://www.instagram.com/p/DdrewlcPPqW/",
-      "tags": [],
+      "id": "17947428165292681",
+      "date": "2026-09-25",
+      "caption": "COMO SERÁ O FINAL DO ANO NO FUTEBOL? 👀\n\nDisputas no Brasileirão, Sul-Americana, Libertadores... Paloma Tocci falou do fu",
+      "url": "https://www.instagram.com/reel/DduCqeJRASe/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
+      "type": "VIDEO",
+      "views": 47442,
+      "reach": 35871,
+      "likes": 1780,
+      "comments": 87,
+      "shares": 83,
+      "saves": 52,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18126129595896787",
+      "date": "2026-09-25",
+      "caption": "Charla #760 - Oscar\n\nCraque, camisa 10 e multicampeão, é mais um convidado na nossa tour de São Paulo!\n\nÉ o Charla, mané",
+      "url": "https://www.instagram.com/p/DduAQNaxSl9/",
+      "tags": [
+        "#760"
+      ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 126,
-      "comments": 6,
+      "likes": 131,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -394,10 +481,10 @@
       }
     },
     {
-      "id": "18103722847979900",
-      "date": "2026-09-24",
-      "caption": "COMO FOI NARRAR UMA COPA NA TV ABERTA? 🔥\n\nDo sonho de sair da tv fechada e falar na tv aberta, para o desafio de manter ",
-      "url": "https://www.instagram.com/reel/Ddrae4nhaBc/",
+      "id": "18031644662893281",
+      "date": "2026-09-25",
+      "caption": "\"ME JOGUEI NO CHÃO, PASSEI MUITO MAL!\" 💔\n\nDa gratidão por conhecer, trabalhar junto e virar amiga, pra dor de dar adeus.",
+      "url": "https://www.instagram.com/reel/Ddt79rcTXLh/",
       "tags": [
         "#sportingbetnocharla",
         "#brahmanocharla",
@@ -405,12 +492,12 @@
         "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 53313,
-      "reach": 39937,
-      "likes": 4092,
-      "comments": 120,
-      "shares": 98,
-      "saves": 66,
+      "views": 48977,
+      "reach": 33822,
+      "likes": 2305,
+      "comments": 63,
+      "shares": 35,
+      "saves": 97,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -436,21 +523,95 @@
       }
     },
     {
-      "id": "18185844493412324",
-      "date": "2026-09-24",
-      "caption": "Charla #757 - Paulo Andrade\n\nBrilhante narrador, que hoje está no Grupo Globo, Paulo Andrade é o convidado do dia.\n\nÉ o ",
-      "url": "https://www.instagram.com/p/DdrUTqMObhx/",
-      "tags": [
-        "#757"
-      ],
+      "id": "18149483548544808",
+      "date": "2026-09-25",
+      "caption": "ACABOU O MISTÉRIO! 🤩🤩\n\nDaqui a pouquinho tem ele, o craque e multicampeão OSCAR na nossa resenha do Charla!\n\n13h30 ao vi",
+      "url": "https://www.instagram.com/p/Ddtx0hwO0c0/",
+      "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 1214,
+      "likes": 93,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18200079892379936",
+      "date": "2026-09-25",
+      "caption": "A ADMIRAÇÃO DA PALOMA TOCCI PELA FÁTIMA BERNARDES!\n\nFascinada desde criança pela jornalista e apresentadora, Paloma Tocc",
+      "url": "https://www.instagram.com/reel/DdtwaldRbW_/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
+      "type": "VIDEO",
+      "views": 52648,
+      "reach": 38116,
+      "likes": 1389,
+      "comments": 22,
+      "shares": 5,
+      "saves": 45,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "HhDxEc1eu4k",
+      "date": "2026-09-25",
+      "caption": "Charla Tour SP #759 - Paloma Tocci [Apresentadora]",
+      "type": "VIDEO",
+      "views": 44339,
+      "likes": 1036,
       "comments": 13,
       "shares": 0,
       "saves": 0,
-      "platform": "instagram",
+      "platform": "youtube",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -475,50 +636,13 @@
       }
     },
     {
-      "id": "18001886990991235",
-      "date": "2026-09-24",
-      "caption": "ESSE PAPO VAI SER BOM DEMAIS! 🔥\n\nÉ dia de receber o narrador Paulo Andrade pra mais uma resenha absurda de boa. Te garan",
-      "url": "https://www.instagram.com/p/DdrM3-ghgqN/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 363,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "2oX27ADWc4U",
-      "date": "2026-09-24",
-      "caption": "HISTÓRIA INACREDITÁVEL DO ZÉ ELIAS COM A BANDA IRON MAIDEN",
+      "id": "B2H0UMq8JuA",
+      "date": "2026-09-25",
+      "caption": "Charla Tour SP #760 - Oscar [Ex-jogador]",
       "type": "VIDEO",
-      "views": 19287,
-      "likes": 675,
-      "comments": 36,
+      "views": 20658,
+      "likes": 466,
+      "comments": 7,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -546,13 +670,13 @@
       }
     },
     {
-      "id": "7XfhflycKtA",
-      "date": "2026-09-24",
-      "caption": "QUEM SÃO OS FAVORITOS PARA CHEGAR À FINAL DA LIBERTADORES?",
+      "id": "0ahS_8xwEOA",
+      "date": "2026-09-25",
+      "caption": "ULTIMATO DA CONMEBOL AO VASCO! FLA JOGA EM LA PLATA? HULK NA MELHOR FASE?",
       "type": "VIDEO",
-      "views": 1864,
-      "likes": 24,
-      "comments": 0,
+      "views": 18469,
+      "likes": 298,
+      "comments": 7,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -580,318 +704,12 @@
       }
     },
     {
-      "id": "I8M7lY1q7yc",
-      "date": "2026-09-24",
-      "caption": "ZÉ ELIAS ABRE O JOGO SOBRE POLÊMICA COM O DANILO",
+      "id": "4brqvBZ5oyE",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER DEFENDE NEYMAR E DESABAFA SOBRE A SELEÇÃO BRASILEIRA",
       "type": "VIDEO",
-      "views": 3869,
-      "likes": 89,
-      "comments": 17,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "rUAwev-W_6k",
-      "date": "2026-09-24",
-      "caption": "ZÉ ELIAS FALA SOBRE A SUA POSTURA COMO COMENTARISTA",
-      "type": "VIDEO",
-      "views": 3993,
-      "likes": 97,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "e6p77OXi7Lw",
-      "date": "2026-09-24",
-      "caption": "ZÉ ELIAS DESABAFA SOBRE A PARTICIPAÇÃO DO BRASIL NA COPA DO MUNDO DE 2026",
-      "type": "VIDEO",
-      "views": 11625,
-      "likes": 231,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "VeoEHAWK7gY",
-      "date": "2026-09-24",
-      "caption": "POR QUE OS JOGADORES BRASILEIROS PERDERAM A PERSONALIDADE?",
-      "type": "VIDEO",
-      "views": 18394,
-      "likes": 388,
-      "comments": 12,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "jmguqeYN3Ug",
-      "date": "2026-09-24",
-      "caption": "PRESSÃO ABSURDA DAS TORCIDAS NO FUTEBOL DOS ANOS 90",
-      "type": "VIDEO",
-      "views": 4386,
-      "likes": 90,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "APffAHIA9sU",
-      "date": "2026-09-24",
-      "caption": "HISTÓRIAS INACREDITÁVEIS COM O MÁRIO SÉRGIO",
-      "type": "VIDEO",
-      "views": 16873,
-      "likes": 383,
-      "comments": 12,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "A8ChWV1O_jI",
-      "date": "2026-09-24",
-      "caption": "ZÉ ELIAS CONTA RESENHAS DO EVARISTO DE MACEDO 🤣🤣🤣",
-      "type": "VIDEO",
-      "views": 14991,
-      "likes": 344,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "UhwEympyphU",
-      "date": "2026-09-24",
-      "caption": "Charla Tour SP #758 - João Kleber [Apresentador]",
-      "type": "VIDEO",
-      "views": 35817,
-      "likes": 581,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "MjP_JYoxWhQ",
-      "date": "2026-09-24",
-      "caption": "Charla Tour SP #757 - Paulo Andrade [Narrador do Grupo Globo]",
-      "type": "VIDEO",
-      "views": 36117,
-      "likes": 1040,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "PBaUTpD5IwU",
-      "date": "2026-09-24",
-      "caption": "GRANDE DIFERENCIAL DO LUXEMBURGO QUE O TORNOU UM DOS MAIORES TREINADORES DA HISTÓRIA",
-      "type": "VIDEO",
-      "views": 5505,
-      "likes": 147,
+      "views": 2636,
+      "likes": 38,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -920,13 +738,13 @@
       }
     },
     {
-      "id": "k-iXJCrifoI",
-      "date": "2026-09-24",
-      "caption": "SAF DO VASCO SOB AMEAÇA? FERRARESI FORA DO CLÁSSICO? FRED TREINADOR DO FLU?",
+      "id": "ym-xmfoA52U",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER REVELA HISTÓRIAS INÉDITAS COM O ZICO",
       "type": "VIDEO",
-      "views": 27877,
-      "likes": 533,
-      "comments": 9,
+      "views": 9358,
+      "likes": 208,
+      "comments": 6,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -954,148 +772,12 @@
       }
     },
     {
-      "id": "4cHMAWvL1JA",
-      "date": "2026-09-24",
-      "caption": "ZÉ ELIAS IMITA O LUXEMBURGO E FAZ TODO MUNDO CAIR NA GARGALHADA 🤣🤣🤣",
+      "id": "Cp44wtiCYuE",
+      "date": "2026-09-25",
+      "caption": "HISTÓRIA INCRÍVEL DE COMO O CHICO ANYSIO DESCOBRIU O TOM CAVALCANTE",
       "type": "VIDEO",
-      "views": 76829,
-      "likes": 1701,
-      "comments": 44,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "5J5am5HBIlo",
-      "date": "2026-09-24",
-      "caption": "PAULO ANDRADE ABRE O JOGO SOBRE OS DIFERENTES ESTILOS DE NARRAÇÃO",
-      "type": "VIDEO",
-      "views": 9035,
-      "likes": 180,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ZpCC-wRLRuU",
-      "date": "2026-09-24",
-      "caption": "PAULO ANDRADE REVELA ARREPENDIMENTO NA NARRAÇÀO DO RECORDE MUNDIAL DO PIU NO ATLETISMO",
-      "type": "VIDEO",
-      "views": 18598,
-      "likes": 238,
-      "comments": 24,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "t51I0dHuBpI",
-      "date": "2026-09-24",
-      "caption": "DESAFIOS ABSURDOS DE NARRAR UMA OLIMPÍADA DE INVERNO",
-      "type": "VIDEO",
-      "views": 1975,
-      "likes": 32,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "EeRVlXUhuGc",
-      "date": "2026-09-24",
-      "caption": "PAULO ANDRADE REVELA OS PRÓXIMOS PASSOS DA SUA CARREIRA",
-      "type": "VIDEO",
-      "views": 3842,
-      "likes": 80,
+      "views": 4120,
+      "likes": 43,
       "comments": 2,
       "shares": 0,
       "saves": 0,
@@ -1124,46 +806,12 @@
       }
     },
     {
-      "id": "scvViiTGT-E",
-      "date": "2026-09-24",
-      "caption": "TITE SE EMOCIONOU AO PRESENCIAR UMA FINAL DE CHAMPIONS LEAGUE NO ESTÁDIO",
+      "id": "m_6M64CPCI4",
+      "date": "2026-09-25",
+      "caption": "BETÃO E CANTARELLI VÃO À LOUCURA COM IMITAÇÕES DO JOÃO KLÉBER 🤣🤣🤣",
       "type": "VIDEO",
-      "views": 1888,
-      "likes": 38,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Ilno_ptb4_8",
-      "date": "2026-09-24",
-      "caption": "PREÇOS ABSURDOS DOS INGRESSOS NA PREMIER LEAGUE",
-      "type": "VIDEO",
-      "views": 6072,
-      "likes": 174,
+      "views": 1825,
+      "likes": 26,
       "comments": 3,
       "shares": 0,
       "saves": 0,
@@ -1192,13 +840,13 @@
       }
     },
     {
-      "id": "Gwj8RM0plzc",
-      "date": "2026-09-24",
-      "caption": "PAULO ANDRADE REVELA PARA QUAL TIME TORCE NA PREMIER LEAGUE",
+      "id": "ANypxR4uEsk",
+      "date": "2026-09-25",
+      "caption": "HISTÓRIAS INACREDITÁVEIS DO JOÃO KLÉBER NA FAZENDA 🤣🤣🤣",
       "type": "VIDEO",
-      "views": 15329,
-      "likes": 446,
-      "comments": 17,
+      "views": 4416,
+      "likes": 83,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1226,11 +874,249 @@
       }
     },
     {
-      "id": "5EAQTUi4_9E",
-      "date": "2026-09-24",
-      "caption": "BASTIDORES REVELADOS DA NARRAÇÃO VIRAL DO YURI ALBERTO",
+      "id": "rhPJzgT2KoY",
+      "date": "2026-09-25",
+      "caption": "SUCESSO ABSURDO DO JOÃO KLÉBER NA TELEVISÃO PORTUGUESA",
       "type": "VIDEO",
-      "views": 1222,
+      "views": 1252,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Pm9-ATFlq4E",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER ABRE O JOGO SOBRE POLÊMICA COM TONINHO TORNADO",
+      "type": "VIDEO",
+      "views": 939,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "yWVIWx7md2s",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER RESPONDE SOBRE POLÊMICA COM OLIVER E SUA EX ESPOSA",
+      "type": "VIDEO",
+      "views": 1031,
+      "likes": 13,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "-gXAZ2fbHzk",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER REVELA BASTIDORES INÉDITOS DO TESTE DE FIDELIDADE",
+      "type": "VIDEO",
+      "views": 3048,
+      "likes": 53,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "itzz1n3FBLo",
+      "date": "2026-09-25",
+      "caption": "O DIA EM QUE O JOÃO KLÉBER ENTERROU VIVA A RENATA BANHARA NA TELEVISÃO",
+      "type": "VIDEO",
+      "views": 844,
+      "likes": 8,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "NfDLUTJgfcI",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER REVELA SUAS TÁTICAS PARA COMPETIR EM AUDIÊNCIA COM A GLOBO",
+      "type": "VIDEO",
+      "views": 1083,
+      "likes": 13,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "E-fl_BSUcJk",
+      "date": "2026-09-25",
+      "caption": "A VERDADE POR TRÁS DO SUSPENSE DO JOÃO KLÉBER NOS PROGRAMAS",
+      "type": "VIDEO",
+      "views": 658,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Blap-qXQNl4",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER FAZ BETÃO REVELAR AO VIVO SEGREDO QUE CHOCA CANTARELLI 🤣🤣🤣",
+      "type": "VIDEO",
+      "views": 1114,
       "likes": 27,
       "comments": 4,
       "shares": 0,
@@ -1260,11 +1146,45 @@
       }
     },
     {
-      "id": "gp1ATBMfxxc",
-      "date": "2026-09-24",
-      "caption": "IMPORTÂNCIA DA NARRAÇÃO ESPORTIVA PARA PESSOAS COM DEFICIÊNCIA VISUAL",
+      "id": "-LwUZFP_AfE",
+      "date": "2026-09-25",
+      "caption": "PROGRAMAS DO JOÃO KLÉBER ERAM REAIS? APRESENTADOR RESPONDE",
       "type": "VIDEO",
-      "views": 1890,
+      "views": 1534,
+      "likes": 40,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "UP-lP8GEZpw",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLEBER DÁ AULA SOBRE O DECLÍNIO DA TELEVISÃO BRASILEIRA",
+      "type": "VIDEO",
+      "views": 1385,
       "likes": 25,
       "comments": 0,
       "shares": 0,
@@ -1294,13 +1214,13 @@
       }
     },
     {
-      "id": "M5FC41A3lCE",
-      "date": "2026-09-24",
-      "caption": "DESAFIOS DE NARRAR O BRASILEIRÃO QUE NINGUÉM FICA SABENDO",
+      "id": "vCtZ4TgME9c",
+      "date": "2026-09-25",
+      "caption": "SILVIO SANTOS AJUDOU O JOÃO KLÉBER NO INÍCIO DA CARREIRA",
       "type": "VIDEO",
-      "views": 3780,
-      "likes": 82,
-      "comments": 6,
+      "views": 644,
+      "likes": 12,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1328,13 +1248,115 @@
       }
     },
     {
-      "id": "QgWrXOJC_PM",
-      "date": "2026-09-24",
-      "caption": "PAULO ANDRADE FALA SOBRE O SENTIMENTO DE NARRAR UMA COPA DO MUNDO NA GLOBO",
+      "id": "ETWMq44OPSM",
+      "date": "2026-09-25",
+      "caption": "CHICO ANYSIO DEU UMA LIÇÃO QUE MUDOU A VIDA DO JOÃO KLÉBER",
       "type": "VIDEO",
-      "views": 3215,
-      "likes": 138,
-      "comments": 13,
+      "views": 2081,
+      "likes": 53,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "qz7iCMJET0E",
+      "date": "2026-09-25",
+      "caption": "IMPORTÂNCIA ABSURDA DO CHACRINHA NA CARREIRA DO JOÃO KLÉBER",
+      "type": "VIDEO",
+      "views": 1253,
+      "likes": 38,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "yfC1SZrFUG8",
+      "date": "2026-09-25",
+      "caption": "COMO O JOÃO KLÉBER GANHOU SEU ESPAÇO NA RÁDIO GLOBO",
+      "type": "VIDEO",
+      "views": 856,
+      "likes": 16,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "kNvK1Ub8_OM",
+      "date": "2026-09-25",
+      "caption": "HISTÓRIA INCRÍVEL DE SUPERAÇÃO DE JOÃO KLÉBER PARA CHEGAR À TELEVISÃO",
+      "type": "VIDEO",
+      "views": 1399,
+      "likes": 59,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",

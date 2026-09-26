@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-28T21:07:45.717871",
-  "date": "2026-08-27",
+  "generated_at": "2026-09-26T14:10:46.020442",
+  "date": "2026-09-25",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 32,
+    "total_posts": 36,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,317 +12,80 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18212838328359983",
-    "melhor_post_caption": "NOTA DA ANRESF É COMENTADA NA CHARLA DE QUINTA! \n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCh",
-    "melhor_post_views": 133309,
+    "melhor_post_id": "18005917871785553",
+    "melhor_post_caption": "Charla #759 - Paloma Tocci\n\nJornalista e apresentadora, Paloma Tocci é a convidada do dia.\n\nÉ o Char",
+    "melhor_post_views": 0,
     "sponsor_stats": {
+      "#759": {
+        "posts": 1,
+        "views": 0,
+        "likes": 1041,
+        "comments": 18
+      },
       "#sportingbetnocharla": {
-        "posts": 5,
-        "views": 379604,
-        "likes": 28803,
-        "comments": 1015
+        "posts": 7,
+        "views": 1001636,
+        "likes": 62728,
+        "comments": 1081
       },
       "#brahmanocharla": {
-        "posts": 5,
-        "views": 379604,
-        "likes": 28803,
-        "comments": 1015
-      },
-      "#fornerianocharla": {
-        "posts": 5,
-        "views": 295927,
-        "likes": 21863,
-        "comments": 397
-      },
-      "#absolutnocharla": {
-        "posts": 4,
-        "views": 285672,
-        "likes": 21600,
-        "comments": 396
-      },
-      "#assainocharla": {
-        "posts": 1,
-        "views": 93932,
-        "likes": 7203,
-        "comments": 619
+        "posts": 8,
+        "views": 1049183,
+        "likes": 65163,
+        "comments": 1147
       },
       "#melittanocharla": {
-        "posts": 1,
-        "views": 93932,
-        "likes": 7203,
-        "comments": 619
+        "posts": 7,
+        "views": 856172,
+        "likes": 63051,
+        "comments": 1115
       },
-      "#charlafutebol": {
-        "posts": 9,
-        "views": 278168,
-        "likes": 37857,
-        "comments": 836
+      "#assainocharla": {
+        "posts": 7,
+        "views": 856172,
+        "likes": 63051,
+        "comments": 1115
+      },
+      "#fornerianocharla": {
+        "posts": 1,
+        "views": 193011,
+        "likes": 2112,
+        "comments": 32
+      },
+      "#absolutnocharla": {
+        "posts": 3,
+        "views": 412788,
+        "likes": 13525,
+        "comments": 202
+      },
+      "#charlanamix": {
+        "posts": 1,
+        "views": 9746,
+        "likes": 128,
+        "comments": 0
+      },
+      "#760": {
+        "posts": 1,
+        "views": 0,
+        "likes": 131,
+        "comments": 1
       }
     }
   },
   "posts": [
     {
-      "id": "18212838328359983",
-      "date": "2026-08-27",
-      "caption": "NOTA DA ANRESF É COMENTADA NA CHARLA DE QUINTA! \n\n#SportingbetNoCharla #BrahmaNoCharla #ForneriaNoCharla #AbsolutNoCharl",
-      "url": "https://www.instagram.com/reel/DcjmCQPhOkg/",
+      "id": "18005917871785553",
+      "date": "2026-09-25",
+      "caption": "Charla #759 - Paloma Tocci\n\nJornalista e apresentadora, Paloma Tocci é a convidada do dia.\n\nÉ o Charla, mané!\n\nLink nos ",
+      "url": "https://www.instagram.com/p/DdttAggMdvS/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 133309,
-      "reach": 89108,
-      "likes": 7332,
-      "comments": 203,
-      "shares": 224,
-      "saves": 192,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17955389844218155",
-      "date": "2026-08-27",
-      "caption": "COMO VAI SER A BRIGA NA PARTE DE BAIXO DA TABELA?\n\nComparado com os outros times que estão no \"bolo\", o Vasco apresenta ",
-      "url": "https://www.instagram.com/reel/DcjaHUFuCWz/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 47338,
-      "reach": 33713,
-      "likes": 3782,
-      "comments": 49,
-      "shares": 18,
-      "saves": 34,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18222605875334883",
-      "date": "2026-08-27",
-      "caption": "O ATAQUE DO VASCO E A BASE!\n\nColidio foi elogiado na Charla de Quinta e a ausência de um atacante da base foi citada. Co",
-      "url": "https://www.instagram.com/reel/DcjXPFcsnUy/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 44645,
-      "reach": 31059,
-      "likes": 4883,
-      "comments": 86,
-      "shares": 26,
-      "saves": 40,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18088567622433786",
-      "date": "2026-08-27",
-      "caption": "O RESULTADO TÁ NA CONTA DO PEDRO EMANUEL?\n\nA mesa da Charla de Quinta falou da partida do Vasco com um a menos e da falt",
-      "url": "https://www.instagram.com/reel/DcjS_TQNNTU/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 60380,
-      "reach": 46861,
-      "likes": 5603,
-      "comments": 58,
-      "shares": 36,
-      "saves": 40,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18129048079677085",
-      "date": "2026-08-27",
-      "caption": "Existe troca de benefícios entre Palmeiras e Vasco? Lucas Pedrosa falou do assunto!\n\n#SportingbetNoCharla #BrahmaNoCharl",
-      "url": "https://www.instagram.com/reel/DcjDB-gBOc9/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 93932,
-      "reach": 59391,
-      "likes": 7203,
-      "comments": 619,
-      "shares": 448,
-      "saves": 147,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18340711198189258",
-      "date": "2026-08-27",
-      "caption": "A goleada do Palmeiras poderia ter sido ainda maior? Matheus Emanuel  falou da partida!\n\n#ForneriaNoCharla",
-      "url": "https://www.instagram.com/reel/Dch2tdEN_C9/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 10255,
-      "reach": 8266,
-      "likes": 263,
-      "comments": 1,
-      "shares": 3,
-      "saves": 2,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18035439137645236",
-      "date": "2026-08-27",
-      "caption": "E aí, com Neymar seria diferente? Diz aí! 👀👇🏻\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adverte: Aposta nã",
-      "url": "https://www.instagram.com/p/Dch2Aq_NVz4/",
-      "tags": [
-        "#charlafutebol"
+        "#759"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 95,
-      "comments": 69,
+      "likes": 1041,
+      "comments": 18,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -350,20 +113,23 @@
       }
     },
     {
-      "id": "18126760423765059",
-      "date": "2026-08-27",
-      "caption": "Enzo Grisalho analisou a vitória do Vasco e falou do treinador. Confere aí! \n\n+18. Jogue com responsabilidade. Ministéri",
-      "url": "https://www.instagram.com/reel/Dch1eaNN5cl/",
+      "id": "18094392926123962",
+      "date": "2026-09-25",
+      "caption": "A PAIXÃO DO PAULO ANDRADE PELO MANCHESTER UNITED! 👹🔥\n\nDono de narrações históricas no campeonato inglês, Paulo Andrade f",
+      "url": "https://www.instagram.com/reel/DdtoKLFuwvv/",
       "tags": [
-        "#charlafutebol"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 21372,
-      "reach": 15887,
-      "likes": 3042,
-      "comments": 22,
-      "shares": 10,
-      "saves": 25,
+      "views": 127842,
+      "reach": 86987,
+      "likes": 12571,
+      "comments": 209,
+      "shares": 2131,
+      "saves": 566,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -389,20 +155,18 @@
       }
     },
     {
-      "id": "18088171373196187",
-      "date": "2026-08-27",
-      "caption": "PALMEIRAS ENCAMINHOU A CLASSIFICAÇÃO? \n\n+18. Jogue com responsabilidade. Ministério da Fazenda adverte: Aposta não é inv",
-      "url": "https://www.instagram.com/reel/Dch0jhvJEBG/",
-      "tags": [
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 20167,
-      "reach": 15710,
-      "likes": 1215,
-      "comments": 13,
-      "shares": 4,
-      "saves": 10,
+      "id": "18104099228209100",
+      "date": "2026-09-25",
+      "caption": "DIA DE PALOMA TOCCI NO CHARLA! 🤩\n\nSextou com tour em SP e hoje receberemos a brilhante jornalista Paloma Tocci para um p",
+      "url": "https://www.instagram.com/p/Ddtjc46Nt9U/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 762,
+      "comments": 35,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -428,19 +192,103 @@
       }
     },
     {
-      "id": "17934167667371006",
-      "date": "2026-08-27",
-      "caption": "\"ERA PARA O VASCO SAIR COM GOLEADA!\"\n\nBruno Azevedo destacou a partida do Vasco mesmo jogando com um a menos. \n\n+18. Jog",
-      "url": "https://www.instagram.com/reel/DchyJcmsxYg/",
+      "id": "17919882726439190",
+      "date": "2026-09-25",
+      "caption": "TEVE TRETA COM O OLIVER? 👀🔥\n\nJoão Kléber passou pelo teste de fidelidade? Ele explicou pra gente tudo o que rolou!\n\n#Spo",
+      "url": "https://www.instagram.com/reel/DdsJhVWu4A-/",
       "tags": [
-        "#charlafutebol"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 10520,
-      "reach": 7989,
-      "likes": 968,
-      "comments": 20,
-      "shares": 7,
+      "views": 193011,
+      "reach": 135591,
+      "likes": 2112,
+      "comments": 32,
+      "shares": 207,
+      "saves": 210,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18107765342331769",
+      "date": "2026-09-25",
+      "caption": "UM SUSTO E A DECISÃO DE SE APOSENTAR! 😰\n\nO Oscar passou por uma sequência de lesões e esse susto, que o fizeram se retir",
+      "url": "https://www.instagram.com/reel/DduoozEJ7W8/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 47547,
+      "reach": 32836,
+      "likes": 2435,
+      "comments": 66,
+      "shares": 241,
+      "saves": 79,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17909325693541944",
+      "date": "2026-09-25",
+      "caption": "Como o Léo Jaime enxerga a criação de músicas com uso de IA? Se liga no papo que rolou no Charla na Mix!\n\n#CharlaNaMix",
+      "url": "https://www.instagram.com/reel/DduRCU0skVO/",
+      "tags": [
+        "#charlanamix"
+      ],
+      "type": "VIDEO",
+      "views": 9746,
+      "reach": 8016,
+      "likes": 128,
+      "comments": 0,
+      "shares": 3,
       "saves": 6,
       "platform": "instagram",
       "analysis": {
@@ -467,20 +315,24 @@
       }
     },
     {
-      "id": "18153725758517839",
-      "date": "2026-08-27",
-      "caption": "ANDRÉS GOMEZ MARCA E SÃO JANUÁRIO VAI AO DELÍRIO! \n\n🎙: @cantarellibruno\n\n#CharlaFutebol",
-      "url": "https://www.instagram.com/reel/DchrfyvRTpB/",
+      "id": "18118154083791597",
+      "date": "2026-09-25",
+      "caption": "OSCAR NO MENGÃO?! 👀🔴⚫️\n\nOscar contou que ficou por detalhes de vestir o manto por alguns meses. O que faltou?\n\nEle expli",
+      "url": "https://www.instagram.com/reel/DduJNIQBUc2/",
       "tags": [
-        "#charlafutebol"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 200548,
-      "reach": 152288,
-      "likes": 31526,
-      "comments": 703,
-      "shares": 2600,
-      "saves": 335,
+      "views": 172230,
+      "reach": 115662,
+      "likes": 8978,
+      "comments": 104,
+      "shares": 601,
+      "saves": 312,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -506,20 +358,23 @@
       }
     },
     {
-      "id": "18145902523546945",
-      "date": "2026-08-27",
-      "caption": "O PALMEIRAS FAZ O TERCEIRO CONTRA O SANTOS! \n\n🎙: @bluthiere\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adve",
-      "url": "https://www.instagram.com/reel/DchqlJKtVUp/",
+      "id": "18149064241552301",
+      "date": "2026-09-25",
+      "caption": "ESSA HISTÓRIA É BOA DEMAIS! KKKKKK 🤣\n\nPaulo Andrade falou de um momento que viveu durante a narração de um gol do México",
+      "url": "https://www.instagram.com/reel/DduH6_SJJT6/",
       "tags": [
-        "#charlafutebol"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 6855,
-      "reach": 5523,
-      "likes": 382,
-      "comments": 3,
-      "shares": 0,
-      "saves": 4,
+      "views": 359486,
+      "reach": 234762,
+      "likes": 33593,
+      "comments": 564,
+      "shares": 4246,
+      "saves": 1273,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -545,20 +400,23 @@
       }
     },
     {
-      "id": "18104008735920058",
-      "date": "2026-08-27",
-      "caption": "ANDREAS PEREIRA AMPLIA A VANTAGEM DO VERDÃO! \n\n🎙: @bluthiere\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adv",
-      "url": "https://www.instagram.com/reel/DchmaDKRYv_/",
+      "id": "17947428165292681",
+      "date": "2026-09-25",
+      "caption": "COMO SERÁ O FINAL DO ANO NO FUTEBOL? 👀\n\nDisputas no Brasileirão, Sul-Americana, Libertadores... Paloma Tocci falou do fu",
+      "url": "https://www.instagram.com/reel/DduCqeJRASe/",
       "tags": [
-        "#charlafutebol"
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 13200,
-      "reach": 9630,
-      "likes": 397,
-      "comments": 3,
-      "shares": 2,
-      "saves": 3,
+      "views": 47442,
+      "reach": 35871,
+      "likes": 1780,
+      "comments": 87,
+      "shares": 83,
+      "saves": 52,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -584,56 +442,17 @@
       }
     },
     {
-      "id": "18108727286108508",
-      "date": "2026-08-27",
-      "caption": "FLACO ABRE O PLACAR PARA O PALMEIRAS! \n\n🎙: @bluthiere\n\n+18. Jogue com responsabilidade. Ministério da Fazenda adverte: A",
-      "url": "https://www.instagram.com/reel/Dchl7X8hPiW/",
+      "id": "18126129595896787",
+      "date": "2026-09-25",
+      "caption": "Charla #760 - Oscar\n\nCraque, camisa 10 e multicampeão, é mais um convidado na nossa tour de São Paulo!\n\nÉ o Charla, mané",
+      "url": "https://www.instagram.com/p/DduAQNaxSl9/",
       "tags": [
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 5506,
-      "reach": 4434,
-      "likes": 195,
-      "comments": 2,
-      "shares": 1,
-      "saves": 1,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17942466246076607",
-      "date": "2026-08-27",
-      "caption": "QUEM VAI SAIR COM A VANTAGEM? \n\nÉ dia de Internacional x Grêmio na Copa do Brasil e você vai acompanhar todas as emoções",
-      "url": "https://www.instagram.com/p/DcjpbhcteBH/",
-      "tags": [
-        "#charlafutebol"
+        "#760"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 37,
+      "likes": 131,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -662,16 +481,24 @@
       }
     },
     {
-      "id": "Pcnd6hkk0D8",
-      "date": "2026-08-27",
-      "caption": "O PORTUGA TEM UM PLANO! VASCO VENCE O VITÓRIA MESMO COM 1 A MENOS! PALMEIRAS AMASSA O SANTOS!",
+      "id": "18031644662893281",
+      "date": "2026-09-25",
+      "caption": "\"ME JOGUEI NO CHÃO, PASSEI MUITO MAL!\" 💔\n\nDa gratidão por conhecer, trabalhar junto e virar amiga, pra dor de dar adeus.",
+      "url": "https://www.instagram.com/reel/Ddt79rcTXLh/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
       "type": "VIDEO",
-      "views": 46471,
-      "likes": 1516,
-      "comments": 15,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 48977,
+      "reach": 33822,
+      "likes": 2305,
+      "comments": 63,
+      "shares": 35,
+      "saves": 97,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -696,16 +523,19 @@
       }
     },
     {
-      "id": "GXfWWZVdv3Y",
-      "date": "2026-08-27",
-      "caption": "PALMEIRAS GOLEIA O SANTOS E FICA PRÓXIMO DA SEMI FINAL DA COPA DO BRASIL",
-      "type": "VIDEO",
-      "views": 2296,
-      "likes": 37,
+      "id": "18149483548544808",
+      "date": "2026-09-25",
+      "caption": "ACABOU O MISTÉRIO! 🤩🤩\n\nDaqui a pouquinho tem ele, o craque e multicampeão OSCAR na nossa resenha do Charla!\n\n13h30 ao vi",
+      "url": "https://www.instagram.com/p/Ddtx0hwO0c0/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 93,
       "comments": 1,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -730,13 +560,55 @@
       }
     },
     {
-      "id": "iJ9rvTFnXJc",
-      "date": "2026-08-27",
-      "caption": "NARRAÇÃO ABSURDA DE PALMEIRAS 3 x 0 SANTOS NAS QUARTAS DE FINAL DA COPA DO BRASIL",
+      "id": "18200079892379936",
+      "date": "2026-09-25",
+      "caption": "A ADMIRAÇÃO DA PALOMA TOCCI PELA FÁTIMA BERNARDES!\n\nFascinada desde criança pela jornalista e apresentadora, Paloma Tocc",
+      "url": "https://www.instagram.com/reel/DdtwaldRbW_/",
+      "tags": [
+        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#assainocharla"
+      ],
       "type": "VIDEO",
-      "views": 621,
-      "likes": 9,
-      "comments": 0,
+      "views": 52648,
+      "reach": 38116,
+      "likes": 1389,
+      "comments": 22,
+      "shares": 5,
+      "saves": 45,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "HhDxEc1eu4k",
+      "date": "2026-09-25",
+      "caption": "Charla Tour SP #759 - Paloma Tocci [Apresentadora]",
+      "type": "VIDEO",
+      "views": 44339,
+      "likes": 1036,
+      "comments": 13,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -764,13 +636,13 @@
       }
     },
     {
-      "id": "iMC6aaiobjA",
-      "date": "2026-08-27",
-      "caption": "VASCO JOGA BEM E CONSEGUE UMA VITÓRIA HERÓICA CONTRA O VITÓRIA",
+      "id": "B2H0UMq8JuA",
+      "date": "2026-09-25",
+      "caption": "Charla Tour SP #760 - Oscar [Ex-jogador]",
       "type": "VIDEO",
-      "views": 17187,
-      "likes": 584,
-      "comments": 42,
+      "views": 20658,
+      "likes": 466,
+      "comments": 7,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -798,13 +670,13 @@
       }
     },
     {
-      "id": "hfb__yMVAfU",
-      "date": "2026-08-27",
-      "caption": "BRUNO CANTARELLI NARRA O GOL DO VASCO CONTRA O VITÓRIA PELA COPA DO BRASIL",
+      "id": "0ahS_8xwEOA",
+      "date": "2026-09-25",
+      "caption": "ULTIMATO DA CONMEBOL AO VASCO! FLA JOGA EM LA PLATA? HULK NA MELHOR FASE?",
       "type": "VIDEO",
-      "views": 11003,
-      "likes": 627,
-      "comments": 40,
+      "views": 18469,
+      "likes": 298,
+      "comments": 7,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -832,318 +704,12 @@
       }
     },
     {
-      "id": "kOAUVK9CN9I",
-      "date": "2026-08-27",
-      "caption": "VASCO X VITÓRIA | AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
+      "id": "4brqvBZ5oyE",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER DEFENDE NEYMAR E DESABAFA SOBRE A SELEÇÃO BRASILEIRA",
       "type": "VIDEO",
-      "views": 22028,
-      "likes": 942,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "hihEtU8R-KQ",
-      "date": "2026-08-27",
-      "caption": "PALMEIRAS X SANTOS | AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
-      "type": "VIDEO",
-      "views": 23315,
-      "likes": 251,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ikGqfXrvXTU",
-      "date": "2026-08-27",
-      "caption": "CUIABANO FORA CONTRA O VITÓRIA! LUIZ ARAUJO TRETA COM A NAÇÃO? TIQUINHO DE VOLTA AO FOGÃO",
-      "type": "VIDEO",
-      "views": 2779,
-      "likes": 154,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "yuT7EA-AbcY",
-      "date": "2026-08-27",
-      "caption": "DISCUSSÃO SOBRE FINANÇAS DOS CLUBES BRASILEIROS CAUSA TRETA GIGANTESCA",
-      "type": "VIDEO",
-      "views": 30975,
-      "likes": 517,
-      "comments": 182,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "dPxKxnOQkho",
-      "date": "2026-08-27",
-      "caption": "BRUNO CANTARELLI EXALTA A FESTA DA TORCIDA DO VASCO EM SÃO JANUÁRIO",
-      "type": "VIDEO",
-      "views": 11259,
-      "likes": 451,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "czHW79fZPbI",
-      "date": "2026-08-27",
-      "caption": "NOVAS RESTRIÇÕES SÃO IMPOSTAS NA RELAÇÃO ENTRE VASCO E CREFISA",
-      "type": "VIDEO",
-      "views": 8819,
-      "likes": 161,
-      "comments": 27,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "uOpcty-P8LQ",
-      "date": "2026-08-27",
-      "caption": "POR QUE O VASCO TEM UM DESEMPENHO TÃO RUIM NO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 3561,
-      "likes": 58,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "nbYOFg3N_nw",
-      "date": "2026-08-27",
-      "caption": "VASCO É O MELHOR TIME NA LUTA CONTRA O REBAIXAMENTO?",
-      "type": "VIDEO",
-      "views": 19591,
-      "likes": 428,
-      "comments": 37,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "pkZS7e77sk4",
-      "date": "2026-08-27",
-      "caption": "JOGO CONTRA O CRUZEIRO É UMA FINAL PARA O VASCO",
-      "type": "VIDEO",
-      "views": 3594,
-      "likes": 64,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "YtwFomO-7JQ",
-      "date": "2026-08-27",
-      "caption": "VASCO PRECISA UTILIZAR MAIS AS CATEGORIAS DE BASE?",
-      "type": "VIDEO",
-      "views": 9145,
-      "likes": 196,
+      "views": 2636,
+      "likes": 38,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -1172,13 +738,13 @@
       }
     },
     {
-      "id": "sH_RrnyxUHQ",
-      "date": "2026-08-27",
-      "caption": "COLIDIO CHEGOU PARA RESOLVER OS PROBLEMAS DO VASCO?",
+      "id": "ym-xmfoA52U",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER REVELA HISTÓRIAS INÉDITAS COM O ZICO",
       "type": "VIDEO",
-      "views": 6798,
-      "likes": 165,
-      "comments": 8,
+      "views": 9358,
+      "likes": 208,
+      "comments": 6,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1206,13 +772,591 @@
       }
     },
     {
-      "id": "eR0xnHkbnvE",
-      "date": "2026-08-27",
-      "caption": "ANÁLISE COMPLETA DA VITÓRIA DO VASCO NO JOGO DE IDA DAS QUARTAS DE FINAL DA COPA DO BRASIL",
+      "id": "Cp44wtiCYuE",
+      "date": "2026-09-25",
+      "caption": "HISTÓRIA INCRÍVEL DE COMO O CHICO ANYSIO DESCOBRIU O TOM CAVALCANTE",
       "type": "VIDEO",
-      "views": 16322,
-      "likes": 362,
-      "comments": 12,
+      "views": 4120,
+      "likes": 43,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "m_6M64CPCI4",
+      "date": "2026-09-25",
+      "caption": "BETÃO E CANTARELLI VÃO À LOUCURA COM IMITAÇÕES DO JOÃO KLÉBER 🤣🤣🤣",
+      "type": "VIDEO",
+      "views": 1825,
+      "likes": 26,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "ANypxR4uEsk",
+      "date": "2026-09-25",
+      "caption": "HISTÓRIAS INACREDITÁVEIS DO JOÃO KLÉBER NA FAZENDA 🤣🤣🤣",
+      "type": "VIDEO",
+      "views": 4416,
+      "likes": 83,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "rhPJzgT2KoY",
+      "date": "2026-09-25",
+      "caption": "SUCESSO ABSURDO DO JOÃO KLÉBER NA TELEVISÃO PORTUGUESA",
+      "type": "VIDEO",
+      "views": 1252,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Pm9-ATFlq4E",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER ABRE O JOGO SOBRE POLÊMICA COM TONINHO TORNADO",
+      "type": "VIDEO",
+      "views": 939,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "yWVIWx7md2s",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER RESPONDE SOBRE POLÊMICA COM OLIVER E SUA EX ESPOSA",
+      "type": "VIDEO",
+      "views": 1031,
+      "likes": 13,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "-gXAZ2fbHzk",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER REVELA BASTIDORES INÉDITOS DO TESTE DE FIDELIDADE",
+      "type": "VIDEO",
+      "views": 3048,
+      "likes": 53,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "itzz1n3FBLo",
+      "date": "2026-09-25",
+      "caption": "O DIA EM QUE O JOÃO KLÉBER ENTERROU VIVA A RENATA BANHARA NA TELEVISÃO",
+      "type": "VIDEO",
+      "views": 844,
+      "likes": 8,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "NfDLUTJgfcI",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER REVELA SUAS TÁTICAS PARA COMPETIR EM AUDIÊNCIA COM A GLOBO",
+      "type": "VIDEO",
+      "views": 1083,
+      "likes": 13,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "E-fl_BSUcJk",
+      "date": "2026-09-25",
+      "caption": "A VERDADE POR TRÁS DO SUSPENSE DO JOÃO KLÉBER NOS PROGRAMAS",
+      "type": "VIDEO",
+      "views": 658,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Blap-qXQNl4",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLÉBER FAZ BETÃO REVELAR AO VIVO SEGREDO QUE CHOCA CANTARELLI 🤣🤣🤣",
+      "type": "VIDEO",
+      "views": 1114,
+      "likes": 27,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "-LwUZFP_AfE",
+      "date": "2026-09-25",
+      "caption": "PROGRAMAS DO JOÃO KLÉBER ERAM REAIS? APRESENTADOR RESPONDE",
+      "type": "VIDEO",
+      "views": 1534,
+      "likes": 40,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "UP-lP8GEZpw",
+      "date": "2026-09-25",
+      "caption": "JOÃO KLEBER DÁ AULA SOBRE O DECLÍNIO DA TELEVISÃO BRASILEIRA",
+      "type": "VIDEO",
+      "views": 1385,
+      "likes": 25,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "vCtZ4TgME9c",
+      "date": "2026-09-25",
+      "caption": "SILVIO SANTOS AJUDOU O JOÃO KLÉBER NO INÍCIO DA CARREIRA",
+      "type": "VIDEO",
+      "views": 644,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "ETWMq44OPSM",
+      "date": "2026-09-25",
+      "caption": "CHICO ANYSIO DEU UMA LIÇÃO QUE MUDOU A VIDA DO JOÃO KLÉBER",
+      "type": "VIDEO",
+      "views": 2081,
+      "likes": 53,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "qz7iCMJET0E",
+      "date": "2026-09-25",
+      "caption": "IMPORTÂNCIA ABSURDA DO CHACRINHA NA CARREIRA DO JOÃO KLÉBER",
+      "type": "VIDEO",
+      "views": 1253,
+      "likes": 38,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "yfC1SZrFUG8",
+      "date": "2026-09-25",
+      "caption": "COMO O JOÃO KLÉBER GANHOU SEU ESPAÇO NA RÁDIO GLOBO",
+      "type": "VIDEO",
+      "views": 856,
+      "likes": 16,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "kNvK1Ub8_OM",
+      "date": "2026-09-25",
+      "caption": "HISTÓRIA INCRÍVEL DE SUPERAÇÃO DE JOÃO KLÉBER PARA CHEGAR À TELEVISÃO",
+      "type": "VIDEO",
+      "views": 1399,
+      "likes": 59,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
