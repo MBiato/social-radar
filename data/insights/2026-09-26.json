@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-29T14:57:23.150957",
-  "date": "2026-08-28",
+  "generated_at": "2026-09-27T15:01:30.022720",
+  "date": "2026-09-26",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 16,
+    "total_posts": 14,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,50 +12,55 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18414562984152577",
-    "melhor_post_caption": "QUEM VAI GANHAR BRAHMA DE GRAÇA? \n\nSó depende do seu clube, mané! A Brahma vai cumprir a promessa de",
-    "melhor_post_views": 13091,
+    "melhor_post_id": "18072855224737783",
+    "melhor_post_caption": "TOMOU UMA CHAMADA DO LAMPARD? 😳🤣\n\nOscar chegou na Premier League cheio de moral e foi se adaptando a",
+    "melhor_post_views": 140935,
     "sponsor_stats": {
-      "#sportingbetnocharla": {
-        "posts": 5,
-        "views": 76287,
-        "likes": 2720,
-        "comments": 54
-      },
       "#brahmanocharla": {
-        "posts": 3,
-        "views": 51648,
-        "likes": 2380,
-        "comments": 41
+        "posts": 4,
+        "views": 390235,
+        "likes": 22957,
+        "comments": 253
       },
       "#assainocharla": {
-        "posts": 3,
-        "views": 51648,
-        "likes": 2380,
-        "comments": 41
+        "posts": 4,
+        "views": 390235,
+        "likes": 22957,
+        "comments": 253
       },
       "#melittanocharla": {
         "posts": 3,
-        "views": 51648,
-        "likes": 2380,
-        "comments": 41
+        "views": 368412,
+        "likes": 21949,
+        "comments": 237
+      },
+      "#absolutnocharla": {
+        "posts": 3,
+        "views": 359700,
+        "likes": 21374,
+        "comments": 242
       }
     }
   },
   "posts": [
     {
-      "id": "18414562984152577",
-      "date": "2026-08-28",
-      "caption": "QUEM VAI GANHAR BRAHMA DE GRAÇA? \n\nSó depende do seu clube, mané! A Brahma vai cumprir a promessa de cerveja de graça! D",
-      "url": "https://www.instagram.com/reel/DcmJjq_POqG/",
-      "tags": [],
+      "id": "18072855224737783",
+      "date": "2026-09-26",
+      "caption": "TOMOU UMA CHAMADA DO LAMPARD? 😳🤣\n\nOscar chegou na Premier League cheio de moral e foi se adaptando ao estilo de jogo do ",
+      "url": "https://www.instagram.com/reel/DdwM4-XDTn4/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
       "type": "VIDEO",
-      "views": 13091,
-      "reach": 10908,
-      "likes": 802,
-      "comments": 4,
-      "shares": 0,
-      "saves": 3,
+      "views": 140935,
+      "reach": 91805,
+      "likes": 7334,
+      "comments": 43,
+      "shares": 296,
+      "saves": 235,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -81,185 +86,63 @@
       }
     },
     {
-      "id": "18142582093575264",
-      "date": "2026-08-28",
-      "caption": "“ESPERO QUE ELE CHEGUE PRA AJUDAR”\n\nAzevedo falou sobre a chegada do atacante Bruno Duarte e do papel que ele vai exerce",
-      "url": "https://www.instagram.com/reel/DcmF-f3uoOw/",
+      "id": "18086937923273135",
+      "date": "2026-09-26",
+      "caption": "OS VOLANTES DE ANTIGAMENTE COM OS DE HOJE!\n\nZé Elias falou da diferença que os anos trouxeram pra posição. Martinelli, d",
+      "url": "https://www.instagram.com/reel/DdxDvMiMV5J/",
       "tags": [
-        "#sportingbetnocharla",
+        "#brahmanocharla",
+        "#assainocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 21823,
+      "reach": 17511,
+      "likes": 1008,
+      "comments": 16,
+      "shares": 89,
+      "saves": 31,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18366892528211920",
+      "date": "2026-09-26",
+      "caption": "QUEM TAMBÉM FICA PERDIDÃO NAS REGRAS DA NFL LEVANTA A MÃO AÍ! 🤚😅\n\nAinda bem que nós temos Antony Curti em nossas vidas p",
+      "url": "https://www.instagram.com/reel/Ddw2B8kDehh/",
+      "tags": [
         "#brahmanocharla",
         "#assainocharla",
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 16179,
-      "reach": 11341,
-      "likes": 1338,
-      "comments": 21,
-      "shares": 13,
-      "saves": 14,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18062815565771667",
-      "date": "2026-08-28",
-      "caption": "“NUNCA VI NADA PARECIDO”\n\nNey Franco relembra o episódio histórico do André Luiz tirando o cartão da mão do árbitro dura",
-      "url": "https://www.instagram.com/reel/Dcl9E3NOj9-/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 23372,
-      "reach": 16643,
-      "likes": 729,
-      "comments": 9,
-      "shares": 71,
-      "saves": 23,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18117224747296543",
-      "date": "2026-08-28",
-      "caption": "O INTER CORRE MAIS RISCO NO JOGO DA VOLTA? \n\nRodrigo Machado destacou a sequência de Inter e Grêmio, e projetou o duelo ",
-      "url": "https://www.instagram.com/reel/DckQVrHJ6dO/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 7484,
-      "reach": 5793,
-      "likes": 55,
-      "comments": 4,
-      "shares": 1,
-      "saves": 1,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18108248348039477",
-      "date": "2026-08-28",
-      "caption": "UMA ELIMINAÇÃO NO GRE-NAL PESA NO REBAIXAMENTO? \n\nBetão destacou a importância do jogo da volta na Copa do Brasil, e com",
-      "url": "https://www.instagram.com/reel/DckOhfkwwxT/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 17155,
-      "reach": 12730,
-      "likes": 285,
-      "comments": 9,
-      "shares": 0,
-      "saves": 6,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17877889956534931",
-      "date": "2026-08-28",
-      "caption": "QUAL O NOME IDEAL PRA SUBSTITUIR O PLATA NO FLAMENGO? \n\nCom a saída do jogador, o Flamengo perde muito taticamente? Como",
-      "url": "https://www.instagram.com/reel/Dcmd7TxAvnW/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 12097,
-      "reach": 9047,
-      "likes": 313,
+      "views": 30535,
+      "reach": 22357,
+      "likes": 1583,
       "comments": 11,
-      "shares": 8,
-      "saves": 7,
+      "shares": 56,
+      "saves": 42,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -285,13 +168,55 @@
       }
     },
     {
-      "id": "LKBC0cDnRRA",
-      "date": "2026-08-28",
-      "caption": "INTERNACIONAL X GRÊMIO | AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
+      "id": "18130525657602553",
+      "date": "2026-09-26",
+      "caption": "O EUROPEU LIGA PRO MUNDIAL DE CLUBES? 🤔\n\nEm 2012, Oscar viu o Corinthians fazer história no Japão e conquistar o mundo. ",
+      "url": "https://www.instagram.com/reel/DdwhcI1iNM0/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
       "type": "VIDEO",
-      "views": 53656,
-      "likes": 428,
-      "comments": 1,
+      "views": 196942,
+      "reach": 130250,
+      "likes": 13032,
+      "comments": 183,
+      "shares": 704,
+      "saves": 492,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "FrSqa9CWzMM",
+      "date": "2026-09-26",
+      "caption": "LAMACCHIA MAIS PRÓXIMO DO VASCO! GRANA NO FOGÃO? RAYAN SALVA A SELEÇÃO!",
+      "type": "VIDEO",
+      "views": 18575,
+      "likes": 364,
+      "comments": 6,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -319,13 +244,13 @@
       }
     },
     {
-      "id": "73E2r5hSlaU",
-      "date": "2026-08-28",
-      "caption": "PLATA DE SAÍDA DO FLAMENGO! BOTAFOGO PROCURA ALTERNATIVAS PARA TRAZER LH! VASCO ANUNCIA ATACANTE!",
+      "id": "dtaJ_XN7XJY",
+      "date": "2026-09-26",
+      "caption": "NEYMAR FAZ FALTA NA SELEÇÃO BRASILEIRA?",
       "type": "VIDEO",
-      "views": 27188,
-      "likes": 1067,
-      "comments": 7,
+      "views": 5597,
+      "likes": 101,
+      "comments": 13,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -353,251 +278,251 @@
       }
     },
     {
-      "id": "a0PAlSnpBYc",
-      "date": "2026-08-28",
-      "caption": "QUEM É FAVORITO PRA AVANÇAR NO GRE-NAL DA COPA DO BRASIL?",
+      "id": "1WVYyIZkPR4",
+      "date": "2026-09-26",
+      "caption": "A VERDADE SOBRE O CRAQUE NETO POR TRÁS DAS CÂMERAS",
       "type": "VIDEO",
-      "views": 2230,
-      "likes": 20,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "K-7EHW42_EY",
-      "date": "2026-08-28",
-      "caption": "QUEM PERDER O GRE-NAL, CORRE MAIS RISCO DE REBAIXAMENTO?",
-      "type": "VIDEO",
-      "views": 2168,
-      "likes": 20,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "MpqpFIHV4q8",
-      "date": "2026-08-28",
-      "caption": "PLATA MAIS PERTO DA RÚSSIA? CREFILHO TEM NOVO OBSTÁCULO! TIQUINHO TITULAR?",
-      "type": "VIDEO",
-      "views": 5170,
-      "likes": 89,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "X2M1vuX3Gng",
-      "date": "2026-08-28",
-      "caption": "SAÍDA DO PLATA VAI PREJUDICAR O FLAMENGO?",
-      "type": "VIDEO",
-      "views": 4287,
-      "likes": 71,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "iXq4H0JSKUI",
-      "date": "2026-08-28",
-      "caption": "BRUNO AZEVEDO VAI À LOUCURA COM AS POLÊMICAS DA POSSÍVEL NOVA SAF DO VASCO",
-      "type": "VIDEO",
-      "views": 25615,
-      "likes": 765,
-      "comments": 279,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "qN1E3k9w8OU",
-      "date": "2026-08-28",
-      "caption": "BRUNO AZEVEDO DESABAFA SOBRE A SITUAÇÃO DO VASCO NO BRASILEIRÃO",
-      "type": "VIDEO",
-      "views": 2086,
-      "likes": 30,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "A8OfNvPozQo",
-      "date": "2026-08-28",
-      "caption": "O VASCO VAI ESCAPAR DO REBAIXAMENTO?",
-      "type": "VIDEO",
-      "views": 6365,
-      "likes": 158,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "TGn59horlOo",
-      "date": "2026-08-28",
-      "caption": "BRUNO DUARTE CHEGA PARA RESOLVER OS PROBLEMAS DO VASCO?",
-      "type": "VIDEO",
-      "views": 10898,
-      "likes": 233,
+      "views": 16169,
+      "likes": 283,
       "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "n4BEJRiK044",
+      "date": "2026-09-26",
+      "caption": "PALOMA TOCCI SE EMOCIONA AO FALAR SOBRE A MORTE DE RICARDO BOECHAT",
+      "type": "VIDEO",
+      "views": 42253,
+      "likes": 762,
+      "comments": 39,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Pl8IxNxsNv4",
+      "date": "2026-09-26",
+      "caption": "COMO ERA TRABALHAR COM RICARDO BOECHAT",
+      "type": "VIDEO",
+      "views": 10763,
+      "likes": 141,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "15Q9T76exe4",
+      "date": "2026-09-26",
+      "caption": "PALOMA TOCCI FALA SOBRE A SUA RELAÇÃO COM A ESPANHA",
+      "type": "VIDEO",
+      "views": 4917,
+      "likes": 66,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "B5_h6nyQmVs",
+      "date": "2026-09-26",
+      "caption": "QUAL O TIME DA PALOMA TOCCI?",
+      "type": "VIDEO",
+      "views": 26020,
+      "likes": 756,
+      "comments": 60,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "NogumsUQtEk",
+      "date": "2026-09-26",
+      "caption": "PALOMA TOCCI REVELA AS SUAS REFERÊNCIAS NO JORNALISMO",
+      "type": "VIDEO",
+      "views": 4570,
+      "likes": 110,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "CnYCEFm5gwk",
+      "date": "2026-09-26",
+      "caption": "DESAFIOS ENFRENTADOS PELAS MULHERES NO JORNALISMO ESPORTIVO",
+      "type": "VIDEO",
+      "views": 1930,
+      "likes": 60,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "1l2VMErkKFo",
+      "date": "2026-09-26",
+      "caption": "PALOMA TOCCI RELEMBRA A SUA TRAJETÓRIA ATÉ CHEGAR NO JORNALISMO ESPORTIVO",
+      "type": "VIDEO",
+      "views": 6841,
+      "likes": 178,
+      "comments": 8,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
