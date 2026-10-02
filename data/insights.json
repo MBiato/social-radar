@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-01T16:54:23.407115",
-  "date": "2026-09-30",
+  "generated_at": "2026-10-02T16:07:53.626743",
+  "date": "2026-10-01",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 23,
+    "total_posts": 39,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,309 +12,68 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18197557123385875",
-    "melhor_post_caption": "OS TESTES DE FIDELIDADE ERAM REAIS? 👀\n\nJoão Kléber falou conosco como funcionam as coisas nos bastid",
-    "melhor_post_views": 132988,
+    "melhor_post_id": "18172482256457029",
+    "melhor_post_caption": "Charla #764 - Fred\n\nCom uma carreira longa fora do Brasil, duas Copas no currículo e atual jogador d",
+    "melhor_post_views": 0,
     "sponsor_stats": {
+      "#764": {
+        "posts": 1,
+        "views": 0,
+        "likes": 1203,
+        "comments": 17
+      },
       "#brahmanocharla": {
-        "posts": 7,
-        "views": 536853,
-        "likes": 26413,
-        "comments": 1476
+        "posts": 8,
+        "views": 1204770,
+        "likes": 88207,
+        "comments": 2761
       },
-      "#fornerianocharla": {
-        "posts": 7,
-        "views": 503085,
-        "likes": 25320,
-        "comments": 1444
-      },
-      "#absolutnocharla": {
-        "posts": 6,
-        "views": 456554,
-        "likes": 22805,
-        "comments": 1417
+      "#assainocharla": {
+        "posts": 8,
+        "views": 1204770,
+        "likes": 88207,
+        "comments": 2761
       },
       "#melittanocharla": {
         "posts": 5,
-        "views": 402740,
-        "likes": 21891,
-        "comments": 1417
+        "views": 557950,
+        "likes": 39759,
+        "comments": 973
       },
-      "#assainocharla": {
-        "posts": 4,
-        "views": 356209,
-        "likes": 19376,
-        "comments": 1390
+      "#fornerianocharla": {
+        "posts": 6,
+        "views": 1032968,
+        "likes": 73292,
+        "comments": 2468
       },
-      "#763": {
+      "#absolutnocharla": {
+        "posts": 6,
+        "views": 1032968,
+        "likes": 73292,
+        "comments": 2468
+      },
+      "#765": {
         "posts": 1,
         "views": 0,
-        "likes": 1070,
-        "comments": 26
+        "likes": 1897,
+        "comments": 15
       }
     }
   },
   "posts": [
     {
-      "id": "18197557123385875",
-      "date": "2026-09-30",
-      "caption": "OS TESTES DE FIDELIDADE ERAM REAIS? 👀\n\nJoão Kléber falou conosco como funcionam as coisas nos bastidores e relembrou um ",
-      "url": "https://www.instagram.com/reel/Dd6kkyStqTK/",
+      "id": "18172482256457029",
+      "date": "2026-10-01",
+      "caption": "Charla #764 - Fred\n\nCom uma carreira longa fora do Brasil, duas Copas no currículo e atual jogador do Atlético-MG, Fred ",
+      "url": "https://www.instagram.com/p/Dd9WW50BO0r/",
       "tags": [
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 132988,
-      "reach": 87181,
-      "likes": 4452,
-      "comments": 74,
-      "shares": 593,
-      "saves": 298,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18107264000236461",
-      "date": "2026-09-30",
-      "caption": "\"A GENTE FICA VELHO PARA O FUTEBOL MAS É MUITO NOVO PRA VIDA!\"\n\nVelloso contou na Charla como é, na cabeça de um atleta,",
-      "url": "https://www.instagram.com/reel/Dd6hDHMsIy7/",
-      "tags": [
-        "#melittanocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 46531,
-      "reach": 35649,
-      "likes": 2515,
-      "comments": 27,
-      "shares": 64,
-      "saves": 54,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18112709900006038",
-      "date": "2026-09-30",
-      "caption": "\"ESTATISTICAMENTE, MATHEUS PEREIRA É O MELHOR JOGADOR DO BRASIL!\"\n\nArtur Jorge encheu a moral do camisa 10 do Cabuloso d",
-      "url": "https://www.instagram.com/reel/Dd7aIdmMA_N/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 181661,
-      "reach": 123377,
-      "likes": 8962,
-      "comments": 1262,
-      "shares": 880,
-      "saves": 292,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18445582855124683",
-      "date": "2026-09-30",
-      "caption": "QUEM AÍ CURTIU A CHARLA COM O ARTUR JORGE? 👇🏻\n\nPapo absurdo com o treinador do Cruzeiro e multicampeão pelo Botafogo em ",
-      "url": "https://www.instagram.com/reel/Dd7ZhIvhhxV/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 61977,
-      "reach": 45447,
-      "likes": 3590,
-      "comments": 77,
-      "shares": 80,
-      "saves": 60,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18165209293467820",
-      "date": "2026-09-30",
-      "caption": "ARTUR JORGE NO CABULOSO ATÉ 2030! 👏🏻\n\nCom contrato renovado e muita vontade de conseguir resultados, se liga no comentár",
-      "url": "https://www.instagram.com/reel/Dd7XjJ5vXG5/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 71531,
-      "reach": 51118,
-      "likes": 5170,
-      "comments": 47,
-      "shares": 222,
-      "saves": 138,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18184799224417089",
-      "date": "2026-09-30",
-      "caption": "COMO JOGA O TIME DO ARTUR JORGE? \n\nO português falou da importância do treinador tem convicção de suas ideias e passar p",
-      "url": "https://www.instagram.com/reel/Dd7UFh4BW0s/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 22718,
-      "reach": 17261,
-      "likes": 1636,
-      "comments": 22,
-      "shares": 44,
-      "saves": 45,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18032354078850531",
-      "date": "2026-09-30",
-      "caption": "Charla #763 - Artur Jorge\n\nAtual treinador do Cruzeiro, campeão da Libertadores pelo Botafogo em 2024, Artur Jorge é o c",
-      "url": "https://www.instagram.com/p/Dd7JsRwhFTF/",
-      "tags": [
-        "#763"
+        "#764"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 1070,
-      "comments": 26,
+      "likes": 1203,
+      "comments": 17,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -342,22 +101,24 @@
       }
     },
     {
-      "id": "18131836471668274",
-      "date": "2026-09-30",
-      "caption": "QUE ENCONTRO, SENHORAS E SENHORES! 🥹🤘\n\nNa nossa resenha, Supla contou da sua relação com o Chorão. Imagina só presenciar",
-      "url": "https://www.instagram.com/reel/Dd7AK1bsBQn/",
+      "id": "18120912358940082",
+      "date": "2026-10-01",
+      "caption": "A FINAL DA LIBERTADORES DE 2024 E O SENTIMENTO COM O TÍTULO!\n\nArtur Jorge falou do título que conquistou quando era trei",
+      "url": "https://www.instagram.com/reel/Dd9TYLnh8iR/",
       "tags": [
         "#brahmanocharla",
-        "#absolutnocharla",
-        "#fornerianocharla"
+        "#assainocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 29375,
-      "reach": 21261,
-      "likes": 2057,
-      "comments": 8,
-      "shares": 32,
-      "saves": 45,
+      "views": 136915,
+      "reach": 91488,
+      "likes": 12555,
+      "comments": 434,
+      "shares": 1614,
+      "saves": 524,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -383,22 +144,308 @@
       }
     },
     {
-      "id": "18111518936140458",
-      "date": "2026-09-30",
-      "caption": "A PAIXÃO DO FÃ DE FUTEBOL AMERICANO PELA LIGA! 🏈\n\nAntony Curti falou da paixão dos torcedores, de sua torcida pelo Chica",
-      "url": "https://www.instagram.com/reel/Dd66KQOOUvh/",
+      "id": "17957611011016766",
+      "date": "2026-10-01",
+      "caption": "ARTUR JORGE FALA DA SITUAÇÃO ENTRE CRISTIANO RONALDO E JORGE JESUS! 👀\n\n#BrahmaNoCharla #AssaiNoCharla #MelittaNoCharla #",
+      "url": "https://www.instagram.com/reel/Dd9LPC7O7LH/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 71402,
+      "reach": 51405,
+      "likes": 2500,
+      "comments": 57,
+      "shares": 61,
+      "saves": 118,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17971776273168856",
+      "date": "2026-10-01",
+      "caption": "HOJE O PAPO É COM O CARA QUE MUDOU O GALO: FRED!\n\nCom passagens por clubes da Europa, Seleção Brasileira e com Copa do M",
+      "url": "https://www.instagram.com/p/Dd9C1CmsvKp/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 323,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17911986876528472",
+      "date": "2026-10-01",
+      "caption": "DAVA PRA FAZER DIFERENTE?! 👀🔵\n\nArtur Jorge contou na nossa Charla que teria feito diferente pra jogar contra o Flamengo,",
+      "url": "https://www.instagram.com/reel/Dd7lfe2u9Cn/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 177831,
+      "reach": 120844,
+      "likes": 9789,
+      "comments": 189,
+      "shares": 423,
+      "saves": 380,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18106747859611377",
+      "date": "2026-10-01",
+      "caption": "“FOI O PIOR DIA DA MINHA VIDA, E PARECIA QUE TINHA UM CAIXÃO NO VESTIÁRIO” 😳\n\nFoi com esse relato forte que o Everson de",
+      "url": "https://www.instagram.com/reel/Dd-GvrGtxat/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 154658,
+      "reach": 102211,
+      "likes": 8576,
+      "comments": 625,
+      "shares": 1042,
+      "saves": 427,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17916333882454887",
+      "date": "2026-10-01",
+      "caption": "“EU TENHO CAPACIDADE E QUALIDADE PRA SER LEMBRADO!” 🇧🇷👀🔥\n\nEntre os principais goleiros do Brasil a algumas temporadas, E",
+      "url": "https://www.instagram.com/reel/Dd97jfLpINt/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 229400,
+      "reach": 142270,
+      "likes": 16767,
+      "comments": 517,
+      "shares": 291,
+      "saves": 367,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18128935696804786",
+      "date": "2026-10-01",
+      "caption": "NÃO DEU PRA CONTER A EMOÇÃO! 🥹\n\nAo relembrar da sua trajetória, Everson até tentou, mas não conseguiu segurar as lágrima",
+      "url": "https://www.instagram.com/reel/Dd9291thYY1/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 262762,
+      "reach": 179934,
+      "likes": 23105,
+      "comments": 646,
+      "shares": 2637,
+      "saves": 739,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17923699533424241",
+      "date": "2026-10-01",
+      "caption": "É MAIS RESENHA ABSURDA COM ÍDOLO QUE VOCÊ QUER? ENTÃO TOMA! 🔥⚫️⚪️🐓\n\nQuem tava ligado na nossa charla? Teve resenha sobre",
+      "url": "https://www.instagram.com/reel/Dd9zt2ENuyF/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 57619,
+      "reach": 40642,
+      "likes": 4950,
+      "comments": 31,
+      "shares": 22,
+      "saves": 62,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18115540970046717",
+      "date": "2026-10-01",
+      "caption": "\"JÁ CRIO MEU MENINO DIZENDO QUE AZUL É FEIO!\" 🤣\n\nRivalidades: gostamos! Fred falou sobre Atlético-MG e Cruzeiro e de out",
+      "url": "https://www.instagram.com/reel/Dd9xC_NNbYF/",
       "tags": [
         "#brahmanocharla",
         "#assainocharla",
         "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 80299,
-      "reach": 53281,
-      "likes": 3608,
-      "comments": 59,
-      "shares": 60,
-      "saves": 104,
+      "views": 140363,
+      "reach": 91993,
+      "likes": 12064,
+      "comments": 253,
+      "shares": 931,
+      "saves": 323,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -424,16 +471,59 @@
       }
     },
     {
-      "id": "18137809156619016",
-      "date": "2026-09-30",
-      "caption": "HOJE TEM ARTUR JORGE CONOSCO! \n\nTreinador do Cruzeiro, Artur Jorge dá o pontapé inicial na nossa tour pra uma charla abs",
-      "url": "https://www.instagram.com/p/Dd64shfhpze/",
-      "tags": [],
+      "id": "17924459472203146",
+      "date": "2026-10-01",
+      "caption": "QUAL É A SENSAÇÃO DE JOGAR NO SEU CLUBE DE CORAÇÃO?\n\nDo menino que matava aula pra comprar ingresso do jogo, para o expe",
+      "url": "https://www.instagram.com/reel/Dd9lFCCRD-p/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 31439,
+      "reach": 23292,
+      "likes": 2851,
+      "comments": 40,
+      "shares": 118,
+      "saves": 42,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18086603114289552",
+      "date": "2026-10-01",
+      "caption": "Charla #765 - Everson\n\nGoleiro e ídolo do Atlético-MG é mais um convidado da nossa tour em BH. Vem pra resenha!\n\nÉ o Cha",
+      "url": "https://www.instagram.com/p/Dd9kMd3B11F/",
+      "tags": [
+        "#765"
+      ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 1356,
-      "comments": 20,
+      "likes": 1897,
+      "comments": 15,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -461,22 +551,18 @@
       }
     },
     {
-      "id": "18093043631449138",
-      "date": "2026-09-30",
-      "caption": "QUEM NÃO LEMBRA DO SUPLA NO ÍDOLOS?? 🎤🤣\n\nEle contou um pouco da sua passagem como jurado do programa, que foi cheia de m",
-      "url": "https://www.instagram.com/reel/Dd64WNnP2S9/",
-      "tags": [
-        "#brahmanocharla",
-        "#absolutnocharla",
-        "#fornerianocharla"
-      ],
+      "id": "18096891038387182",
+      "date": "2026-10-01",
+      "caption": "QUE RESENHA F*D* COM O FRED! 👏🏻🐓\n\nQuem aí assistiu e curtiu a charla? Papo muito brabo com o homem que simplesmente não ",
+      "url": "https://www.instagram.com/reel/Dd9jqkqBuDW/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 18281,
-      "reach": 13758,
-      "likes": 528,
-      "comments": 4,
-      "shares": 31,
-      "saves": 14,
+      "views": 16571,
+      "reach": 12791,
+      "likes": 1106,
+      "comments": 6,
+      "shares": 8,
+      "saves": 6,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -502,13 +588,50 @@
       }
     },
     {
-      "id": "OFXE97T5ayQ",
-      "date": "2026-09-30",
-      "caption": "Charla Tour MG #763 - Artur Jorge [Técnico do Cruzeiro]",
+      "id": "18126670448489820",
+      "date": "2026-10-01",
+      "caption": "MAIS UM CONVIDADO PRO DIA DE GALO NO CHARLA! 🐓⚫️⚪️\n\nDaqui a pouquinho começa a resenha com o goleiro Everson, ídolo e mu",
+      "url": "https://www.instagram.com/p/Dd9hABKsHHU/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 299,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "jmfpM-xMdrc",
+      "date": "2026-10-01",
+      "caption": "Charla Tour MG #764 - Fred [Jogador do Atlético]",
       "type": "VIDEO",
-      "views": 86947,
-      "likes": 3469,
-      "comments": 70,
+      "views": 63751,
+      "likes": 3027,
+      "comments": 64,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -536,12 +659,46 @@
       }
     },
     {
-      "id": "zOLLN0cWP84",
-      "date": "2026-09-30",
-      "caption": "BRASILEIRÃO SERÁ PARALISADO? ARRASCA OPERA QUANDO? VINI JR DESENCANTA!",
+      "id": "vwkJTCFNMsk",
+      "date": "2026-10-01",
+      "caption": "A VIDA ABSURDA DE UM TREINADOR DE FUTEBOL NO CATAR",
       "type": "VIDEO",
-      "views": 15645,
-      "likes": 229,
+      "views": 26430,
+      "likes": 474,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "yJB5d2fvMic",
+      "date": "2026-10-01",
+      "caption": "ARTUR JORGE ANALISA O MOMENTO DA SELEÇÃO BRASILEIRA",
+      "type": "VIDEO",
+      "views": 6569,
+      "likes": 135,
       "comments": 2,
       "shares": 0,
       "saves": 0,
@@ -570,13 +727,13 @@
       }
     },
     {
-      "id": "QQmO3okemWA",
-      "date": "2026-09-30",
-      "caption": "O QUE PASSOU NA CABEÇA DO ARTUR JORGE NA FINAL DA LIBERTADORES DE 2024?",
+      "id": "uYGIURJobX0",
+      "date": "2026-10-01",
+      "caption": "TÉCNICOS PORTUGUESES SÃO ARROGANTES? ARTUR JORGE RESPONDE",
       "type": "VIDEO",
-      "views": 8989,
-      "likes": 344,
-      "comments": 22,
+      "views": 25724,
+      "likes": 550,
+      "comments": 14,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -604,80 +761,12 @@
       }
     },
     {
-      "id": "nnxWwtkeCSY",
-      "date": "2026-09-30",
-      "caption": "ARTUR JORGE ANALISA A DERROTA DO CRUZEIRO NO CLÁSSICO NA COPA DO BRASIL",
+      "id": "jVTb-YoblGc",
+      "date": "2026-10-01",
+      "caption": "ARTUR JORGE FALA SOBRE A IMPORTÂNCIA DO GERSON PARA O CRUZEIRO",
       "type": "VIDEO",
-      "views": 2156,
-      "likes": 25,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "vLNND20cLmM",
-      "date": "2026-09-30",
-      "caption": "ARTUR JORGE ABRE O JOGO SOBRE A ELIMINAÇÃO DO CRUZEIRO CONTRA O FLAMENGO NA LIBERTADORES",
-      "type": "VIDEO",
-      "views": 6526,
-      "likes": 164,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "0VZJzCZtaE4",
-      "date": "2026-09-30",
-      "caption": "MATHEUS PEREIRA É O MELHOR JOGADOR DO BRASIL?",
-      "type": "VIDEO",
-      "views": 5355,
-      "likes": 72,
+      "views": 5802,
+      "likes": 93,
       "comments": 7,
       "shares": 0,
       "saves": 0,
@@ -706,11 +795,181 @@
       }
     },
     {
-      "id": "51nBYZe4WVc",
-      "date": "2026-09-30",
-      "caption": "DETALHES DA JANELA DE TRANSFERÊNCIAS DO CRUZEIRO COM ARTUR JORGE",
+      "id": "VJ7ti2MieOA",
+      "date": "2026-10-01",
+      "caption": "CRUZEIRO VAI VOLTAR A SER CAMPEÃO EM 2027?",
       "type": "VIDEO",
-      "views": 1487,
+      "views": 5324,
+      "likes": 107,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "P3dCL2MlkKg",
+      "date": "2026-10-01",
+      "caption": "CANTARELLI SE EMOCIONA NO SEU REENCONTRO COM ARTUR JORGE",
+      "type": "VIDEO",
+      "views": 11092,
+      "likes": 359,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "0OOOguHfohA",
+      "date": "2026-10-01",
+      "caption": "IMPORTÂNCIA ABSURDA DO GREGORE PARA O ESQUEMA TÁTICO DE ARTUR JORGE",
+      "type": "VIDEO",
+      "views": 4119,
+      "likes": 84,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "HjdrsTRBab0",
+      "date": "2026-10-01",
+      "caption": "VASCO NA COLINA CONTRA O BOCA? CR7 X JJ! CANO VOLTANDO?",
+      "type": "VIDEO",
+      "views": 16349,
+      "likes": 301,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "FtnMWugRf7Y",
+      "date": "2026-10-01",
+      "caption": "COLETIVA HISTÓRICA DO ARTUR JORGE NA SEMANA MAIS DECISIVA DA HISTÓRIA DO BOTAFOGO",
+      "type": "VIDEO",
+      "views": 23580,
+      "likes": 721,
+      "comments": 31,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "McjZ7q-sHpI",
+      "date": "2026-10-01",
+      "caption": "FRED REVELA O SEU MAIOR SONHO COM A CAMISA DO GALO",
+      "type": "VIDEO",
+      "views": 1623,
       "likes": 45,
       "comments": 2,
       "shares": 0,
@@ -740,12 +999,250 @@
       }
     },
     {
-      "id": "lHvj9ljDMME",
-      "date": "2026-09-30",
-      "caption": "PROJETO DO CRUZEIRO PARA POTENCIALIZAR JOVENS JOGADORES",
+      "id": "8MXIdgnkPCg",
+      "date": "2026-10-01",
+      "caption": "BASTIDORES DA TRETA ENTRE TEN HAG E CRISTIANO RONALDO",
       "type": "VIDEO",
-      "views": 1944,
-      "likes": 50,
+      "views": 20930,
+      "likes": 586,
+      "comments": 22,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "4mlkXAAxxRo",
+      "date": "2026-10-01",
+      "caption": "QUAL O NÍVEL TÉCNICO DO BRASILEIRÃO COMPARADO COM O FUTEBOL EUROPEU?",
+      "type": "VIDEO",
+      "views": 7358,
+      "likes": 250,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "YTaMs8Du5Ak",
+      "date": "2026-10-01",
+      "caption": "FRED ABRE O JOGO SOBRE A ELIMINAÇÃO DO BRASIL PARA A CROÁCIA NA COPA DO MUNDO DE 2022",
+      "type": "VIDEO",
+      "views": 8918,
+      "likes": 259,
+      "comments": 71,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "xNxWMd8cJig",
+      "date": "2026-10-01",
+      "caption": "COMO ERA ENFRENTAR O MANCHESTER CITY DE GUARDIOLA?",
+      "type": "VIDEO",
+      "views": 3310,
+      "likes": 108,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "sag44KR4LG0",
+      "date": "2026-10-01",
+      "caption": "MARCAR O MESSI É UMA MISSÃO IMPOSSÍVEL",
+      "type": "VIDEO",
+      "views": 9009,
+      "likes": 210,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "umz-RYL1dIg",
+      "date": "2026-10-01",
+      "caption": "BRUNO FERNANDES REVELOU PARA O FRED QUE QUER JOGAR NO BRASIL",
+      "type": "VIDEO",
+      "views": 4023,
+      "likes": 99,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "3z2sKaA-nmg",
+      "date": "2026-10-01",
+      "caption": "A VERDADE SOBRE CRISTIANO RONALDO NOS BASTIDORES",
+      "type": "VIDEO",
+      "views": 25967,
+      "likes": 554,
+      "comments": 35,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "JtvSlytf2M8",
+      "date": "2026-10-01",
+      "caption": "BASTIDORES DA CRISE INSTITUCIONAL DO MANCHESTER UNITED",
+      "type": "VIDEO",
+      "views": 4148,
+      "likes": 149,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -774,12 +1271,12 @@
       }
     },
     {
-      "id": "l2jBX2p24CA",
-      "date": "2026-09-30",
-      "caption": "ARTUR JORGE DÁ DETALHES DA SUA CHEGADA AO CRUZEIRO NA LANTERNA DO BRASILEIRÃO",
+      "id": "RdkWCyzSoHA",
+      "date": "2026-10-01",
+      "caption": "REVELADO O MOTIVO DO SHAKHTAR DONETSKI CONTRATAR TANTOS JOGADORES BRASILEIROS",
       "type": "VIDEO",
-      "views": 1233,
-      "likes": 23,
+      "views": 4660,
+      "likes": 108,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -808,13 +1305,13 @@
       }
     },
     {
-      "id": "YOEELtdkXkU",
-      "date": "2026-09-30",
-      "caption": "TODOS OS DETALHES DA RENOVAÇÃO DE ARTUR JORGE COM O CRUZEIRO",
+      "id": "x3IPjA6h9wo",
+      "date": "2026-10-01",
+      "caption": "FRED PRESENCIOU O INÍCIO DA GUERRA DA UCRÂNIA ENQUANTO ESTAVA NO SHAKHTAR",
       "type": "VIDEO",
-      "views": 7609,
-      "likes": 168,
-      "comments": 1,
+      "views": 4723,
+      "likes": 139,
+      "comments": 9,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -842,12 +1339,12 @@
       }
     },
     {
-      "id": "fIWClyE9bbQ",
-      "date": "2026-09-30",
-      "caption": "AULA INCRÍVEL DO ARTUR JORGE SOBRE A SUA VISÃO DO FUTEBOL",
+      "id": "CDfuBf-QO1A",
+      "date": "2026-10-01",
+      "caption": "FRED ANALISA O TRABALHO DO BARBA NO ATLÉTICO MG",
       "type": "VIDEO",
-      "views": 3164,
-      "likes": 83,
+      "views": 1841,
+      "likes": 81,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -876,13 +1373,81 @@
       }
     },
     {
-      "id": "X8Ad8qxsdXs",
-      "date": "2026-09-30",
-      "caption": "ARTUR JORGE ABRE O CORAÇÃO AO FALAR DA SUA PAIXÃO PELO BRAGA",
+      "id": "OlsjPEkDzFc",
+      "date": "2026-10-01",
+      "caption": "QUAL A PRIORIDADE DO GALO PARA O RESTO DA TEMPORADA?",
       "type": "VIDEO",
-      "views": 3069,
-      "likes": 119,
-      "comments": 6,
+      "views": 1051,
+      "likes": 34,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "rFYhoWgcaFw",
+      "date": "2026-10-01",
+      "caption": "FRED FALA SOBRE O GOL QUE CLASSIFICOU O GALO CONTRA O CRUZEIRO NA COPA DO BRASIL",
+      "type": "VIDEO",
+      "views": 12955,
+      "likes": 464,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "wpJ1eE87a5U",
+      "date": "2026-10-01",
+      "caption": "FRED ABRE O CORAÇÃO AO FALAR DA SUA RELAÇÃO COM O GALO",
+      "type": "VIDEO",
+      "views": 6489,
+      "likes": 271,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
