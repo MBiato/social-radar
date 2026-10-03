@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T14:02:24.809841",
-  "date": "2026-09-03",
+  "generated_at": "2026-10-03T14:35:09.001282",
+  "date": "2026-10-02",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 52,
+    "total_posts": 49,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,72 +12,107 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18119764771854430",
-    "melhor_post_caption": "TÁ CHEGANDO A HORA! 🤩\n\nHoje é dia de sair do tiro de meta, lateral, escanteio e pênalti, e ir para t",
-    "melhor_post_views": 0,
+    "melhor_post_id": "18077483414533443",
+    "melhor_post_caption": "\"O SCARPA RECEBE DEZ LIVROS POR DIA!\" 🤣\n\nFred falou conosco do Scarpa, deu uma leve zoada no companh",
+    "melhor_post_views": 73446,
     "sponsor_stats": {
-      "#fornerianocharla": {
-        "posts": 5,
-        "views": 188572,
-        "likes": 21337,
-        "comments": 829
-      },
-      "#sportingbetnocharla": {
-        "posts": 14,
-        "views": 1011854,
-        "likes": 85773,
-        "comments": 1524
-      },
-      "#absolutnocharla": {
-        "posts": 2,
-        "views": 68150,
-        "likes": 6306,
-        "comments": 308
-      },
-      "#charlafutebol": {
-        "posts": 1,
-        "views": 0,
-        "likes": 34,
-        "comments": 0
-      },
       "#brahmanocharla": {
-        "posts": 5,
-        "views": 789767,
-        "likes": 58420,
-        "comments": 889
+        "posts": 7,
+        "views": 1401293,
+        "likes": 121991,
+        "comments": 3026
       },
       "#assainocharla": {
-        "posts": 5,
-        "views": 789767,
-        "likes": 58420,
-        "comments": 889
+        "posts": 7,
+        "views": 1401293,
+        "likes": 121991,
+        "comments": 3026
       },
       "#melittanocharla": {
         "posts": 5,
-        "views": 789767,
-        "likes": 58420,
-        "comments": 889
+        "views": 1240533,
+        "likes": 110773,
+        "comments": 2878
       },
-      "#750": {
+      "#fornerianocharla": {
+        "posts": 2,
+        "views": 160760,
+        "likes": 11218,
+        "comments": 148
+      },
+      "#absolutnocharla": {
+        "posts": 6,
+        "views": 1327847,
+        "likes": 117234,
+        "comments": 2918
+      },
+      "#767": {
         "posts": 1,
         "views": 0,
-        "likes": 1027,
-        "comments": 2
+        "likes": 1360,
+        "comments": 64
+      },
+      "#766": {
+        "posts": 1,
+        "views": 0,
+        "likes": 1070,
+        "comments": 12
       }
     }
   },
   "posts": [
     {
-      "id": "18119764771854430",
-      "date": "2026-09-03",
-      "caption": "TÁ CHEGANDO A HORA! 🤩\n\nHoje é dia de sair do tiro de meta, lateral, escanteio e pênalti, e ir para touchdown, field goal",
-      "url": "https://www.instagram.com/p/Dc09F_PBSGd/",
+      "id": "18077483414533443",
+      "date": "2026-10-02",
+      "caption": "\"O SCARPA RECEBE DEZ LIVROS POR DIA!\" 🤣\n\nFred falou conosco do Scarpa, deu uma leve zoada no companheiro de equipe, mas ",
+      "url": "https://www.instagram.com/reel/Dd_xbKPvZOP/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 73446,
+      "reach": 50892,
+      "likes": 4757,
+      "comments": 108,
+      "shares": 231,
+      "saves": 134,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17960476298996599",
+      "date": "2026-10-02",
+      "caption": "DIA DE CAMPEÃO DO MUNDO NO CHARLA! 🔥🧤\n\nAtual goleiro do Cruzeiro, multicampeão e ídolo do Corinthians, com convocação pa",
+      "url": "https://www.instagram.com/p/Dd_uNa-pCIh/",
       "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 3180,
-      "comments": 13,
+      "likes": 464,
+      "comments": 3,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -105,20 +140,23 @@
       }
     },
     {
-      "id": "18124453684750954",
-      "date": "2026-09-03",
-      "caption": "VASCO X PALMEIRAS NA SEMI! QUEM AVANÇA? \n\nEnzo projetou o próximo confronto do Vasco na Copa do Brasil contra esse difíc",
-      "url": "https://www.instagram.com/reel/Dcz8JMshHCY/",
+      "id": "17912958072544399",
+      "date": "2026-10-02",
+      "caption": "IMAGINA ESSA PILHA! KKKKKKK 🔋🤣\n\nA quantidade de resenha que sai dessa amizade é absurda, pô! E claro, a zoação no futebo",
+      "url": "https://www.instagram.com/reel/DeAnrF_Nihf/",
       "tags": [
-        "#fornerianocharla"
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 31658,
-      "reach": 23376,
-      "likes": 4029,
-      "comments": 45,
-      "shares": 37,
-      "saves": 33,
+      "views": 87349,
+      "reach": 53201,
+      "likes": 5842,
+      "comments": 49,
+      "shares": 538,
+      "saves": 126,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -144,20 +182,23 @@
       }
     },
     {
-      "id": "18405459376089995",
-      "date": "2026-09-03",
-      "caption": "“O SOSA DEIXA A VIDA EM CAMPO PELO VASCO!”\n\nConcorda com a análise do Enzo sobre a nova contratação do Vascão?\n\n+18. Jog",
-      "url": "https://www.instagram.com/reel/Dcz69xcAV31/",
+      "id": "18027974744856045",
+      "date": "2026-10-02",
+      "caption": "AHH, MINAS GERAIS! 😍🎶\n\nO cenário da música mineira é absurdo! E nossa resenha começou com o Djonga falando sobre compôr ",
+      "url": "https://www.instagram.com/reel/DeAhq6_xnId/",
       "tags": [
-        "#sportingbetnocharla"
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 65559,
-      "reach": 45324,
-      "likes": 8845,
-      "comments": 189,
-      "shares": 578,
-      "saves": 73,
+      "views": 73411,
+      "reach": 55260,
+      "likes": 5376,
+      "comments": 99,
+      "shares": 165,
+      "saves": 129,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -183,20 +224,18 @@
       }
     },
     {
-      "id": "18630101065005087",
-      "date": "2026-09-03",
-      "caption": "PITON MEREDE SER TITULAR?\n\nEnzo exaltou os últimos jogos do lateral sob o comando de Pedro Emanuel.\n\n#ForneriaNoCharla",
-      "url": "https://www.instagram.com/reel/Dcz3E3JpwS1/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 50933,
-      "reach": 39708,
-      "likes": 8759,
-      "comments": 284,
-      "shares": 309,
-      "saves": 65,
+      "id": "18371472337241633",
+      "date": "2026-10-02",
+      "caption": "O TIME DO CHARLA TÁ FORMADO, HEIN?! 👀🔥\n\nAlô, Copa Acerj, nos reforçamos em BH e vamos chegar com essa galera, na humilda",
+      "url": "https://www.instagram.com/p/DeAb97fPfu9/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 1653,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -222,20 +261,20 @@
       }
     },
     {
-      "id": "18408206839085407",
-      "date": "2026-09-03",
-      "caption": "VASCO COPEIRO? \n\nAzevedo destaca a forma como o Vasco se classificou e o trabalho de Pedro Emanuel no clube \n\n+18. Jogue",
-      "url": "https://www.instagram.com/reel/Dcz0wwIOxg7/",
+      "id": "18052900940657302",
+      "date": "2026-10-02",
+      "caption": "Charla #767 - Djonga\n\nRapper e compositor, um dos gigantes do cenário nacional, referência por colocar nas suas músicas ",
+      "url": "https://www.instagram.com/p/DeAYx4wxiW3/",
       "tags": [
-        "#sportingbetnocharla"
+        "#767"
       ],
-      "type": "VIDEO",
-      "views": 30291,
-      "reach": 20961,
-      "likes": 4938,
-      "comments": 54,
-      "shares": 48,
-      "saves": 28,
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 1360,
+      "comments": 64,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -261,98 +300,18 @@
       }
     },
     {
-      "id": "18074777807408809",
-      "date": "2026-09-03",
-      "caption": "O VASCÃO TÁ NA SEMI DE NOVO! PUMITA, UM GOLAÇO!\n\nTem que respeitar! No apagar das luzes, o Vasco amplia com um golaço de",
-      "url": "https://www.instagram.com/reel/DczwYDWulBT/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
+      "id": "17962830771228058",
+      "date": "2026-10-02",
+      "caption": "QUE RESENHA FOI ESSA COM O CÁSSIO? MUITO F*DA! 🔥\n\nDramas pessoais, grandes conquistas, saída do Corinthians, lances marc",
+      "url": "https://www.instagram.com/reel/DeASIyiN1Eh/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 17918,
-      "reach": 13725,
-      "likes": 3124,
-      "comments": 37,
-      "shares": 29,
-      "saves": 15,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18105958127178148",
-      "date": "2026-09-03",
-      "caption": "O VASCO É COPEIRO DEMAIS! ANDRÉS GOMEZ É O CARA!\n\nO colombiano leva a bola quase sozinho contra a defesa do Vitória e ma",
-      "url": "https://www.instagram.com/reel/DczuhWMsjJ9/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 20333,
-      "reach": 15478,
-      "likes": 3328,
-      "comments": 35,
-      "shares": 18,
-      "saves": 17,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18369344341243270",
-      "date": "2026-09-03",
-      "caption": "“HOJE ERA UMA DECISÃO E O FLAMENGO NÃO PODIA PERDER ESSA CHANCE” \n\nMachado destacou a importância da vitória sobre o Mir",
-      "url": "https://www.instagram.com/reel/DczpBvSJWOi/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 9868,
-      "reach": 7752,
-      "likes": 580,
-      "comments": 8,
+      "views": 58930,
+      "reach": 46125,
+      "likes": 2086,
+      "comments": 30,
       "shares": 11,
-      "saves": 6,
+      "saves": 32,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -378,254 +337,16 @@
       }
     },
     {
-      "id": "18113975810070807",
-      "date": "2026-09-03",
-      "caption": "“TUDO CAMINHA PRA UMA VANTAGEM DO FLAMENGO”\n\nMatheus comparou o momento atual de Flamengo e Palmeiras no Brasileiro e co",
-      "url": "https://www.instagram.com/reel/DcznUtLOr2c/",
-      "tags": [
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 37831,
-      "reach": 26852,
-      "likes": 2243,
-      "comments": 192,
-      "shares": 69,
-      "saves": 49,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18114994246990754",
-      "date": "2026-09-03",
-      "caption": "VINI DA POSE MARCA DE NOVO! \n\nO atacante recebe boa bola de Amuzu e marca o seu segundo no jogo, contra o maior rival, I",
-      "url": "https://www.instagram.com/reel/Dc2BSg-uJP0/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 4709,
-      "reach": 3913,
-      "likes": 93,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18093618854415400",
-      "date": "2026-09-03",
-      "caption": "É GOL DO CARA! CARLOS VINICIUS!\n\nO centroavante tricolor marca e inaugura o placar no Gre-Nal da Copa do Brasil!\n\n🎙️ Blu",
-      "url": "https://www.instagram.com/reel/Dc1-_xEOxQG/",
-      "tags": [
-        "#sportingbetnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 5259,
-      "reach": 4291,
-      "likes": 139,
-      "comments": 2,
-      "shares": 12,
-      "saves": 2,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18132581392727620",
-      "date": "2026-09-03",
-      "caption": "BASTIDORES DE UMA RESENHA F*D@! 🔥🏈\n\nEveraldo Marques e Antony Curti estiveram no estúdio hoje e deram uma AULA sobre NFL",
-      "url": "https://www.instagram.com/reel/Dc12dOaJ3-u/",
+      "id": "18353543239168483",
+      "date": "2026-10-02",
+      "caption": "“SE EU JOGO, EU VENÇO, E TÁ TENSO, NÓS É JOGADOR!” 🔥🔥🎤\n\nSeguindo a nossa tour estrelada demaaais em BH, o homem vem aí!!",
+      "url": "https://www.instagram.com/p/DeAQWtfPY5u/",
       "tags": [],
-      "type": "VIDEO",
-      "views": 33431,
-      "reach": 25414,
-      "likes": 1153,
-      "comments": 13,
-      "shares": 9,
-      "saves": 32,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18027132614889093",
-      "date": "2026-09-03",
-      "caption": "VASCO NAS SEMIS!\n\nO Vasco está nas semis da Copa do Brasil e o Bruno Azevedo falou da classificação contra o Vitória.\n\n#",
-      "url": "https://www.instagram.com/reel/Dc1xagGhoCk/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 36877,
-      "reach": 26580,
-      "likes": 4500,
-      "comments": 69,
-      "shares": 103,
-      "saves": 35,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18076899332341986",
-      "date": "2026-09-03",
-      "caption": "\"O VASCO NÃO PRECISA DO MARACANÃ!\"\n\nBruno Azevedo falou sobe o Gigante da Colina jogar no estádio e as dificuldades que ",
-      "url": "https://www.instagram.com/reel/Dc1wmo4Rign/",
-      "tags": [
-        "#sportingbetnocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 31273,
-      "reach": 21274,
-      "likes": 1806,
-      "comments": 239,
-      "shares": 21,
-      "saves": 32,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18243539416311377",
-      "date": "2026-09-03",
-      "caption": "DIA DE GRENAL DECISIVO!\n\nSem vantagem para qualquer lado após o 0 a 0 no jogo de ida, Grêmio e Internacional entram em c",
-      "url": "https://www.instagram.com/p/Dc1qxnrN2V7/",
-      "tags": [
-        "#charlafutebol"
-      ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 34,
-      "comments": 0,
+      "likes": 326,
+      "comments": 15,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -653,23 +374,23 @@
       }
     },
     {
-      "id": "17946535056335934",
-      "date": "2026-09-03",
-      "caption": "COMO FOI NARRAR A COPA DO MUNDO?\n\nEveraldo Marques abriu o coração ao falar sobre a realização do sonho de narrar a Copa",
-      "url": "https://www.instagram.com/reel/Dc1eNYpOyM1/",
+      "id": "18154505521522841",
+      "date": "2026-10-02",
+      "caption": "\"VEJO O CRUZEIRO MUITO MAIS PERTO DE GANHAR OS TÍTULOS!\"\n\nCássio falou da força do Cruzeiro, da renovação de contrato do",
+      "url": "https://www.instagram.com/reel/DeANECytW37/",
       "tags": [
-        "#sportingbetnocharla",
         "#brahmanocharla",
         "#assainocharla",
-        "#melittanocharla"
+        "#melittanocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 73977,
-      "reach": 49527,
-      "likes": 4857,
-      "comments": 69,
-      "shares": 33,
-      "saves": 162,
+      "views": 51535,
+      "reach": 35768,
+      "likes": 4234,
+      "comments": 54,
+      "shares": 126,
+      "saves": 111,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -695,23 +416,23 @@
       }
     },
     {
-      "id": "18112128250830926",
-      "date": "2026-09-03",
-      "caption": "A HISTÓRIA RESENHA ENVOLVENDO A LADY GAGA... 🤣🤣\n\nO ano era 2017 e um bordão, somado com a apresentação da Lady Gaga, ren",
-      "url": "https://www.instagram.com/reel/Dc1WA_wuuiu/",
+      "id": "18086894162695764",
+      "date": "2026-10-02",
+      "caption": "\"EU ESTAVA COM DEPRESSÃO QUANDO SAÍ DO CORINTHIANS!\"\n\nCássio contou pra gente como foi o processo de saída do Timão, ond",
+      "url": "https://www.instagram.com/reel/DeAAa0UBfk-/",
       "tags": [
-        "#sportingbetnocharla",
         "#brahmanocharla",
         "#assainocharla",
-        "#melittanocharla"
+        "#melittanocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 142636,
-      "reach": 95326,
-      "likes": 6952,
-      "comments": 100,
-      "shares": 345,
-      "saves": 216,
+      "views": 546540,
+      "reach": 374134,
+      "likes": 51817,
+      "comments": 2026,
+      "shares": 6202,
+      "saves": 2294,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -737,23 +458,23 @@
       }
     },
     {
-      "id": "18065352083755777",
-      "date": "2026-09-03",
-      "caption": "QUEM É O MELHOR DA HISTÓRIA? 👀🏈\n\nEveraldo Marques e Antony Curti falaram sobre Brady, Peyton Manning e até sobre Patrick",
-      "url": "https://www.instagram.com/reel/Dc1ULsHO5d2/",
+      "id": "18247898806309238",
+      "date": "2026-10-02",
+      "caption": "CÁSSIO FALA DOS PROBLEMAS QUE TEVE COM BEBIDA!\n\nComo a força da religião e da família tiraram o Cássio do vício em bebid",
+      "url": "https://www.instagram.com/reel/Dd__PV_ul8z/",
       "tags": [
-        "#sportingbetnocharla",
         "#brahmanocharla",
         "#assainocharla",
-        "#melittanocharla"
+        "#melittanocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 218603,
-      "reach": 143391,
-      "likes": 15454,
-      "comments": 327,
-      "shares": 574,
-      "saves": 479,
+      "views": 337450,
+      "reach": 236467,
+      "likes": 24025,
+      "comments": 189,
+      "shares": 2206,
+      "saves": 847,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -779,23 +500,23 @@
       }
     },
     {
-      "id": "18021217055863630",
-      "date": "2026-09-03",
-      "caption": "\"NFL É UM JOGO DE CONQUISTA DE TERRITÓRIO!\" 🏈\n\nAtenção, tropa! De forma resumida pra você curtir a NFL na nova temporada",
-      "url": "https://www.instagram.com/reel/Dc1KW5Uy3vT/",
+      "id": "18399268822203905",
+      "date": "2026-10-02",
+      "caption": "A HISTÓRICA DEFESA DO CÁSSIO NO CHUTE DO DIEGO SOUZA! 🧤\n\nCássio falou do lance, como a defesa \"nasceu\" já nos treinament",
+      "url": "https://www.instagram.com/reel/Dd_6re_JekX/",
       "tags": [
-        "#sportingbetnocharla",
         "#brahmanocharla",
         "#assainocharla",
-        "#melittanocharla"
+        "#melittanocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 269789,
-      "reach": 192937,
-      "likes": 26707,
-      "comments": 371,
-      "shares": 3418,
-      "saves": 2285,
+      "views": 231562,
+      "reach": 162679,
+      "likes": 25940,
+      "comments": 501,
+      "shares": 2620,
+      "saves": 736,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -821,60 +542,18 @@
       }
     },
     {
-      "id": "18173252998452092",
-      "date": "2026-09-03",
-      "caption": "COMO A NFL ENTROU NA VIDA DO EVERALDO MARQUES E DO ANTONY CURTI? 🏈\n\nCom a memória do lendário Luciano do Valle e de brin",
-      "url": "https://www.instagram.com/reel/Dc1IN5uBp69/",
+      "id": "18094720463148694",
+      "date": "2026-10-02",
+      "caption": "Charla #766 - Cássio\n\nGoleiro com Copa no currículo, títulos e mais títulos pelo Corinthians, e que hoje defende o Cruze",
+      "url": "https://www.instagram.com/p/Dd_4uGQleoh/",
       "tags": [
-        "#sportingbetnocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
+        "#766"
       ],
-      "type": "VIDEO",
-      "views": 84762,
-      "reach": 61085,
-      "likes": 4450,
-      "comments": 22,
-      "shares": 56,
-      "saves": 119,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18113161970073112",
-      "date": "2026-09-03",
-      "caption": "Charla #750 - Everaldo Marques e Antony Curti\n\nÉ dia de entrarmos no mundo da NFL com dois convidados RIDÍCULOS! Everald",
-      "url": "https://www.instagram.com/p/Dc1AOuDsONY/",
-      "tags": [
-        "#750"
-      ],
-      "type": "IMAGE",
+      "type": "CAROUSEL_ALBUM",
       "views": 0,
       "reach": 0,
-      "likes": 1027,
-      "comments": 2,
+      "likes": 1070,
+      "comments": 12,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -902,13 +581,13 @@
       }
     },
     {
-      "id": "X2TiuQZfSbg",
-      "date": "2026-09-03",
-      "caption": "Charla #750 - Everaldo Marques & Antony Curti [Especial NFL no Rio]",
+      "id": "-huYDJdgGZo",
+      "date": "2026-10-02",
+      "caption": "Charla Tour MG #765 - Everson [Goleiro do Atlético]",
       "type": "VIDEO",
-      "views": 35340,
-      "likes": 1964,
-      "comments": 38,
+      "views": 47616,
+      "likes": 1935,
+      "comments": 85,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -936,12 +615,148 @@
       }
     },
     {
-      "id": "o3e5SWuWKn4",
-      "date": "2026-09-03",
-      "caption": "DIOGO DEFANTE NO CHARLA NA MIX",
+      "id": "PHaAOF9hHeg",
+      "date": "2026-10-02",
+      "caption": "Charla Tour MG #766 - Cássio [Goleiro do Cruzeiro]",
       "type": "VIDEO",
-      "views": 7054,
-      "likes": 193,
+      "views": 67865,
+      "likes": 2243,
+      "comments": 47,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "ZalSHunpejk",
+      "date": "2026-10-02",
+      "caption": "Charla Tour MG #767 - Djonga [Rapper]",
+      "type": "VIDEO",
+      "views": 49108,
+      "likes": 1114,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "K8zpM3wUbUc",
+      "date": "2026-10-02",
+      "caption": "Charla Tour SP #588 - Lucas Rosa [Jogador do Ajax]",
+      "type": "VIDEO",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "V2d8ua8GTOI",
+      "date": "2026-10-02",
+      "caption": "HISTÓRIAS ASSUSTADORAS DO PRESIDENTE DO SHAKHTAR DONETSKI",
+      "type": "VIDEO",
+      "views": 19526,
+      "likes": 470,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "rLvQCY65vG4",
+      "date": "2026-10-02",
+      "caption": "AULA DE \"MINEIRÊS\" COM FRED 🤣🤣🤣",
+      "type": "VIDEO",
+      "views": 4895,
+      "likes": 92,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -970,182 +785,12 @@
       }
     },
     {
-      "id": "j5zwnF_DhEE",
-      "date": "2026-09-03",
-      "caption": "NARRAÇÃO HISTÓRICA DO TRIUNFO QUE CLASSIFICOU O VASCO PARA A SEMIFINAL DA COPA DO BRASIL",
+      "id": "BhKmpoPYUWA",
+      "date": "2026-10-02",
+      "caption": "FRED REVELA AS RESENHAS NOS BASTIDORES DA GALEITURA 🤣🤣🤣",
       "type": "VIDEO",
-      "views": 6194,
-      "likes": 267,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "JB7cxHaeJGI",
-      "date": "2026-09-03",
-      "caption": "AZEVEDO E ENZO PROJETAM SEMIFINAL ENTRE VASCO E PALMEIRAS NA COPA DO BRASIL",
-      "type": "VIDEO",
-      "views": 17609,
-      "likes": 409,
-      "comments": 73,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "q3i0WrYKOMQ",
-      "date": "2026-09-03",
-      "caption": "VITÓRIA X VASCO | AO VIVO | COPA DO BRASIL 2026 | Charla Futebol Sportingbet",
-      "type": "VIDEO",
-      "views": 28767,
-      "likes": 717,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "fr3IEFPyskc",
-      "date": "2026-09-03",
-      "caption": "VASCO É UM NOVO TIME APÓS A CHEGADA DOS REFORÇOS?",
-      "type": "VIDEO",
-      "views": 10784,
-      "likes": 461,
-      "comments": 27,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "jwE9O4A6YD8",
-      "date": "2026-09-03",
-      "caption": "VASCO VAI EM BUSCA DO TÍTULO DA COPA DO BRASIL?",
-      "type": "VIDEO",
-      "views": 5364,
-      "likes": 156,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "363b7X0n0zQ",
-      "date": "2026-09-03",
-      "caption": "FLAMENGO É O GRANDE FAVORITO PARA GANHAR A LIBERTADORES E O BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 6845,
-      "likes": 160,
+      "views": 6843,
+      "likes": 167,
       "comments": 7,
       "shares": 0,
       "saves": 0,
@@ -1174,148 +819,12 @@
       }
     },
     {
-      "id": "Eez9X6nUvYk",
-      "date": "2026-09-03",
-      "caption": "MATHEUS DESABAFA APÓS MAIS UMA VITÓRIA DO FLAMENGO NO BRASILEIRÃO",
+      "id": "FJcJrZvkrUE",
+      "date": "2026-10-02",
+      "caption": "FLA PRECISARÁ VENDER JOGADORES? VASCO NA JUSTIÇA PELO MARACA! ARRASCA SÓ EM 2027?",
       "type": "VIDEO",
-      "views": 13032,
-      "likes": 420,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "DCxMN2NZ0GY",
-      "date": "2026-09-03",
-      "caption": "FLAMENGO VENCE O MIRASSOL E COLA NO PALMEIRAS NA LUTA PELO BRASILEIRÃO",
-      "type": "VIDEO",
-      "views": 1507,
-      "likes": 41,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "gpOs1RWaikg",
-      "date": "2026-09-03",
-      "caption": "FLAMENGO X MIRASSOL | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol Sportingbet",
-      "type": "VIDEO",
-      "views": 298967,
-      "likes": 2238,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "YtP_xzxJSs4",
-      "date": "2026-09-03",
-      "caption": "QUAL O REAL MOTIVO DO VASCO NÃO JOGAR NO MARACANÃ?",
-      "type": "VIDEO",
-      "views": 24828,
-      "likes": 618,
-      "comments": 164,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "9Qq1HQnwVQY",
-      "date": "2026-09-03",
-      "caption": "ANDRÉS GOMEZ PODE SER IMPORTANTE PRO VASCO NA TEMPORADA?",
-      "type": "VIDEO",
-      "views": 3270,
-      "likes": 85,
+      "views": 13137,
+      "likes": 176,
       "comments": 3,
       "shares": 0,
       "saves": 0,
@@ -1344,12 +853,46 @@
       }
     },
     {
-      "id": "7wbMHO3g8-s",
-      "date": "2026-09-03",
-      "caption": "PEDRO EMANUEL VAI LEVAR O VASCO AOS TÍTULOS?",
+      "id": "54cMluGKqxk",
+      "date": "2026-10-02",
+      "caption": "CÁSSIO É O MAIOR ÍDOLO DA HISTÓRIA DO CORINTHIANS?",
       "type": "VIDEO",
-      "views": 11672,
-      "likes": 359,
+      "views": 2727,
+      "likes": 54,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "79yhgFJn3hQ",
+      "date": "2026-10-02",
+      "caption": "CÁSSIO ABRE O CORAÇÃO E REVELA TUDO SOBRE A SUA SAÍDA DO CORINTHIANS",
+      "type": "VIDEO",
+      "views": 11342,
+      "likes": 268,
       "comments": 30,
       "shares": 0,
       "saves": 0,
@@ -1378,13 +921,13 @@
       }
     },
     {
-      "id": "Yd3CWYc6sHQ",
-      "date": "2026-09-03",
-      "caption": "EXISTE PERSEGUIÇÃO EM CIMA DO VASCO E REBAIXAMENTO?",
+      "id": "XfN0uaVOTHs",
+      "date": "2026-10-02",
+      "caption": "RELATO EMOCIONANTE DE COMO O CÁSSIO SUPEROU PROBLEMAS COM ÁLCOOL NA SUA CARREIRA",
       "type": "VIDEO",
-      "views": 10883,
-      "likes": 358,
-      "comments": 60,
+      "views": 24574,
+      "likes": 478,
+      "comments": 25,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1412,13 +955,13 @@
       }
     },
     {
-      "id": "DF7tb-HmNDM",
-      "date": "2026-09-03",
-      "caption": "FLAMENGO VAI DOMINAR O FUTEBOL BRASILEIRO? EX-PRESIDENTE RESPONDE",
+      "id": "dMO6TUp7nNI",
+      "date": "2026-10-02",
+      "caption": "COMO FICOU O VESTIÁRIO DA SELEÇÃO BRASILEIRA APÓS A ELIMINAÇÃO DA COPA DO MUNDO DE 2018?",
       "type": "VIDEO",
-      "views": 10723,
-      "likes": 396,
-      "comments": 7,
+      "views": 5123,
+      "likes": 152,
+      "comments": 16,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1446,216 +989,12 @@
       }
     },
     {
-      "id": "ec2chdUqLXg",
-      "date": "2026-09-03",
-      "caption": "KLÉBER LEITE REVELA OS BASTIDORES DA CHEGADA DE ROMÁRIO AO FLAMENGO",
+      "id": "eTzqc8TICOM",
+      "date": "2026-10-02",
+      "caption": "SEGREDO DO ARTUR JORGE PARA TIRAR O CRUZEIRO DA LANTERNA DO BRASILEIRÃO",
       "type": "VIDEO",
-      "views": 6725,
-      "likes": 222,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "BeHfKoOEAmo",
-      "date": "2026-09-03",
-      "caption": "ODAIR REVELA COMO FOI ENFRENTAR O CRISTIANO RONALDO NA ÁRABIA SAUDITA",
-      "type": "VIDEO",
-      "views": 2892,
-      "likes": 184,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "9D8fVQoxYEI",
-      "date": "2026-09-03",
-      "caption": "O DIA EM QUE O REPÓRTER ERROU O ANIVERSÁRIO DO MARCELO 🤣🤣🤣",
-      "type": "VIDEO",
-      "views": 22614,
-      "likes": 951,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "N8b2TGph-ao",
-      "date": "2026-09-03",
-      "caption": "QUEM É O FLAMENGO DA NFL?",
-      "type": "VIDEO",
-      "views": 4063,
-      "likes": 136,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "T9y-JBZT-mo",
-      "date": "2026-09-03",
-      "caption": "COMO É NARRAR UMA COPA DO MUNDO PELA GLOBO?",
-      "type": "VIDEO",
-      "views": 1128,
-      "likes": 41,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "oqojqAxMWKE",
-      "date": "2026-09-03",
-      "caption": "RELATO EMOCIONANTE DE EVERALDO MARQUES SOBRE SUBSTITUIR LUÍS ROBERTO NA COPA DO MUNDO",
-      "type": "VIDEO",
-      "views": 1926,
-      "likes": 55,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Yx_n6iMZt5M",
-      "date": "2026-09-03",
-      "caption": "DESCUBRA COMO O MICHAEL JACKSON REVOLUCIONOU O SUPERBOWL",
-      "type": "VIDEO",
-      "views": 1648,
-      "likes": 49,
+      "views": 1888,
+      "likes": 38,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1684,13 +1023,13 @@
       }
     },
     {
-      "id": "XH_QBkIhCQE",
-      "date": "2026-09-03",
-      "caption": "O DIA EM QUE OS FÃS DA LADY GAGA FORAM À LOUCURA COM O EVERALDO MARQUES",
+      "id": "QqhT-m5fuV8",
+      "date": "2026-10-02",
+      "caption": "INVASÃO CORINTHIANA NO JAPÃO 🇯🇵",
       "type": "VIDEO",
-      "views": 1735,
-      "likes": 66,
-      "comments": 2,
+      "views": 6225,
+      "likes": 182,
+      "comments": 8,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1718,13 +1057,13 @@
       }
     },
     {
-      "id": "eODE7DaPK74",
-      "date": "2026-09-03",
-      "caption": "A VERDADE SOBRE OS ESTÁDIOS DOS ESTADOS UNIDOS",
+      "id": "6hEZQMhcm3A",
+      "date": "2026-10-02",
+      "caption": "CÁSSIO REVELA TUDO SOBRE A DEFESA MAIS IMPORTANTE DA HISTÓRIA DO CORINTHIANS",
       "type": "VIDEO",
-      "views": 8491,
-      "likes": 155,
-      "comments": 7,
+      "views": 10158,
+      "likes": 269,
+      "comments": 13,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1752,114 +1091,12 @@
       }
     },
     {
-      "id": "m8mDd8qIIjY",
-      "date": "2026-09-03",
-      "caption": "REVELADO O SEGREDO DO SUCESSO DA NFL NOS ESTADOS UNIDOS",
+      "id": "nPAtfVNxy3Y",
+      "date": "2026-10-02",
+      "caption": "TODA A VERDADE SOBRE O FAGNER FORA DAS QUATRO LINHAS",
       "type": "VIDEO",
-      "views": 2242,
-      "likes": 88,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "d7XwZ7Ro6BE",
-      "date": "2026-09-03",
-      "caption": "IMPORTÂNCIA ABSURDA DO EVERALDO MARQUES PARA A POPULARIZAÇÃO DA NFL NO BRASIL",
-      "type": "VIDEO",
-      "views": 1054,
-      "likes": 24,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "f_gqssiyzCU",
-      "date": "2026-09-03",
-      "caption": "VASCO ELIMINA O VITÓRIA COM FACILIDADE E ESTÁ NA SEMI DA COPA DO BRASIL PELO TERCEIRO ANO SEGUIDO!",
-      "type": "VIDEO",
-      "views": 45387,
-      "likes": 1960,
-      "comments": 24,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "bz0cfdc4ivk",
-      "date": "2026-09-03",
-      "caption": "QUEM É O VERDADEIRO GOAT DA NFL?",
-      "type": "VIDEO",
-      "views": 1908,
-      "likes": 76,
+      "views": 5164,
+      "likes": 161,
       "comments": 3,
       "shares": 0,
       "saves": 0,
@@ -1888,13 +1125,13 @@
       }
     },
     {
-      "id": "24RhbQByx1g",
-      "date": "2026-09-03",
-      "caption": "ENTENDA AS REGRAS DO FUTEBOL AMERICANO PARA COMEÇAR A ACOMPANHAR A NFL",
+      "id": "UMAvaN3vD1I",
+      "date": "2026-10-02",
+      "caption": "CÁSSIO ABRE O JOGO SOBRE GOLEIROS TEREM QUE JOGAR COM OS PÉS",
       "type": "VIDEO",
-      "views": 2496,
-      "likes": 78,
-      "comments": 6,
+      "views": 1115,
+      "likes": 24,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1922,13 +1159,625 @@
       }
     },
     {
-      "id": "0VBBRMgwAgU",
-      "date": "2026-09-03",
-      "caption": "COMO A NFL CHEGOU À TELEVISÃO BRASILEIRA",
+      "id": "97fndMRcm_E",
+      "date": "2026-10-02",
+      "caption": "LONGEVIDADE ABSURDA DOS GOLEIROS NO FUTEBOL MODERNO",
       "type": "VIDEO",
-      "views": 2808,
-      "likes": 110,
+      "views": 3534,
+      "likes": 118,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "glBM6Dhen3U",
+      "date": "2026-10-02",
+      "caption": "ALTURA É FUNDAMENTAL PARA SER GOLEIRO? CÁSSIO RESPONDE",
+      "type": "VIDEO",
+      "views": 2564,
+      "likes": 89,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "tTZGHC3QBZg",
+      "date": "2026-10-02",
+      "caption": "SACRIFÍCIO ABSURDO DO EVERSON PARA ESTAR PRESENTE NO CLÁSSICO MINEIRO DA COPA DO BRASIL",
+      "type": "VIDEO",
+      "views": 2020,
+      "likes": 63,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "xNDT9waOAU0",
+      "date": "2026-10-02",
+      "caption": "SEGREDO DO EVERSON PARA SER DECISIVO NAS COBRANÇAS DE PÊNALTIS",
+      "type": "VIDEO",
+      "views": 1017,
+      "likes": 19,
       "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "INN2jsmtonU",
+      "date": "2026-10-02",
+      "caption": "DELFIN VAI SER O SUCESSOR DE EVERSON NO ATLÉTICO?",
+      "type": "VIDEO",
+      "views": 1775,
+      "likes": 61,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "O-l7RHx-i6I",
+      "date": "2026-10-02",
+      "caption": "SCARPA REVOLUCIONOU O VESTIÁRIO DO ATLÉTICO COM A GALEITURA",
+      "type": "VIDEO",
+      "views": 1875,
+      "likes": 47,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "MGN15L5tdxY",
+      "date": "2026-10-02",
+      "caption": "TRABALHO DO BARBA VAI FAZER O GALO SER CAMPEÃO EM 2026?",
+      "type": "VIDEO",
+      "views": 7981,
+      "likes": 185,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "c7h-IovIB4k",
+      "date": "2026-10-02",
+      "caption": "BASTIDORES DO VESTIÁRIO DO GALO NA DERROTA PARA O BOTAFOGO EM 2024",
+      "type": "VIDEO",
+      "views": 16149,
+      "likes": 380,
+      "comments": 53,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "--jNBP8o47A",
+      "date": "2026-10-02",
+      "caption": "EVERSON FALA SOBRE RIVALIDADE DO GALO COM O FLAMENGO E JOGO DO INFERNO NO MARACANÃ",
+      "type": "VIDEO",
+      "views": 10793,
+      "likes": 281,
+      "comments": 79,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "1LHiThufHNg",
+      "date": "2026-10-02",
+      "caption": "OS DETALHES QUE NINGUÉM SABE SOBRE O TÍTULO BRASILEIRO DE 2021 DO GALO",
+      "type": "VIDEO",
+      "views": 1908,
+      "likes": 85,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "LPK5EY5PBV0",
+      "date": "2026-10-02",
+      "caption": "EVERSON ABRE O CORAÇÃO AO FALAR SOBRE A SUA IDOLATRIA NO GALO",
+      "type": "VIDEO",
+      "views": 5430,
+      "likes": 156,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Rj57JMGvBiQ",
+      "date": "2026-10-02",
+      "caption": "EVERSON REVELA OS BASTIDORES DA TRETA HISTÓRICA NO CLÁSSICO ENTRE ATLÉTICO E CRUZEIRO",
+      "type": "VIDEO",
+      "views": 3573,
+      "likes": 105,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "4VkTEd6AaMM",
+      "date": "2026-10-02",
+      "caption": "EVERSON RECEBEU ESPORRO HISTÓRICO DO SAMPAOLI 🤣🤣🤣",
+      "type": "VIDEO",
+      "views": 3250,
+      "likes": 81,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "VVlbp1YxiSM",
+      "date": "2026-10-02",
+      "caption": "EVERSON DÁ AULA INCRÍVEL SOBRE A IMPORTÂNCIA DO GOLEIRO JOGAR COM OS PÉS",
+      "type": "VIDEO",
+      "views": 1765,
+      "likes": 50,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "oTeZOdihMGY",
+      "date": "2026-10-02",
+      "caption": "A VERDADE SOBRE JORGE SAMPAOLI NOS BASTIDORES",
+      "type": "VIDEO",
+      "views": 11471,
+      "likes": 221,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "zmf3SktpLz4",
+      "date": "2026-10-02",
+      "caption": "EVERSON EXPLICA PORQUE A TORCIDA DO CEARÁ É DIFERENTE",
+      "type": "VIDEO",
+      "views": 624,
+      "likes": 18,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "OJXSOtCSH_4",
+      "date": "2026-10-02",
+      "caption": "EVERSON SE EMOCIONA AO RELEMBRAR SUA TRAJETÓRIA PELO FUTEBOL",
+      "type": "VIDEO",
+      "views": 7755,
+      "likes": 227,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "_de5hrTr75g",
+      "date": "2026-10-02",
+      "caption": "EVERSON REVELA COMO COMEÇOU A JOGAR COM OS PÉS",
+      "type": "VIDEO",
+      "views": 624,
+      "likes": 18,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "qj8I1mtNFsA",
+      "date": "2026-10-02",
+      "caption": "EVERSON MERECE UMA OPORTUNIDADE NA SELEÇÃO BRASILEIRA?",
+      "type": "VIDEO",
+      "views": 860,
+      "likes": 27,
+      "comments": 3,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
