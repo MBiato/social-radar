@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-04T15:10:09.538629",
-  "date": "2026-10-03",
+  "generated_at": "2026-10-05T19:05:07.347254",
+  "date": "2026-10-04",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 13,
+    "total_posts": 30,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,96 +12,48 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18117576286752836",
-    "melhor_post_caption": "“SEJAM BEM VINDOS À CULTURA, MAS TEM QUE CHEGAR NO SAPATINHO!” 👏🔥\n\nA resenha com o Djonga foi uma au",
-    "melhor_post_views": 197532,
+    "melhor_post_id": "18433671904197223",
+    "melhor_post_caption": "OS GOLEIROS NO BRASIL AMADURECEM MAIS TARDE NA CARREIRA?\n\nCássio falou das idades dos goleiros do Br",
+    "melhor_post_views": 59152,
     "sponsor_stats": {
       "#brahmanocharla": {
-        "posts": 6,
-        "views": 611173,
-        "likes": 33244,
-        "comments": 1994
+        "posts": 5,
+        "views": 332387,
+        "likes": 16625,
+        "comments": 260
       },
       "#assainocharla": {
-        "posts": 3,
-        "views": 330677,
-        "likes": 23727,
-        "comments": 1871
-      },
-      "#fornerianocharla": {
-        "posts": 5,
-        "views": 589938,
-        "likes": 32119,
-        "comments": 1983
-      },
-      "#absolutnocharla": {
-        "posts": 6,
-        "views": 611173,
-        "likes": 33244,
-        "comments": 1994
+        "posts": 4,
+        "views": 296715,
+        "likes": 14567,
+        "comments": 245
       },
       "#melittanocharla": {
         "posts": 4,
-        "views": 301731,
-        "likes": 10642,
-        "comments": 134
+        "views": 257460,
+        "likes": 13143,
+        "comments": 103
       },
-      "#768": {
-        "posts": 1,
-        "views": 0,
-        "likes": 282,
-        "comments": 7
+      "#absolutnocharla": {
+        "posts": 3,
+        "views": 169751,
+        "likes": 9782,
+        "comments": 193
+      },
+      "#fornerianocharla": {
+        "posts": 2,
+        "views": 110599,
+        "likes": 5540,
+        "comments": 172
       }
     }
   },
   "posts": [
     {
-      "id": "18117576286752836",
-      "date": "2026-10-03",
-      "caption": "“SEJAM BEM VINDOS À CULTURA, MAS TEM QUE CHEGAR NO SAPATINHO!” 👏🔥\n\nA resenha com o Djonga foi uma aula, e essa foi uma d",
-      "url": "https://www.instagram.com/reel/DeCObahjJQw/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 197532,
-      "reach": 139014,
-      "likes": 16498,
-      "comments": 1461,
-      "shares": 2188,
-      "saves": 795,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17874976290634730",
-      "date": "2026-10-03",
-      "caption": "\"A GENTE TAVA MUITO CONFIANTE EM 2018!\"\n\nComo esquecer a derrota pra Bélgica... Cássio falou sobre sua convocação e do c",
-      "url": "https://www.instagram.com/reel/DeCOXkGMSdW/",
+      "id": "18433671904197223",
+      "date": "2026-10-04",
+      "caption": "OS GOLEIROS NO BRASIL AMADURECEM MAIS TARDE NA CARREIRA?\n\nCássio falou das idades dos goleiros do Brasileirão, citou o F",
+      "url": "https://www.instagram.com/reel/DeEzJhIsdkY/",
       "tags": [
         "#brahmanocharla",
         "#assainocharla",
@@ -109,12 +61,12 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 21235,
-      "reach": 14589,
-      "likes": 1125,
-      "comments": 11,
-      "shares": 8,
-      "saves": 49,
+      "views": 59152,
+      "reach": 40107,
+      "likes": 4242,
+      "comments": 21,
+      "shares": 92,
+      "saves": 123,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -140,52 +92,10 @@
       }
     },
     {
-      "id": "18081399938354062",
-      "date": "2026-10-03",
-      "caption": "CANTA Y ENTRA EM CAMPO Y VAI PRA ARQUIBANCADA! 🎤🔥🐓\n\nDjonga foi a voz do Galo na final da Liberta de 2024, e viveu experi",
-      "url": "https://www.instagram.com/reel/DeAxSMROEac/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 111910,
-      "reach": 74459,
-      "likes": 6104,
-      "comments": 399,
-      "shares": 237,
-      "saves": 181,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17895333315678350",
-      "date": "2026-10-03",
-      "caption": "UM DIA O BRASIL VAI DEIXAR DE SER RESULTADISTA? 🤔\n\nSabemos que a cultura do futebol brasileiro é resultadista e que não ",
-      "url": "https://www.instagram.com/reel/DeDFT-ojZci/",
+      "id": "18357657178247759",
+      "date": "2026-10-04",
+      "caption": "“ELE DÁ UM SALTO DE QUALIDADE NO PALMEIRAS!” 🟢⬆️\n\nAlberto Valentim contou pra gente sobre a mudança de estrutura e de am",
+      "url": "https://www.instagram.com/reel/DeFsCE_sGHq/",
       "tags": [
         "#brahmanocharla",
         "#melittanocharla",
@@ -193,172 +103,12 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 22730,
-      "reach": 18324,
-      "likes": 573,
-      "comments": 7,
-      "shares": 2,
-      "saves": 19,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17912584707495798",
-      "date": "2026-10-03",
-      "caption": "QUAL É A IMPORTÂNCIA DO AUXILIAR TÉCNICO INTERNAMENTE?\n\nAlberto Valentim falou dos seus tempos como auxiliar e conversou",
-      "url": "https://www.instagram.com/reel/DeC3l7YsxUy/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 32992,
-      "reach": 23355,
-      "likes": 1139,
-      "comments": 7,
-      "shares": 14,
-      "saves": 45,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18105384077247993",
-      "date": "2026-10-03",
-      "caption": "“ISSO NUNCA MAIS VAI SAIR DA SUA VIDA” 😳\n\nAlberto Valentim foi vítima de fake news no encerramento do seu trabalho no Cu",
-      "url": "https://www.instagram.com/reel/DeCp5tigVLl/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 224774,
-      "reach": 154801,
-      "likes": 7805,
-      "comments": 109,
-      "shares": 1067,
-      "saves": 399,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18149364643551793",
-      "date": "2026-10-03",
-      "caption": "Charla #768 - Alberto Valentim\n\nTécnico com passagens em Palmeiras, Vasco, Botafogo, Athletico, além de outros clubes br",
-      "url": "https://www.instagram.com/p/DeCcy2jgM9l/",
-      "tags": [
-        "#768"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 282,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18149387128554653",
-      "date": "2026-10-03",
-      "caption": "HOJE TEM ALBERTO VALENTIM COM A GENTE! 📋🖊️\n\nUma das referências da nova geração e campeão da sulamericana é o nosso últi",
-      "url": "https://www.instagram.com/p/DeCYvcHNyn2/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 405,
+      "views": 35672,
+      "reach": 26211,
+      "likes": 2058,
       "comments": 15,
-      "shares": 0,
-      "saves": 0,
+      "shares": 124,
+      "saves": 96,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -384,12 +134,170 @@
       }
     },
     {
-      "id": "wJIINW94k-A",
-      "date": "2026-10-03",
-      "caption": "Charla Tour MG #768 - Alberto Valentim [Técnico]",
+      "id": "18337082599260942",
+      "date": "2026-10-04",
+      "caption": "O FLAMENGO É O MAIOR RIVAL DO GALO FORA DE MINAS? 👀\n\nDuelos e provocações recentes reforçam essa rivalidade, mas ela vem",
+      "url": "https://www.instagram.com/reel/DeFcU_5DL0z/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
       "type": "VIDEO",
-      "views": 24981,
-      "likes": 256,
+      "views": 74927,
+      "reach": 55671,
+      "likes": 3482,
+      "comments": 157,
+      "shares": 35,
+      "saves": 140,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18097832462386347",
+      "date": "2026-10-04",
+      "caption": "\"TATICAMENTE ERA MUITO BOM, COM O GRUPO ERA UMA M*RDA!\"\n\nFred falou do seu tempo no United sob comando do Ten Hag e expl",
+      "url": "https://www.instagram.com/reel/DeFOmglMXKn/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 109975,
+      "reach": 73840,
+      "likes": 3943,
+      "comments": 39,
+      "shares": 170,
+      "saves": 157,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18160737844516792",
+      "date": "2026-10-04",
+      "caption": "CRISTIANO RONALDO MUDA A MENTALIDADE DOS CLUBES EM QUE ESTÁ?\n\nCompanheiro de equipe do português no Manchester United, F",
+      "url": "https://www.instagram.com/reel/DeFA2Hxs2nZ/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 52661,
+      "reach": 35513,
+      "likes": 2900,
+      "comments": 28,
+      "shares": 160,
+      "saves": 112,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "xTl19y2m0og",
+      "date": "2026-10-04",
+      "caption": "OS PROCESSOS POR TRÁS DAS COMPOSIÇÕES DAS LETRAS DO DJONGA",
+      "type": "VIDEO",
+      "views": 3769,
+      "likes": 53,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "XBWC0B5LFVo",
+      "date": "2026-10-04",
+      "caption": "DJONGA ABRE O CORAÇÃO AO FALAR SOBRE A SUA CARREIRA",
+      "type": "VIDEO",
+      "views": 1576,
+      "likes": 16,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -418,13 +326,13 @@
       }
     },
     {
-      "id": "hiBxIhGc2Ic",
-      "date": "2026-10-03",
-      "caption": "PROJETO ESPETACULAR DO CRUZEIRO PARA OS PRÓXIMOS ANOS",
+      "id": "Bz5zQ4SjLQ4",
+      "date": "2026-10-04",
+      "caption": "RESENHAS PROIBIDAS DO DJONGA COM RONALDINHO GAÚCHO",
       "type": "VIDEO",
-      "views": 11659,
-      "likes": 142,
-      "comments": 11,
+      "views": 35002,
+      "likes": 511,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -452,12 +360,352 @@
       }
     },
     {
-      "id": "Aq61tNLrL6w",
-      "date": "2026-10-03",
-      "caption": "BASTIDORES DA MAIOR TRETA DA HISTÓRIA DO CLÁSSICO MINEIRO",
+      "id": "cWPdfwEcepo",
+      "date": "2026-10-04",
+      "caption": "DJONGA CONTA COMO FOI CANTAR NA FINAL DA LIBERTADORES DE 2024",
       "type": "VIDEO",
-      "views": 9126,
-      "likes": 195,
+      "views": 16479,
+      "likes": 213,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "TQy2-GqF6s8",
+      "date": "2026-10-04",
+      "caption": "IMPORTÂNCIA DO GALO NA VIDA DO DJONGA",
+      "type": "VIDEO",
+      "views": 17566,
+      "likes": 327,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "OqYHkM7kkA8",
+      "date": "2026-10-04",
+      "caption": "AULA INCRÍVEL DO DJONGA SOBRE RACISMO E SOCIEDADE",
+      "type": "VIDEO",
+      "views": 34020,
+      "likes": 1058,
+      "comments": 123,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "8g1dJoI4vfk",
+      "date": "2026-10-04",
+      "caption": "DJONGA NÃO PERDOOU O NEYMAR E GABIGOL APÓS A ELIMINAÇÃO DO SANTOS DA SUL AMERICANA",
+      "type": "VIDEO",
+      "views": 10012,
+      "likes": 183,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "KUZf1fa4fSI",
+      "date": "2026-10-04",
+      "caption": "IMPORTÂNCIA ABSURDA DO RACIONAIS PARA A CENA DO RAP NACIONAL",
+      "type": "VIDEO",
+      "views": 11087,
+      "likes": 210,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "rLAAi0ABZL4",
+      "date": "2026-10-04",
+      "caption": "O QUE O DJONGA ESCUTA NO SEU TEMPO LIVRE?",
+      "type": "VIDEO",
+      "views": 3656,
+      "likes": 102,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "bkwmMkNNriA",
+      "date": "2026-10-04",
+      "caption": "DJONGA EXPLICA A IMPORTÂNCIA DAS BATALHAS DE RIMA PARA A SUA CARREIRA",
+      "type": "VIDEO",
+      "views": 1185,
+      "likes": 32,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "wwtR5xzRXMg",
+      "date": "2026-10-04",
+      "caption": "DJONGA EXPLICA PORQUE BELO HORIZONTE É A MELHOR CIDADE DO MUNDO",
+      "type": "VIDEO",
+      "views": 22504,
+      "likes": 503,
+      "comments": 44,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "WyvF-GBEfKI",
+      "date": "2026-10-04",
+      "caption": "TÍTULO DE GALÃ ATRAPALHOU A CARREIRA DO ALBERTO VALENTIM?",
+      "type": "VIDEO",
+      "views": 3919,
+      "likes": 40,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "yKTRO8Pk0CA",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM ABRE O JOGO E REVELA QUE FOI ALVO DE FAKE NEWS NO CUIABÁ",
+      "type": "VIDEO",
+      "views": 17778,
+      "likes": 330,
+      "comments": 15,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "QjaeWtGsHlQ",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM FOI INJUSTIÇADO NAS SUAS PASSAGENS POR BOTAFOGO E VASCO?",
+      "type": "VIDEO",
+      "views": 7507,
+      "likes": 121,
       "comments": 10,
       "shares": 0,
       "saves": 0,
@@ -486,12 +734,318 @@
       }
     },
     {
-      "id": "VhowxqcQnvk",
-      "date": "2026-10-03",
-      "caption": "PROBLEMAS FINANCEIROS NO FLU? MARACA NEGADO AO VASCO? FLA SEM GRANA PARA O PAQUETÁ?",
+      "id": "OT1jwfsA80M",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM REVELA TUDO SOBRE A TRETA DE THIAGO GALHARDO NO VASCO",
       "type": "VIDEO",
-      "views": 11433,
+      "views": 109187,
+      "likes": 1400,
+      "comments": 39,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Lkcp9zgi3jI",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM REVELA A REALIDADE QUE ENCONTROU NO VASCO EM 2018",
+      "type": "VIDEO",
+      "views": 10571,
+      "likes": 167,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "iV_JVZGLe88",
+      "date": "2026-10-04",
+      "caption": "BASTIDORES INÉDITOS DO BOTAFOGO CAMPEÃO CARIOCA DE 2018",
+      "type": "VIDEO",
+      "views": 12375,
+      "likes": 217,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "0TuoX2T70c0",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM ABRE O JOGO SOBRE A SUA PASSAGEM RELÂMPAGO PELO EGITO",
+      "type": "VIDEO",
+      "views": 6559,
       "likes": 134,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "1jNUywxMhrA",
+      "date": "2026-10-04",
+      "caption": "iMPORTÂNCIA DO PAULO NOBRE PARA MUDAR A HISTÓRIA DO PALMEIRAS",
+      "type": "VIDEO",
+      "views": 5154,
+      "likes": 86,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "k_ibT4EpPKU",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM RELEMBRA COMO SE TORNOU TREINADOR",
+      "type": "VIDEO",
+      "views": 7508,
+      "likes": 136,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "k6n87U_l5G0",
+      "date": "2026-10-04",
+      "caption": "BASTIDORES INÉDITOS DA DERROTA DO CRUZEIRO NO MUNDIAL DE 97",
+      "type": "VIDEO",
+      "views": 22836,
+      "likes": 291,
+      "comments": 39,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Fy6taiN2qUw",
+      "date": "2026-10-04",
+      "caption": "IDOLATRIA ABSURDA DO ZICO NA UDINESE",
+      "type": "VIDEO",
+      "views": 3275,
+      "likes": 62,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "8_4RoLqkG9w",
+      "date": "2026-10-04",
+      "caption": "COMO O ADRIANO SE TORNOU IMPERADOR NA ITÁLIA",
+      "type": "VIDEO",
+      "views": 10038,
+      "likes": 204,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Z3YdMUOsvLU",
+      "date": "2026-10-04",
+      "caption": "A VERDADE POR TRÁS DA QUEDA DO FUTEBOL ITALIANO",
+      "type": "VIDEO",
+      "views": 1846,
+      "likes": 35,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -520,13 +1074,13 @@
       }
     },
     {
-      "id": "rcx54uK8lGU",
-      "date": "2026-10-03",
-      "caption": "CÁSSIO REVELA OS MOTIVOS QUE LEVARAM O OTÁVIO À SELEÇÃO BRASILEIRA",
+      "id": "QYoVXNRncvk",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM RELEMBRA MOMENTOS MARCANTES DA SUA CARREIRA COMO LATERAL",
       "type": "VIDEO",
-      "views": 3836,
-      "likes": 66,
-      "comments": 0,
+      "views": 7664,
+      "likes": 119,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
