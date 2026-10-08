@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T17:18:26.720670",
-  "date": "2026-10-06",
+  "generated_at": "2026-10-08T17:13:46.261634",
+  "date": "2026-10-07",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 6,
+    "total_posts": 23,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,60 +12,146 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18108964570922919",
-    "melhor_post_caption": "A ESPERA ACABOU! 🙏🏻\n\nEstúdio novo, Charla de Quinta de volta e convidados gigantes! Aqui está a agen",
-    "melhor_post_views": 0,
+    "melhor_post_id": "18127843027877999",
+    "melhor_post_caption": "A BOMBA DO DIA! 🤯💣\n\nJoanna de Assis fez sua estreia na Charla de Quinta e já com o assunto do moment",
+    "melhor_post_views": 89246,
     "sponsor_stats": {
-      "#melittanocharla": {
-        "posts": 3,
-        "views": 158836,
-        "likes": 12851,
-        "comments": 555
+      "#brahmanocharla": {
+        "posts": 7,
+        "views": 1211904,
+        "likes": 115315,
+        "comments": 2398
       },
       "#fornerianocharla": {
-        "posts": 1,
-        "views": 18795,
-        "likes": 640,
-        "comments": 15
-      },
-      "#brahmanocharla": {
-        "posts": 2,
-        "views": 140041,
-        "likes": 12211,
-        "comments": 540
-      },
-      "#assainocharla": {
-        "posts": 2,
-        "views": 140041,
-        "likes": 12211,
-        "comments": 540
+        "posts": 3,
+        "views": 144060,
+        "likes": 13082,
+        "comments": 386
       },
       "#absolutnocharla": {
-        "posts": 2,
-        "views": 140041,
-        "likes": 12211,
-        "comments": 540
+        "posts": 7,
+        "views": 1211904,
+        "likes": 115315,
+        "comments": 2398
       },
-      "#texaconocharla": {
-        "posts": 2,
-        "views": 140041,
-        "likes": 12211,
-        "comments": 540
+      "#charlafutebol": {
+        "posts": 1,
+        "views": 0,
+        "likes": 217,
+        "comments": 5
+      },
+      "#assainocharla": {
+        "posts": 4,
+        "views": 1067844,
+        "likes": 102233,
+        "comments": 2012
+      },
+      "#granfinonocharla": {
+        "posts": 4,
+        "views": 1067844,
+        "likes": 102233,
+        "comments": 2012
+      },
+      "#769": {
+        "posts": 1,
+        "views": 0,
+        "likes": 932,
+        "comments": 29
       }
     }
   },
   "posts": [
     {
-      "id": "18108964570922919",
-      "date": "2026-10-06",
-      "caption": "A ESPERA ACABOU! 🙏🏻\n\nEstúdio novo, Charla de Quinta de volta e convidados gigantes! Aqui está a agenda da semana! 🔥🔥",
-      "url": "https://www.instagram.com/p/DeKBYIauM4s/",
+      "id": "18127843027877999",
+      "date": "2026-10-07",
+      "caption": "A BOMBA DO DIA! 🤯💣\n\nJoanna de Assis fez sua estreia na Charla de Quinta e já com o assunto do momento, a matéria da próp",
+      "url": "https://www.instagram.com/reel/DeM2EBxhjPX/",
+      "tags": [
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 89246,
+      "reach": 89757,
+      "likes": 8201,
+      "comments": 268,
+      "shares": 1275,
+      "saves": 238,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18132599626775995",
+      "date": "2026-10-07",
+      "caption": "FOI AQUI QUE PEDIRAM MAIS UMA CHARLA COM O ROMÁRIO? 🔥🔥🔥\n\nDepois de uma resenha histórica e emocionante conosco no antigo",
+      "url": "https://www.instagram.com/reel/DeMu-5XMXpS/",
       "tags": [],
+      "type": "VIDEO",
+      "views": 23658,
+      "reach": 24938,
+      "likes": 1726,
+      "comments": 57,
+      "shares": 92,
+      "saves": 29,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18058205111803234",
+      "date": "2026-10-07",
+      "caption": "É DIA DE BRASILEIRÃO, TROPA!\n\nBotafogo e Vasco entram em campo nesta quarta (7) para fazer um clássido DAQUELES. É confr",
+      "url": "https://www.instagram.com/p/DeMsN7NurlC/",
+      "tags": [
+        "#charlafutebol"
+      ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 437,
-      "comments": 16,
+      "likes": 217,
+      "comments": 5,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -93,21 +179,18 @@
       }
     },
     {
-      "id": "18107044322190171",
-      "date": "2026-10-06",
-      "caption": "ABEL FERREIRA É O MELHOR TREINADOR NA HISTÓRIA DO PALMEIRAS?\n\nVelloso falou do treinador português e lembrou de quando t",
-      "url": "https://www.instagram.com/reel/DeKAZv2MXAR/",
-      "tags": [
-        "#melittanocharla",
-        "#fornerianocharla"
-      ],
+      "id": "18124737865855961",
+      "date": "2026-10-07",
+      "caption": "QUEM AÍ CURTIU O NOVO ESTÚDIO? 😍\n\nOntem foi um dia pra lá de especial em nossa vida e daqui pra frente é evoluir ainda m",
+      "url": "https://www.instagram.com/reel/DeMhAR7hEhI/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 18795,
-      "reach": 14003,
-      "likes": 640,
-      "comments": 15,
-      "shares": 21,
-      "saves": 21,
+      "views": 23721,
+      "reach": 22134,
+      "likes": 3397,
+      "comments": 157,
+      "shares": 43,
+      "saves": 34,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -133,24 +216,18 @@
       }
     },
     {
-      "id": "17919437178443876",
-      "date": "2026-10-06",
-      "caption": "UM NOVO ESPAÇO PARA TRAZERMOS JORNALISMO E RESENHA! 🙌🏻\n\n#BrahmaNoCharla #AssaiNoCharla #MelittaNoCharla #AbsolutNoCharla",
-      "url": "https://www.instagram.com/reel/DeKkpDlMwvt/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla",
-        "#absolutnocharla",
-        "#texaconocharla"
-      ],
+      "id": "17938961922376262",
+      "date": "2026-10-07",
+      "caption": "JOANNA DE ASSIS NO CHARLA!\n\nHoje é a grande estreia da nossa Joanna no Charla e ela já chega repercutindo essa bomba que",
+      "url": "https://www.instagram.com/reel/DeMYkUGh95K/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 67368,
-      "reach": 49676,
-      "likes": 5967,
-      "comments": 198,
-      "shares": 49,
-      "saves": 49,
+      "views": 265927,
+      "reach": 253394,
+      "likes": 22668,
+      "comments": 826,
+      "shares": 17440,
+      "saves": 726,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -176,24 +253,23 @@
       }
     },
     {
-      "id": "18430320721145952",
-      "date": "2026-10-06",
-      "caption": "UM NOVO CAPÍTULO EM NOSSA HISTÓRIA COMEÇOU! 🙏🏻\n\nSejam muito bem-vindos ao nosso novo estúdio, tropa. Momento muito impor",
-      "url": "https://www.instagram.com/reel/DeKfH1tvqEm/",
+      "id": "18003933068793540",
+      "date": "2026-10-07",
+      "caption": "“EU SOU O GRANDE, EU SOU O CARA. AGORA EU TENHO QUE APARECER!” 🔥🏆\n\nFinal de Copa do Mundo, 24 anos de jejum, decisão por",
+      "url": "https://www.instagram.com/reel/DeNkBqKh4Ht/",
       "tags": [
         "#brahmanocharla",
         "#assainocharla",
-        "#melittanocharla",
-        "#absolutnocharla",
-        "#texaconocharla"
+        "#granfinonocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 72673,
-      "reach": 47776,
-      "likes": 6244,
-      "comments": 342,
-      "shares": 136,
-      "saves": 62,
+      "views": 37585,
+      "reach": 29138,
+      "likes": 2575,
+      "comments": 24,
+      "shares": 156,
+      "saves": 80,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -219,13 +295,371 @@
       }
     },
     {
-      "id": "fkgWIpfQljs",
-      "date": "2026-10-06",
-      "caption": "JUSTIÇA NEGA LIMINAR DO VASCO! LINO PEGA O SANTOS? CANOBBIO FORA?",
+      "id": "18148028191489134",
+      "date": "2026-10-07",
+      "caption": "MARACANÃ DOS PODCASTS DEVIDAMENTE BATIZADO! 👑⚽️\n\nA estreia foi com ele, O CARA!\n\nFica até difícil escolher os melhores m",
+      "url": "https://www.instagram.com/reel/DeNd52UOwao/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#granfinonocharla",
+        "#absolutnocharla"
+      ],
       "type": "VIDEO",
-      "views": 12741,
-      "likes": 250,
-      "comments": 6,
+      "views": 47770,
+      "reach": 35701,
+      "likes": 2786,
+      "comments": 41,
+      "shares": 103,
+      "saves": 78,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18085422908315556",
+      "date": "2026-10-07",
+      "caption": "COM ELE IA SER DIFERENTE! 😳🤣\n\nA polêmica na seleção de Portugal não para! E nessa treta entre CR7 e Jorge Jesus, Romário",
+      "url": "https://www.instagram.com/reel/DeNZ7qhMcn3/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#granfinonocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 938272,
+      "reach": 675170,
+      "likes": 93891,
+      "comments": 1936,
+      "shares": 35729,
+      "saves": 5485,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18096480602116953",
+      "date": "2026-10-07",
+      "caption": "QUANDO A CAMISA DO BRASIL VAI TER A SEXTA ESTRELA?\n\nRomário falou do assunto na Charla e deu essa declaração. Concordam ",
+      "url": "https://www.instagram.com/p/DeNYf_BPn_T/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 615,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17905856052592377",
+      "date": "2026-10-07",
+      "caption": "“ESSE É O MEU MOMENTO!” 🤩\n\nO Baixo contou pra gente como foi a experiência de voltar a uma Copa nos EUA, mas dessa vez d",
+      "url": "https://www.instagram.com/reel/DeNVrLNslwZ/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#granfinonocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 44217,
+      "reach": 49379,
+      "likes": 2981,
+      "comments": 11,
+      "shares": 42,
+      "saves": 60,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18009791828974895",
+      "date": "2026-10-07",
+      "caption": "ROMÁRIO FALOU DO TRABALHO DO ANCELOTTI NA SELEÇÃO!\n\nO craque comentou na Charla sobre o trabalho do treinador italiano n",
+      "url": "https://www.instagram.com/p/DeNTdEMxs5E/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 466,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18115501615824265",
+      "date": "2026-10-07",
+      "caption": "Charla #769 - Romário\n\nO CARA é o convidado da nossa primeira Charla na casa nova. Ele dispensa apresentações, né?!\n\nVem",
+      "url": "https://www.instagram.com/p/DeNOxxBJIO3/",
+      "tags": [
+        "#769"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 932,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17946845709068845",
+      "date": "2026-10-07",
+      "caption": "JOANNA DE ASSIS REVELA CONVERSA POR TELEFONE COM MANCUSO!\n\nDepois de receber contato de uma pessoa que se dizia ser da A",
+      "url": "https://www.instagram.com/reel/DeNC-K3soWM/",
+      "tags": [
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 34772,
+      "reach": 53158,
+      "likes": 3569,
+      "comments": 91,
+      "shares": 259,
+      "saves": 104,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18090155276237534",
+      "date": "2026-10-07",
+      "caption": "QUAL TIPO DE JOGADOR ERA ALVO DO MANCUSO PARA FAZER O CONTATO? \n\n#BrahmaNoCharla #ForneriaNoCharla #AbsolutNoCharla",
+      "url": "https://www.instagram.com/reel/DeNAgyju9p2/",
+      "tags": [
+        "#brahmanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 20042,
+      "reach": 24641,
+      "likes": 1312,
+      "comments": 27,
+      "shares": 42,
+      "saves": 31,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18226993663333847",
+      "date": "2026-10-07",
+      "caption": "DIA DE GALA NOS ESTÚDIOS CHARLA! 🤩🏆\n\nO primeiro convidado da nossa nova casa é ele, O CARA! Já sabe que com ele tem rese",
+      "url": "https://www.instagram.com/p/DeM93oaRBHB/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 241,
+      "comments": 20,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "rYpzPcSKFsQ",
+      "date": "2026-10-07",
+      "caption": "VASCO AVANÇA PELA NOVA SAF! BOTAFOGO COM ZIYECH! COMPRA DE DIPLOMAS FALSOS! | CHARLA DE QUINTA #390",
+      "type": "VIDEO",
+      "views": 57944,
+      "likes": 1291,
+      "comments": 9,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -253,13 +687,217 @@
       }
     },
     {
-      "id": "KNShWs6vglk",
-      "date": "2026-10-06",
-      "caption": "ESTAMOS DE VOLTA E DE CASA NOVA! VENHA CONHECER O NOVO ESTÚDIO DO CHARLA! | CHARLA DE QUINTA #389",
+      "id": "0OWRTtQSN8U",
+      "date": "2026-10-07",
+      "caption": "Charla #769 - Romário ",
       "type": "VIDEO",
-      "views": 88026,
-      "likes": 2931,
-      "comments": 57,
+      "views": 111784,
+      "likes": 3496,
+      "comments": 41,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "1FJOokibQKc",
+      "date": "2026-10-07",
+      "caption": "CANTARELLI FAZ CRÍTICAS À IMPRENSA ESPORTIVA E COBRA CRÉDITOS NOS CONTEÚDOS",
+      "type": "VIDEO",
+      "views": 22977,
+      "likes": 460,
+      "comments": 25,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "tJjtAFqxeeE",
+      "date": "2026-10-07",
+      "caption": "QUAL O TAMANHO DO GABIGOL NA HISTÓRIA DO FLAMENGO?",
+      "type": "VIDEO",
+      "views": 10742,
+      "likes": 180,
+      "comments": 14,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "nntYOj9doZY",
+      "date": "2026-10-07",
+      "caption": "POLÊMICA! VASCO É BARRADO DE JOGAR NO MARACANÃ",
+      "type": "VIDEO",
+      "views": 54112,
+      "likes": 1119,
+      "comments": 378,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "hTsBpXcJqHY",
+      "date": "2026-10-07",
+      "caption": "BETÃO E CANTARELLI SE EMOCIONAM NA INAUGURAÇÃO DO NOVO ESTÚDIO DO CHARLA",
+      "type": "VIDEO",
+      "views": 15472,
+      "likes": 565,
+      "comments": 24,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "jbwhNZieiEk",
+      "date": "2026-10-07",
+      "caption": "CONHEÇA O NOVO ESTÚDIO DO CHARLA PODCAST!",
+      "type": "VIDEO",
+      "views": 13797,
+      "likes": 610,
+      "comments": 58,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "QLzT8lxxjEA",
+      "date": "2026-10-07",
+      "caption": "VASCO TEM LIMINAR NEGADA! FLA CONTESTA O MP! TITE BEM EM CLÁSSICOS?",
+      "type": "VIDEO",
+      "views": 11241,
+      "likes": 183,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
