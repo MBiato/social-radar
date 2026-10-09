@@ -1,117 +1,158 @@
 {
-  "generated_at": "2026-10-05T19:05:07.718323",
-  "period_start": "2026-09-28",
-  "period_end": "2026-10-04",
-  "week_label": "2026-09-28 a 2026-10-04",
+  "generated_at": "2026-10-09T20:41:17.336135",
+  "period_start": "2026-10-02",
+  "period_end": "2026-10-08",
+  "week_label": "2026-10-02 a 2026-10-08",
   "metrics": {
-    "total_posts": 205,
+    "total_posts": 175,
     "instagram_posts": 73,
-    "youtube_posts": 132,
-    "total_views": 10294749,
-    "total_likes": 584152,
-    "total_comments": 17082
+    "youtube_posts": 102,
+    "total_views": 9242926,
+    "total_likes": 580905,
+    "total_comments": 16276
   },
   "sponsor_stats": {
     "#brahmanocharla": {
-      "posts": 39,
-      "views": 5503242,
-      "likes": 373946,
-      "comments": 11812,
+      "posts": 48,
+      "views": 5622559,
+      "likes": 443681,
+      "comments": 11055,
       "tag": "#brahmanocharla"
     },
     "#absolutnocharla": {
-      "posts": 32,
-      "views": 4850910,
-      "likes": 328970,
-      "comments": 11076,
+      "posts": 33,
+      "views": 4937352,
+      "likes": 393946,
+      "comments": 10397,
       "tag": "#absolutnocharla"
     },
-    "#fornerianocharla": {
-      "posts": 30,
-      "views": 4588339,
-      "likes": 281743,
-      "comments": 8752,
-      "tag": "#fornerianocharla"
-    },
-    "#melittanocharla": {
-      "posts": 30,
-      "views": 4542019,
-      "likes": 320650,
-      "comments": 7506,
-      "tag": "#melittanocharla"
-    },
     "#assainocharla": {
-      "posts": 28,
-      "views": 4303169,
-      "likes": 320358,
-      "comments": 10710,
+      "posts": 31,
+      "views": 4794994,
+      "likes": 388651,
+      "comments": 10019,
       "tag": "#assainocharla"
     },
-    "#milhaodocharla": {
+    "#melittanocharla": {
+      "posts": 23,
+      "views": 2821230,
+      "likes": 202102,
+      "comments": 4599,
+      "tag": "#melittanocharla"
+    },
+    "#fornerianocharla": {
+      "posts": 19,
+      "views": 1796104,
+      "likes": 105566,
+      "comments": 3869,
+      "tag": "#fornerianocharla"
+    },
+    "#granfinonocharla": {
+      "posts": 7,
+      "views": 1661231,
+      "likes": 153081,
+      "comments": 2878,
+      "tag": "#granfinonocharla"
+    },
+    "#texaconocharla": {
+      "posts": 5,
+      "views": 500329,
+      "likes": 40008,
+      "comments": 1194,
+      "tag": "#texaconocharla"
+    },
+    "#penaltynocharla": {
       "posts": 2,
-      "views": 263640,
-      "likes": 19862,
-      "comments": 272,
-      "tag": "#milhaodocharla"
+      "views": 154502,
+      "likes": 10535,
+      "comments": 205,
+      "tag": "#penaltynocharla"
+    },
+    "#brahamnocharla": {
+      "posts": 1,
+      "views": 70114,
+      "likes": 4137,
+      "comments": 26,
+      "tag": "#brahamnocharla"
+    },
+    "#charlanamix": {
+      "posts": 5,
+      "views": 54007,
+      "likes": 833,
+      "comments": 10,
+      "tag": "#charlanamix"
+    },
+    "#charlanopremiere": {
+      "posts": 1,
+      "views": 0,
+      "likes": 48,
+      "comments": 6,
+      "tag": "#charlanopremiere"
+    },
+    "#charlafutebol": {
+      "posts": 3,
+      "views": 0,
+      "likes": 498,
+      "comments": 7,
+      "tag": "#charlafutebol"
+    },
+    "#770": {
+      "posts": 1,
+      "views": 0,
+      "likes": 481,
+      "comments": 1,
+      "tag": "#770"
+    },
+    "#769": {
+      "posts": 1,
+      "views": 0,
+      "likes": 1056,
+      "comments": 32,
+      "tag": "#769"
     },
     "#768": {
       "posts": 1,
       "views": 0,
-      "likes": 310,
+      "likes": 331,
       "comments": 7,
       "tag": "#768"
     },
     "#767": {
       "posts": 1,
       "views": 0,
-      "likes": 1621,
-      "comments": 71,
+      "likes": 1676,
+      "comments": 72,
       "tag": "#767"
     },
     "#766": {
       "posts": 1,
       "views": 0,
-      "likes": 1200,
-      "comments": 13,
+      "likes": 1236,
+      "comments": 14,
       "tag": "#766"
-    },
-    "#764": {
-      "posts": 1,
-      "views": 0,
-      "likes": 1269,
-      "comments": 18,
-      "tag": "#764"
-    },
-    "#765": {
-      "posts": 1,
-      "views": 0,
-      "likes": 2161,
-      "comments": 18,
-      "tag": "#765"
-    },
-    "#763": {
-      "posts": 1,
-      "views": 0,
-      "likes": 1139,
-      "comments": 27,
-      "tag": "#763"
-    },
-    "#762": {
-      "posts": 1,
-      "views": 0,
-      "likes": 701,
-      "comments": 18,
-      "tag": "#762"
-    },
-    "#761": {
-      "posts": 1,
-      "views": 0,
-      "likes": 112,
-      "comments": 3,
-      "tag": "#761"
     }
   },
   "top_posts": [
+    {
+      "id": "18085422908315556",
+      "date": "2026-10-07",
+      "caption": "COM ELE IA SER DIFERENTE! 😳🤣\n\nA polêmica na seleção de Portugal não para! E nessa treta entre CR7 e Jorge Jesus, Romário",
+      "url": "https://www.instagram.com/reel/DeNZ7qhMcn3/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#granfinonocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 1262432,
+      "reach": 879666,
+      "likes": 125917,
+      "comments": 2359,
+      "shares": 44165,
+      "saves": 7029,
+      "platform": "instagram"
+    },
     {
       "id": "18086894162695764",
       "date": "2026-10-02",
@@ -124,48 +165,12 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 610214,
-      "reach": 418616,
-      "likes": 57655,
-      "comments": 2195,
-      "shares": 6855,
-      "saves": 2479,
-      "platform": "instagram"
-    },
-    {
-      "id": "17924549985203188",
-      "date": "2026-09-28",
-      "caption": "A DUPLA VELLOSO E NETO COMO JOGADORES E COMO COMUNICADORES!\n\nComo começou o contato entre os dois, as histórias de quand",
-      "url": "https://www.instagram.com/reel/Dd1xbOQMjVV/",
-      "tags": [
-        "#melittanocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 594521,
-      "reach": 395288,
-      "likes": 41116,
-      "comments": 406,
-      "shares": 1161,
-      "saves": 1167,
-      "platform": "instagram"
-    },
-    {
-      "id": "18153616999474456",
-      "date": "2026-09-29",
-      "caption": "ESSE PROGRAMA FOI HISTÓRICO! KKKKKKKKKKKKK 🤣🤣\n\nVelloso falou do dia em que o Neto perdeu a cabeça e mandou recado para o",
-      "url": "https://www.instagram.com/reel/Dd4QIM0PhDP/",
-      "tags": [
-        "#melittanocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 396074,
-      "reach": 266874,
-      "likes": 27535,
-      "comments": 197,
-      "shares": 1804,
-      "saves": 779,
+      "views": 619960,
+      "reach": 424258,
+      "likes": 58402,
+      "comments": 2216,
+      "shares": 6987,
+      "saves": 2464,
       "platform": "instagram"
     },
     {
@@ -180,51 +185,12 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 386542,
-      "reach": 264227,
-      "likes": 27451,
-      "comments": 223,
-      "shares": 2491,
-      "saves": 906,
-      "platform": "instagram"
-    },
-    {
-      "id": "18128935696804786",
-      "date": "2026-10-01",
-      "caption": "NÃO DEU PRA CONTER A EMOÇÃO! 🥹\n\nAo relembrar da sua trajetória, Everson até tentou, mas não conseguiu segurar as lágrima",
-      "url": "https://www.instagram.com/reel/Dd9291thYY1/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 341573,
-      "reach": 238078,
-      "likes": 28879,
-      "comments": 761,
-      "shares": 3509,
-      "saves": 878,
-      "platform": "instagram"
-    },
-    {
-      "id": "18141571603611895",
-      "date": "2026-09-29",
-      "caption": "QUEM ERAM OS CRAQUES DO ROCKGOL? 🤘⚽️\n\nQuem aí lembra dos craques que jogavam no Rockgol? Supla era um deles, e ainda aju",
-      "url": "https://www.instagram.com/reel/Dd4l72Su-5Z/",
-      "tags": [
-        "#brahmanocharla",
-        "#absolutnocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 282700,
-      "reach": 187167,
-      "likes": 16249,
-      "comments": 483,
-      "shares": 1713,
-      "saves": 388,
+      "views": 399461,
+      "reach": 272749,
+      "likes": 28272,
+      "comments": 228,
+      "shares": 2610,
+      "saves": 908,
       "platform": "instagram"
     },
     {
@@ -239,32 +205,27 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 272791,
-      "reach": 191727,
-      "likes": 22361,
-      "comments": 1699,
-      "shares": 2938,
-      "saves": 1081,
+      "views": 314345,
+      "reach": 220953,
+      "likes": 26668,
+      "comments": 1853,
+      "shares": 3614,
+      "saves": 1264,
       "platform": "instagram"
     },
     {
-      "id": "17916333882454887",
-      "date": "2026-10-01",
-      "caption": "“EU TENHO CAPACIDADE E QUALIDADE PRA SER LEMBRADO!” 🇧🇷👀🔥\n\nEntre os principais goleiros do Brasil a algumas temporadas, E",
-      "url": "https://www.instagram.com/reel/Dd97jfLpINt/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
+      "id": "17938961922376262",
+      "date": "2026-10-07",
+      "caption": "JOANNA DE ASSIS NO CHARLA!\n\nHoje é a grande estreia da nossa Joanna no Charla e ela já chega repercutindo essa bomba que",
+      "url": "https://www.instagram.com/reel/DeMYkUGh95K/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 269725,
-      "reach": 166952,
-      "likes": 19345,
-      "comments": 572,
-      "shares": 328,
-      "saves": 392,
+      "views": 279008,
+      "reach": 260139,
+      "likes": 23200,
+      "comments": 866,
+      "shares": 17745,
+      "saves": 737,
       "platform": "instagram"
     },
     {
@@ -279,12 +240,12 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 259850,
-      "reach": 180180,
-      "likes": 8867,
-      "comments": 123,
-      "shares": 1154,
-      "saves": 424,
+      "views": 269502,
+      "reach": 186463,
+      "likes": 9098,
+      "comments": 128,
+      "shares": 1188,
+      "saves": 420,
       "platform": "instagram"
     },
     {
@@ -299,12 +260,65 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 255690,
-      "reach": 179157,
-      "likes": 28621,
-      "comments": 557,
-      "shares": 2866,
-      "saves": 783,
+      "views": 258830,
+      "reach": 180140,
+      "likes": 28876,
+      "comments": 558,
+      "shares": 2904,
+      "saves": 772,
+      "platform": "instagram"
+    },
+    {
+      "id": "18101774630346722",
+      "date": "2026-10-08",
+      "caption": "OS DESDOBRAMENTOS DA APURAÇÃO SOBRE OS DIPLOMAS FALSOS!\n\nJoanna de Assis explicou na Charla de Quinta de hoje sobre a si",
+      "url": "https://www.instagram.com/reel/DePcTs6N6Pf/",
+      "tags": [
+        "#texaconocharla",
+        "#fornerianocharla",
+        "#granfinonocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 176345,
+      "reach": 126164,
+      "likes": 5992,
+      "comments": 214,
+      "shares": 894,
+      "saves": 181,
+      "platform": "instagram"
+    },
+    {
+      "id": "OT1jwfsA80M",
+      "date": "2026-10-04",
+      "caption": "ALBERTO VALENTIM FALA DA TRETA COM THIAGO GALHARDO NO VASCO",
+      "type": "VIDEO",
+      "views": 158448,
+      "likes": 2016,
+      "comments": 55,
+      "shares": 62,
+      "saves": 0,
+      "watch_minutes": 233281,
+      "avg_view_duration_sec": 203,
+      "platform": "youtube"
+    },
+    {
+      "id": "17983262457085799",
+      "date": "2026-10-05",
+      "caption": "TEM QUE TREINAR, JOGADOR! 🤣\n\nSe liga nessa resenha do Fred com o Jhon Durán.\n\n#BrahmaNoCharla #AssaiNoCharla #MelittaNoC",
+      "url": "https://www.instagram.com/reel/DeHz0vePjxw/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 129998,
+      "reach": 84569,
+      "likes": 5873,
+      "comments": 39,
+      "shares": 884,
+      "saves": 154,
       "platform": "instagram"
     }
   ],
