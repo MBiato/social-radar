@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-12T19:39:01.064880",
-  "date": "2026-10-11",
+  "generated_at": "2026-10-13T17:23:30.536561",
+  "date": "2026-10-12",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 18,
+    "total_posts": 25,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,47 +12,56 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18110749130598221",
-    "melhor_post_caption": "\"REMO CONSEGUIU ANULAR OS PONTOS FORTES DO VASCO!\"\n\nVictor Covarde elogiou a partida do Remo e comen",
-    "melhor_post_views": 75320,
+    "melhor_post_id": "18035475164910304",
+    "melhor_post_caption": "AS HISTÓRIAS COM O SEEDORF SÃO BOAS DEMAIS! 😂\n\nNovo treinador do Corinthians, o holandês marcou époc",
+    "melhor_post_views": 681364,
     "sponsor_stats": {
-      "#brahmanocharla": {
-        "posts": 2,
-        "views": 105423,
-        "likes": 5571,
-        "comments": 430
-      },
       "#charlafutebol": {
-        "posts": 4,
-        "views": 254824,
-        "likes": 8047,
-        "comments": 1791
+        "posts": 10,
+        "views": 362872,
+        "likes": 16676,
+        "comments": 708
+      },
+      "#melittanocharla": {
+        "posts": 1,
+        "views": 136114,
+        "likes": 10129,
+        "comments": 122
+      },
+      "#brahmanocharla": {
+        "posts": 7,
+        "views": 147802,
+        "likes": 7358,
+        "comments": 494
       },
       "#charlanopremiere": {
         "posts": 2,
-        "views": 10047,
-        "likes": 365,
-        "comments": 56
+        "views": 141984,
+        "likes": 7332,
+        "comments": 135
+      },
+      "#absolutnocharla": {
+        "posts": 2,
+        "views": 260914,
+        "likes": 21759,
+        "comments": 728
       }
     }
   },
   "posts": [
     {
-      "id": "18110749130598221",
-      "date": "2026-10-11",
-      "caption": "\"REMO CONSEGUIU ANULAR OS PONTOS FORTES DO VASCO!\"\n\nVictor Covarde elogiou a partida do Remo e comentou sobre o jogo do ",
-      "url": "https://www.instagram.com/reel/DeVYzYVBvlg/",
-      "tags": [
-        "#brahmanocharla",
-        "#charlafutebol"
-      ],
+      "id": "18035475164910304",
+      "date": "2026-10-12",
+      "caption": "AS HISTÓRIAS COM O SEEDORF SÃO BOAS DEMAIS! 😂\n\nNovo treinador do Corinthians, o holandês marcou época no Botafogo e algu",
+      "url": "https://www.instagram.com/reel/DeZ7CV_vVH1/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 75320,
-      "reach": 56266,
-      "likes": 3925,
-      "comments": 334,
-      "shares": 317,
-      "saves": 59,
+      "views": 681364,
+      "reach": 449900,
+      "likes": 38434,
+      "comments": 533,
+      "shares": 10819,
+      "saves": 1375,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -78,20 +87,372 @@
       }
     },
     {
-      "id": "18096025385445711",
-      "date": "2026-10-11",
-      "caption": "O ESQUEMA DE JOGO DO VASCO FICOU PREVISÍVEL? \n\nApós o jogo, Enzo Grisalho falou sobre como o Remo soube se defender cont",
-      "url": "https://www.instagram.com/reel/DeVWxt8BQC9/",
+      "id": "17919728394242845",
+      "date": "2026-10-12",
+      "caption": "SE LIGA NA AGENDA DA SEMANA COM COBERTURA NA ARGENTINA! ✈️🇧🇷🇦🇷",
+      "url": "https://www.instagram.com/p/DeZsQpSvAcN/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 212,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17949995385298838",
+      "date": "2026-10-12",
+      "caption": "É DIA DE JOGÃO NO COUTO PEREIRA. QUEM VAI SAIR COM A VITÓRIA? 👀\n\nCoritiba e Botafogo se enfrentam hoje em um daqueles jo",
+      "url": "https://www.instagram.com/p/DeZomAuBcNo/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 240,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18177546808376804",
+      "date": "2026-10-12",
+      "caption": "RODRIGO CAIO TINHA FUTEBOL PRA ATUAR ATÉ HOJE? \n\nO ex-zagueiro falou das lesões que sofreu na carreira, especialmente no",
+      "url": "https://www.instagram.com/reel/DeZmbAVsMk5/",
+      "tags": [
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 136114,
+      "reach": 92273,
+      "likes": 10129,
+      "comments": 122,
+      "shares": 782,
+      "saves": 253,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18098066216105126",
+      "date": "2026-10-12",
+      "caption": "VEM COM CALMA, CANOBBIO! 🥵\n\nPouco repertório tem o Pedro, né?!\n\nVocê me liga e diiiiiiiiz… 🤪\n\n#CharlaFutebol",
+      "url": "https://www.instagram.com/reel/DeYNqmWheFC/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 176737,
+      "reach": 126197,
+      "likes": 7860,
+      "comments": 199,
+      "shares": 2414,
+      "saves": 100,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17913720285531339",
+      "date": "2026-10-12",
+      "caption": "FLUMINENSE FOI MUITO PREJUDICADO NO MARACANÃ! 😰\n\nA análise de Matheus Emanuel também falou sobre a arbitragem do clássic",
+      "url": "https://www.instagram.com/reel/DeYNG8cJEjc/",
       "tags": [
         "#brahmanocharla",
         "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 30103,
-      "reach": 22227,
-      "likes": 1646,
-      "comments": 96,
-      "shares": 57,
+      "views": 54168,
+      "reach": 40485,
+      "likes": 3462,
+      "comments": 395,
+      "shares": 464,
+      "saves": 69,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18339703972284168",
+      "date": "2026-10-12",
+      "caption": "FLAMENGO ACHOU O SUBSTITUTO DO ARRASCAETA? 👀\n\nMatheus Emanuel, na sua análise pós-jogo, também destacou a importância do",
+      "url": "https://www.instagram.com/reel/DeYLztjB7lk/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 9748,
+      "reach": 7741,
+      "likes": 577,
+      "comments": 19,
+      "shares": 10,
+      "saves": 6,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18635148214054006",
+      "date": "2026-10-12",
+      "caption": "CARRASCAL É IMPORTANTE DEMAIS PRO FLAMENGO! 🔴⚫️\n\nAzevedo fez a sua análise do Fla x Flu de hoje, e destacou a participaç",
+      "url": "https://www.instagram.com/reel/DeYKH-_O6sX/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 17264,
+      "reach": 13977,
+      "likes": 429,
+      "comments": 36,
+      "shares": 2,
+      "saves": 15,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18434532151183500",
+      "date": "2026-10-12",
+      "caption": "TEM MELHORES MOMENTOS DO DERBY CHEGANDO TAMBÉM! 🟢⚪️⚫️\n\nConfere aí como foi a goleada do Verdão sobre o Timão no Derby de",
+      "url": "https://www.instagram.com/reel/DeYHCGSu9Tk/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 95044,
+      "reach": 65201,
+      "likes": 6744,
+      "comments": 106,
+      "shares": 357,
+      "saves": 142,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18067123364784459",
+      "date": "2026-10-12",
+      "caption": "FOI AQUI QUE PEDIRAM OS MELHORES MOMENTOS DO FLAxFLU? 👀🔥\n\nO clássico pegou fogo, e o Mengão levou a melhor. Mas o Flu ta",
+      "url": "https://www.instagram.com/reel/DeYEgPlNxcG/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 38333,
+      "reach": 28173,
+      "likes": 1218,
+      "comments": 11,
+      "shares": 17,
+      "saves": 12,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18095736893396194",
+      "date": "2026-10-12",
+      "caption": "PAPO DE UNDAIÁ NO FLA x FLU! 🤩\n\nCarrascal é o nome do único gol do clássico carioca desse domingo, com uma bela assistên",
+      "url": "https://www.instagram.com/reel/DeYBfVvPN29/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 37933,
+      "reach": 30035,
+      "likes": 2132,
+      "comments": 10,
+      "shares": 24,
       "saves": 20,
       "platform": "instagram",
       "analysis": {
@@ -118,316 +479,210 @@
       }
     },
     {
-      "id": "18129531232685336",
-      "date": "2026-10-11",
-      "caption": "CLIMA TRANQUILO NO DERBY! 👀\n\nDo primeiro ao último minuto, os jogadores de palmeiras e Corinthians não tiraram o pé de n",
-      "url": "https://www.instagram.com/reel/DeX3NzCPyO5/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 313367,
-      "reach": 203920,
-      "likes": 11264,
-      "comments": 379,
-      "shares": 1134,
-      "saves": 290,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18055853123583691",
-      "date": "2026-10-11",
-      "caption": "AINDA TEVE PÊNALTI PERDIDO NO DERBY!\n\nNa volta de Paulinho, o atacante do Palmeiras teve a chance de ampliar ainda mais ",
-      "url": "https://www.instagram.com/reel/DeXyhkkvUzN/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 141529,
-      "reach": 102243,
-      "likes": 2063,
-      "comments": 135,
-      "shares": 74,
-      "saves": 31,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18098192597428199",
-      "date": "2026-10-11",
-      "caption": "OLÉ NO DERBY!\n\nA torcida do Palmeiras foi à loucura e gritou olé ainda no começo do segundo tempo!",
-      "url": "https://www.instagram.com/reel/DeXwT_dpm55/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 38561,
-      "reach": 29547,
-      "likes": 2097,
-      "comments": 13,
-      "shares": 71,
-      "saves": 25,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18140444461620899",
-      "date": "2026-10-11",
-      "caption": "GOLEADA DO VERDÃO NO DERBY!\n\nGiay aproveita sobra de bola e empurra pra dentro do gol do Corinthians!\n\n🎙️ Bruno Cantarel",
-      "url": "https://www.instagram.com/reel/DeXt1uaBb2s/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 54665,
-      "reach": 43723,
-      "likes": 4879,
-      "comments": 39,
-      "shares": 553,
-      "saves": 79,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18127638223896563",
-      "date": "2026-10-11",
-      "caption": "GOL CONTRA NO DERBY! \n\nBidu vacila e manda pra dentro do próprio gol no clássico!\n\n🎙️ Bruno Cantarelli",
-      "url": "https://www.instagram.com/reel/DeXsri-BbwG/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 130043,
-      "reach": 94685,
-      "likes": 5574,
-      "comments": 159,
-      "shares": 747,
-      "saves": 81,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18063709550520983",
-      "date": "2026-10-11",
-      "caption": "GIAY AMPLIA! \n\nO Palmeiras chega tocando a bola na área do Corinthians e amplia no Derby! \n\n🎙️ Bruno Cantarelli",
-      "url": "https://www.instagram.com/reel/DeXqw8iBL-A/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 63167,
-      "reach": 49830,
-      "likes": 3905,
-      "comments": 43,
-      "shares": 289,
-      "saves": 42,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18117464852089676",
-      "date": "2026-10-11",
-      "caption": "VERDÃO NA FRENTE NO DERBY!\n\nBarboza pula mais alto e marca um golaço em cima do Corinthians! \n\n🎙️ Bruno Cantarelli",
-      "url": "https://www.instagram.com/reel/DeXo_DWvdZm/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 64471,
-      "reach": 48518,
-      "likes": 4022,
-      "comments": 50,
-      "shares": 105,
-      "saves": 36,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18206651818332185",
-      "date": "2026-10-11",
-      "caption": "LANCE POLÊMICO NO MARACA! 👀\n\nTricolores pediram a ação do VAR nesse lance do Pulgar em cima do Castillo! O árbitro Rafae",
-      "url": "https://www.instagram.com/reel/DeXo3pOBEeW/",
-      "tags": [
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 149401,
-      "reach": 95890,
-      "likes": 2421,
-      "comments": 1360,
-      "shares": 731,
-      "saves": 78,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17925336939201472",
-      "date": "2026-10-11",
-      "caption": "DOMINGO + DERBY PAULISTA = CHARLA NO PREMIERE! 😎🔥\n\nÉ dia de Palmeiras e Corinthians, e você vai conferir todas as emoçõe",
-      "url": "https://www.instagram.com/p/DeXdNWEshSu/",
+      "id": "18165221944489924",
+      "date": "2026-10-12",
+      "caption": "CORINTHIANS DESCONTA NO FINAL! ⚪️⚫️\n\nNo fim do jogo, Gustavo Henrique marcou o gol do Corinthians, tirando o placar do z",
+      "url": "https://www.instagram.com/reel/DeX99xMhnfB/",
       "tags": [
         "#charlanopremiere"
       ],
+      "type": "VIDEO",
+      "views": 46940,
+      "reach": 38726,
+      "likes": 588,
+      "comments": 29,
+      "shares": 2,
+      "saves": 11,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18430775626148330",
+      "date": "2026-10-12",
+      "caption": "\"É UMA APOSTA GIGANTESCA, ARRISCADA E QUE EU NÃO ENTENDI!\"\n\nJoanna de Assis participou da Charla de Quinta e falou da co",
+      "url": "https://www.instagram.com/reel/DeaZGm9uixh/",
+      "tags": [
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 143139,
+      "reach": 105597,
+      "likes": 6066,
+      "comments": 247,
+      "shares": 615,
+      "saves": 128,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18138110020618675",
+      "date": "2026-10-12",
+      "caption": "\"VASCO É UMA INSTITUIÇÃO MUITO PESADA!\"\n\nComo jornalista e vascaíno, o nosso Azevedo abriu o coração sobre a cobertura i",
+      "url": "https://www.instagram.com/reel/DeaVkegM90G/",
+      "tags": [
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 117775,
+      "reach": 77687,
+      "likes": 15693,
+      "comments": 481,
+      "shares": 932,
+      "saves": 201,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18069595148595913",
+      "date": "2026-10-12",
+      "caption": "Rodrigo Machado falou do Botafogo após o empate por 1 a 1 contra o Coritiba. Confere aí!\n\n#BrahmaNoCharla #CharlaFutebol",
+      "url": "https://www.instagram.com/reel/DeaOF-FP2-g/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 12063,
+      "reach": 9645,
+      "likes": 321,
+      "comments": 29,
+      "shares": 5,
+      "saves": 2,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17936628162388268",
+      "date": "2026-10-12",
+      "caption": "ESTAMOS NA ARGENTINA PRA ACOMPANHAR FLAMENGO E VASCO! ✈️🇦🇷\n\nEnquanto os cariocas se preparam para jogar as semis da Sula",
+      "url": "https://www.instagram.com/reel/DeaIb0rpplM/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 22095,
+      "reach": 17174,
+      "likes": 1885,
+      "comments": 22,
+      "shares": 17,
+      "saves": 10,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18132704035675752",
+      "date": "2026-10-12",
+      "caption": "Agenda de jogos da semana! 🔥⚽️",
+      "url": "https://www.instagram.com/p/DeaEenwJzw2/",
+      "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 106,
-      "comments": 34,
+      "likes": 116,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -455,20 +710,21 @@
       }
     },
     {
-      "id": "18091577618228428",
-      "date": "2026-10-11",
-      "caption": "DERBY PAULISTA NO CHARLA NO PREMIERE! 📺🔥\n\nVem, que vai ser jogaço! E aí, qual é o seu palpite?\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DeXclm-hDaZ/",
+      "id": "18355716661173574",
+      "date": "2026-10-12",
+      "caption": "DANILO EMPATA PARA O FOGÃO! 🔥⚫\n\nDe pé em pé o Botafogo chegou ao ataque, até que sobrou para Danilo bater bonito, contar",
+      "url": "https://www.instagram.com/reel/DeaCnZgtjk7/",
       "tags": [
-        "#charlanopremiere"
+        "#brahmanocharla",
+        "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 10047,
-      "reach": 8442,
-      "likes": 259,
-      "comments": 22,
+      "views": 8830,
+      "reach": 7602,
+      "likes": 354,
+      "comments": 4,
       "shares": 0,
-      "saves": 3,
+      "saves": 4,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -494,21 +750,56 @@
       }
     },
     {
-      "id": "18112341503118492",
-      "date": "2026-10-11",
-      "caption": "HOJE TEM CLÁSSICO CARIOCA NO CHARLA FUTEBOL!🔥🔥\n\nNessa rodada pegando fogo, tem Fla x Flu no Maraca! Em jogo, a briga pel",
-      "url": "https://www.instagram.com/p/DeXI0QhhDun/",
+      "id": "18648781492047347",
+      "date": "2026-10-12",
+      "caption": "O COXA ABRE O PLACAR! ⚽🟢\n\nDentro de casa, o Coritiba se lançou ao ataque e, no escanteio, aproveitou do bate rebate dent",
+      "url": "https://www.instagram.com/reel/DeaBjdVgAHg/",
       "tags": [
+        "#brahmanocharla",
         "#charlafutebol"
       ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 55,
+      "type": "VIDEO",
+      "views": 7796,
+      "reach": 6386,
+      "likes": 83,
+      "comments": 1,
+      "shares": 1,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Lrf557xDi8o",
+      "date": "2026-10-12",
+      "caption": "CORITIBA X BOTAFOGO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "type": "VIDEO",
+      "views": 66138,
+      "likes": 534,
       "comments": 1,
       "shares": 0,
       "saves": 0,
-      "platform": "instagram",
+      "platform": "youtube",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -533,12 +824,12 @@
       }
     },
     {
-      "id": "xr_zenw1kOs",
-      "date": "2026-10-11",
-      "caption": "RODRIGO CAIO LIGA AO VIVO PARA FILIPE LUÍS NO CHARLA",
+      "id": "KUHVi7tyZOs",
+      "date": "2026-10-12",
+      "caption": "CLÁSSICOS PEGARAM FOGO NO BRASILEIRO! SEMANA DECISIVA DE SULA E LIBERTADORES | CHARLA DE QUINTA #393",
       "type": "VIDEO",
-      "views": 29851,
-      "likes": 899,
+      "views": 41575,
+      "likes": 991,
       "comments": 10,
       "shares": 0,
       "saves": 0,
@@ -567,49 +858,13 @@
       }
     },
     {
-      "id": "QoGedgj4D5Y",
-      "date": "2026-10-11",
-      "caption": "ENZO CRITICA ATUAÇÃO DO VASCO CONTRA O REMO ",
+      "id": "G3IkcF-9RdY",
+      "date": "2026-10-12",
+      "caption": "MATHEUS MANDA A REAL SOBRE FLAMENGO 1 X 0 FLUMINENSE",
       "type": "VIDEO",
-      "views": 10558,
-      "likes": 240,
-      "comments": 21,
-      "shares": 1,
-      "saves": 0,
-      "watch_minutes": 4584,
-      "avg_view_duration_sec": 228,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "plx5K0z_yvw",
-      "date": "2026-10-11",
-      "caption": "NARRAÇÃO ABSURDA DE BRUNO CANTARELLI NA GOLEADA DO PALMEIRAS CONTRA O CORINTHIANS",
-      "type": "VIDEO",
-      "views": 12897,
-      "likes": 442,
-      "comments": 23,
+      "views": 14306,
+      "likes": 266,
+      "comments": 75,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -637,47 +892,81 @@
       }
     },
     {
-      "id": "eF1xyX_anp8",
-      "date": "2026-10-11",
-      "caption": "VEJA A NARRAÇÃO DO GOL QUE DEU A VITÓRIA DO FLAMENGO EM CIMA DO FLUMINENSE",
+      "id": "MY7XbSXT7o4",
+      "date": "2026-10-12",
+      "caption": "BRUNO AZEVEDO ANALISA A VITÓRIA DO FLAMENGO NO FLA FLU",
       "type": "VIDEO",
-      "views": 2751,
-      "likes": 97,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "PjWlCYO1axw",
-      "date": "2026-10-11",
-      "caption": "FLAMENGO X FLUMINENSE | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
-      "type": "VIDEO",
-      "views": 28011,
-      "likes": 297,
+      "views": 2701,
+      "likes": 33,
       "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "XG3ZIkOSblY",
+      "date": "2026-10-12",
+      "caption": "FASE RUIM PODE AMEAÇAR O FUTURO DO BOTAFOGO NO BRASILEIRÃO?",
+      "type": "VIDEO",
+      "views": 3110,
+      "likes": 43,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "rJ1BswC503c",
+      "date": "2026-10-12",
+      "caption": "CONFIRA A NARRAÇÃO DE CORITIBA 1 X 1 BOTAFOGO",
+      "type": "VIDEO",
+      "views": 997,
+      "likes": 6,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
