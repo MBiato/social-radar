@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T14:54:23.756559",
-  "date": "2026-10-13",
+  "generated_at": "2026-10-15T14:47:06.469854",
+  "date": "2026-10-14",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 17,
+    "total_posts": 36,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,40 +12,52 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18027261629699049",
-    "melhor_post_caption": "O GUI PARTICIPOU DA CHARLA DE QUINTA E TÁ CONFIANTE!\n\nSe o maior vascaíno do planeta falou, tá falad",
-    "melhor_post_views": 115004,
+    "melhor_post_id": "17991750102099968",
+    "melhor_post_caption": "NÃO DEU PRA RESISTIR À INVASÃO VASCAÍNA! 🔥💢\n\nOs argentinos até tentaram, mas no campo, na arquibanca",
+    "melhor_post_views": 15656,
     "sponsor_stats": {
       "#absolutnocharla": {
-        "posts": 6,
-        "views": 348795,
-        "likes": 27906,
-        "comments": 468
+        "posts": 11,
+        "views": 477923,
+        "likes": 52315,
+        "comments": 595
       },
-      "#charlanamix": {
+      "#fornerianocharla": {
         "posts": 1,
-        "views": 112752,
-        "likes": 3344,
-        "comments": 711
+        "views": 29472,
+        "likes": 2179,
+        "comments": 30
+      },
+      "#charlafutebol": {
+        "posts": 3,
+        "views": 78478,
+        "likes": 10258,
+        "comments": 130
+      },
+      "#brahmanocharla": {
+        "posts": 2,
+        "views": 49006,
+        "likes": 8079,
+        "comments": 100
       }
     }
   },
   "posts": [
     {
-      "id": "18027261629699049",
-      "date": "2026-10-13",
-      "caption": "O GUI PARTICIPOU DA CHARLA DE QUINTA E TÁ CONFIANTE!\n\nSe o maior vascaíno do planeta falou, tá falado: o Vascão vai venc",
-      "url": "https://www.instagram.com/reel/DecUrVkBKkG/",
+      "id": "17991750102099968",
+      "date": "2026-10-14",
+      "caption": "NÃO DEU PRA RESISTIR À INVASÃO VASCAÍNA! 🔥💢\n\nOs argentinos até tentaram, mas no campo, na arquibancada, e no bar, deu Va",
+      "url": "https://www.instagram.com/reel/DedkvqGgk-E/",
       "tags": [
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 115004,
-      "reach": 80756,
-      "likes": 15322,
-      "comments": 210,
-      "shares": 355,
-      "saves": 99,
+      "views": 15656,
+      "reach": 12818,
+      "likes": 864,
+      "comments": 2,
+      "shares": 10,
+      "saves": 5,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -71,57 +83,20 @@
       }
     },
     {
-      "id": "18064846643533449",
-      "date": "2026-10-13",
-      "caption": "A TORCIDA DO VASCO INVADIU A ARGENTINA! 🇦🇷\n\nNoite animada e a torcida do Gigante da Colina tá confiante. Se liga na fest",
-      "url": "https://www.instagram.com/reel/DecJp2Pt7IQ/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 61130,
-      "reach": 45647,
-      "likes": 9825,
-      "comments": 132,
-      "shares": 331,
-      "saves": 91,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17938007058123104",
-      "date": "2026-10-13",
-      "caption": "JOANNA DE ASSIS FALA DA SITUAÇÃO QUE O CORINTHIANS ESTÁ! \n\n#AbsolutNoCharla",
-      "url": "https://www.instagram.com/reel/DeaeVyoh76D/",
+      "id": "17948205333304902",
+      "date": "2026-10-14",
+      "caption": "“LA BOMBONERA É NOSSA!” 👀🏟️💢\n\nA torcida do Vasco dominou um dos estádios mais icônicos do mundo! Ainda tiraram onda no f",
+      "url": "https://www.instagram.com/reel/DedjUFysYvN/",
       "tags": [
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 53750,
-      "reach": 40713,
-      "likes": 1606,
-      "comments": 45,
-      "shares": 32,
-      "saves": 42,
+      "views": 20609,
+      "reach": 16359,
+      "likes": 2289,
+      "comments": 28,
+      "shares": 21,
+      "saves": 20,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -147,20 +122,20 @@
       }
     },
     {
-      "id": "18144988921581727",
-      "date": "2026-10-13",
-      "caption": "O PRÉ-JOGO JÁ TÁ PEGANDO FOGO! 🔥\n\nClima tá como nos arredores da Bombonera?! Isso é Conmebol Sudamericana, meus amigos!\n",
-      "url": "https://www.instagram.com/reel/Dec8so5h8gn/",
+      "id": "18099211076544703",
+      "date": "2026-10-14",
+      "caption": "O ENZO CHAMOU REFORÇO PRO CHARLA DE QUINTA! 🚨🚨\n\nAgora vai ter mais gente pra defender o Vasco ao lado do Enzo na nossa m",
+      "url": "https://www.instagram.com/reel/DedfvMChz45/",
       "tags": [
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 22698,
-      "reach": 18511,
-      "likes": 646,
-      "comments": 10,
-      "shares": 18,
-      "saves": 7,
+      "views": 79409,
+      "reach": 59505,
+      "likes": 12418,
+      "comments": 87,
+      "shares": 252,
+      "saves": 86,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -186,20 +161,21 @@
       }
     },
     {
-      "id": "18113264159026565",
-      "date": "2026-10-13",
-      "caption": "OPINIÃO DO OUTRO LADO DA MOEDA! 👀🏟️\n\nNa nossa resenha na Mix, Villela, o viajante tricolor, foi mais um a dar sua opiniã",
-      "url": "https://www.instagram.com/reel/Dec5e4bOcP-/",
+      "id": "17915335674467955",
+      "date": "2026-10-14",
+      "caption": "“O VASCO VAI ALCANÇAR A FINAL DA SULAMERICANA!”🔥💢\n\nA confiança do Rodrigo Machado com o Vasco tá nas alturas, ainda mais",
+      "url": "https://www.instagram.com/reel/DedeYKaBSkP/",
       "tags": [
-        "#charlanamix"
+        "#fornerianocharla",
+        "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 112752,
-      "reach": 74759,
-      "likes": 3344,
-      "comments": 711,
-      "shares": 161,
-      "saves": 84,
+      "views": 29472,
+      "reach": 21074,
+      "likes": 2179,
+      "comments": 30,
+      "shares": 15,
+      "saves": 26,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -225,19 +201,177 @@
       }
     },
     {
-      "id": "17917182204460042",
-      "date": "2026-10-13",
-      "caption": "O PEDRINHO SABIA DE ALGO? 👀\n\nNa nossa resenha de hoje, na Argentina, também tivemos a pauta do Maracanã no jogo de volta",
-      "url": "https://www.instagram.com/reel/Decy9VRtQ7l/",
+      "id": "17977228725135935",
+      "date": "2026-10-14",
+      "caption": "QUE MOMENTO VIVE O VASCO DA GAMA! 🤩💢\n\nRodrigo Machado valorizou demais a vitória gigante dele na análise pós-jogo, depoi",
+      "url": "https://www.instagram.com/reel/DedaROkPHbu/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 32859,
+      "reach": 24676,
+      "likes": 6085,
+      "comments": 72,
+      "shares": 95,
+      "saves": 45,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18639292960063833",
+      "date": "2026-10-14",
+      "caption": "TORCIDA VASCAÍNA FOI A LOUCURA! 🤪💢\n\nAssim foi a comemoração do único gol da partida de hoje, que fez o Vasco trazer uma ",
+      "url": "https://www.instagram.com/reel/DedTl9dB1DK/",
       "tags": [
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 46158,
-      "reach": 34371,
-      "likes": 2273,
-      "comments": 128,
-      "shares": 8,
+      "views": 70100,
+      "reach": 50435,
+      "likes": 11580,
+      "comments": 131,
+      "shares": 175,
+      "saves": 67,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17944340358090610",
+      "date": "2026-10-14",
+      "caption": "ESSE É O CLIMA DA TORCIDA VASCAÍNA NA BOMBONERA! 💢💢\n\nNão faltou apoio um minuto sequer! A torcida apaixonada do Vascão b",
+      "url": "https://www.instagram.com/reel/DedS-nOunrl/",
+      "tags": [
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 22771,
+      "reach": 18566,
+      "likes": 3353,
+      "comments": 36,
+      "shares": 48,
+      "saves": 28,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18101886137075063",
+      "date": "2026-10-14",
+      "caption": "VASCO ABRE O PLACAR NA BOMBONERA! ⚽️💢\n\nAdson inaugurou o placar dessa semifinal, deixando o Vasco em vantagem sobre o Bo",
+      "url": "https://www.instagram.com/reel/DedK3jDBFFN/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 16147,
+      "reach": 13027,
+      "likes": 1994,
+      "comments": 28,
+      "shares": 19,
+      "saves": 16,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18168224029462240",
+      "date": "2026-10-14",
+      "caption": "TIME CHARLA NA BOMBONERA! 🏟️🔥\n\nSe liga nas primeiras impressões e no sentimento do Enzo e do Azevedo ao chegar nesse gig",
+      "url": "https://www.instagram.com/reel/DedF_fes77h/",
+      "tags": [
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 40779,
+      "reach": 32827,
+      "likes": 3870,
+      "comments": 42,
+      "shares": 33,
       "saves": 23,
       "platform": "instagram",
       "analysis": {
@@ -264,20 +398,18 @@
       }
     },
     {
-      "id": "17954443356037795",
-      "date": "2026-10-13",
-      "caption": "É DIA DE VASCÃO NA ARGENTINA! \n\nCharla de Quinta pra lá de especial com Gui e Dan Lessa. Quem ai curtiu? Experiência abs",
-      "url": "https://www.instagram.com/reel/DecnONnBwF6/",
-      "tags": [
-        "#absolutnocharla"
-      ],
+      "id": "17918551500461187",
+      "date": "2026-10-14",
+      "caption": "“ISSO AÍ É UM PROBLEMA DELES!” 😳\n\nEm mais desdobramentos das apurações da nossa Joanna de Assis, dessa vez entrevistando",
+      "url": "https://www.instagram.com/reel/DefWhhmhoW1/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 37708,
-      "reach": 29500,
-      "likes": 3296,
-      "comments": 22,
-      "shares": 14,
-      "saves": 22,
+      "views": 43795,
+      "reach": 29849,
+      "likes": 1900,
+      "comments": 81,
+      "shares": 156,
+      "saves": 76,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -303,16 +435,94 @@
       }
     },
     {
-      "id": "18034002896846483",
-      "date": "2026-10-13",
-      "caption": "É DIA DE VASCO E BOCA NO CHARLA! 🔥🤯\n\nDaqueles jogos que o coração não tem descanso, o Gigante da Colina vai encarar a La",
-      "url": "https://www.instagram.com/p/DecgqGUPXEk/",
+      "id": "18118075390990053",
+      "date": "2026-10-14",
+      "caption": "O TORCEDOR PALMEIRENSE PODE SE EMPOLGAR PRA MAIS TARDE? 👀🟢\n\nEm participação na Charla de Quinta essa semana, Joanna de A",
+      "url": "https://www.instagram.com/reel/DefT3rkv2BR/",
+      "tags": [
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 21039,
+      "reach": 16815,
+      "likes": 1067,
+      "comments": 7,
+      "shares": 9,
+      "saves": 23,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17913001026548420",
+      "date": "2026-10-14",
+      "caption": "O GUI TIROU ONDA DEMAIS NA ARGENTINA! 🤩🇦🇷\n\nEle chegou na resenha, puxou o Casaca, tirou onda com os argentinos, e ainda ",
+      "url": "https://www.instagram.com/reel/DefOyv1NmVC/",
+      "tags": [
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 75065,
+      "reach": 54416,
+      "likes": 6402,
+      "comments": 88,
+      "shares": 151,
+      "saves": 54,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18119787766910717",
+      "date": "2026-10-14",
+      "caption": "HOJE TEM FLUMINENSE x PALMEIRAS NO MARACA! 🔥🔥\n\nÉ semi de Libertadores, é jogaço, é emoção do primeiro ao último minuto! ",
+      "url": "https://www.instagram.com/p/DefKoG8vwlM/",
       "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 182,
-      "comments": 7,
+      "likes": 83,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -340,19 +550,58 @@
       }
     },
     {
-      "id": "18117666899050655",
-      "date": "2026-10-13",
-      "caption": "É UM MOMENTO ESPECIAL PARA O VASCAÍNO?\n\nDan Lessa falou do fase que o time está vivendo, dos títulos que vem disputando ",
-      "url": "https://www.instagram.com/reel/DecXKCGMZt3/",
+      "id": "17924810877442048",
+      "date": "2026-10-14",
+      "caption": "UMA NOITE HISTÓRICA E CHEIA DE EMOÇÃO! 🥹💢\n\nAzevedo e Enzo trouxeram seus relatos emocionados do que foi viver a noite de",
+      "url": "https://www.instagram.com/reel/DefJN-LBF7j/",
       "tags": [
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 73477,
-      "reach": 53812,
-      "likes": 4763,
-      "comments": 53,
-      "shares": 34,
+      "views": 36291,
+      "reach": 25138,
+      "likes": 3778,
+      "comments": 61,
+      "shares": 87,
+      "saves": 46,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17919719373240592",
+      "date": "2026-10-14",
+      "caption": "“TEM QUE COMEMORAR O JOGO DE AGORA!”💢\n\nSem demagogia e sem fiscal de torcida, o Enzo mandou o papo! A torcida do Vasco t",
+      "url": "https://www.instagram.com/reel/DefDM2NRf60/",
+      "tags": [
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 41273,
+      "reach": 29316,
+      "likes": 3945,
+      "comments": 81,
+      "shares": 42,
       "saves": 39,
       "platform": "instagram",
       "analysis": {
@@ -379,13 +628,126 @@
       }
     },
     {
-      "id": "Ny19BcfkkA0",
-      "date": "2026-10-13",
-      "caption": "DIA HISTÓRICO! BOCA X VASCO DIRETO DA ARGENTINA! QUEM É O FAVORITO? | CHARLA DE QUINTA #394",
+      "id": "18027288716700511",
+      "date": "2026-10-14",
+      "caption": "ARBITRAGEM CASEIRA NA SULAMERICANA! 😰\n\nMatheus Emanuel trouxe a lembrança desse juiz expulsando o Plata, que assim como ",
+      "url": "https://www.instagram.com/reel/Dee_eMmgcez/",
+      "tags": [
+        "#absolutnocharla"
+      ],
       "type": "VIDEO",
-      "views": 55675,
-      "likes": 2599,
+      "views": 54931,
+      "reach": 39787,
+      "likes": 2749,
       "comments": 32,
+      "shares": 67,
+      "saves": 32,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17870994780647320",
+      "date": "2026-10-14",
+      "caption": "Com a ABSOLUT Sport é sem risco, tropa! 🙅🏻‍♂️\n\nAo garantir o seu pacote para a grande Final da\nCONMEBOL Sudamericana ™️ ",
+      "url": "https://www.instagram.com/reel/Dee8bYLhblB/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 24348,
+      "reach": 19940,
+      "likes": 1439,
+      "comments": 21,
+      "shares": 44,
+      "saves": 12,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18099066173092697",
+      "date": "2026-10-14",
+      "caption": "CONFIA NO PORTUGA, VALEU?! 💢💢\n\nÉ o Vasco de Pedro Emanuel fazendo história, apenas. Vitória gigantesca na Bombonera!",
+      "url": "https://www.instagram.com/reel/Dee140UuKxv/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 63821,
+      "reach": 46848,
+      "likes": 3525,
+      "comments": 284,
+      "shares": 86,
+      "saves": 45,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "mDZ03Dm7oGM",
+      "date": "2026-10-14",
+      "caption": "VITÓRIA GIGANTESCA DO VASCO NA BOMBONERA! DUELO BRASILEIRO NA LIBERTADORES! | CHARLA DE QUINTA #395",
+      "type": "VIDEO",
+      "views": 58751,
+      "likes": 2019,
+      "comments": 102,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -413,13 +775,13 @@
       }
     },
     {
-      "id": "L18V8nbGr1k",
-      "date": "2026-10-13",
-      "caption": "CANTARELLI E AZEVEDO DISCUTEM SOBRE O ELENCO DO VASCO",
+      "id": "guYVJoQ7-pw",
+      "date": "2026-10-14",
+      "caption": "O VASCO JÁ ESCAPOU DO REBAIXAMENTO?",
       "type": "VIDEO",
-      "views": 11286,
-      "likes": 190,
-      "comments": 15,
+      "views": 1862,
+      "likes": 32,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -447,13 +809,13 @@
       }
     },
     {
-      "id": "7uEbzDzYxPw",
-      "date": "2026-10-13",
-      "caption": "VASCO É FAVORITO PARA VENCER O BOCA JÚNIORS NA LA BOMBONERA?",
+      "id": "vyxCG1BbTDA",
+      "date": "2026-10-14",
+      "caption": "JUSTIÇA LIBERA O MARACANÃ PARA O VASCO NO JOGO DE VOLTA DA FINAL DA SUL AMERICANA",
       "type": "VIDEO",
-      "views": 8764,
-      "likes": 232,
-      "comments": 4,
+      "views": 5447,
+      "likes": 176,
+      "comments": 36,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -481,12 +843,12 @@
       }
     },
     {
-      "id": "AS_Yk0cF5k0",
-      "date": "2026-10-13",
-      "caption": "TODA A VERDADE SOBRE A CHEGADA DE SEEDORF AO CORINTHIANS",
+      "id": "z5OChRNIt6o",
+      "date": "2026-10-14",
+      "caption": "O QUE VAI ACONTECER COM O RIO DE JANEIRO SE O VASCO FOR CAMPEÃO?",
       "type": "VIDEO",
-      "views": 20810,
-      "likes": 342,
+      "views": 11295,
+      "likes": 454,
       "comments": 21,
       "shares": 0,
       "saves": 0,
@@ -515,12 +877,148 @@
       }
     },
     {
-      "id": "22o3M9QbKpg",
-      "date": "2026-10-13",
-      "caption": "JOANNA DE ASSIS ANALISA A NOVA FASE DO PALMEIRAS NA TEMPORADA",
+      "id": "v7MqUD_MxZk",
+      "date": "2026-10-14",
+      "caption": "GUI PROVOCA A DUPLA FLAFLU APÓS A JUSTIÇA LIBERAR O MARACANÃ PARA O VASCO",
       "type": "VIDEO",
-      "views": 1631,
-      "likes": 27,
+      "views": 4657,
+      "likes": 125,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "dWESNwOtX28",
+      "date": "2026-10-14",
+      "caption": "GUI CRAVA O VASCO NA FINAL DAS DUAS COPAS",
+      "type": "VIDEO",
+      "views": 1471,
+      "likes": 41,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "9B84ZdFf-54",
+      "date": "2026-10-14",
+      "caption": "RODRIGO MACHADO ANALISA A VITÓRIA DO VASCO E PROJETA O CONFRONTO DA VOLTA CONTRA O BOCA",
+      "type": "VIDEO",
+      "views": 3033,
+      "likes": 56,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Ugm-kcyBrtU",
+      "date": "2026-10-14",
+      "caption": "DESABAFO FORTE APÓS VITÓRIA HISTÓRICA DO VASCO CONTRA O BOCA NA LA BOMBONERA",
+      "type": "VIDEO",
+      "views": 6188,
+      "likes": 202,
+      "comments": 13,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "hRYonW8WGnE",
+      "date": "2026-10-14",
+      "caption": "BOCA JUNIORS x VASCO | AO VIVO | CONMEBOL SUDAMERICANA 2026 | Charla Futebol",
+      "type": "VIDEO",
+      "views": 43012,
+      "likes": 951,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -549,13 +1047,13 @@
       }
     },
     {
-      "id": "ELfVgOpXZtA",
-      "date": "2026-10-13",
-      "caption": "JOANNA DE ASSIS REVELA DETALHES DA INVESTIGAÇÃO QUE REVELOU A MÁFIA DAS LICENÇAS NO FUTEBOL BRAS",
+      "id": "3PG7yK3UNmo",
+      "date": "2026-10-14",
+      "caption": "BANCADA DO CHARLA VAI À LOUCURA COM O GOL DA VITÓRIA DO VASCO SOBRE O BOCA NA ARGENTINA",
       "type": "VIDEO",
-      "views": 10496,
-      "likes": 178,
-      "comments": 17,
+      "views": 5193,
+      "likes": 180,
+      "comments": 5,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -583,13 +1081,13 @@
       }
     },
     {
-      "id": "m3q_rZID7B0",
-      "date": "2026-10-13",
-      "caption": "ENZO E AZEVEDO SE EMOCIONAM AO FALAR DA COBERTURA DE BOCA X VASCO EM BUENOS AIRES",
+      "id": "_LAbX-R8j2c",
+      "date": "2026-10-14",
+      "caption": "SUPER PRÉ-JOGO COM EDU CANELLAS, DO ‘A HORA DO VASCO!’ VASCO X BOCA NO MARACA?",
       "type": "VIDEO",
-      "views": 28451,
-      "likes": 1138,
-      "comments": 52,
+      "views": 14858,
+      "likes": 277,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -617,13 +1115,217 @@
       }
     },
     {
-      "id": "5fIZqF-EiC0",
-      "date": "2026-10-13",
-      "caption": "ALINE BORDALO NO CHARLA DA MIX! BOTAFOGO EMPATA COM O CORITIBA!",
+      "id": "tr-GW5hzPHY",
+      "date": "2026-10-14",
+      "caption": "DISCUSSÃO POLÊMICA SOBRE O VASCO JOGAR NO MARACANÃ",
       "type": "VIDEO",
-      "views": 10435,
-      "likes": 201,
-      "comments": 0,
+      "views": 21278,
+      "likes": 420,
+      "comments": 54,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "QFVwFFFmb0M",
+      "date": "2026-10-14",
+      "caption": "QUEM É MELHOR: ABEL FERREIRA OU PEDRO EMANUEL?",
+      "type": "VIDEO",
+      "views": 1031,
+      "likes": 12,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "3EuhKIb7p5k",
+      "date": "2026-10-14",
+      "caption": "ENZO E AZEVEDO FALAM SOBRE O AMBIENTE ABSURDO DOS VASCAÍNOS NA VISITANTE DA BOMBONERA",
+      "type": "VIDEO",
+      "views": 4939,
+      "likes": 172,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "MwBJiFm1c-w",
+      "date": "2026-10-14",
+      "caption": "TORCIDA DO VASCO É A MELHOR DO BRASIL?",
+      "type": "VIDEO",
+      "views": 26138,
+      "likes": 985,
+      "comments": 215,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "H8V1JdwMETA",
+      "date": "2026-10-14",
+      "caption": "ANDRÉS GOMEZ FOI INFANTIL NA EXPULSÃO CONTRA O BOCA?",
+      "type": "VIDEO",
+      "views": 1101,
+      "likes": 19,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "ylVz-d8PLWQ",
+      "date": "2026-10-14",
+      "caption": "VASCO FEZ A JANELA DE TRANSFERÊNCIAS PERFEITA?",
+      "type": "VIDEO",
+      "views": 4639,
+      "likes": 117,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "TehW8esSeBY",
+      "date": "2026-10-14",
+      "caption": "VASCO CONQUISTOU UMA VITÓRIA HISTÓRICA NA ARGENTINA",
+      "type": "VIDEO",
+      "views": 2643,
+      "likes": 67,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
