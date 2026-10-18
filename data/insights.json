@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T13:29:10.046790",
-  "date": "2026-10-16",
+  "generated_at": "2026-10-18T13:47:53.641629",
+  "date": "2026-10-17",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 31,
+    "total_posts": 18,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,614 +12,47 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18130732717763713",
-    "melhor_post_caption": "A VERDADE POR TRÁS DE “A CAIXA”!\n\nJoão Martins revelou tudo sobre essa composição de sucesso naciona",
-    "melhor_post_views": 41642,
+    "melhor_post_id": "17882189523534364",
+    "melhor_post_caption": "HOJE É DIA DE BRASILEIRÃO NO CHARLA FUTEBOL! 🔥\n\nBotafogo e Chapecoense se enfrentam hoje no Nilton S",
+    "melhor_post_views": 0,
     "sponsor_stats": {
       "#charlafutebol": {
-        "posts": 2,
-        "views": 38061,
-        "likes": 1973,
-        "comments": 129
-      },
-      "#absolutnocharla": {
-        "posts": 3,
-        "views": 69576,
-        "likes": 2547,
-        "comments": 144
-      },
-      "#penaltynocharla": {
-        "posts": 3,
-        "views": 154498,
-        "likes": 6748,
-        "comments": 276
+        "posts": 4,
+        "views": 20052,
+        "likes": 1236,
+        "comments": 32
       },
       "#brahmanocharla": {
-        "posts": 3,
-        "views": 154498,
-        "likes": 6748,
-        "comments": 276
+        "posts": 2,
+        "views": 20052,
+        "likes": 1032,
+        "comments": 29
       },
-      "#assainocharla": {
-        "posts": 3,
-        "views": 154498,
-        "likes": 6748,
-        "comments": 276
-      },
-      "#fornerianocharla": {
-        "posts": 3,
-        "views": 154498,
-        "likes": 6748,
-        "comments": 276
+      "#melittanocharla": {
+        "posts": 1,
+        "views": 95774,
+        "likes": 5483,
+        "comments": 51
       }
     }
   },
   "posts": [
     {
-      "id": "18130732717763713",
-      "date": "2026-10-16",
-      "caption": "A VERDADE POR TRÁS DE “A CAIXA”!\n\nJoão Martins revelou tudo sobre essa composição de sucesso nacional, que caiu nas graç",
-      "url": "https://www.instagram.com/reel/Dejsg5Ht-il/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 41642,
-      "reach": 27905,
-      "likes": 2276,
-      "comments": 125,
-      "shares": 399,
-      "saves": 80,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18146314255600050",
-      "date": "2026-10-16",
-      "caption": "A NAÇÃO ESPERAVA MAIS, MAS O FLAMENGO AINDA É MUITO FAVORITO! 🔴⚫️\n\nEssa foi a análise do nosso Matheus Emanuel sobre a p",
-      "url": "https://www.instagram.com/reel/DeiqM5yRVK4/",
+      "id": "17882189523534364",
+      "date": "2026-10-17",
+      "caption": "HOJE É DIA DE BRASILEIRÃO NO CHARLA FUTEBOL! 🔥\n\nBotafogo e Chapecoense se enfrentam hoje no Nilton Santos e ambos precis",
+      "url": "https://www.instagram.com/p/DemMKFstCtr/",
       "tags": [
-        "#charlafutebol",
-        "#absolutnocharla"
+        "#charlafutebol"
       ],
-      "type": "VIDEO",
-      "views": 9258,
-      "reach": 7613,
-      "likes": 276,
-      "comments": 27,
-      "shares": 1,
-      "saves": 1,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18144947902587614",
-      "date": "2026-10-16",
-      "caption": "CLIMA TRANQUILO QUE O FLAMENGO ENCONTROU EM LA PLATA, NÉ?! 😳🔥\n\nAssim foi o recebimento da torcida do Estudiantes na part",
-      "url": "https://www.instagram.com/reel/Deim9wUPLJ9/",
-      "tags": [
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 31515,
-      "reach": 25214,
-      "likes": 574,
-      "comments": 15,
-      "shares": 10,
-      "saves": 21,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18113725186845332",
-      "date": "2026-10-16",
-      "caption": "“O FLAMENGO ESTÁ A UM GOL DA FINAL!” 🔥🔴⚫️\n\nVem com a gente conferir a análise pós-jogo do Cantarelli, que sentiu todas a",
-      "url": "https://www.instagram.com/reel/DeilXedMvSo/",
-      "tags": [
-        "#charlafutebol",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 28803,
-      "reach": 22493,
-      "likes": 1697,
-      "comments": 102,
-      "shares": 92,
-      "saves": 25,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18089146265268441",
-      "date": "2026-10-16",
-      "caption": "JK TÁ FAZENDO FALTA PRO FLU? 🤔\n\nFora do restante da temporada, o moleque de Xerém, fundamental pra conquista de 2023, es",
-      "url": "https://www.instagram.com/reel/DekhQTztKkc/",
-      "tags": [
-        "#penaltynocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 45439,
-      "reach": 31926,
-      "likes": 1745,
-      "comments": 150,
-      "shares": 21,
-      "saves": 40,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18089752460495818",
-      "date": "2026-10-16",
-      "caption": "PAQUETÁ CORREU RISCO ONTEM? 😳\n\nNo jogo de ontem, na Argentina, teve polêmica em um lance envolvendo Lucas Paquetá. Jogad",
-      "url": "https://www.instagram.com/reel/DekJkTjORhv/",
-      "tags": [
-        "#penaltynocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 27741,
-      "reach": 19327,
-      "likes": 451,
-      "comments": 44,
-      "shares": 15,
-      "saves": 24,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18101897612153331",
-      "date": "2026-10-16",
-      "caption": "ELE TÁ EM TODAS! 😳🇭🇺\n\nO nosso convidado da Charla de Quinta de hoje, Vilella, o Viajante Tricolor, contou pra gente sobr",
-      "url": "https://www.instagram.com/reel/DekAkhfRTuy/",
-      "tags": [
-        "#penaltynocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 81318,
-      "reach": 56527,
-      "likes": 4552,
-      "comments": 82,
-      "shares": 894,
-      "saves": 98,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "mH2CWfn5jFI",
-      "date": "2026-10-16",
-      "caption": "FLAMENGO JOGA MAL E SÓ EMPATA NA ARGENTINA! AINDA É FAVORITO? | CHARLA DE QUINTA #397",
-      "type": "VIDEO",
-      "views": 43240,
-      "likes": 854,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "X9hcd3AZtIs",
-      "date": "2026-10-16",
-      "caption": "\"SABE AQUELE GOL QUE SAI NO FINAL E SALVA UM TIME?\"",
-      "type": "VIDEO",
-      "views": 1446,
-      "likes": 16,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "iVPemL4gO7M",
-      "date": "2026-10-16",
-      "caption": "ARIAS ESTÁ INCOMODADO COM A TORCIDA DO FLUMINENSE? 👀",
-      "type": "VIDEO",
-      "views": 7135,
-      "likes": 166,
-      "comments": 34,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "hE6FPxm-mr0",
-      "date": "2026-10-16",
-      "caption": "É UM ESTUDIANTES DIFERENTE, MAS MAIS PERIGOSO? 👀",
-      "type": "VIDEO",
-      "views": 1067,
-      "likes": 11,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "4UFelwlgizw",
-      "date": "2026-10-16",
-      "caption": "PHILL TÁ CONFIANTE PARA O JOGO DE VOLTA DO FLU! 🇭🇺",
-      "type": "VIDEO",
-      "views": 1628,
-      "likes": 20,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "fjioXQJ2nO0",
-      "date": "2026-10-16",
-      "caption": "O CLIMA AMISTOSO DA CHARLA DE QUINTA! 🤣🔥",
-      "type": "VIDEO",
-      "views": 5515,
-      "likes": 121,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "quMygLcYyIg",
-      "date": "2026-10-16",
-      "caption": "“O FLAMENGO ESTÁ A UM GOL DA FINAL!” 🔥🔴⚫️",
-      "type": "VIDEO",
-      "views": 1222,
-      "likes": 42,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ny2tkhTeB0M",
-      "date": "2026-10-16",
-      "caption": "CLIMA TRANQUILO QUE O FLAMENGO ENCONTROU EM LA PLATA, NÉ?! 😳🔥",
-      "type": "VIDEO",
-      "views": 728,
-      "likes": 14,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "yx3gqR9iAUY",
-      "date": "2026-10-16",
-      "caption": "A NAÇÃO ESPERAVA MAIS, MAS O FLAMENGO AINDA É MUITO FAVORITO! 🔴⚫️",
-      "type": "VIDEO",
-      "views": 1026,
-      "likes": 55,
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 148,
       "comments": 2,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -644,12 +77,170 @@
       }
     },
     {
-      "id": "p2Cklh0cqGY",
-      "date": "2026-10-16",
-      "caption": "ESTUDIANTES x FLAMENGO | AO VIVO DA ARGENTINA | CONMEBOL LIBERTADORES 2026 | Charla Futebol",
+      "id": "18111832964168247",
+      "date": "2026-10-17",
+      "caption": "TITE AINDA TEM MUITO TRABALHO PELA FRENTE! 👀\n\nVitória que trouxe mais alívio do que alegria pra torcida do Fogão. Matheu",
+      "url": "https://www.instagram.com/reel/DenUFtABocN/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
       "type": "VIDEO",
-      "views": 162077,
-      "likes": 901,
+      "views": 10364,
+      "reach": 8538,
+      "likes": 448,
+      "comments": 17,
+      "shares": 2,
+      "saves": 4,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18117973285793051",
+      "date": "2026-10-17",
+      "caption": "TIQUINHO SOARES É F*DA! ⚫️⚪️\n\nCom seu primeiro gol desde o retorno ao Botafogo, Tiquinho tira o zero do placar e coloca ",
+      "url": "https://www.instagram.com/reel/DenE2YksDwt/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 9688,
+      "reach": 7531,
+      "likes": 584,
+      "comments": 12,
+      "shares": 9,
+      "saves": 2,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17920604826449341",
+      "date": "2026-10-17",
+      "caption": "MAIS UM JOGAÇO NO CHARLA FUTEBOL! 👀⚽️\n\nSão Paulo e Vasco se enfrentam hoje no Morumbis, às 21h. Em jogo, três pontos fun",
+      "url": "https://www.instagram.com/p/Demb6JQtB7r/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 56,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17925867663428528",
+      "date": "2026-10-17",
+      "caption": "TEVE POUCO TRABALHO O CÁSSIO, NÉ?! 😅\n\nUm grande goleiro também é feito de grandes adversários. Se liga nessa seleção aí ",
+      "url": "https://www.instagram.com/reel/DemYUQZB-UP/",
+      "tags": [
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 95774,
+      "reach": 66875,
+      "likes": 5483,
+      "comments": 51,
+      "shares": 284,
+      "saves": 173,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "2-Gcd1lb0PA",
+      "date": "2026-10-17",
+      "caption": "DAN LESSA E RYAN BARINE NO CHARLA DA MIX!",
+      "type": "VIDEO",
+      "views": 6322,
+      "likes": 121,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -678,13 +269,13 @@
       }
     },
     {
-      "id": "6tfnkIkmIW4",
-      "date": "2026-10-16",
-      "caption": "VILELLA ABRE O JOGO SOBRE UM POSSÍVEL FLAFLU NA FINAL DA LIBERTADORES",
+      "id": "g5Zm2SjXMsU",
+      "date": "2026-10-17",
+      "caption": "Gente Nossa #001 - João Martins & Jorge André",
       "type": "VIDEO",
-      "views": 13825,
-      "likes": 334,
-      "comments": 70,
+      "views": 9828,
+      "likes": 343,
+      "comments": 10,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -712,13 +303,13 @@
       }
     },
     {
-      "id": "NUs7oYz41IU",
-      "date": "2026-10-16",
-      "caption": "FLUMINENSE VAI ELIMINAR O PALMEIRAS NO NUBANK PARQUE?",
+      "id": "oYDGJ4oz4_c",
+      "date": "2026-10-17",
+      "caption": "“ELE DÁ UM SALTO DE QUALIDADE NO PALMEIRAS!” 🟢⬆️",
       "type": "VIDEO",
-      "views": 11995,
-      "likes": 400,
-      "comments": 50,
+      "views": 1470,
+      "likes": 23,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -746,46 +337,12 @@
       }
     },
     {
-      "id": "Y_G-0uY951o",
-      "date": "2026-10-16",
-      "caption": "FLAMENGO VAI AVANÇAR PARA A FINAL DA LIBERTADORES?",
+      "id": "mdybXg-OD9Y",
+      "date": "2026-10-17",
+      "caption": "\"EU ESTAVA COM DEPRESSÃO QUANDO SAÍ DO CORINTHIANS!\"",
       "type": "VIDEO",
-      "views": 4138,
-      "likes": 100,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "F-Ehec9fMUA",
-      "date": "2026-10-16",
-      "caption": "PAQUETÁ MERECIA TER SIDO EXPULSO CONTRA O ESTUDIANTES?",
-      "type": "VIDEO",
-      "views": 1419,
-      "likes": 11,
+      "views": 2113,
+      "likes": 57,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -814,80 +371,12 @@
       }
     },
     {
-      "id": "N5O2t9AZ4-0",
-      "date": "2026-10-16",
-      "caption": "O QUE EXPLICA A BAIXA PRESENÇA DE FLAMENGUISTAS NA ARGENTINA PARA A SEMIFINAL DA LIBERTADORES?",
+      "id": "3kv5DepWKtA",
+      "date": "2026-10-17",
+      "caption": "CÁSSIO FALA DOS PROBLEMAS QUE TEVE COM BEBIDA!",
       "type": "VIDEO",
-      "views": 6313,
-      "likes": 117,
-      "comments": 37,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "mi7l4G1UXlA",
-      "date": "2026-10-16",
-      "caption": "ATUAÇÃO RUIM DO FLAMENGO PREOCUPA PARA A SEQUÊNCIA DA TEMPORADA?",
-      "type": "VIDEO",
-      "views": 758,
-      "likes": 13,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "IEY0WoiCa6g",
-      "date": "2026-10-16",
-      "caption": "A GRANDE VERDADE SOBRE OS BASTIDORES DO MUNDO DO SAMBA",
-      "type": "VIDEO",
-      "views": 854,
-      "likes": 6,
+      "views": 1881,
+      "likes": 57,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -916,11 +405,181 @@
       }
     },
     {
-      "id": "bwYR3Z3YqcY",
-      "date": "2026-10-16",
-      "caption": "O SAMBA DE JOÃO MARTINS QUE MUDOU UMA GERAÇÃO ",
+      "id": "j71rCH4qn8g",
+      "date": "2026-10-17",
+      "caption": "\"A GENTE TAVA MUITO CONFIANTE EM 2018!\"",
       "type": "VIDEO",
-      "views": 674,
+      "views": 2135,
+      "likes": 43,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "n72Nlllwb_0",
+      "date": "2026-10-17",
+      "caption": "“ISSO NUNCA MAIS VAI SAIR DA SUA VIDA” 😳",
+      "type": "VIDEO",
+      "views": 1453,
+      "likes": 22,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "1Bn00aDgsCI",
+      "date": "2026-10-17",
+      "caption": "O BARBA TÁ COM MORAL? 👀🐓",
+      "type": "VIDEO",
+      "views": 1360,
+      "likes": 45,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "G-x5pyzMbt0",
+      "date": "2026-10-17",
+      "caption": "\"VEJO O CRUZEIRO MUITO MAIS PERTO DE GANHAR OS TÍTULOS!\"",
+      "type": "VIDEO",
+      "views": 1777,
+      "likes": 11,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "lzAmkhLby5s",
+      "date": "2026-10-17",
+      "caption": "TEM QUE TREINAR, JOGADOR! 🤣",
+      "type": "VIDEO",
+      "views": 5515,
+      "likes": 129,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "KXbR8DithXs",
+      "date": "2026-10-17",
+      "caption": "QUAL É A IMPORTÂNCIA DO AUXILIAR TÉCNICO INTERNAMENTE?",
+      "type": "VIDEO",
+      "views": 882,
       "likes": 8,
       "comments": 0,
       "shares": 0,
@@ -950,13 +609,13 @@
       }
     },
     {
-      "id": "TW2qt6fFm3U",
-      "date": "2026-10-16",
-      "caption": "JOÃO MARTINS E JORGE ANDRÉ REVELAM COMO SURGIU ESSA PARCERIA NO SAMBA",
+      "id": "BYF16DAIUZ0",
+      "date": "2026-10-17",
+      "caption": "A HISTÓRICA DEFESA DO CÁSSIO NO CHUTE DO DIEGO SOUZA! 🧤",
       "type": "VIDEO",
-      "views": 828,
-      "likes": 11,
-      "comments": 2,
+      "views": 1756,
+      "likes": 129,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -984,148 +643,12 @@
       }
     },
     {
-      "id": "UxjSWL-kAnE",
-      "date": "2026-10-16",
-      "caption": "AS REFERÊNCIAS DE JOÃO MARTINS E JORGE ANDRÉ NO MUNDO DO SAMBA",
+      "id": "SF7M0piH9-g",
+      "date": "2026-10-17",
+      "caption": "BOTAFOGO X CHAPECOENSE | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
       "type": "VIDEO",
-      "views": 667,
-      "likes": 11,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "9UZwFsydcOM",
-      "date": "2026-10-16",
-      "caption": "A VERDADE POR TRÁS DE UM DOS MAIORES SUCESSOS DO SAMBA ATUAL",
-      "type": "VIDEO",
-      "views": 461,
-      "likes": 6,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "BO7p1Redmys",
-      "date": "2026-10-16",
-      "caption": "O QUE VOCÊ NÃO SABE SOBRE A REALIDADE DOS COMPOSITORES",
-      "type": "VIDEO",
-      "views": 428,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "xDmG_eciAvQ",
-      "date": "2026-10-16",
-      "caption": "BASTIDORES DA GRAVAÇÃO DE SEMPRE ACESA PELO GALOCANTÔ",
-      "type": "VIDEO",
-      "views": 442,
-      "likes": 10,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "q1biiSgLM2w",
-      "date": "2026-10-16",
-      "caption": "BASTIDORES DE UMA COMPOSIÇÃO HISTÓRICA DO JOÃO MARTINS",
-      "type": "VIDEO",
-      "views": 441,
-      "likes": 7,
+      "views": 9025,
+      "likes": 161,
       "comments": 0,
       "shares": 0,
       "saves": 0,
