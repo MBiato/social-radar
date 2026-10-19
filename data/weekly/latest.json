@@ -1,291 +1,252 @@
 {
-  "generated_at": "2026-10-12T19:39:01.484709",
-  "period_start": "2026-10-05",
-  "period_end": "2026-10-11",
-  "week_label": "2026-10-05 a 2026-10-11",
+  "generated_at": "2026-10-19T16:49:06.072009",
+  "period_start": "2026-10-12",
+  "period_end": "2026-10-18",
+  "week_label": "2026-10-12 a 2026-10-18",
   "metrics": {
-    "total_posts": 173,
-    "instagram_posts": 94,
-    "youtube_posts": 79,
-    "total_views": 8723240,
-    "total_likes": 519331,
-    "total_comments": 14388
+    "total_posts": 201,
+    "instagram_posts": 90,
+    "youtube_posts": 111,
+    "total_views": 7485504,
+    "total_likes": 436038,
+    "total_comments": 11774
   },
   "sponsor_stats": {
-    "#brahmanocharla": {
-      "posts": 46,
-      "views": 4171224,
-      "likes": 336045,
-      "comments": 6855,
-      "tag": "#brahmanocharla"
-    },
-    "#assainocharla": {
-      "posts": 27,
-      "views": 3535840,
-      "likes": 283950,
-      "comments": 5291,
-      "tag": "#assainocharla"
+    "#charlanopremiere": {
+      "posts": 11,
+      "views": 1878321,
+      "likes": 120186,
+      "comments": 2037,
+      "tag": "#charlanopremiere"
     },
     "#absolutnocharla": {
-      "posts": 22,
-      "views": 3115381,
-      "likes": 241572,
-      "comments": 5158,
+      "posts": 29,
+      "views": 1676122,
+      "likes": 130540,
+      "comments": 2794,
       "tag": "#absolutnocharla"
     },
-    "#granfinonocharla": {
-      "posts": 11,
-      "views": 2369388,
-      "likes": 191676,
-      "comments": 3521,
-      "tag": "#granfinonocharla"
+    "#charlafutebol": {
+      "posts": 31,
+      "views": 696121,
+      "likes": 38287,
+      "comments": 1324,
+      "tag": "#charlafutebol"
+    },
+    "#brahmanocharla": {
+      "posts": 23,
+      "views": 612408,
+      "likes": 32036,
+      "comments": 1258,
+      "tag": "#brahmanocharla"
     },
     "#melittanocharla": {
-      "posts": 15,
-      "views": 1258359,
-      "likes": 100706,
-      "comments": 1671,
+      "posts": 2,
+      "views": 287023,
+      "likes": 19506,
+      "comments": 225,
       "tag": "#melittanocharla"
     },
     "#fornerianocharla": {
-      "posts": 10,
-      "views": 702101,
-      "likes": 40892,
-      "comments": 1087,
+      "posts": 7,
+      "views": 275842,
+      "likes": 13252,
+      "comments": 515,
       "tag": "#fornerianocharla"
     },
+    "#assainocharla": {
+      "posts": 4,
+      "views": 260860,
+      "likes": 10526,
+      "comments": 413,
+      "tag": "#assainocharla"
+    },
     "#penaltynocharla": {
-      "posts": 9,
-      "views": 654477,
-      "likes": 60423,
-      "comments": 790,
+      "posts": 3,
+      "views": 192413,
+      "likes": 8289,
+      "comments": 391,
       "tag": "#penaltynocharla"
     },
-    "#texaconocharla": {
-      "posts": 9,
-      "views": 549493,
-      "likes": 41945,
-      "comments": 1231,
-      "tag": "#texaconocharla"
-    },
-    "#charlanopremiere": {
-      "posts": 13,
-      "views": 481642,
-      "likes": 18537,
-      "comments": 569,
-      "tag": "#charlanopremiere"
-    },
-    "#charlafutebol": {
-      "posts": 9,
-      "views": 282520,
-      "likes": 10268,
-      "comments": 1874,
-      "tag": "#charlafutebol"
-    },
-    "#brahamnocharla": {
-      "posts": 1,
-      "views": 72883,
-      "likes": 4302,
-      "comments": 28,
-      "tag": "#brahamnocharla"
-    },
     "#charlanamix": {
-      "posts": 5,
-      "views": 71786,
-      "likes": 2504,
-      "comments": 224,
+      "posts": 1,
+      "views": 147579,
+      "likes": 4245,
+      "comments": 1132,
       "tag": "#charlanamix"
     },
-    "#770": {
+    "#granfinonocharla": {
       "posts": 1,
-      "views": 0,
-      "likes": 526,
-      "comments": 2,
-      "tag": "#770"
-    },
-    "#769": {
-      "posts": 1,
-      "views": 0,
-      "likes": 1164,
-      "comments": 32,
-      "tag": "#769"
+      "views": 68447,
+      "likes": 2237,
+      "comments": 22,
+      "tag": "#granfinonocharla"
     }
   },
   "top_posts": [
     {
-      "id": "18085422908315556",
-      "date": "2026-10-07",
-      "caption": "COM ELE IA SER DIFERENTE! 😳🤣\n\nA polêmica na seleção de Portugal não para! E nessa treta entre CR7 e Jorge Jesus, Romário",
-      "url": "https://www.instagram.com/reel/DeNZ7qhMcn3/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 1308425,
-      "reach": 904807,
-      "likes": 129445,
-      "comments": 2410,
-      "shares": 44810,
-      "saves": 7127,
-      "platform": "instagram"
-    },
-    {
-      "id": "18133682701672989",
-      "date": "2026-10-09",
-      "caption": "“TU VAI SE ATRASAR!” 😳😳\n\nO baixo contou pra gente o conselho que ele deu pro Gabigol ir pra Copa. Papo de quem entende, ",
-      "url": "https://www.instagram.com/reel/DeSjhn0gWWz/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 354208,
-      "reach": 224968,
-      "likes": 17942,
-      "comments": 232,
-      "shares": 980,
-      "saves": 540,
-      "platform": "instagram"
-    },
-    {
-      "id": "18129531232685336",
-      "date": "2026-10-11",
-      "caption": "CLIMA TRANQUILO NO DERBY! 👀\n\nDo primeiro ao último minuto, os jogadores de palmeiras e Corinthians não tiraram o pé de n",
-      "url": "https://www.instagram.com/reel/DeX3NzCPyO5/",
+      "id": "18035475164910304",
+      "date": "2026-10-12",
+      "caption": "AS HISTÓRIAS COM O SEEDORF SÃO BOAS DEMAIS! 😂\n\nNovo treinador do Corinthians, o holandês marcou época no Botafogo e algu",
+      "url": "https://www.instagram.com/reel/DeZ7CV_vVH1/",
       "tags": [],
       "type": "VIDEO",
-      "views": 313367,
-      "reach": 203920,
-      "likes": 11264,
-      "comments": 379,
-      "shares": 1134,
-      "saves": 290,
+      "views": 916281,
+      "reach": 614454,
+      "likes": 52349,
+      "comments": 754,
+      "shares": 15784,
+      "saves": 1855,
       "platform": "instagram"
     },
     {
-      "id": "17938961922376262",
-      "date": "2026-10-07",
-      "caption": "JOANNA DE ASSIS NO CHARLA!\n\nHoje é a grande estreia da nossa Joanna no Charla e ela já chega repercutindo essa bomba que",
-      "url": "https://www.instagram.com/reel/DeMYkUGh95K/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 283237,
-      "reach": 262655,
-      "likes": 23452,
-      "comments": 872,
-      "shares": 17830,
-      "saves": 742,
-      "platform": "instagram"
-    },
-    {
-      "id": "18120743929937258",
-      "date": "2026-10-09",
-      "caption": "A MESA FOI BATIZADA, HEIN?! 🤣🤩\n\nRodrigo Caio ligou direto pra Mônaco no meio da nossa resenha, e botou o Filipe Luis pra",
-      "url": "https://www.instagram.com/reel/DeSuH0IM5_j/",
+      "id": "18077331536437907",
+      "date": "2026-10-18",
+      "caption": "É A TROPA DO NEY NO MARACA! 😜\n\nQuem aí queria estar nessa foto? O Santos tá jogando muito! \n\n#CharlaNoPremiere",
+      "url": "https://www.instagram.com/reel/DepqgLOuBNE/",
       "tags": [
-        "#penaltynocharla",
-        "#brahmanocharla",
-        "#assainocharla",
-        "#melittanocharla"
+        "#charlanopremiere"
       ],
       "type": "VIDEO",
-      "views": 248587,
-      "reach": 176004,
-      "likes": 28414,
-      "comments": 237,
-      "shares": 652,
-      "saves": 545,
+      "views": 471452,
+      "reach": 334590,
+      "likes": 50396,
+      "comments": 742,
+      "shares": 4955,
+      "saves": 611,
       "platform": "instagram"
     },
     {
-      "id": "xDt3cfasbw0",
-      "date": "2026-10-08",
-      "caption": "QUEM ESTÁ CERTO NA TRETA ENTRE CRISTIANO RONALDO E JORGE JESUS?",
-      "type": "VIDEO",
-      "views": 192089,
-      "likes": 3120,
-      "comments": 287,
-      "shares": 245,
-      "saves": 0,
-      "watch_minutes": 314336,
-      "avg_view_duration_sec": 207,
-      "platform": "youtube"
-    },
-    {
-      "id": "18101774630346722",
-      "date": "2026-10-08",
-      "caption": "OS DESDOBRAMENTOS DA APURAÇÃO SOBRE OS DIPLOMAS FALSOS!\n\nJoanna de Assis explicou na Charla de Quinta de hoje sobre a si",
-      "url": "https://www.instagram.com/reel/DePcTs6N6Pf/",
+      "id": "17897142840412828",
+      "date": "2026-10-18",
+      "caption": "POR MUITO POUCO NÃO SAIU O TERCEIRO DO SANTOS!\n\nQue lance absurdo! Primeiro, Neymar mandou na trave. Depois, um MILAGRE ",
+      "url": "https://www.instagram.com/reel/DepoYpOt8Q1/",
       "tags": [
-        "#texaconocharla",
-        "#fornerianocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
+        "#charlanopremiere"
       ],
       "type": "VIDEO",
-      "views": 186494,
-      "reach": 132551,
-      "likes": 6261,
-      "comments": 227,
-      "shares": 959,
-      "saves": 181,
+      "views": 404169,
+      "reach": 258025,
+      "likes": 16696,
+      "comments": 465,
+      "shares": 2196,
+      "saves": 220,
       "platform": "instagram"
     },
     {
-      "id": "17881376721691203",
-      "date": "2026-10-10",
-      "caption": "“FOI O MAIOR JOGO QUE EU FIZ NA MINHA VIDA!” 😱\n\nFoi com essa frase que o Romário definiu o Brasil x Uruguai das eliminat",
-      "url": "https://www.instagram.com/reel/DeSzZHsOLia/",
+      "id": "18346661533268998",
+      "date": "2026-10-18",
+      "caption": "NEYMAR QUASE JOGOU O MUNDIAL PELO FLU! 👀\n\nAgradecendo o apoio de torcedor do Tricolor após o jogo, Neymar comentou que q",
+      "url": "https://www.instagram.com/reel/Deptd5DhOFP/",
       "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
+        "#charlanopremiere"
       ],
       "type": "VIDEO",
-      "views": 160132,
-      "reach": 103918,
-      "likes": 8794,
-      "comments": 159,
-      "shares": 440,
-      "saves": 162,
+      "views": 221395,
+      "reach": 147721,
+      "likes": 14694,
+      "comments": 143,
+      "shares": 725,
+      "saves": 273,
       "platform": "instagram"
     },
     {
-      "id": "18206651818332185",
-      "date": "2026-10-11",
-      "caption": "LANCE POLÊMICO NO MARACA! 👀\n\nTricolores pediram a ação do VAR nesse lance do Pulgar em cima do Castillo! O árbitro Rafae",
-      "url": "https://www.instagram.com/reel/DeXo3pOBEeW/",
+      "id": "17974271274139252",
+      "date": "2026-10-18",
+      "caption": "O SANTOS VIRA PRA CIMA DO FLU!\n\nSegundo tempo alucinante do Santos no Maracanã e Coutinho, de cabeça, virou para os paul",
+      "url": "https://www.instagram.com/reel/Depmt39BfPW/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 219943,
+      "reach": 166882,
+      "likes": 14398,
+      "comments": 193,
+      "shares": 1425,
+      "saves": 165,
+      "platform": "instagram"
+    },
+    {
+      "id": "18098066216105126",
+      "date": "2026-10-12",
+      "caption": "VEM COM CALMA, CANOBBIO! 🥵\n\nPouco repertório tem o Pedro, né?!\n\nVocê me liga e diiiiiiiiz… 🤪\n\n#CharlaFutebol",
+      "url": "https://www.instagram.com/reel/DeYNqmWheFC/",
       "tags": [
         "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 149401,
-      "reach": 95890,
-      "likes": 2421,
-      "comments": 1360,
-      "shares": 731,
-      "saves": 78,
+      "views": 181458,
+      "reach": 129472,
+      "likes": 7958,
+      "comments": 201,
+      "shares": 2429,
+      "saves": 98,
       "platform": "instagram"
     },
     {
-      "id": "18055853123583691",
-      "date": "2026-10-11",
-      "caption": "AINDA TEVE PÊNALTI PERDIDO NO DERBY!\n\nNa volta de Paulinho, o atacante do Palmeiras teve a chance de ampliar ainda mais ",
-      "url": "https://www.instagram.com/reel/DeXyhkkvUzN/",
-      "tags": [],
+      "id": "18430775626148330",
+      "date": "2026-10-12",
+      "caption": "\"É UMA APOSTA GIGANTESCA, ARRISCADA E QUE EU NÃO ENTENDI!\"\n\nJoanna de Assis participou da Charla de Quinta e falou da co",
+      "url": "https://www.instagram.com/reel/DeaZGm9uixh/",
+      "tags": [
+        "#absolutnocharla"
+      ],
       "type": "VIDEO",
-      "views": 141529,
-      "reach": 102243,
-      "likes": 2063,
-      "comments": 135,
-      "shares": 74,
-      "saves": 31,
+      "views": 178898,
+      "reach": 133772,
+      "likes": 7342,
+      "comments": 272,
+      "shares": 731,
+      "saves": 152,
+      "platform": "instagram"
+    },
+    {
+      "id": "18177546808376804",
+      "date": "2026-10-12",
+      "caption": "RODRIGO CAIO TINHA FUTEBOL PRA ATUAR ATÉ HOJE? \n\nO ex-zagueiro falou das lesões que sofreu na carreira, especialmente no",
+      "url": "https://www.instagram.com/reel/DeZmbAVsMk5/",
+      "tags": [
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 174111,
+      "reach": 119142,
+      "likes": 12922,
+      "comments": 162,
+      "shares": 1135,
+      "saves": 298,
+      "platform": "instagram"
+    },
+    {
+      "id": "p2Cklh0cqGY",
+      "date": "2026-10-16",
+      "caption": "ESTUDIANTES x FLAMENGO | AO VIVO DA ARGENTINA | CONMEBOL LIBERTADORES 2026 | Charla Futebol",
+      "type": "VIDEO",
+      "views": 162237,
+      "likes": 906,
+      "comments": 0,
+      "shares": 14,
+      "saves": 0,
+      "watch_minutes": 162274,
+      "avg_view_duration_sec": 73,
+      "platform": "youtube"
+    },
+    {
+      "id": "18113264159026565",
+      "date": "2026-10-13",
+      "caption": "OPINIÃO DO OUTRO LADO DA MOEDA! 👀🏟️\n\nNa nossa resenha na Mix, Villela, o viajante tricolor, foi mais um a dar sua opiniã",
+      "url": "https://www.instagram.com/reel/Dec5e4bOcP-/",
+      "tags": [
+        "#charlanamix"
+      ],
+      "type": "VIDEO",
+      "views": 147579,
+      "reach": 100513,
+      "likes": 4245,
+      "comments": 1132,
+      "shares": 179,
+      "saves": 105,
       "platform": "instagram"
     }
   ],
