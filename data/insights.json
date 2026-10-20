@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T16:49:05.665118",
-  "date": "2026-10-18",
+  "generated_at": "2026-10-20T14:42:56.437997",
+  "date": "2026-10-19",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 38,
+    "total_posts": 25,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,68 +12,80 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18118636009963059",
-    "melhor_post_caption": "AMANHECI CANTANDO… ☀️🎶\n\nJorge André trouxe essa composição absurda da dupla Arlindo Cruz e Luiz Carl",
-    "melhor_post_views": 44996,
+    "melhor_post_id": "18118476760978687",
+    "melhor_post_caption": "UM RECADO DE CORAÇÃO ABERTO, GABIGOL! 😍\n\nMatheus Emanuel abriu a Charla de Quinta com essa declaraçã",
+    "melhor_post_views": 202458,
     "sponsor_stats": {
-      "#fornerianocharla": {
-        "posts": 2,
-        "views": 34517,
-        "likes": 2008,
-        "comments": 39
-      },
-      "#charlafutebol": {
-        "posts": 8,
-        "views": 124115,
-        "likes": 5514,
-        "comments": 243
-      },
       "#brahmanocharla": {
         "posts": 6,
-        "views": 158045,
-        "likes": 5605,
-        "comments": 220
+        "views": 271547,
+        "likes": 22848,
+        "comments": 1107
       },
-      "#charlanopremiere": {
-        "posts": 9,
-        "views": 1725398,
-        "likes": 112335,
-        "comments": 1896
+      "#penaltynocharla": {
+        "posts": 4,
+        "views": 242860,
+        "likes": 20704,
+        "comments": 1063
       },
       "#assainocharla": {
-        "posts": 1,
-        "views": 68447,
-        "likes": 2237,
-        "comments": 22
+        "posts": 4,
+        "views": 242860,
+        "likes": 20704,
+        "comments": 1063
+      },
+      "#melittanocharla": {
+        "posts": 5,
+        "views": 262946,
+        "likes": 21285,
+        "comments": 1067
       },
       "#granfinonocharla": {
-        "posts": 1,
-        "views": 68447,
-        "likes": 2237,
-        "comments": 22
+        "posts": 4,
+        "views": 242860,
+        "likes": 20704,
+        "comments": 1063
       },
-      "#absolutnocharla": {
+      "#fornerianocharla": {
         "posts": 1,
-        "views": 68447,
-        "likes": 2237,
-        "comments": 22
+        "views": 20977,
+        "likes": 2105,
+        "comments": 10
+      },
+      "#charlafutebol": {
+        "posts": 3,
+        "views": 49664,
+        "likes": 4249,
+        "comments": 54
+      },
+      "#charlanamix": {
+        "posts": 3,
+        "views": 62297,
+        "likes": 2312,
+        "comments": 18
       }
     }
   },
   "posts": [
     {
-      "id": "18118636009963059",
-      "date": "2026-10-18",
-      "caption": "AMANHECI CANTANDO… ☀️🎶\n\nJorge André trouxe essa composição absurda da dupla Arlindo Cruz e Luiz Carlos da Vila, pra você",
-      "url": "https://www.instagram.com/reel/DeovcvYiXJK/",
-      "tags": [],
+      "id": "18118476760978687",
+      "date": "2026-10-19",
+      "caption": "UM RECADO DE CORAÇÃO ABERTO, GABIGOL! 😍\n\nMatheus Emanuel abriu a Charla de Quinta com essa declaração emocionada e poéti",
+      "url": "https://www.instagram.com/reel/Derpzg2BeE5/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
       "type": "VIDEO",
-      "views": 44996,
-      "reach": 33120,
-      "likes": 3319,
-      "comments": 171,
-      "shares": 378,
-      "saves": 149,
+      "views": 202458,
+      "reach": 141831,
+      "likes": 18223,
+      "comments": 960,
+      "shares": 4020,
+      "saves": 613,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -99,20 +111,20 @@
       }
     },
     {
-      "id": "18167397205487181",
-      "date": "2026-10-18",
-      "caption": "O ÍDOLO AINDA RESOLVE! 🤩\n\nO Enzo também trouxe pra análise a boa partida de Lucas Moura, que ajudou o São Paulo a conqui",
-      "url": "https://www.instagram.com/reel/DenxEjZubk2/",
+      "id": "18117990094807950",
+      "date": "2026-10-19",
+      "caption": "\"O PLACAR PODERIA TER SIDO AINDA MAIS ELÁSTICO!\" \n\nRodrigo Machado comentou sobre o jogo do Flamengo e falou do placar.\n",
+      "url": "https://www.instagram.com/reel/DeqCubMsXuv/",
       "tags": [
         "#fornerianocharla",
         "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 15069,
-      "reach": 11938,
-      "likes": 892,
-      "comments": 4,
-      "shares": 6,
+      "views": 20977,
+      "reach": 16979,
+      "likes": 2105,
+      "comments": 10,
+      "shares": 37,
       "saves": 7,
       "platform": "instagram",
       "analysis": {
@@ -139,21 +151,21 @@
       }
     },
     {
-      "id": "18116570753278790",
-      "date": "2026-10-18",
-      "caption": "O VASCO ERRA NO PLANEJAMENTO? 🤔\n\nSegundo a análise do Enzo, ele não curtiu o planejamento do Vasco nessas partidas de br",
-      "url": "https://www.instagram.com/reel/Denu6dDhGju/",
+      "id": "18126129964803049",
+      "date": "2026-10-19",
+      "caption": "NOITE DE FUTEBOL PERFEITO DO FLAMENGO? \n\nMatheus Emanuel analisou a vitória de 3 a 0 do Mengão e falou do Leo Jardim.\n\n#",
+      "url": "https://www.instagram.com/reel/DeqAMOovG2l/",
       "tags": [
         "#brahmanocharla",
         "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 27594,
-      "reach": 21947,
-      "likes": 1526,
-      "comments": 132,
-      "shares": 83,
-      "saves": 18,
+      "views": 15829,
+      "reach": 12356,
+      "likes": 1079,
+      "comments": 32,
+      "shares": 21,
+      "saves": 7,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -179,21 +191,21 @@
       }
     },
     {
-      "id": "18127046710849666",
-      "date": "2026-10-18",
-      "caption": "O ALERTA AINDA TÁ LIGADO NO BRASILEIRÃO? 👀\n\nNa análise do Rodrigo Machado, o Vasco tem elenco pra não passar mais sufoco",
-      "url": "https://www.instagram.com/reel/DenqpUGPams/",
+      "id": "18128532110480881",
+      "date": "2026-10-19",
+      "caption": "QUE GOLAÇO DO PAQUETÁ! 🤯🔥\n\nSimplesmente Lucas Paquetá. Teve chapéu de peito, corte com a perna direita e uma BOMBA com a",
+      "url": "https://www.instagram.com/reel/Dep7SvMOr_B/",
       "tags": [
         "#brahmanocharla",
         "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 35764,
-      "reach": 27272,
-      "likes": 933,
-      "comments": 50,
-      "shares": 133,
-      "saves": 15,
+      "views": 12858,
+      "reach": 9779,
+      "likes": 1065,
+      "comments": 12,
+      "shares": 14,
+      "saves": 5,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -219,141 +231,20 @@
       }
     },
     {
-      "id": "17928890982422616",
-      "date": "2026-10-18",
-      "caption": "GOL DO SOBERANO! 🔴⚪️⚫️\n\nArtur abre o placar pro São Paulo no Morumbis e vai dando três pontos importantíssimos pro trico",
-      "url": "https://www.instagram.com/reel/DeniPdDPamK/",
+      "id": "18094435124666251",
+      "date": "2026-10-19",
+      "caption": "VEM CHEGANDO, MAJOR! 🔥🔥\n\nHoje tem convidado mais que especial no Charla na Mix! Major RD chega pra nossa resenha daqui a",
+      "url": "https://www.instagram.com/p/DesRPXoJ5wd/",
       "tags": [
-        "#brahmanocharla",
-        "#charlafutebol"
+        "#charlanamix"
       ],
-      "type": "VIDEO",
-      "views": 10442,
-      "reach": 8499,
-      "likes": 237,
-      "comments": 9,
-      "shares": 3,
-      "saves": 2,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17914004736472115",
-      "date": "2026-10-18",
-      "caption": "TRÊS PONTOS PRO BOTAFOGO NÃO PASSAR SUSTOS! ⚫️⚪️\n\nNa análise do Bruno Azevedo, apesar dos problemas e das inconstâncias,",
-      "url": "https://www.instagram.com/reel/DenWvgBsTTJ/",
-      "tags": [
-        "#fornerianocharla",
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 19448,
-      "reach": 15142,
-      "likes": 1116,
-      "comments": 35,
-      "shares": 8,
-      "saves": 6,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18077134883732974",
-      "date": "2026-10-18",
-      "caption": "O SEGUNDO DO MENGÃO VEIO DO ALTO!\n\nCruzamento na área e Plata, de peixinho, mergulhou para ampliar o placar na Fonte Nov",
-      "url": "https://www.instagram.com/reel/Dep6khbvtSE/",
-      "tags": [
-        "#brahmanocharla",
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 8807,
-      "reach": 7351,
-      "likes": 421,
-      "comments": 4,
-      "shares": 1,
-      "saves": 3,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18136398862656521",
-      "date": "2026-10-18",
-      "caption": "JORGINHO É FATAL NOS PÊNALTIS!\n\nEle não perde! Jorginho abriu o placar na Fonte Nova e abriu o caminho pra vitória do Me",
-      "url": "https://www.instagram.com/reel/Dep6EZ9Jmy7/",
-      "tags": [
-        "#brahmanocharla",
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 6991,
-      "reach": 6103,
-      "likes": 251,
-      "comments": 3,
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 28,
+      "comments": 1,
       "shares": 0,
-      "saves": 1,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -379,20 +270,20 @@
       }
     },
     {
-      "id": "18346661533268998",
-      "date": "2026-10-18",
-      "caption": "NEYMAR QUASE JOGOU O MUNDIAL PELO FLU! 👀\n\nAgradecendo o apoio de torcedor do Tricolor após o jogo, Neymar comentou que q",
-      "url": "https://www.instagram.com/reel/Deptd5DhOFP/",
+      "id": "18638429014011331",
+      "date": "2026-10-19",
+      "caption": "CALENDÁRIO DO VASCO PREOCUPA? \n\nAntes da partida contra o São Paulo, o calendário da Vasco já tinha sido pauta no Charla",
+      "url": "https://www.instagram.com/reel/DesRF71PUGN/",
       "tags": [
-        "#charlanopremiere"
+        "#charlanamix"
       ],
       "type": "VIDEO",
-      "views": 221395,
-      "reach": 147721,
-      "likes": 14694,
-      "comments": 143,
-      "shares": 725,
-      "saves": 273,
+      "views": 50632,
+      "reach": 37715,
+      "likes": 1916,
+      "comments": 10,
+      "shares": 10,
+      "saves": 28,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -418,477 +309,25 @@
       }
     },
     {
-      "id": "18077331536437907",
-      "date": "2026-10-18",
-      "caption": "É A TROPA DO NEY NO MARACA! 😜\n\nQuem aí queria estar nessa foto? O Santos tá jogando muito! \n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DepqgLOuBNE/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 471452,
-      "reach": 334590,
-      "likes": 50396,
-      "comments": 742,
-      "shares": 4955,
-      "saves": 611,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17897142840412828",
-      "date": "2026-10-18",
-      "caption": "POR MUITO POUCO NÃO SAIU O TERCEIRO DO SANTOS!\n\nQue lance absurdo! Primeiro, Neymar mandou na trave. Depois, um MILAGRE ",
-      "url": "https://www.instagram.com/reel/DepoYpOt8Q1/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 404169,
-      "reach": 258025,
-      "likes": 16696,
-      "comments": 465,
-      "shares": 2196,
-      "saves": 220,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17974271274139252",
-      "date": "2026-10-18",
-      "caption": "O SANTOS VIRA PRA CIMA DO FLU!\n\nSegundo tempo alucinante do Santos no Maracanã e Coutinho, de cabeça, virou para os paul",
-      "url": "https://www.instagram.com/reel/Depmt39BfPW/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 219943,
-      "reach": 166882,
-      "likes": 14398,
-      "comments": 193,
-      "shares": 1425,
-      "saves": 165,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18068536538786395",
-      "date": "2026-10-18",
-      "caption": "PODE SUBIR A PLACA: TEVE GOL DO GABIGOL!\n\nO Santos voltou com tudo para o segundo tempo e Gabigol, pegando de primeira, ",
-      "url": "https://www.instagram.com/reel/Depk9p5PXol/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 113287,
-      "reach": 84494,
-      "likes": 9601,
-      "comments": 179,
-      "shares": 1134,
-      "saves": 117,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18107419097577561",
-      "date": "2026-10-18",
-      "caption": "QUASE UM GOLAÇO DO SANTOS!\n\nNo final da primeira etapa, o Santos foi para o ataque com a bola de pé em pé e Fábio salvou",
-      "url": "https://www.instagram.com/reel/DepiH4St2nd/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 146499,
-      "reach": 98831,
-      "likes": 2671,
-      "comments": 17,
-      "shares": 72,
-      "saves": 33,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17913870825471765",
-      "date": "2026-10-18",
-      "caption": "QUE CANETA DO ZAGUEIRÃO, HEIN! 👀\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/Depgul6v9-f/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 105327,
-      "reach": 73461,
-      "likes": 2956,
-      "comments": 128,
-      "shares": 1068,
-      "saves": 44,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18106013999363866",
-      "date": "2026-10-18",
-      "caption": "GOL RELÂMPAGO DO FLUZÃO! 🇭🇺\n\nEu e você NUNCA criticamos o Castillo, beleza? A bola sobrou na área e o atacante não despe",
-      "url": "https://www.instagram.com/reel/DepfGrsPdk_/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 43326,
-      "reach": 33392,
-      "likes": 794,
-      "comments": 26,
-      "shares": 12,
-      "saves": 9,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18134174764741096",
-      "date": "2026-10-18",
-      "caption": "O BAIXINHO ERA F*#A! 🔥\n\nRomário falou de anos mágicos na carreira e sobre o Vasco de 2000. \n\n#BrahmaNoCharla #AssaiNoCha",
-      "url": "https://www.instagram.com/reel/DepI_I1BLmW/",
+      "id": "18229743664333662",
+      "date": "2026-10-19",
+      "caption": "O MENGÃO TÁ DANDO SHOW! 🔴⚫️\n\nNa análise do Matheus Emanuel, o jogo de ontem foi um dos melhores do ano do Flamengo. Muit",
+      "url": "https://www.instagram.com/reel/DesP9ZFN6Wc/",
       "tags": [
         "#brahmanocharla",
+        "#penaltynocharla",
         "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
+        "#melittanocharla",
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 68447,
-      "reach": 54108,
-      "likes": 2237,
-      "comments": 22,
-      "shares": 152,
-      "saves": 37,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18137277427632142",
-      "date": "2026-10-18",
-      "caption": "A FONTE NOVA VAI PEGAR FOGO! 🤯\n\nDe um lado, o Bahia quer o G4. Do outro, o Flamengo quer a liderança. Quem vai conseguir",
-      "url": "https://www.instagram.com/p/Deo8A4vtFUZ/",
-      "tags": [
-        "#charlafutebol"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 138,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17928616608186031",
-      "date": "2026-10-18",
-      "caption": "É DIA DE CHARLA NO PREMIERE, MANÉ! 🔥\n\nTarde de domingo no Maracanã e você vai acompanhar todas as emoções de Fluminense ",
-      "url": "https://www.instagram.com/p/Deo7Nt7Bjct/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 129,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "iYbstYveyS8",
-      "date": "2026-10-18",
-      "caption": "VASCO AINDA CORRE RISCOS DE REBAIXAMENTO NO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 8835,
-      "likes": 121,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Cw7cLK80LVc",
-      "date": "2026-10-18",
-      "caption": "ARTUR JORGE FALA DA SITUAÇÃO ENTRE CRISTIANO RONALDO E JORGE JESUS! 👀",
-      "type": "VIDEO",
-      "views": 2048,
-      "likes": 44,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "HFpzoUv_7Ck",
-      "date": "2026-10-18",
-      "caption": "O DIA MAIS FELIZ DA VIDA DO CANTA! 🔥😍",
-      "type": "VIDEO",
-      "views": 4825,
-      "likes": 128,
+      "views": 7423,
+      "reach": 5715,
+      "likes": 404,
       "comments": 2,
       "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "saves": 5,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -913,16 +352,220 @@
       }
     },
     {
-      "id": "IFQbarRilM8",
-      "date": "2026-10-18",
-      "caption": "NÃO DEU PRA CONTER A EMOÇÃO! 🥹",
+      "id": "18074960336727322",
+      "date": "2026-10-19",
+      "caption": "PEDRO EMANUEL É O MELHOR TREINADOR DO BRASIL? 👀\n\nSe liga no que falou o Dan Lessa em nossa resenha na mix. E pra vocês, ",
+      "url": "https://www.instagram.com/reel/DesN4MitaZ1/",
+      "tags": [
+        "#charlanamix"
+      ],
       "type": "VIDEO",
-      "views": 1153,
-      "likes": 39,
+      "views": 11665,
+      "reach": 9207,
+      "likes": 368,
+      "comments": 7,
+      "shares": 5,
+      "saves": 7,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18119722393988015",
+      "date": "2026-10-19",
+      "caption": "PAULO ANDRADE E OUTROS ESPORTES!\n\nO narrador falou em nossa Charla sobre o desafio de narrar outros esportes e da vontad",
+      "url": "https://www.instagram.com/reel/DesJqMUN_Dc/",
+      "tags": [
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 20086,
+      "reach": 15201,
+      "likes": 581,
+      "comments": 4,
+      "shares": 7,
+      "saves": 8,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17910001638574443",
+      "date": "2026-10-19",
+      "caption": "SE LIGA NA AGENDA DA SEMANA! 🔥🚀",
+      "url": "https://www.instagram.com/p/DesEO7ehhRw/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 176,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17939972505389780",
+      "date": "2026-10-19",
+      "caption": "O TIME PALMEIRAS TÁ QUERENDO! 🔥🟢\n\nCom um elenco absurdo, o Palmeiras tá com vontade de sobra pra ir atrás dos três títul",
+      "url": "https://www.instagram.com/reel/Der-QSdPv2I/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 22594,
+      "reach": 15800,
+      "likes": 1588,
+      "comments": 90,
+      "shares": 70,
+      "saves": 31,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18113337919864217",
+      "date": "2026-10-19",
+      "caption": "O TORCEDOR SANTISTA PODE EMPOLGAR? 👀\n\nJoanna de Assis chegou na nossa charla de hoje e falou sobre a situação do Santos,",
+      "url": "https://www.instagram.com/reel/Der3BoytT5w/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 10385,
+      "reach": 8187,
+      "likes": 489,
+      "comments": 11,
+      "shares": 3,
+      "saves": 7,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18242644213315473",
+      "date": "2026-10-19",
+      "caption": "AGENDA DE JOGOS DA SEMANA! ⚽️",
+      "url": "https://www.instagram.com/p/Derwv85Btoc/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 56,
       "comments": 0,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -947,13 +590,13 @@
       }
     },
     {
-      "id": "PWfLy0SCSSM",
-      "date": "2026-10-18",
-      "caption": "O JEITINHO SAMPAOLI DE SER! 🤣",
+      "id": "IklEya0PJBY",
+      "date": "2026-10-19",
+      "caption": "FLAMENGO AMASSA O BAHIA E SEGUE NA LIDERANÇA! FLU PERDE A TERCEIRA SEGUIDA! | CHARLA DE QUINTA #398",
       "type": "VIDEO",
-      "views": 1049,
-      "likes": 19,
-      "comments": 0,
+      "views": 27594,
+      "likes": 1000,
+      "comments": 23,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -981,13 +624,13 @@
       }
     },
     {
-      "id": "Rioa6Lqk-K8",
-      "date": "2026-10-18",
-      "caption": "“TU VAI SE ATRASAR!” 😳😳",
+      "id": "cwNXgoEWF6I",
+      "date": "2026-10-19",
+      "caption": "ATUAÇÃO ABSURDA DO FLAMENGO PARA ATROPELAR O BAHIA EM SALVADOR",
       "type": "VIDEO",
-      "views": 2220,
-      "likes": 50,
-      "comments": 0,
+      "views": 10244,
+      "likes": 322,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1015,182 +658,12 @@
       }
     },
     {
-      "id": "aDMVJnvLpQI",
-      "date": "2026-10-18",
-      "caption": "E AÍ, TEM DISCUSSÃO? 👀",
+      "id": "qb-m5Ki-Gc4",
+      "date": "2026-10-19",
+      "caption": "MATHEUS ANALISA A GOLEADA DO FLAMENGO SOBRE O BAHIA",
       "type": "VIDEO",
-      "views": 2673,
-      "likes": 107,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "kp2t8umXmyk",
-      "date": "2026-10-18",
-      "caption": "“ESSE É O MEU MOMENTO!” 🤩",
-      "type": "VIDEO",
-      "views": 1042,
-      "likes": 24,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "nsslt-bUseU",
-      "date": "2026-10-18",
-      "caption": "ARTUR JORGE NO CABULOSO ATÉ 2030! 👏🏻",
-      "type": "VIDEO",
-      "views": 522,
-      "likes": 10,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "rYlfquJ_4y8",
-      "date": "2026-10-18",
-      "caption": "EVERSON FALA DA CONFUSÃO NO CLÁSSICO MINEIRO!",
-      "type": "VIDEO",
-      "views": 1845,
-      "likes": 25,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "wCQMK-XEiXg",
-      "date": "2026-10-18",
-      "caption": "“FOI O PIOR DIA DA MINHA VIDA, E PARECIA QUE TINHA UM CAIXÃO NO VESTIÁRIO” 😳",
-      "type": "VIDEO",
-      "views": 1564,
-      "likes": 38,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "chHWB2EDPkA",
-      "date": "2026-10-18",
-      "caption": "ENZO DESABAFA APÓS MAIS UMA DERROTA DO VASCO NO BRASILEIRÃO",
-      "type": "VIDEO",
-      "views": 6878,
-      "likes": 140,
+      "views": 15400,
+      "likes": 364,
       "comments": 16,
       "shares": 0,
       "saves": 0,
@@ -1219,13 +692,13 @@
       }
     },
     {
-      "id": "l8qdyfqhFyg",
-      "date": "2026-10-18",
-      "caption": "VEJA A NARRAÇÃO DO CHARLA NO GOL DO SÃO PAULO CONTRA O VASCO PELO BRASILEIRÃO",
+      "id": "j9wxtT7N6Ho",
+      "date": "2026-10-19",
+      "caption": "NARRAÇÃO EMOCIONANTE DA GOLEADA ABSURDA DO FLAMENGO EM CIMA DO BAHIA",
       "type": "VIDEO",
-      "views": 3658,
-      "likes": 10,
-      "comments": 0,
+      "views": 2928,
+      "likes": 94,
+      "comments": 1,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1253,12 +726,80 @@
       }
     },
     {
-      "id": "9oKt_NIMkSA",
-      "date": "2026-10-18",
-      "caption": "SÃO PAULO X VASCO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "id": "WCQ31aFLH6c",
+      "date": "2026-10-19",
+      "caption": "SITUAÇÃO DO VASCO NO BRASILEIRÃO AINDA É PREOCUPANTE?",
       "type": "VIDEO",
-      "views": 57121,
-      "likes": 580,
+      "views": 5523,
+      "likes": 109,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "noOV_wtFfrE",
+      "date": "2026-10-19",
+      "caption": "BASTIDORES DO VESTIÁRIO DO GRÊMIO APÓS COLETIVA POLÊMICA DE RENATO GAÚCHO",
+      "type": "VIDEO",
+      "views": 7169,
+      "likes": 86,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Ak-ZA5Klu3w",
+      "date": "2026-10-19",
+      "caption": "PALMEIRAS VAI GANHAR TUDO EM 2026?",
+      "type": "VIDEO",
+      "views": 1418,
+      "likes": 23,
       "comments": 2,
       "shares": 0,
       "saves": 0,
@@ -1287,12 +828,12 @@
       }
     },
     {
-      "id": "narfhqZj4fI",
-      "date": "2026-10-18",
-      "caption": "VITÓRIA CONTRA A CHAPE TRAZ ALÍVIO PARA O BOTAFOGO NO BRASILEIRÃO?",
+      "id": "JVhK7maLvTc",
+      "date": "2026-10-19",
+      "caption": "NEYMAR VAI FICAR NO SANTOS EM 2027?",
       "type": "VIDEO",
-      "views": 1952,
-      "likes": 18,
+      "views": 1799,
+      "likes": 21,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -1321,12 +862,46 @@
       }
     },
     {
-      "id": "PBuBrMIS2SM",
-      "date": "2026-10-18",
-      "caption": "MATHEUS ANALISA A VITÓRIA DO BOTAFOGO CONTRA A CHAPECOENSE",
+      "id": "6oxbv7q76Xk",
+      "date": "2026-10-19",
+      "caption": "AZEVEDO RESPONDE O QUE PENSA SOBRE GABIGOL",
       "type": "VIDEO",
-      "views": 1256,
-      "likes": 12,
+      "views": 4349,
+      "likes": 75,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "dh2NuzIVaqQ",
+      "date": "2026-10-19",
+      "caption": "GOLEADA CONTRA O BAHIA FOI A MELHOR ATUAÇÃO DO FLAMENGO NO ANO",
+      "type": "VIDEO",
+      "views": 2937,
+      "likes": 80,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1355,12 +930,12 @@
       }
     },
     {
-      "id": "JEEGKC-nKb4",
-      "date": "2026-10-18",
-      "caption": "CONFIRA A NARRAÇÃO DO GOL QUE DEU A VITÓRIA AO BOTAFOGO EM CIMA DA CHAPECOENSE",
+      "id": "hLZ9rxNEzE0",
+      "date": "2026-10-19",
+      "caption": "CARRASCAL MERECE A TITULARIDADE NO FLAMENGO?",
       "type": "VIDEO",
-      "views": 1330,
-      "likes": 46,
+      "views": 6651,
+      "likes": 162,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -1389,47 +964,13 @@
       }
     },
     {
-      "id": "0rh6YcuVLVc",
-      "date": "2026-10-18",
-      "caption": "BAHIA x FLAMENGO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "id": "cvMAt3iJo-o",
+      "date": "2026-10-19",
+      "caption": "GABIGOL SERIA TITULAR DO FLAMENGO HOJE?",
       "type": "VIDEO",
-      "views": 94287,
-      "likes": 1163,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "PrO7xLQTJ88",
-      "date": "2026-10-18",
-      "caption": "VIRADA ESPETACULAR DO SANTOS NO MARACANÃ",
-      "type": "VIDEO",
-      "views": 9111,
-      "likes": 146,
-      "comments": 10,
+      "views": 10801,
+      "likes": 266,
+      "comments": 25,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
