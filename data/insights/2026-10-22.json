@@ -1,0 +1,941 @@
+{
+  "generated_at": "2026-10-23T14:42:04.291355",
+  "date": "2026-10-22",
+  "summary": {
+    "score_medio": 5.0,
+    "total_posts": 23,
+    "total_alertas": 0,
+    "padroes": [
+      "—",
+      "—",
+      "—"
+    ],
+    "recomendacao_amanha": "—",
+    "insight_principal": "—",
+    "melhor_post_id": "18099683336434624",
+    "melhor_post_caption": "É DIA DE RESENHA BOA NO CHARLA!\n\nNesta quinta (22), receberemos em nosso estúdio a Natalia Guitler, ",
+    "melhor_post_views": 0,
+    "sponsor_stats": {
+      "#fornerianocharla": {
+        "posts": 6,
+        "views": 182208,
+        "likes": 6969,
+        "comments": 425
+      },
+      "#brahmanocharla": {
+        "posts": 9,
+        "views": 370426,
+        "likes": 20215,
+        "comments": 497
+      },
+      "#penaltynocharla": {
+        "posts": 1,
+        "views": 186421,
+        "likes": 12183,
+        "comments": 138
+      },
+      "#melittanocharla": {
+        "posts": 1,
+        "views": 186421,
+        "likes": 12183,
+        "comments": 138
+      },
+      "#granfinonocharla": {
+        "posts": 1,
+        "views": 186421,
+        "likes": 12183,
+        "comments": 138
+      },
+      "#assainocharla": {
+        "posts": 5,
+        "views": 135335,
+        "likes": 5605,
+        "comments": 287
+      },
+      "#absolutnocharla": {
+        "posts": 5,
+        "views": 135335,
+        "likes": 5605,
+        "comments": 287
+      },
+      "#772": {
+        "posts": 1,
+        "views": 0,
+        "likes": 523,
+        "comments": 11
+      }
+    }
+  },
+  "posts": [
+    {
+      "id": "18099683336434624",
+      "date": "2026-10-22",
+      "caption": "É DIA DE RESENHA BOA NO CHARLA!\n\nNesta quinta (22), receberemos em nosso estúdio a Natalia Guitler, atleta profissional ",
+      "url": "https://www.instagram.com/p/DezNdPCOlar/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 112,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18114017762129047",
+      "date": "2026-10-22",
+      "caption": "“O FLUMINENSE FOI MELHOR MAS O PALMEIRAS FOI MAIS EFETIVO”\n\nAzevedo falou sobre o desempenho dos times e quem foi mais e",
+      "url": "https://www.instagram.com/reel/DeyHayKBOH-/",
+      "tags": [
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 46873,
+      "reach": 36272,
+      "likes": 1364,
+      "comments": 138,
+      "shares": 11,
+      "saves": 22,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18106802045302528",
+      "date": "2026-10-22",
+      "caption": "“O PALMEIRAS SABE JOGAR LIBERTADORES”\n\nMachado analisa a classificação do Verdão e como o time o Abel chega a mais uma f",
+      "url": "https://www.instagram.com/reel/DeyGQf8BGcj/",
+      "tags": [
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 9900,
+      "reach": 8135,
+      "likes": 190,
+      "comments": 13,
+      "shares": 5,
+      "saves": 1,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17929136664181112",
+      "date": "2026-10-22",
+      "caption": "O VERDÃO ESTÁ NA FINAL DA LIBERTADORES!!!!\n\nCarlos Miguel defende e Marlon Freitas marca pra colocar o Palmeiras em mais",
+      "url": "https://www.instagram.com/reel/Dex9auqtHzp/",
+      "tags": [
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 19083,
+      "reach": 14647,
+      "likes": 1217,
+      "comments": 40,
+      "shares": 12,
+      "saves": 16,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18127399219882204",
+      "date": "2026-10-22",
+      "caption": "É GOL DO FLUZÃO!\n\nO Tricolor chega trocando passes numa bela jogada e Hércules sai cara a cara com o goleiro pra colocar",
+      "url": "https://www.instagram.com/reel/Dex55lWP2oJ/",
+      "tags": [
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 19687,
+      "reach": 14545,
+      "likes": 1020,
+      "comments": 19,
+      "shares": 6,
+      "saves": 14,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18126559114932742",
+      "date": "2026-10-22",
+      "caption": "\"ELE É MUITO MANEIRO!\" \n\nNatalia Guitler contou como foi quando jogou futevôlei com o Neymar e falou do craque.\n\n#Brahma",
+      "url": "https://www.instagram.com/reel/Dez5oSkhVq_/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 186421,
+      "reach": 118683,
+      "likes": 12183,
+      "comments": 138,
+      "shares": 845,
+      "saves": 267,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18108435767631132",
+      "date": "2026-10-22",
+      "caption": "COMO ERA BOM VER ROMÁRIO E EDMUNDO JUNTOS! \n\nAntônio Lopes contou como foi a chegada do baixinho no Vasco e como era tre",
+      "url": "https://www.instagram.com/reel/DezyhPJs7oR/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 37772,
+      "reach": 22502,
+      "likes": 1477,
+      "comments": 20,
+      "shares": 101,
+      "saves": 61,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17979687809919450",
+      "date": "2026-10-22",
+      "caption": "PREOCUPAÇÃO COM O FÍSICO E O MENTAL DO PAULINHO!\n\nJoanna de Assis falou do lance envolvendo o jogador do Palmeiras ontem",
+      "url": "https://www.instagram.com/reel/Dezq7aQMn0w/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 64333,
+      "reach": 43429,
+      "likes": 2604,
+      "comments": 149,
+      "shares": 84,
+      "saves": 59,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17866105647696896",
+      "date": "2026-10-22",
+      "caption": "Charla #772 - Natalia Guitler\n\nMulticampeã no futevôlei, empresária e criadora de conteúdo esportivo, Natalia Guitler é ",
+      "url": "https://www.instagram.com/p/Dezpr9ThKb6/",
+      "tags": [
+        "#772"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 523,
+      "comments": 11,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18034421471851089",
+      "date": "2026-10-22",
+      "caption": "ABEL FERREIRA JÁ É O MAIOR TREINADOR DA HISTÓRIA DO VERDÃO? DIZ AÍ! \n\n#BrahmaNoCharla #AssaiNoCharla #ForneriaNoCharla #",
+      "url": "https://www.instagram.com/reel/DeznChsh33L/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 11852,
+      "reach": 9400,
+      "likes": 657,
+      "comments": 9,
+      "shares": 25,
+      "saves": 13,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18096625994652107",
+      "date": "2026-10-22",
+      "caption": "“MUITA GENTE NEM SABE QUE ESSE SAMBA É MEU..” 👀\n\nJoão Martins contou, no Batuq, os bastidores da composição de Pauperrec",
+      "url": "https://www.instagram.com/reel/DezmA_xOexq/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 32128,
+      "reach": 22213,
+      "likes": 2364,
+      "comments": 47,
+      "shares": 149,
+      "saves": 42,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18092603543688736",
+      "date": "2026-10-22",
+      "caption": "QUEM VAI ENFRENTAR O PALMEIRAS NA FINAL DA LIBERTADORES?\n\nFlamengo e Estudiantes medem forças hoje, no Maracanã, e tá tu",
+      "url": "https://www.instagram.com/p/DezlKmPR737/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 52,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18056061698656137",
+      "date": "2026-10-22",
+      "caption": "A TORCIDA DO VERDÃO FICOU PREOCUPADA?\n\nJoanna de Assis falou dos confrontos do Palmeiras contra o Fluminense e da tática",
+      "url": "https://www.instagram.com/reel/DezeJBuvwJg/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 8459,
+      "reach": 6819,
+      "likes": 138,
+      "comments": 9,
+      "shares": 1,
+      "saves": 3,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18150825784552287",
+      "date": "2026-10-22",
+      "caption": "QUAL É O FUTURO DO SANTOS E DO NEYMAR? 👀\n\nJoanna de Assis falou do elenco do Peixe, dos desafios que a diretoria encontr",
+      "url": "https://www.instagram.com/reel/Dezdpx6BZ5G/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 8202,
+      "reach": 6354,
+      "likes": 365,
+      "comments": 15,
+      "shares": 12,
+      "saves": 7,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18153824509584381",
+      "date": "2026-10-22",
+      "caption": "A LIBERTADORES DO FLUMINENSE FOI ABAIXO?\n\nPhill lembrou a campanha do Tricolor na competição e comentou a eliminação. \n\n",
+      "url": "https://www.instagram.com/reel/DezZDiXhD6z/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 28281,
+      "reach": 19006,
+      "likes": 1290,
+      "comments": 82,
+      "shares": 26,
+      "saves": 33,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18135058303783242",
+      "date": "2026-10-22",
+      "caption": "TÁ TRISTE, PHILL? FICA TRISTE NÃO... 😂\n\nO Fluzão caiu na Libertadores para o Palmeiras e aí sobrou para o Phill na Charl",
+      "url": "https://www.instagram.com/reel/DezWx0fRoJz/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 22410,
+      "reach": 16333,
+      "likes": 916,
+      "comments": 38,
+      "shares": 21,
+      "saves": 11,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "ZHsKPIoAFL0",
+      "date": "2026-10-22",
+      "caption": "FLUMINENSE PERDE NOS PÊNALTIS E PALMEIRAS VAI PRA FINAL DE LIBERTADORES | CHARLA DE QUINTA #401",
+      "type": "VIDEO",
+      "views": 42439,
+      "likes": 1692,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "0dkoNHEKsh0",
+      "date": "2026-10-22",
+      "caption": "FLUMINENSE MERECIA A CLASSIFICAÇÃO PARA A FINAL DA LIBERTADORES?",
+      "type": "VIDEO",
+      "views": 15601,
+      "likes": 167,
+      "comments": 22,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "FAEcN3hguCM",
+      "date": "2026-10-22",
+      "caption": "PALMEIRAS ESTÁ EM MAIS UMA FINAL DE LIBERTADORES",
+      "type": "VIDEO",
+      "views": 8858,
+      "likes": 166,
+      "comments": 45,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Q_BiGqh-dq4",
+      "date": "2026-10-22",
+      "caption": "NARRAÇÃO ABSURDA DA CLASSIFICAÇÃO DO PALMEIRAS À FINAL DA LIBERTADORES",
+      "type": "VIDEO",
+      "views": 1789,
+      "likes": 51,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "npTQjWvdKXI",
+      "date": "2026-10-22",
+      "caption": "PALMEIRAS x FLUMINENSE | AO VIVO | CONMEBOL LIBERTADORES 2026 | Charla Futebol",
+      "type": "VIDEO",
+      "views": 25005,
+      "likes": 349,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "sRiuubDMDz0",
+      "date": "2026-10-22",
+      "caption": "PRÉ-JOGO DE PALMEIRAS X FLUMINENSE NA MIX",
+      "type": "VIDEO",
+      "views": 6004,
+      "likes": 154,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "2Ekc0M3NRbI",
+      "date": "2026-10-22",
+      "caption": "Charla #772 - Natalia Guitler [Atleta e Criadora de Conteúdo]",
+      "type": "VIDEO",
+      "views": 13604,
+      "likes": 198,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    }
+  ]
+}
