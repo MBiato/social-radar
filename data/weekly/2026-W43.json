@@ -1,0 +1,308 @@
+{
+  "generated_at": "2026-10-26T16:32:38.651675",
+  "period_start": "2026-10-19",
+  "period_end": "2026-10-25",
+  "week_label": "2026-10-19 a 2026-10-25",
+  "metrics": {
+    "total_posts": 197,
+    "instagram_posts": 92,
+    "youtube_posts": 105,
+    "total_views": 6409068,
+    "total_likes": 318297,
+    "total_comments": 19272
+  },
+  "sponsor_stats": {
+    "#brahmanocharla": {
+      "posts": 44,
+      "views": 2317097,
+      "likes": 155899,
+      "comments": 8080,
+      "tag": "#brahmanocharla"
+    },
+    "#melittanocharla": {
+      "posts": 19,
+      "views": 1447314,
+      "likes": 84064,
+      "comments": 3650,
+      "tag": "#melittanocharla"
+    },
+    "#penaltynocharla": {
+      "posts": 16,
+      "views": 1311304,
+      "likes": 79980,
+      "comments": 3599,
+      "tag": "#penaltynocharla"
+    },
+    "#charlafutebol": {
+      "posts": 29,
+      "views": 1110039,
+      "likes": 92919,
+      "comments": 5722,
+      "tag": "#charlafutebol"
+    },
+    "#assainocharla": {
+      "posts": 18,
+      "views": 1008138,
+      "likes": 62645,
+      "comments": 3606,
+      "tag": "#assainocharla"
+    },
+    "#granfinonocharla": {
+      "posts": 9,
+      "views": 952636,
+      "likes": 66016,
+      "comments": 4051,
+      "tag": "#granfinonocharla"
+    },
+    "#texaconocharla": {
+      "posts": 3,
+      "views": 709021,
+      "likes": 51963,
+      "comments": 6634,
+      "tag": "#texaconocharla"
+    },
+    "#charlanaoktoberfest": {
+      "posts": 8,
+      "views": 603339,
+      "likes": 24035,
+      "comments": 355,
+      "tag": "#charlanaoktoberfest"
+    },
+    "#fornerianocharla": {
+      "posts": 13,
+      "views": 466412,
+      "likes": 28276,
+      "comments": 2250,
+      "tag": "#fornerianocharla"
+    },
+    "#absolutnocharla": {
+      "posts": 7,
+      "views": 244255,
+      "likes": 12498,
+      "comments": 1686,
+      "tag": "#absolutnocharla"
+    },
+    "#charlanamix": {
+      "posts": 5,
+      "views": 152928,
+      "likes": 4650,
+      "comments": 80,
+      "tag": "#charlanamix"
+    },
+    "#002": {
+      "posts": 1,
+      "views": 64827,
+      "likes": 3670,
+      "comments": 35,
+      "tag": "#002"
+    },
+    "#774": {
+      "posts": 1,
+      "views": 0,
+      "likes": 956,
+      "comments": 35,
+      "tag": "#774"
+    },
+    "#773": {
+      "posts": 1,
+      "views": 0,
+      "likes": 419,
+      "comments": 4,
+      "tag": "#773"
+    },
+    "#772": {
+      "posts": 1,
+      "views": 0,
+      "likes": 633,
+      "comments": 11,
+      "tag": "#772"
+    },
+    "#771": {
+      "posts": 1,
+      "views": 0,
+      "likes": 458,
+      "comments": 11,
+      "tag": "#771"
+    }
+  },
+  "top_posts": [
+    {
+      "id": "17964622635230399",
+      "date": "2026-10-23",
+      "caption": "FLAMENGO ELIMINADO! \n\nAcompanhe a narração dos pênaltis decisivos que levaram o Estudiantes à final da Libertadores. \n\n🎙",
+      "url": "https://www.instagram.com/reel/De0tNCrt4uC/",
+      "tags": [
+        "#texaconocharla"
+      ],
+      "type": "VIDEO",
+      "views": 406174,
+      "reach": 284398,
+      "likes": 32114,
+      "comments": 3553,
+      "shares": 3908,
+      "saves": 445,
+      "platform": "instagram"
+    },
+    {
+      "id": "18118476760978687",
+      "date": "2026-10-19",
+      "caption": "UM RECADO DE CORAÇÃO ABERTO, GABIGOL! 😍\n\nMatheus Emanuel abriu a Charla de Quinta com essa declaração emocionada e poéti",
+      "url": "https://www.instagram.com/reel/Derpzg2BeE5/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 354318,
+      "reach": 249107,
+      "likes": 33191,
+      "comments": 2253,
+      "shares": 7262,
+      "saves": 1132,
+      "platform": "instagram"
+    },
+    {
+      "id": "18126559114932742",
+      "date": "2026-10-22",
+      "caption": "\"ELE É MUITO MANEIRO!\" \n\nNatalia Guitler contou como foi quando jogou futevôlei com o Neymar e falou do craque.\n\n#Brahma",
+      "url": "https://www.instagram.com/reel/Dez5oSkhVq_/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 351976,
+      "reach": 225452,
+      "likes": 21064,
+      "comments": 244,
+      "shares": 1258,
+      "saves": 436,
+      "platform": "instagram"
+    },
+    {
+      "id": "pd-pLQVmX90",
+      "date": "2026-10-23",
+      "caption": "FLAMENGO x ESTUDIANTES | AO VIVO | CONMEBOL LIBERTADORES 2026 | Charla Futebol",
+      "type": "VIDEO",
+      "views": 330842,
+      "likes": 1732,
+      "comments": 14,
+      "shares": 19,
+      "saves": 0,
+      "watch_minutes": 344182,
+      "avg_view_duration_sec": 72,
+      "platform": "youtube"
+    },
+    {
+      "id": "18155682469521688",
+      "date": "2026-10-25",
+      "caption": "AZEVEDO É VASCO PRA C*ARALHO!!!! 👏🏻🔥\n\nNão tem muito o que dizer. Senhoras e senhores: Bruno Azevedo ficou MALUCO com o V",
+      "url": "https://www.instagram.com/reel/De5X5PwPNCL/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 291796,
+      "reach": 215336,
+      "likes": 40027,
+      "comments": 742,
+      "shares": 1884,
+      "saves": 543,
+      "platform": "instagram"
+    },
+    {
+      "id": "17952222018323050",
+      "date": "2026-10-25",
+      "caption": "DEU TRETA PESADA NO VESTIÁRIO! 😳🔥\n\nNo Borussia do Felipe Santana, ninguém imaginava que a briga pela artilharia seria li",
+      "url": "https://www.instagram.com/reel/De7P5bMMG8o/",
+      "tags": [
+        "#charlanaoktoberfest"
+      ],
+      "type": "VIDEO",
+      "views": 283893,
+      "reach": 190383,
+      "likes": 12578,
+      "comments": 54,
+      "shares": 3296,
+      "saves": 663,
+      "platform": "instagram"
+    },
+    {
+      "id": "18102420167049038",
+      "date": "2026-10-21",
+      "caption": "PAREDES FAZ O GOL DA CLASSIFICAÇÃO XENEIZE!\n\nEm chute de fora da área, Leandro Paredes marca o terceiro gol do Boca Juni",
+      "url": "https://www.instagram.com/reel/DevbLVUh543/",
+      "tags": [
+        "#texaconocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 221831,
+      "reach": 159882,
+      "likes": 13349,
+      "comments": 1647,
+      "shares": 763,
+      "saves": 222,
+      "platform": "instagram"
+    },
+    {
+      "id": "G1sBgqNXMjM",
+      "date": "2026-10-21",
+      "caption": "ENZO VAI À LOUCURA COM VEXAME DO VASCO CONTRA O BOCA NO MARACANÃ",
+      "type": "VIDEO",
+      "views": 185677,
+      "likes": 4397,
+      "comments": 800,
+      "shares": 225,
+      "saves": 0,
+      "watch_minutes": 299132,
+      "avg_view_duration_sec": 184,
+      "platform": "youtube"
+    },
+    {
+      "id": "17962559880227689",
+      "date": "2026-10-24",
+      "caption": "É GOLAÇO QUE VOCÊS QUEREM? ENTÃO TOMA AÍ! 🔥🔥⚽️⚽️\n\nNa nossa resenha, Marcelinho Paraíba escolheu o seu golaço favorito na",
+      "url": "https://www.instagram.com/reel/De4_-ieBQFR/",
+      "tags": [
+        "#charlanaoktoberfest"
+      ],
+      "type": "VIDEO",
+      "views": 150442,
+      "reach": 108809,
+      "likes": 6322,
+      "comments": 170,
+      "shares": 313,
+      "saves": 91,
+      "platform": "instagram"
+    },
+    {
+      "id": "-cl8FvKgbWQ",
+      "date": "2026-10-23",
+      "caption": "BRUNO CANTARELLI NARRA A ELIMINAÇÃO DO FLAMENGO DA LIBERTADORES DIRETO DO MARACANÃ",
+      "type": "VIDEO",
+      "views": 138127,
+      "likes": 2005,
+      "comments": 394,
+      "shares": 92,
+      "saves": 0,
+      "watch_minutes": 285425,
+      "avg_view_duration_sec": 283,
+      "platform": "youtube"
+    }
+  ],
+  "ai_summary": {
+    "resumo_semana": "—",
+    "destaque_semana": "—",
+    "padroes": [],
+    "recomendacoes": [],
+    "analise_patrocinadores": "—",
+    "proximo_foco": "—"
+  }
+}
