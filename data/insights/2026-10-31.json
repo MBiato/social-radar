@@ -1,0 +1,729 @@
+{
+  "generated_at": "2026-11-01T16:36:38.146268",
+  "date": "2026-10-31",
+  "summary": {
+    "score_medio": 5.0,
+    "total_posts": 19,
+    "total_alertas": 0,
+    "padroes": [
+      "—",
+      "—",
+      "—"
+    ],
+    "recomendacao_amanha": "—",
+    "insight_principal": "—",
+    "melhor_post_id": "17967086957984509",
+    "melhor_post_caption": "DE CARONA COM ALEXANDRE PATO! 🔥\n\nEnzo Grisalho trocou uma ideia com o atacante a respeito do Northam",
+    "melhor_post_views": 9621,
+    "sponsor_stats": {
+      "#charlanamix": {
+        "posts": 1,
+        "views": 7917,
+        "likes": 141,
+        "comments": 2
+      },
+      "#chatgptnocharla": {
+        "posts": 1,
+        "views": 16067,
+        "likes": 521,
+        "comments": 4
+      },
+      "#brahmanocharla": {
+        "posts": 1,
+        "views": 16067,
+        "likes": 521,
+        "comments": 4
+      },
+      "#penaltynocharla": {
+        "posts": 1,
+        "views": 16067,
+        "likes": 521,
+        "comments": 4
+      },
+      "#assainocharla": {
+        "posts": 1,
+        "views": 16067,
+        "likes": 521,
+        "comments": 4
+      },
+      "#melittanocharla": {
+        "posts": 1,
+        "views": 73439,
+        "likes": 4006,
+        "comments": 48
+      }
+    }
+  },
+  "posts": [
+    {
+      "id": "17967086957984509",
+      "date": "2026-10-31",
+      "caption": "DE CARONA COM ALEXANDRE PATO! 🔥\n\nEnzo Grisalho trocou uma ideia com o atacante a respeito do Northampton Town e como é, ",
+      "url": "https://www.instagram.com/reel/DfKUoOlsOEs/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 9621,
+      "reach": 7861,
+      "likes": 705,
+      "comments": 2,
+      "shares": 9,
+      "saves": 10,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18058927760650386",
+      "date": "2026-10-31",
+      "caption": "DAN LESSA TEM CLONES? 👀😂\n\nNo Charla na Mix, Dan Lessa e Ryan Barine falaram sobre o processo de criação de conteúdos apó",
+      "url": "https://www.instagram.com/reel/DfLErxPsLwy/",
+      "tags": [
+        "#charlanamix"
+      ],
+      "type": "VIDEO",
+      "views": 7917,
+      "reach": 6588,
+      "likes": 141,
+      "comments": 2,
+      "shares": 0,
+      "saves": 1,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17914350963518568",
+      "date": "2026-10-31",
+      "caption": "\"MARCOS, VEM PRA SÃO PAULO QUE SEU PAI FALECEU!\"\n\nMarcos Senna contou bastidores de quando recebeu, antes de uma partida",
+      "url": "https://www.instagram.com/reel/DfK29iXM2KE/",
+      "tags": [
+        "#chatgptnocharla",
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla"
+      ],
+      "type": "VIDEO",
+      "views": 16067,
+      "reach": 11209,
+      "likes": 521,
+      "comments": 4,
+      "shares": 3,
+      "saves": 11,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18121586212993493",
+      "date": "2026-10-31",
+      "caption": "COMO É ENFRENTAR TIMES EUROPEUS DA ELITE?\n\nApós o prêmio de melhor do mundo para o Kane, bora relembrar o Rodrigo Caio f",
+      "url": "https://www.instagram.com/reel/DfKpNv0MScv/",
+      "tags": [
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 73439,
+      "reach": 52119,
+      "likes": 4006,
+      "comments": 48,
+      "shares": 253,
+      "saves": 145,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18115435399863941",
+      "date": "2026-10-31",
+      "caption": "“VOU TE ESQUECER, POIS VIVER ASSIM NÃO DÁ!” 🎶\n\nImagina escrever essa pedrada com 15 anos? Dudu Nobre é gênio e cantou o ",
+      "url": "https://www.instagram.com/reel/DfKi2DKuDwA/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 76678,
+      "reach": 62539,
+      "likes": 5935,
+      "comments": 110,
+      "shares": 777,
+      "saves": 313,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "FoGZrk_nBY8",
+      "date": "2026-10-31",
+      "caption": "MAGIA DO RONALDINHO ENCANTOU A EUROPA E PAROU O FUTEBOL ESPANHOL",
+      "type": "VIDEO",
+      "views": 10435,
+      "likes": 206,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "dnuBjuc86ac",
+      "date": "2026-10-31",
+      "caption": "GENIALIDADE DO XAVI CHOCOU O MARCOS SENNA NA ESPANHA",
+      "type": "VIDEO",
+      "views": 4404,
+      "likes": 85,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "wSMIiBu-gp0",
+      "date": "2026-10-31",
+      "caption": "MARCOS SENNA REVELA TRETA ABSURDA QUE TEVE COM O RIQUELME",
+      "type": "VIDEO",
+      "views": 41892,
+      "likes": 677,
+      "comments": 33,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "UJplDPbrY_s",
+      "date": "2026-10-31",
+      "caption": "GERAÇÃO ABSURDA DO VILLAREAL QUE ENCANTOU A EUROPA",
+      "type": "VIDEO",
+      "views": 9595,
+      "likes": 281,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "DhZKH45Afws",
+      "date": "2026-10-31",
+      "caption": "BASTIDORES DO DIA EM QUE O CORINTHIANS COLOCOU O REAL MADRID NA RODA",
+      "type": "VIDEO",
+      "views": 4535,
+      "likes": 123,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "6JwVNq2JsM0",
+      "date": "2026-10-31",
+      "caption": "MARCOS SENNA ABRE O JOGO SOBRE RODRI",
+      "type": "VIDEO",
+      "views": 8763,
+      "likes": 199,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "FiU4Bsoy5-g",
+      "date": "2026-10-31",
+      "caption": "QUAL A SENSAÇÃO DE BATER UM PÊNALTI DECISIVO EM UMA EUROCOPA CONTRA O BUFFON?",
+      "type": "VIDEO",
+      "views": 12849,
+      "likes": 321,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Q9l36M7UpKQ",
+      "date": "2026-10-31",
+      "caption": "BARCELONA DE GUARDIOLA MUDOU A HISTÓRIA DA SELEÇÃO ESPANHOLA",
+      "type": "VIDEO",
+      "views": 1293,
+      "likes": 41,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "2xf3QDr_tPE",
+      "date": "2026-10-31",
+      "caption": "O INCRÍVEL PROJETO DO VILLAREAL NO BRASIL",
+      "type": "VIDEO",
+      "views": 1782,
+      "likes": 33,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "rlKkbvEFy4c",
+      "date": "2026-10-31",
+      "caption": "MARCOS SENNA REVELA BASTIDORES INÉDITOS DA SUA CHEGADA À SELEÇÃO ESPANHOLA",
+      "type": "VIDEO",
+      "views": 4761,
+      "likes": 125,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "CNB4Hgy5zBA",
+      "date": "2026-10-31",
+      "caption": "MARCOS SENNA REVELA COMO CHEGOU AO CORINTHIANS",
+      "type": "VIDEO",
+      "views": 5841,
+      "likes": 115,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "sSYaFebdCWg",
+      "date": "2026-10-31",
+      "caption": "HISTÓRIA EMOCIONANTE DA CARREIRA DE MARCOS SENNA ANTES DE CHEGAR À SELEÇÃO ESPANHOLA",
+      "type": "VIDEO",
+      "views": 2793,
+      "likes": 96,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "RxNH6IWF3FM",
+      "date": "2026-10-31",
+      "caption": "Gente Nossa #003 - Dudu Nobre",
+      "type": "VIDEO",
+      "views": 7733,
+      "likes": 132,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "7M42YQu72eM",
+      "date": "2026-10-31",
+      "caption": "PEDRINHO REJEITA O MARACA CONTRA O PALMEIRAS? MENGÃO MAIS PERTO DO DECA? TITE PODE CAIR?",
+      "type": "VIDEO",
+      "views": 7390,
+      "likes": 145,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    }
+  ]
+}
