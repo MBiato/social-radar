@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T16:36:38.146268",
-  "date": "2026-10-31",
+  "generated_at": "2026-11-02T19:59:57.624693",
+  "date": "2026-11-01",
   "summary": {
     "score_medio": 5.0,
     "total_posts": 19,
@@ -12,62 +12,137 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "17967086957984509",
-    "melhor_post_caption": "DE CARONA COM ALEXANDRE PATO! 🔥\n\nEnzo Grisalho trocou uma ideia com o atacante a respeito do Northam",
-    "melhor_post_views": 9621,
+    "melhor_post_id": "18095727782680587",
+    "melhor_post_caption": "A SEMIFINAL VAI PEGAR FOGO NO CHARLA NO PREMIERE! 😳🔥🔥\n\nHoje, Palmeiras e Vasco começam o confronto q",
+    "melhor_post_views": 0,
     "sponsor_stats": {
-      "#charlanamix": {
-        "posts": 1,
-        "views": 7917,
-        "likes": 141,
-        "comments": 2
-      },
-      "#chatgptnocharla": {
-        "posts": 1,
-        "views": 16067,
-        "likes": 521,
-        "comments": 4
+      "#charlanopremiere": {
+        "posts": 15,
+        "views": 1350645,
+        "likes": 38906,
+        "comments": 4883
       },
       "#brahmanocharla": {
         "posts": 1,
-        "views": 16067,
-        "likes": 521,
-        "comments": 4
+        "views": 77000,
+        "likes": 4313,
+        "comments": 25
       },
-      "#penaltynocharla": {
+      "#granfinonocharla": {
         "posts": 1,
-        "views": 16067,
-        "likes": 521,
-        "comments": 4
-      },
-      "#assainocharla": {
-        "posts": 1,
-        "views": 16067,
-        "likes": 521,
-        "comments": 4
+        "views": 77000,
+        "likes": 4313,
+        "comments": 25
       },
       "#melittanocharla": {
         "posts": 1,
-        "views": 73439,
-        "likes": 4006,
-        "comments": 48
+        "views": 77000,
+        "likes": 4313,
+        "comments": 25
+      },
+      "#absolutnocharla": {
+        "posts": 1,
+        "views": 77000,
+        "likes": 4313,
+        "comments": 25
       }
     }
   },
   "posts": [
     {
-      "id": "17967086957984509",
-      "date": "2026-10-31",
-      "caption": "DE CARONA COM ALEXANDRE PATO! 🔥\n\nEnzo Grisalho trocou uma ideia com o atacante a respeito do Northampton Town e como é, ",
-      "url": "https://www.instagram.com/reel/DfKUoOlsOEs/",
+      "id": "18095727782680587",
+      "date": "2026-11-01",
+      "caption": "A SEMIFINAL VAI PEGAR FOGO NO CHARLA NO PREMIERE! 😳🔥🔥\n\nHoje, Palmeiras e Vasco começam o confronto que define o finalist",
+      "url": "https://www.instagram.com/p/DfNENKxNh-P/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 135,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17918696463258871",
+      "date": "2026-11-01",
+      "caption": "É MUITO CARO SER PILOTO DE AUTOMOBILISMO? E NA FÓRMULA 1? 👀\n\nCacá Bueno, multicampeão e que entende tudo de corrida, fal",
+      "url": "https://www.instagram.com/reel/DfNARmrMEf8/",
+      "tags": [
+        "#brahmanocharla",
+        "#granfinonocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 77000,
+      "reach": 53016,
+      "likes": 4313,
+      "comments": 25,
+      "shares": 238,
+      "saves": 157,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18433882666198339",
+      "date": "2026-11-01",
+      "caption": "“A GENTE É A TRILHA SONORA DA VIDA DESSAS PESSOAS” 🥹\n\nEssa ideia do Dudu Nobre é pra refletir, né?! Um papo muito lúcido",
+      "url": "https://www.instagram.com/reel/DfM5PvqMECm/",
       "tags": [],
       "type": "VIDEO",
-      "views": 9621,
-      "reach": 7861,
-      "likes": 705,
-      "comments": 2,
-      "shares": 9,
-      "saves": 10,
+      "views": 51686,
+      "reach": 41214,
+      "likes": 1406,
+      "comments": 77,
+      "shares": 59,
+      "saves": 29,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -93,61 +168,19 @@
       }
     },
     {
-      "id": "18058927760650386",
-      "date": "2026-10-31",
-      "caption": "DAN LESSA TEM CLONES? 👀😂\n\nNo Charla na Mix, Dan Lessa e Ryan Barine falaram sobre o processo de criação de conteúdos apó",
-      "url": "https://www.instagram.com/reel/DfLErxPsLwy/",
+      "id": "17907985077667120",
+      "date": "2026-11-01",
+      "caption": "O HOMEM QUE DOMINOU O JOGO!\n\nHoje, pra parar o Arias em campo, só com falta. Teve drible, corta luz, domínio absurdo... ",
+      "url": "https://www.instagram.com/reel/DfN1NONt1Jh/",
       "tags": [
-        "#charlanamix"
+        "#charlanopremiere"
       ],
       "type": "VIDEO",
-      "views": 7917,
-      "reach": 6588,
-      "likes": 141,
-      "comments": 2,
-      "shares": 0,
-      "saves": 1,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17914350963518568",
-      "date": "2026-10-31",
-      "caption": "\"MARCOS, VEM PRA SÃO PAULO QUE SEU PAI FALECEU!\"\n\nMarcos Senna contou bastidores de quando recebeu, antes de uma partida",
-      "url": "https://www.instagram.com/reel/DfK29iXM2KE/",
-      "tags": [
-        "#chatgptnocharla",
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla"
-      ],
-      "type": "VIDEO",
-      "views": 16067,
-      "reach": 11209,
-      "likes": 521,
-      "comments": 4,
-      "shares": 3,
+      "views": 33399,
+      "reach": 22770,
+      "likes": 459,
+      "comments": 11,
+      "shares": 40,
       "saves": 11,
       "platform": "instagram",
       "analysis": {
@@ -174,20 +207,20 @@
       }
     },
     {
-      "id": "18121586212993493",
-      "date": "2026-10-31",
-      "caption": "COMO É ENFRENTAR TIMES EUROPEUS DA ELITE?\n\nApós o prêmio de melhor do mundo para o Kane, bora relembrar o Rodrigo Caio f",
-      "url": "https://www.instagram.com/reel/DfKpNv0MScv/",
+      "id": "18386135032239756",
+      "date": "2026-11-01",
+      "caption": "BETÃO FALA DO PALMEIRAS!\n\nCom um poder de fogo muito forte no primeiro tempo, o Palmeiras marcou seu gol e vai para o RJ",
+      "url": "https://www.instagram.com/reel/DfNxYbhuzad/",
       "tags": [
-        "#melittanocharla"
+        "#charlanopremiere"
       ],
       "type": "VIDEO",
-      "views": 73439,
-      "reach": 52119,
-      "likes": 4006,
-      "comments": 48,
-      "shares": 253,
-      "saves": 145,
+      "views": 12705,
+      "reach": 9577,
+      "likes": 133,
+      "comments": 36,
+      "shares": 1,
+      "saves": 4,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -213,18 +246,20 @@
       }
     },
     {
-      "id": "18115435399863941",
-      "date": "2026-10-31",
-      "caption": "“VOU TE ESQUECER, POIS VIVER ASSIM NÃO DÁ!” 🎶\n\nImagina escrever essa pedrada com 15 anos? Dudu Nobre é gênio e cantou o ",
-      "url": "https://www.instagram.com/reel/DfKi2DKuDwA/",
-      "tags": [],
+      "id": "17989733766097663",
+      "date": "2026-11-01",
+      "caption": "JOGO EM SÃO JANUÁRIO VAI PEGAR FOGO!\n\nConfronto aberto na Copa do Brasil e a torcida do Vasco tá absurdamente confiante.",
+      "url": "https://www.instagram.com/reel/DfNtrw8Ost_/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 76678,
-      "reach": 62539,
-      "likes": 5935,
-      "comments": 110,
-      "shares": 777,
-      "saves": 313,
+      "views": 30929,
+      "reach": 22763,
+      "likes": 1586,
+      "comments": 107,
+      "shares": 65,
+      "saves": 26,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -250,16 +285,21 @@
       }
     },
     {
-      "id": "FoGZrk_nBY8",
-      "date": "2026-10-31",
-      "caption": "MAGIA DO RONALDINHO ENCANTOU A EUROPA E PAROU O FUTEBOL ESPANHOL",
+      "id": "17913114648478494",
+      "date": "2026-11-01",
+      "caption": "O PRESIDENTE DO VASCO FOI FALAR COM O ÁRBITRO!\n\nSe tem algo que os vascaínos não vão sossegar de tanto pensar é o lance ",
+      "url": "https://www.instagram.com/reel/DfNs1K8P2gi/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 10435,
-      "likes": 206,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 230051,
+      "reach": 136367,
+      "likes": 4779,
+      "comments": 691,
+      "shares": 463,
+      "saves": 123,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -284,16 +324,21 @@
       }
     },
     {
-      "id": "dnuBjuc86ac",
-      "date": "2026-10-31",
-      "caption": "GENIALIDADE DO XAVI CHOCOU O MARCOS SENNA NA ESPANHA",
+      "id": "17938947750127992",
+      "date": "2026-11-01",
+      "caption": "FOI A MELHOR CHANCE DO VASCO? \n\nO empate ficou maduro nesse lance, mas o Cuiabano pegou mal na bola.\n\n#CharlaNoPremiere",
+      "url": "https://www.instagram.com/reel/DfNpB-hhYWR/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 4404,
-      "likes": 85,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 111449,
+      "reach": 77299,
+      "likes": 1981,
+      "comments": 318,
+      "shares": 1356,
+      "saves": 25,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -318,16 +363,21 @@
       }
     },
     {
-      "id": "wSMIiBu-gp0",
-      "date": "2026-10-31",
-      "caption": "MARCOS SENNA REVELA TRETA ABSURDA QUE TEVE COM O RIQUELME",
+      "id": "18118383841996746",
+      "date": "2026-11-01",
+      "caption": "POLÊMICA NO CONFRONTO! 👀\n\nO time do Vasco ficou maluco pedindo pênalti no lance envolvendo o Barboza. E aí: foi pênalti?",
+      "url": "https://www.instagram.com/reel/DfNm4pftIGx/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 41892,
-      "likes": 677,
-      "comments": 33,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 337111,
+      "reach": 230889,
+      "likes": 11091,
+      "comments": 2980,
+      "shares": 4658,
+      "saves": 225,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -352,16 +402,21 @@
       }
     },
     {
-      "id": "UJplDPbrY_s",
-      "date": "2026-10-31",
-      "caption": "GERAÇÃO ABSURDA DO VILLAREAL QUE ENCANTOU A EUROPA",
+      "id": "18108851177634496",
+      "date": "2026-11-01",
+      "caption": "ISOLOOOOOOOOOU GIAY!\n\nNa primeira etapa, o lateral do Palmeiras pegou a bola sem goleiro mas não acertou a meta.\n\n#Charl",
+      "url": "https://www.instagram.com/reel/DfNkA03h_e2/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 9595,
-      "likes": 281,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 39997,
+      "reach": 28613,
+      "likes": 202,
+      "comments": 15,
+      "shares": 36,
+      "saves": 3,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -386,16 +441,21 @@
       }
     },
     {
-      "id": "DhZKH45Afws",
-      "date": "2026-10-31",
-      "caption": "BASTIDORES DO DIA EM QUE O CORINTHIANS COLOCOU O REAL MADRID NA RODA",
+      "id": "18122661065055638",
+      "date": "2026-11-01",
+      "caption": "PALMEIRAS SAI NA FRENTE DO PLACAR!\n\nJogada na linha lateral do Verdão, que terminou no chutaço do Maurício pra estufar a",
+      "url": "https://www.instagram.com/reel/DfNi2dnOBk5/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 4535,
-      "likes": 123,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 43867,
+      "reach": 34413,
+      "likes": 1191,
+      "comments": 27,
+      "shares": 185,
+      "saves": 16,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -420,16 +480,21 @@
       }
     },
     {
-      "id": "6JwVNq2JsM0",
-      "date": "2026-10-31",
-      "caption": "MARCOS SENNA ABRE O JOGO SOBRE RODRI",
+      "id": "17870644560658791",
+      "date": "2026-11-01",
+      "caption": "QUE LANCE FOI ESSE! 😂😂😂\n\nAqui não tem nem o que o ADM falar... Se liga no que rolou! 👀\n\n#CharlaNoPremiere",
+      "url": "https://www.instagram.com/reel/DfNiT58hIHf/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 8763,
-      "likes": 199,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 236337,
+      "reach": 172750,
+      "likes": 11505,
+      "comments": 470,
+      "shares": 18379,
+      "saves": 493,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -454,16 +519,21 @@
       }
     },
     {
-      "id": "FiU4Bsoy5-g",
-      "date": "2026-10-31",
-      "caption": "QUAL A SENSAÇÃO DE BATER UM PÊNALTI DECISIVO EM UMA EUROCOPA CONTRA O BUFFON?",
+      "id": "18030517919920191",
+      "date": "2026-11-01",
+      "caption": "QUE JOGADA DO PALMEIRAS!\n\nDe pé em pé, o Verdão saiu da pressão do Vasco e criou uma excelente oportunidade de gol, mas ",
+      "url": "https://www.instagram.com/reel/DfNf0YYBjtS/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 12849,
-      "likes": 321,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 163861,
+      "reach": 111827,
+      "likes": 2661,
+      "comments": 45,
+      "shares": 171,
+      "saves": 37,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -488,16 +558,60 @@
       }
     },
     {
-      "id": "Q9l36M7UpKQ",
-      "date": "2026-10-31",
-      "caption": "BARCELONA DE GUARDIOLA MUDOU A HISTÓRIA DA SELEÇÃO ESPANHOLA",
+      "id": "18109305032630820",
+      "date": "2026-11-01",
+      "caption": "E A SAF DO VASCO? \n\nPedrinho, presidente do Gigante da Colina, falou do assunto no pré-jogo.\n\n#CharlaNoPremiere",
+      "url": "https://www.instagram.com/reel/DfNcm9Lhw0p/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 1293,
-      "likes": 41,
+      "views": 58608,
+      "reach": 41447,
+      "likes": 1952,
+      "comments": 131,
+      "shares": 24,
+      "saves": 28,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18124385732251440",
+      "date": "2026-11-01",
+      "caption": "A COPA DO BRASIL TÁ VALORIZADA! ⚽️\n\nNa análise do Matheus Emanuel, a mudança de calendário do futebol brasileiro deu a v",
+      "url": "https://www.instagram.com/reel/DfNbx0zstgC/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 21906,
+      "reach": 17677,
+      "likes": 181,
       "comments": 1,
       "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "saves": 5,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -522,16 +636,21 @@
       }
     },
     {
-      "id": "2xf3QDr_tPE",
-      "date": "2026-10-31",
-      "caption": "O INCRÍVEL PROJETO DO VILLAREAL NO BRASIL",
+      "id": "18118675517517499",
+      "date": "2026-11-01",
+      "caption": "\"QUESTÕES DE SAÚDE MENTAL, PRIVAÇÃO DE SONO... O ESTRESSE É ALGO QUE ENFRENTAMOS DE FORMA DIÁRIA!\"\n\nO Palmeiras está dis",
+      "url": "https://www.instagram.com/reel/DfNZdYxNyPM/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 1782,
-      "likes": 33,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 15846,
+      "reach": 12307,
+      "likes": 401,
+      "comments": 16,
+      "shares": 8,
+      "saves": 9,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -556,12 +675,51 @@
       }
     },
     {
-      "id": "rlKkbvEFy4c",
-      "date": "2026-10-31",
-      "caption": "MARCOS SENNA REVELA BASTIDORES INÉDITOS DA SUA CHEGADA À SELEÇÃO ESPANHOLA",
+      "id": "17970689810964219",
+      "date": "2026-11-01",
+      "caption": "COM A PALAVRA, O PROFESSOR! 💢\n\nPedro Emanuel comentou no pré-jogo sobre as suas decisões ao longo da semana no comando d",
+      "url": "https://www.instagram.com/reel/DfNWKr-B8uJ/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 4761,
-      "likes": 125,
+      "views": 14579,
+      "reach": 12128,
+      "likes": 649,
+      "comments": 27,
+      "shares": 3,
+      "saves": 7,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "U4ddXo_Gk9U",
+      "date": "2026-11-01",
+      "caption": "ESQUENTA DA SEMIFINAL! PALMEIRAS E VASCO, QUEM LEVA ESSA VAGA? | CHARLA DE QUINTA #408",
+      "type": "VIDEO",
+      "views": 16689,
+      "likes": 459,
       "comments": 2,
       "shares": 0,
       "saves": 0,
@@ -590,114 +748,12 @@
       }
     },
     {
-      "id": "CNB4Hgy5zBA",
-      "date": "2026-10-31",
-      "caption": "MARCOS SENNA REVELA COMO CHEGOU AO CORINTHIANS",
+      "id": "s5o-lh7_rP4",
+      "date": "2026-11-01",
+      "caption": "PALMEIRAS VENCE O VASCO E SAI NA FRENTE NA COPA DO BRASIL",
       "type": "VIDEO",
-      "views": 5841,
-      "likes": 115,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "sSYaFebdCWg",
-      "date": "2026-10-31",
-      "caption": "HISTÓRIA EMOCIONANTE DA CARREIRA DE MARCOS SENNA ANTES DE CHEGAR À SELEÇÃO ESPANHOLA",
-      "type": "VIDEO",
-      "views": 2793,
-      "likes": 96,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "RxNH6IWF3FM",
-      "date": "2026-10-31",
-      "caption": "Gente Nossa #003 - Dudu Nobre",
-      "type": "VIDEO",
-      "views": 7733,
-      "likes": 132,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "7M42YQu72eM",
-      "date": "2026-10-31",
-      "caption": "PEDRINHO REJEITA O MARACA CONTRA O PALMEIRAS? MENGÃO MAIS PERTO DO DECA? TITE PODE CAIR?",
-      "type": "VIDEO",
-      "views": 7390,
-      "likes": 145,
+      "views": 2074,
+      "likes": 38,
       "comments": 1,
       "shares": 0,
       "saves": 0,
