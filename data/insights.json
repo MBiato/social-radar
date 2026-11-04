@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-03T17:35:08.238023",
-  "date": "2026-11-02",
+  "generated_at": "2026-11-04T17:47:12.948273",
+  "date": "2026-11-03",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 24,
+    "total_posts": 11,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,55 +12,79 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18108969181957052",
-    "melhor_post_caption": "A DISCUSSÃO TEM QUE SER OUTRA! 👀\n\nAo comentar sobre os erros da partida de ontem, o Phill fez um ale",
-    "melhor_post_views": 98860,
+    "melhor_post_id": "18099003023440459",
+    "melhor_post_caption": "É DIA DE JOGO DO NORTHAMPTON TOWN! 🔥\n\nDiretamente do estádio, Enzo Grisalho falou do confronto de ho",
+    "melhor_post_views": 9821,
     "sponsor_stats": {
       "#brahmanocharla": {
-        "posts": 5,
-        "views": 430923,
-        "likes": 14007,
-        "comments": 838
+        "posts": 6,
+        "views": 189328,
+        "likes": 7200,
+        "comments": 277
       },
       "#penaltynocharla": {
-        "posts": 5,
-        "views": 430923,
-        "likes": 14007,
-        "comments": 838
+        "posts": 3,
+        "views": 74905,
+        "likes": 3824,
+        "comments": 153
+      },
+      "#assainocharla": {
+        "posts": 3,
+        "views": 74905,
+        "likes": 3824,
+        "comments": 153
+      },
+      "#absolutnocharla": {
+        "posts": 3,
+        "views": 74905,
+        "likes": 3824,
+        "comments": 153
       },
       "#melittanocharla": {
-        "posts": 5,
-        "views": 430923,
-        "likes": 14007,
-        "comments": 838
+        "posts": 3,
+        "views": 114423,
+        "likes": 3376,
+        "comments": 124
+      },
+      "#fornerianocharla": {
+        "posts": 3,
+        "views": 114423,
+        "likes": 3376,
+        "comments": 124
       },
       "#granfinonocharla": {
-        "posts": 5,
-        "views": 430923,
-        "likes": 14007,
-        "comments": 838
+        "posts": 3,
+        "views": 114423,
+        "likes": 3376,
+        "comments": 124
+      },
+      "#777": {
+        "posts": 1,
+        "views": 0,
+        "likes": 379,
+        "comments": 13
       }
     }
   },
   "posts": [
     {
-      "id": "18108969181957052",
-      "date": "2026-11-02",
-      "caption": "A DISCUSSÃO TEM QUE SER OUTRA! 👀\n\nAo comentar sobre os erros da partida de ontem, o Phill fez um alerta importante, faze",
-      "url": "https://www.instagram.com/reel/DfQCJsev_6I/",
+      "id": "18099003023440459",
+      "date": "2026-11-03",
+      "caption": "É DIA DE JOGO DO NORTHAMPTON TOWN! 🔥\n\nDiretamente do estádio, Enzo Grisalho falou do confronto de hoje contra o Oldham A",
+      "url": "https://www.instagram.com/reel/DfSXcw0tJox/",
       "tags": [
         "#brahmanocharla",
         "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
+        "#assainocharla",
+        "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 98860,
-      "reach": 63543,
-      "likes": 2627,
-      "comments": 179,
-      "shares": 63,
-      "saves": 81,
+      "views": 9821,
+      "reach": 8057,
+      "likes": 296,
+      "comments": 1,
+      "shares": 5,
+      "saves": 6,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -86,635 +110,19 @@
       }
     },
     {
-      "id": "18121689598985611",
-      "date": "2026-11-02",
-      "caption": "ESSA É A NOSSA AGENDA DE JOGOS DA SEMANA! 🔥⚽️",
-      "url": "https://www.instagram.com/p/DfP9cYxhuQd/",
+      "id": "18106987165994510",
+      "date": "2026-11-03",
+      "caption": "É DIA DE JOÃO SILVA NO CHARLA! 👏🏻\n\nO apresentador João Guilherme Silva, filho do Faustão, cola em nosso estúdio hoje pra",
+      "url": "https://www.instagram.com/p/DfSCobPMvIo/",
       "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 79,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17964847695213229",
-      "date": "2026-11-02",
-      "caption": "CHEGOU A NOSSA AGENDA DOS PROGRAMAS DA SEMANA!\n\nSE LIGA AÍ! 🚀🤟",
-      "url": "https://www.instagram.com/p/DfP8gI8BR6R/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 153,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18121620926515710",
-      "date": "2026-11-02",
-      "caption": "NOTÍCIA EXCLUSIVA DA JOANNA! 😳\n\nNa Charla de Quinta de hoje, Joanna de Assis trouxe informações sobre o caso Seedorf, qu",
-      "url": "https://www.instagram.com/reel/DfP0mQIv8Wu/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 240585,
-      "reach": 164192,
-      "likes": 8857,
-      "comments": 486,
-      "shares": 5361,
-      "saves": 322,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17949743328066949",
-      "date": "2026-11-02",
-      "caption": "“QUANDO VOCÊ ENFIAR A FACA, VOCÊ RODA!” 👀\n\nEssa frase que maestro Júnior usa tanto, pautou o debate sobre esse confronto",
-      "url": "https://www.instagram.com/reel/DfQaP43MLk9/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 64704,
-      "reach": 46040,
-      "likes": 1334,
-      "comments": 109,
-      "shares": 69,
-      "saves": 33,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18429644317151287",
-      "date": "2026-11-02",
-      "caption": "O QUE QUER O NORTHAMPTON? 👀🇧🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\nEm participação especial na nossa charla de quinta, o presida @joao_vxavier23 e o ",
-      "url": "https://www.instagram.com/reel/DfQUJzvpsKp/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 14104,
-      "reach": 11323,
-      "likes": 543,
-      "comments": 48,
-      "shares": 60,
-      "saves": 8,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17912715015310043",
-      "date": "2026-11-02",
-      "caption": "“SAUDADE É COISA QUE PASSA…” 😮‍💨\n\nNesse clima de fim de feriadão, a gente deixa mais essa pedrada do musical absurdo do ",
-      "url": "https://www.instagram.com/reel/DfQOQiYsaD2/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 21259,
-      "reach": 16646,
-      "likes": 1791,
-      "comments": 37,
-      "shares": 303,
-      "saves": 84,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17886693828625080",
-      "date": "2026-11-02",
-      "caption": "DÁ PRA ACREDITAR, TORCEDOR VASCAÍNO! 💢\n\nNa análise do Enzo, mesmo com uma atuação abaixo, o Vasco teve chances de sair c",
-      "url": "https://www.instagram.com/reel/DfQIQ3ahsLF/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 12670,
-      "reach": 9816,
-      "likes": 646,
-      "comments": 16,
-      "shares": 3,
-      "saves": 5,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "9zW3cmd2tiY",
-      "date": "2026-11-02",
-      "caption": "VASCO VAI TER QUE DEFINIR EM SÃO JANUÁRIO! ARBITRAGEM ATRAPALHOU? | CHARLA DE QUINTA #409",
-      "type": "VIDEO",
-      "views": 56787,
-      "likes": 1495,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "cVLrX6aMY8w",
-      "date": "2026-11-02",
-      "caption": "VITÓRIA x FLUMINENSE | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
-      "type": "VIDEO",
-      "views": 3,
-      "likes": 4,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "_2Y9FahTnRc",
-      "date": "2026-11-02",
-      "caption": "Charla #778 - Téo José [Narrador e Apresentador]",
-      "type": "VIDEO",
-      "views": 1,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "TpPUlCoAjtg",
-      "date": "2026-11-02",
-      "caption": "CHARLA DE QUINTA #413",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "0UGshHPkmdA",
-      "date": "2026-11-02",
-      "caption": "CHARLA DE QUINTA #412",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "EpQSPBxjuyU",
-      "date": "2026-11-02",
-      "caption": "FLAMENGO x GRÊMIO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
-      "type": "VIDEO",
-      "views": 1,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "4_BRhOzK434",
-      "date": "2026-11-02",
-      "caption": "ATHLETICO x VASCO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 5,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "c5OXs1GBbiE",
-      "date": "2026-11-02",
-      "caption": "CHARLA DE QUINTA #411",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "z1U8-NsBsnc",
-      "date": "2026-11-02",
-      "caption": "NOVA SAF DO VASCO VAI MONTAR UM TIME MUITO FORTE PARA 2027?",
-      "type": "VIDEO",
-      "views": 14887,
-      "likes": 271,
-      "comments": 25,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "LFsOoqFj2NQ",
-      "date": "2026-11-02",
-      "caption": "VASCO SEGUE VIVO PARA O JOGO DA VOLTA DA SEMIFINAL DA COPA DO BRASIL?",
-      "type": "VIDEO",
-      "views": 1279,
-      "likes": 31,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "T77RrARTANY",
-      "date": "2026-11-02",
-      "caption": "ENZO GRISALHO PERDEU A PACIÊNCIA COM LÉO JARDIM NO VASCO",
-      "type": "VIDEO",
-      "views": 5297,
-      "likes": 110,
+      "likes": 59,
       "comments": 3,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -739,16 +147,268 @@
       }
     },
     {
-      "id": "CktZIbDJZ98",
-      "date": "2026-11-02",
-      "caption": "ENZO GRISALHO VAI À LOUCURA COM ERROS DE ARBITRAGEM CONTRA O VASCO NA SEMIFINAL DA COPA DO BRASIL",
+      "id": "18433069267145464",
+      "date": "2026-11-03",
+      "caption": "NOVIDADES NO CASO SEEDORF! 🚨\n\nMais um capítulo nessa novela que está agitando ainda mais os bastidores do Corinthians, e",
+      "url": "https://www.instagram.com/reel/DfTEPRwPty2/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 36948,
-      "likes": 644,
-      "comments": 61,
+      "views": 22320,
+      "reach": 16561,
+      "likes": 599,
+      "comments": 33,
+      "shares": 34,
+      "saves": 21,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18111723803621629",
+      "date": "2026-11-03",
+      "caption": "A TV ABERTA CORRE RISCO DE ACABAR?\n\nA revelação da comunicação brasileira João Silva, falou sobre esse tema, que é um po",
+      "url": "https://www.instagram.com/reel/DfS7VpqxL1_/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 31811,
+      "reach": 23704,
+      "likes": 649,
+      "comments": 15,
+      "shares": 6,
+      "saves": 17,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18126435184899058",
+      "date": "2026-11-03",
+      "caption": "A COMPARAÇÃO COM O PAI ATRAPALHA A CARREIRA DO JOÃO? 👀\n\nEssa pergunta todo mundo deve fazer a ele. Mas a resposta é dife",
+      "url": "https://www.instagram.com/reel/DfSxa97BwTC/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 28640,
+      "reach": 21083,
+      "likes": 866,
+      "comments": 37,
+      "shares": 18,
+      "saves": 16,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18098780222227352",
+      "date": "2026-11-03",
+      "caption": "ELE NÃO SEGUIU O TIME DO PAI! 😳\n\nNo início da nossa Charla, João Silva contou sobre a sua relação com o futebol e o São ",
+      "url": "https://www.instagram.com/reel/DfSrvqiB0bX/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 53972,
+      "reach": 36886,
+      "likes": 1861,
+      "comments": 72,
+      "shares": 83,
+      "saves": 65,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17973448953169273",
+      "date": "2026-11-03",
+      "caption": "VASCO PRECISA TER SENSO DE URGÊNCIA?\n\nBruno Azevedo falou na Charla de Quinta sobre a situação do Vasco no Brasileirão e",
+      "url": "https://www.instagram.com/reel/DfSo7ObvAQ6/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 31392,
+      "reach": 23465,
+      "likes": 1528,
+      "comments": 86,
+      "shares": 34,
+      "saves": 19,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18111428096254833",
+      "date": "2026-11-03",
+      "caption": "COMO SERÁ O FINAL DE ANO DO VASCO? \n\nEnzo Grisalho falou do jogo de volta contra o Palmeiras, do apoio da torcida e tamb",
+      "url": "https://www.instagram.com/reel/DfSgHUvMl9Z/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 33692,
+      "reach": 25012,
+      "likes": 2000,
+      "comments": 66,
+      "shares": 25,
+      "saves": 18,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18024796892714718",
+      "date": "2026-11-03",
+      "caption": "Charla #777 - João Silva [Apresentador]\n\nO nosso convidado pra Charla de hoje é a revelação da comunicação brasileira Jo",
+      "url": "https://www.instagram.com/p/DfSb_ctBiMC/",
+      "tags": [
+        "#777"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 379,
+      "comments": 13,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -773,12 +433,12 @@
       }
     },
     {
-      "id": "rztTan_iL-w",
-      "date": "2026-11-02",
-      "caption": "QUAL SERÁ O FUTURO DE GABIGOL EM 2027?",
+      "id": "pYs2x7PK29c",
+      "date": "2026-11-03",
+      "caption": "FLAMENGO E VASCO SE PREPARAM PROS JOGOS DECISIVOS! QUEM LEVA A MELHOR? | CHARLA DE QUINTA #410",
       "type": "VIDEO",
-      "views": 5856,
-      "likes": 96,
+      "views": 33096,
+      "likes": 1034,
       "comments": 6,
       "shares": 0,
       "saves": 0,
@@ -807,81 +467,13 @@
       }
     },
     {
-      "id": "0WBTkSxy3Ws",
-      "date": "2026-11-02",
-      "caption": "JOANNA DE ASSIS ANALISA A ARBITRAGEM DE PALMEIRAS X VASCO",
+      "id": "Z3RFVA6emew",
+      "date": "2026-11-03",
+      "caption": "ARBITRAGEM DESASTROSA EM SP? SALDIVIA NÃO JOGA EM SJ! EDU GASPAR NO MENGÃO?",
       "type": "VIDEO",
-      "views": 2823,
-      "likes": 86,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "gf_Awr0dJkE",
-      "date": "2026-11-02",
-      "caption": "JOANNA DE ASSIS ATUALIZA TUDO SOBRE A LICENÇA DE SEEDORF PARA TREINAR O CORINTHIANS",
-      "type": "VIDEO",
-      "views": 19948,
-      "likes": 257,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "U_sPxG8wCMk",
-      "date": "2026-11-02",
-      "caption": "ARBITRAGEM PODEM TER ELIMINADO O VASCO DA COPA DO BRASIL?",
-      "type": "VIDEO",
-      "views": 17532,
-      "likes": 404,
-      "comments": 43,
+      "views": 8369,
+      "likes": 82,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
