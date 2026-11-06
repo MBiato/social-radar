@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T17:13:46.261634",
-  "date": "2026-10-07",
+  "generated_at": "2026-11-06T17:12:48.135498",
+  "date": "2026-11-05",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 23,
+    "total_posts": 27,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,72 +12,127 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18127843027877999",
-    "melhor_post_caption": "A BOMBA DO DIA! 🤯💣\n\nJoanna de Assis fez sua estreia na Charla de Quinta e já com o assunto do moment",
-    "melhor_post_views": 89246,
+    "melhor_post_id": "18034254707880844",
+    "melhor_post_caption": "\"GALERA, DESFRUTEM!\"\n\nBetão falou dos últimos anos do Flamengo e dos títulos conquistados com os últ",
+    "melhor_post_views": 29730,
     "sponsor_stats": {
       "#brahmanocharla": {
-        "posts": 7,
-        "views": 1211904,
-        "likes": 115315,
-        "comments": 2398
+        "posts": 11,
+        "views": 374655,
+        "likes": 24954,
+        "comments": 554
       },
-      "#fornerianocharla": {
-        "posts": 3,
-        "views": 144060,
-        "likes": 13082,
-        "comments": 386
-      },
-      "#absolutnocharla": {
-        "posts": 7,
-        "views": 1211904,
-        "likes": 115315,
-        "comments": 2398
-      },
-      "#charlafutebol": {
-        "posts": 1,
-        "views": 0,
-        "likes": 217,
-        "comments": 5
+      "#penaltynocharla": {
+        "posts": 4,
+        "views": 99097,
+        "likes": 5884,
+        "comments": 186
       },
       "#assainocharla": {
         "posts": 4,
-        "views": 1067844,
-        "likes": 102233,
-        "comments": 2012
+        "views": 99097,
+        "likes": 5884,
+        "comments": 186
+      },
+      "#melittanocharla": {
+        "posts": 5,
+        "views": 273349,
+        "likes": 15605,
+        "comments": 330
+      },
+      "#absolutnocharla": {
+        "posts": 2,
+        "views": 82623,
+        "likes": 5868,
+        "comments": 183
+      },
+      "#charlanopremiere": {
+        "posts": 6,
+        "views": 374067,
+        "likes": 18303,
+        "comments": 786
+      },
+      "#charlafutebol": {
+        "posts": 6,
+        "views": 82874,
+        "likes": 8225,
+        "comments": 165
+      },
+      "#fornerianocharla": {
+        "posts": 2,
+        "views": 145734,
+        "likes": 6215,
+        "comments": 82
       },
       "#granfinonocharla": {
-        "posts": 4,
-        "views": 1067844,
-        "likes": 102233,
-        "comments": 2012
-      },
-      "#769": {
-        "posts": 1,
-        "views": 0,
-        "likes": 932,
-        "comments": 29
+        "posts": 2,
+        "views": 198431,
+        "likes": 10883,
+        "comments": 204
       }
     }
   },
   "posts": [
     {
-      "id": "18127843027877999",
-      "date": "2026-10-07",
-      "caption": "A BOMBA DO DIA! 🤯💣\n\nJoanna de Assis fez sua estreia na Charla de Quinta e já com o assunto do momento, a matéria da próp",
-      "url": "https://www.instagram.com/reel/DeM2EBxhjPX/",
+      "id": "18034254707880844",
+      "date": "2026-11-05",
+      "caption": "\"GALERA, DESFRUTEM!\"\n\nBetão falou dos últimos anos do Flamengo e dos títulos conquistados com os últimos trabalhos.\n\n#Br",
+      "url": "https://www.instagram.com/reel/DfXewaktYLF/",
       "tags": [
         "#brahmanocharla",
-        "#fornerianocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 29730,
+      "reach": 18906,
+      "likes": 2197,
+      "comments": 102,
+      "shares": 223,
+      "saves": 24,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17896735752426597",
+      "date": "2026-11-05",
+      "caption": "O FLAMENGUISTA É SOBERBO? 👀\n\nDepois da vitória do Mengão ontem contra o Grêmio, que deixou o time cada vez mais líder, b",
+      "url": "https://www.instagram.com/reel/DfXLGYRMaBz/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 89246,
-      "reach": 89757,
-      "likes": 8201,
-      "comments": 268,
-      "shares": 1275,
-      "saves": 238,
+      "views": 24179,
+      "reach": 16086,
+      "likes": 1162,
+      "comments": 60,
+      "shares": 124,
+      "saves": 24,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -103,94 +158,177 @@
       }
     },
     {
-      "id": "18132599626775995",
-      "date": "2026-10-07",
-      "caption": "FOI AQUI QUE PEDIRAM MAIS UMA CHARLA COM O ROMÁRIO? 🔥🔥🔥\n\nDepois de uma resenha histórica e emocionante conosco no antigo",
-      "url": "https://www.instagram.com/reel/DeMu-5XMXpS/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 23658,
-      "reach": 24938,
-      "likes": 1726,
-      "comments": 57,
-      "shares": 92,
-      "saves": 29,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18058205111803234",
-      "date": "2026-10-07",
-      "caption": "É DIA DE BRASILEIRÃO, TROPA!\n\nBotafogo e Vasco entram em campo nesta quarta (7) para fazer um clássido DAQUELES. É confr",
-      "url": "https://www.instagram.com/p/DeMsN7NurlC/",
+      "id": "17941717878401025",
+      "date": "2026-11-05",
+      "caption": "COMEMORA E RESPIRA, TORCEDOR! 🔥\n\nO Fogão venceu o Galo, ganhou três pontos muito importantes e o Cantarelli falou no api",
+      "url": "https://www.instagram.com/reel/DfWC0T5BRgP/",
       "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 41240,
+      "reach": 30079,
+      "likes": 5125,
+      "comments": 156,
+      "shares": 165,
+      "saves": 37,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18053949167810833",
+      "date": "2026-11-05",
+      "caption": "TEM DIA QUE É NOITE...\n\nMatheus Martins tentou duas vezes, mas o gol não saiu. Se liga nos lances!\n\n#CharlaNoPremiere",
+      "url": "https://www.instagram.com/reel/DfWAUGTvban/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 95544,
+      "reach": 59455,
+      "likes": 3596,
+      "comments": 442,
+      "shares": 362,
+      "saves": 33,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18175733596460211",
+      "date": "2026-11-05",
+      "caption": "AQUI O CARPETE CHOROU! 😂\n\nFica aqui a nossa solidariedade ao pequeno copo de café que DESPENCOU da mesa durante o gol do",
+      "url": "https://www.instagram.com/reel/DfV7iU_B3F1/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 123315,
+      "reach": 88230,
+      "likes": 5409,
+      "comments": 102,
+      "shares": 242,
+      "saves": 77,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18640550551038480",
+      "date": "2026-11-05",
+      "caption": "O GOL DO FOGÃO!\n\nEdenilson recebeu o passe dentro da área, bateu cruzado e colocou o Botafogo na frente no confronto. Re",
+      "url": "https://www.instagram.com/reel/DfV7EXZhxh9/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 36265,
+      "reach": 28185,
+      "likes": 2877,
+      "comments": 60,
+      "shares": 134,
+      "saves": 17,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18119635549953787",
+      "date": "2026-11-05",
+      "caption": "O TÍTULO BRASILEIRO TÁ MAIS PERTO DO QUE NUNCA?\n\nMatheus Emanuel elogiou a postura do Flamengo diante do Grêmio, no Mara",
+      "url": "https://www.instagram.com/reel/DfV2xQwPrJq/",
+      "tags": [
+        "#brahmanocharla",
         "#charlafutebol"
       ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 217,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18124737865855961",
-      "date": "2026-10-07",
-      "caption": "QUEM AÍ CURTIU O NOVO ESTÚDIO? 😍\n\nOntem foi um dia pra lá de especial em nossa vida e daqui pra frente é evoluir ainda m",
-      "url": "https://www.instagram.com/reel/DeMhAR7hEhI/",
-      "tags": [],
       "type": "VIDEO",
-      "views": 23721,
-      "reach": 22134,
-      "likes": 3397,
-      "comments": 157,
-      "shares": 43,
-      "saves": 34,
+      "views": 13696,
+      "reach": 10080,
+      "likes": 677,
+      "comments": 85,
+      "shares": 17,
+      "saves": 13,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -216,18 +354,20 @@
       }
     },
     {
-      "id": "17938961922376262",
-      "date": "2026-10-07",
-      "caption": "JOANNA DE ASSIS NO CHARLA!\n\nHoje é a grande estreia da nossa Joanna no Charla e ela já chega repercutindo essa bomba que",
-      "url": "https://www.instagram.com/reel/DeMYkUGh95K/",
-      "tags": [],
+      "id": "18249688411311054",
+      "date": "2026-11-05",
+      "caption": "SE FOR OLHAR, A TRAVE TÁ BALANÇANDO ATÉ AGORA!\n\nQue BOMBA soltou o Tiquinho de esquerda, mas a bola bateu no travessão e",
+      "url": "https://www.instagram.com/reel/DfV2d0GRVPH/",
+      "tags": [
+        "#charlanopremiere"
+      ],
       "type": "VIDEO",
-      "views": 265927,
-      "reach": 253394,
-      "likes": 22668,
-      "comments": 826,
-      "shares": 17440,
-      "saves": 726,
+      "views": 68537,
+      "reach": 42559,
+      "likes": 827,
+      "comments": 17,
+      "shares": 7,
+      "saves": 5,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -253,23 +393,21 @@
       }
     },
     {
-      "id": "18003933068793540",
-      "date": "2026-10-07",
-      "caption": "“EU SOU O GRANDE, EU SOU O CARA. AGORA EU TENHO QUE APARECER!” 🔥🏆\n\nFinal de Copa do Mundo, 24 anos de jejum, decisão por",
-      "url": "https://www.instagram.com/reel/DeNkBqKh4Ht/",
+      "id": "18089100344686201",
+      "date": "2026-11-05",
+      "caption": "O VASCO RESPIRA MAIS ALIVIADO?\n\nBruno Azevedo destacou a importância da vitória do Gigante da Colina diante do Athletico",
+      "url": "https://www.instagram.com/reel/DfV0OGAMzt0/",
       "tags": [
         "#brahmanocharla",
-        "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
+        "#charlafutebol"
       ],
       "type": "VIDEO",
-      "views": 37585,
-      "reach": 29138,
-      "likes": 2575,
-      "comments": 24,
-      "shares": 156,
-      "saves": 80,
+      "views": 34932,
+      "reach": 25037,
+      "likes": 4497,
+      "comments": 39,
+      "shares": 41,
+      "saves": 27,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -295,374 +433,21 @@
       }
     },
     {
-      "id": "18148028191489134",
-      "date": "2026-10-07",
-      "caption": "MARACANÃ DOS PODCASTS DEVIDAMENTE BATIZADO! 👑⚽️\n\nA estreia foi com ele, O CARA!\n\nFica até difícil escolher os melhores m",
-      "url": "https://www.instagram.com/reel/DeNd52UOwao/",
+      "id": "17936204988406828",
+      "date": "2026-11-05",
+      "caption": "QUE FESTA NO NILTON SANTOS!\n\nO Fogão precisa do apoio da torcida e foi recebido dessa forma. Vem que o jogo tá bom demai",
+      "url": "https://www.instagram.com/reel/DfVzcqaRFUi/",
       "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
+        "#charlanopremiere"
       ],
       "type": "VIDEO",
-      "views": 47770,
-      "reach": 35701,
-      "likes": 2786,
-      "comments": 41,
-      "shares": 103,
-      "saves": 78,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18085422908315556",
-      "date": "2026-10-07",
-      "caption": "COM ELE IA SER DIFERENTE! 😳🤣\n\nA polêmica na seleção de Portugal não para! E nessa treta entre CR7 e Jorge Jesus, Romário",
-      "url": "https://www.instagram.com/reel/DeNZ7qhMcn3/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 938272,
-      "reach": 675170,
-      "likes": 93891,
-      "comments": 1936,
-      "shares": 35729,
-      "saves": 5485,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18096480602116953",
-      "date": "2026-10-07",
-      "caption": "QUANDO A CAMISA DO BRASIL VAI TER A SEXTA ESTRELA?\n\nRomário falou do assunto na Charla e deu essa declaração. Concordam ",
-      "url": "https://www.instagram.com/p/DeNYf_BPn_T/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 615,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17905856052592377",
-      "date": "2026-10-07",
-      "caption": "“ESSE É O MEU MOMENTO!” 🤩\n\nO Baixo contou pra gente como foi a experiência de voltar a uma Copa nos EUA, mas dessa vez d",
-      "url": "https://www.instagram.com/reel/DeNVrLNslwZ/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#granfinonocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 44217,
-      "reach": 49379,
-      "likes": 2981,
-      "comments": 11,
-      "shares": 42,
-      "saves": 60,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18009791828974895",
-      "date": "2026-10-07",
-      "caption": "ROMÁRIO FALOU DO TRABALHO DO ANCELOTTI NA SELEÇÃO!\n\nO craque comentou na Charla sobre o trabalho do treinador italiano n",
-      "url": "https://www.instagram.com/p/DeNTdEMxs5E/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 466,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18115501615824265",
-      "date": "2026-10-07",
-      "caption": "Charla #769 - Romário\n\nO CARA é o convidado da nossa primeira Charla na casa nova. Ele dispensa apresentações, né?!\n\nVem",
-      "url": "https://www.instagram.com/p/DeNOxxBJIO3/",
-      "tags": [
-        "#769"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 932,
-      "comments": 29,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17946845709068845",
-      "date": "2026-10-07",
-      "caption": "JOANNA DE ASSIS REVELA CONVERSA POR TELEFONE COM MANCUSO!\n\nDepois de receber contato de uma pessoa que se dizia ser da A",
-      "url": "https://www.instagram.com/reel/DeNC-K3soWM/",
-      "tags": [
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 34772,
-      "reach": 53158,
-      "likes": 3569,
-      "comments": 91,
-      "shares": 259,
-      "saves": 104,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18090155276237534",
-      "date": "2026-10-07",
-      "caption": "QUAL TIPO DE JOGADOR ERA ALVO DO MANCUSO PARA FAZER O CONTATO? \n\n#BrahmaNoCharla #ForneriaNoCharla #AbsolutNoCharla",
-      "url": "https://www.instagram.com/reel/DeNAgyju9p2/",
-      "tags": [
-        "#brahmanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 20042,
-      "reach": 24641,
-      "likes": 1312,
-      "comments": 27,
-      "shares": 42,
-      "saves": 31,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18226993663333847",
-      "date": "2026-10-07",
-      "caption": "DIA DE GALA NOS ESTÚDIOS CHARLA! 🤩🏆\n\nO primeiro convidado da nossa nova casa é ele, O CARA! Já sabe que com ele tem rese",
-      "url": "https://www.instagram.com/p/DeM93oaRBHB/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 241,
-      "comments": 20,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "rYpzPcSKFsQ",
-      "date": "2026-10-07",
-      "caption": "VASCO AVANÇA PELA NOVA SAF! BOTAFOGO COM ZIYECH! COMPRA DE DIPLOMAS FALSOS! | CHARLA DE QUINTA #390",
-      "type": "VIDEO",
-      "views": 57944,
-      "likes": 1291,
+      "views": 9166,
+      "reach": 6917,
+      "likes": 469,
       "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "shares": 9,
+      "saves": 1,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -687,16 +472,22 @@
       }
     },
     {
-      "id": "0OWRTtQSN8U",
-      "date": "2026-10-07",
-      "caption": "Charla #769 - Romário ",
+      "id": "18109431518258516",
+      "date": "2026-11-05",
+      "caption": "AMUZU DO CÉU, QUE GOLAÇO! \n\nNão tem jeito, gol de falta é sempre um absurdo. Amuzu soltou uma bomba, acertou a gaveta e ",
+      "url": "https://www.instagram.com/reel/DfVvBWwgvWw/",
+      "tags": [
+        "#fornerianocharla",
+        "#charlafutebol"
+      ],
       "type": "VIDEO",
-      "views": 111784,
-      "likes": 3496,
-      "comments": 41,
-      "shares": 0,
+      "views": 5747,
+      "reach": 4869,
+      "likes": 38,
+      "comments": 1,
+      "shares": 1,
       "saves": 0,
-      "platform": "youtube",
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -721,47 +512,373 @@
       }
     },
     {
-      "id": "1FJOokibQKc",
-      "date": "2026-10-07",
-      "caption": "CANTARELLI FAZ CRÍTICAS À IMPRENSA ESPORTIVA E COBRA CRÉDITOS NOS CONTEÚDOS",
+      "id": "17877425805637168",
+      "date": "2026-11-05",
+      "caption": "O VASCO NÃO PARA DE MARCAR! 🔥🔥🔥\n\nFalta pela lateral, a bola foi cruzada na área do Furacão e Gabriel, subindo mais alto ",
+      "url": "https://www.instagram.com/reel/DfVt8FFPquL/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
       "type": "VIDEO",
-      "views": 22977,
-      "likes": 460,
-      "comments": 25,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "tJjtAFqxeeE",
-      "date": "2026-10-07",
-      "caption": "QUAL O TAMANHO DO GABIGOL NA HISTÓRIA DO FLAMENGO?",
-      "type": "VIDEO",
-      "views": 10742,
-      "likes": 180,
+      "views": 7925,
+      "reach": 6171,
+      "likes": 1031,
       "comments": 14,
+      "shares": 15,
+      "saves": 11,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17910482178578304",
+      "date": "2026-11-05",
+      "caption": "VIRA, VIRA, VIROU! 🤯\n\nO Vasco voltou ligadaço no segundo tempo e Bruno Duarte, de cabeça, virou para o Gigante da Colina",
+      "url": "https://www.instagram.com/reel/DfVtRavhkWg/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 12730,
+      "reach": 8961,
+      "likes": 1477,
+      "comments": 25,
+      "shares": 15,
+      "saves": 19,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18641892244020336",
+      "date": "2026-11-05",
+      "caption": "O VASCO EMPATA O JOGO!\n\nCruzamento na área do Furacão, a bola desviou no defensor e tirou qualquer chance de defesa do M",
+      "url": "https://www.instagram.com/reel/DfVs1ZJhWOy/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 7844,
+      "reach": 6307,
+      "likes": 505,
+      "comments": 1,
+      "shares": 3,
+      "saves": 4,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17873166042643072",
+      "date": "2026-11-05",
+      "caption": "SENNA É O MAIOR PILOTO DE AUTOMOBILISMO DA HISTÓRIA? 🇧🇷🏎️\n\nCacá Bueno falou do inigualável Ayrton Senna, sobre sua intel",
+      "url": "https://www.instagram.com/reel/DfX0MCUMeNw/",
+      "tags": [
+        "#brahmanocharla",
+        "#granfinonocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 58444,
+      "reach": 39768,
+      "likes": 4706,
+      "comments": 123,
+      "shares": 437,
+      "saves": 139,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17940004683122763",
+      "date": "2026-11-05",
+      "caption": "QUEM NÃO AMA O NETO, TÁ VIVENDO ERRADO!\n\nO Craque Neto foi pauta na charla que tivemos com o apresentador João Silva. Co",
+      "url": "https://www.instagram.com/reel/DfXytS9BogY/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 139987,
+      "reach": 94442,
+      "likes": 6177,
+      "comments": 81,
+      "shares": 105,
+      "saves": 156,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17955268272320604",
+      "date": "2026-11-05",
+      "caption": "MESMO COM A VIRADA, O VASCO FOI PREJUDICADO?\n\nA Charla de Quinta falou do lance envolvendo o Mycael e o Brenner no jogo ",
+      "url": "https://www.instagram.com/reel/DfXqtsxtoNy/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 34737,
+      "reach": 23511,
+      "likes": 1898,
+      "comments": 23,
+      "shares": 15,
+      "saves": 11,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18029493335698991",
+      "date": "2026-11-05",
+      "caption": "VITÓRIA QUE DÁ MAIS TRANQUILIDADE E CONFIANÇA?\n\nBruno Azevedo falou da virada do Gigante da Colina diante do Furacão e t",
+      "url": "https://www.instagram.com/reel/DfXqB_pALv2/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 10451,
+      "reach": 8116,
+      "likes": 627,
+      "comments": 1,
+      "shares": 2,
+      "saves": 9,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "EpQSPBxjuyU",
+      "date": "2026-11-05",
+      "caption": "FLAMENGO x GRÊMIO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "type": "VIDEO",
+      "views": 66595,
+      "likes": 800,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "4_BRhOzK434",
+      "date": "2026-11-05",
+      "caption": "ATHLETICO x VASCO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "type": "VIDEO",
+      "views": 10798,
+      "likes": 294,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "_djC7NA__ac",
+      "date": "2026-11-05",
+      "caption": "RAFFAEL SIQUEIRA, DO JORNADA 1902, NO CHARLA NA MIX",
+      "type": "VIDEO",
+      "views": 3831,
+      "likes": 99,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -789,13 +906,13 @@
       }
     },
     {
-      "id": "nntYOj9doZY",
-      "date": "2026-10-07",
-      "caption": "POLÊMICA! VASCO É BARRADO DE JOGAR NO MARACANÃ",
+      "id": "fIrkXQiJ1Lk",
+      "date": "2026-11-05",
+      "caption": "BOTAFOGO VENCE O GALO E SE AFASTA DO Z4 DO BRASILEIRÃO",
       "type": "VIDEO",
-      "views": 54112,
-      "likes": 1119,
-      "comments": 378,
+      "views": 2923,
+      "likes": 57,
+      "comments": 2,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -823,13 +940,13 @@
       }
     },
     {
-      "id": "hTsBpXcJqHY",
-      "date": "2026-10-07",
-      "caption": "BETÃO E CANTARELLI SE EMOCIONAM NA INAUGURAÇÃO DO NOVO ESTÚDIO DO CHARLA",
+      "id": "QBxGIF51XX8",
+      "date": "2026-11-05",
+      "caption": "MATHEUS ANALISA A VITÓRIA DO FLAMENGO CONTRA O GRÊMIO",
       "type": "VIDEO",
-      "views": 15472,
-      "likes": 565,
-      "comments": 24,
+      "views": 8127,
+      "likes": 247,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -857,13 +974,13 @@
       }
     },
     {
-      "id": "jbwhNZieiEk",
-      "date": "2026-10-07",
-      "caption": "CONHEÇA O NOVO ESTÚDIO DO CHARLA PODCAST!",
+      "id": "GCYBQEXGdz4",
+      "date": "2026-11-05",
+      "caption": "BRUNO AZEVEDO VAI À LOUCURA APÓS VIRADA DO VASCO CONTRA O ATHLETICO-PR",
       "type": "VIDEO",
-      "views": 13797,
-      "likes": 610,
-      "comments": 58,
+      "views": 20513,
+      "likes": 662,
+      "comments": 21,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -891,15 +1008,85 @@
       }
     },
     {
-      "id": "QLzT8lxxjEA",
-      "date": "2026-10-07",
-      "caption": "VASCO TEM LIMINAR NEGADA! FLA CONTESTA O MP! TITE BEM EM CLÁSSICOS?",
+      "id": "xMnduSgddUM",
+      "date": "2026-11-05",
+      "caption": "FLAMENGO VENCE O GRÊMIO E DISPARA NA LIDERANÇA DO BRASILEIRÃO",
       "type": "VIDEO",
-      "views": 11241,
-      "likes": 183,
+      "views": 1399,
+      "likes": 34,
       "comments": 1,
       "shares": 0,
       "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "n79Hh_1ouwM",
+      "date": "2026-11-05",
+      "caption": "NARRAÇÃO ABSURDA DA VITÓRIA ESPETACULAR DO VASCO EM CURITIBA",
+      "type": "VIDEO",
+      "views": 13396,
+      "likes": 678,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "0UGshHPkmdA",
+      "date": "2026-11-05",
+      "caption": "FLAMENGO VENCE E AUMENTA A DISTÂNCIA NA LIDERANÇA, VASCO VIRA E RESPIRA  |CHARLA DE QUINTA #412",
+      "type": "VIDEO",
+      "views": 41121,
+      "likes": 1634,
+      "comments": 21,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
