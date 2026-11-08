@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-07T16:07:54.273524",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-08T16:31:28.103261",
+  "date": "2026-11-07",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 25,
+    "total_posts": 15,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,90 +12,155 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18179709319382356",
-    "melhor_post_caption": "O 2027 DO TRICOLOR É UM LIVRO EM BRANCO... \n\nMarcão vai continuar? O ídolo Fred vai subir para o pro",
-    "melhor_post_views": 17292,
+    "melhor_post_id": "18631233187046579",
+    "melhor_post_caption": "IMAGINA SER TÃO PRÓXIMO DO FENÔMENO?\n\nJoão Silva falou da relação de amizade que tem com o Ronaldo. ",
+    "melhor_post_views": 73317,
     "sponsor_stats": {
       "#brahmanocharla": {
-        "posts": 8,
-        "views": 169981,
-        "likes": 5514,
-        "comments": 182
+        "posts": 7,
+        "views": 608647,
+        "likes": 26770,
+        "comments": 380
       },
-      "#assainocharla": {
-        "posts": 6,
-        "views": 149290,
-        "likes": 4931,
-        "comments": 169
-      },
-      "#absolutnocharla": {
-        "posts": 4,
-        "views": 75868,
-        "likes": 1926,
-        "comments": 112
+      "#melittanocharla": {
+        "posts": 3,
+        "views": 159617,
+        "likes": 7712,
+        "comments": 138
       },
       "#fornerianocharla": {
         "posts": 3,
-        "views": 59078,
-        "likes": 1443,
-        "comments": 100
+        "views": 100468,
+        "likes": 3835,
+        "comments": 36
       },
       "#granfinonocharla": {
-        "posts": 1,
-        "views": 16790,
-        "likes": 483,
-        "comments": 12
-      },
-      "#melittanocharla": {
-        "posts": 4,
-        "views": 107002,
-        "likes": 3971,
-        "comments": 81
+        "posts": 2,
+        "views": 83363,
+        "likes": 2458,
+        "comments": 17
       },
       "#charlafutebol": {
-        "posts": 2,
-        "views": 3901,
-        "likes": 179,
-        "comments": 5
+        "posts": 4,
+        "views": 45514,
+        "likes": 2859,
+        "comments": 44
       },
       "#penaltynocharla": {
-        "posts": 3,
-        "views": 90212,
-        "likes": 3488,
-        "comments": 69
+        "posts": 2,
+        "views": 496875,
+        "likes": 22830,
+        "comments": 338
       },
-      "#004": {
-        "posts": 1,
-        "views": 0,
-        "likes": 1201,
-        "comments": 9
+      "#assainocharla": {
+        "posts": 2,
+        "views": 496875,
+        "likes": 22830,
+        "comments": 338
       },
-      "#778": {
+      "#chatgptnocharla": {
         "posts": 1,
-        "views": 0,
-        "likes": 181,
-        "comments": 7
+        "views": 420621,
+        "likes": 17576,
+        "comments": 217
       }
     }
   },
   "posts": [
     {
-      "id": "18179709319382356",
-      "date": "2026-11-06",
-      "caption": "O 2027 DO TRICOLOR É UM LIVRO EM BRANCO... \n\nMarcão vai continuar? O ídolo Fred vai subir para o profissional? Thiago Si",
-      "url": "https://www.instagram.com/reel/DfaDFQoBQ2g/",
+      "id": "18631233187046579",
+      "date": "2026-11-07",
+      "caption": "IMAGINA SER TÃO PRÓXIMO DO FENÔMENO?\n\nJoão Silva falou da relação de amizade que tem com o Ronaldo. Como é o gênio do fu",
+      "url": "https://www.instagram.com/reel/DfcWKahM9_u/",
       "tags": [
         "#brahmanocharla",
-        "#assainocharla",
-        "#absolutnocharla",
-        "#fornerianocharla"
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 17292,
-      "reach": 12465,
-      "likes": 405,
-      "comments": 15,
-      "shares": 9,
+      "views": 73317,
+      "reach": 52471,
+      "likes": 2175,
+      "comments": 11,
+      "shares": 42,
+      "saves": 40,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18133585471686532",
+      "date": "2026-11-07",
+      "caption": "“AGORA ENTENDO O SORRISO…” 😮‍💨\n\nNesse climinha, com Breno Bené cantando Jorge Aragão, a gente vai começando o nosso sába",
+      "url": "https://www.instagram.com/reel/DfcPVEGsuzD/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 29233,
+      "reach": 20799,
+      "likes": 1813,
+      "comments": 41,
+      "shares": 215,
+      "saves": 83,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18131215018695687",
+      "date": "2026-11-07",
+      "caption": "“O FLU FEZ O QUE TINHA QUE FAZER!” ⚽️\n\nDepois de duas partidas bem abaixo, Rodrigo Machado destacou o bom futebol pratic",
+      "url": "https://www.instagram.com/reel/DfbF--rt_Os/",
+      "tags": [
+        "#fornerianocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 17105,
+      "reach": 13565,
+      "likes": 1377,
+      "comments": 19,
+      "shares": 10,
       "saves": 14,
       "platform": "instagram",
       "analysis": {
@@ -122,18 +187,21 @@
       }
     },
     {
-      "id": "18004489739800804",
-      "date": "2026-11-06",
-      "caption": "APERTA O PLAY QUE É DIA DE TÉO JOSÉ NO CHARLA!\n\nO narrador e apresentador Téo José, dono de narrações históricas e vário",
-      "url": "https://www.instagram.com/p/DfaASkwv6Mq/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 150,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
+      "id": "18135367540739926",
+      "date": "2026-11-07",
+      "caption": "“AQUELE VITÓRIA DO PRIMEIRO SEMESTRE DERRETEU!” 😳\n\nNa sua análise pós-jogo, Rodrigo Machado demonstrou preocupação com o",
+      "url": "https://www.instagram.com/reel/DfbDjiahpNn/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 11624,
+      "reach": 8732,
+      "likes": 277,
+      "comments": 3,
+      "shares": 14,
+      "saves": 3,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -159,23 +227,145 @@
       }
     },
     {
-      "id": "18400679431206529",
-      "date": "2026-11-06",
-      "caption": "O AUTOMOBILISMO TÁ MAIS SEGURO?\n\nUsando como exemplo o acidente do Grosjean, na Fórmula 1, Cacá Bueno falou das evoluçõe",
-      "url": "https://www.instagram.com/reel/DfZ66-VBLEN/",
+      "id": "18440175274183215",
+      "date": "2026-11-07",
+      "caption": "UM GOLAÇO DE RODRIGO CASTILLO! 😱\n\nPra fechar a tampa, o centroavante argentino fez um golaço, com direito a arrancada e ",
+      "url": "https://www.instagram.com/reel/Dfa9zWTMhwO/",
       "tags": [
         "#brahmanocharla",
-        "#granfinonocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 10021,
+      "reach": 7616,
+      "likes": 923,
+      "comments": 20,
+      "shares": 12,
+      "saves": 11,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18132263221695182",
+      "date": "2026-11-07",
+      "caption": "QUE CLASSE, CANOBBIO! ⚽️⚽️\n\nO uruguaio cavou, tirando do goleiro após invadir a área recebendo lindo passe do Nonato. Am",
+      "url": "https://www.instagram.com/reel/Dfa3B-9RkPc/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 6764,
+      "reach": 5503,
+      "likes": 282,
+      "comments": 2,
+      "shares": 1,
+      "saves": 3,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18121057064067668",
+      "date": "2026-11-07",
+      "caption": "AYRTON SENNA É O GOAT DO AUTOMOBILISMO? 👀\n\nUma máquina de vencer. Foi assim que Téo José identificou Ayrton Senna da Sil",
+      "url": "https://www.instagram.com/reel/Dfc_axUsk2B/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 76254,
+      "reach": 54580,
+      "likes": 5254,
+      "comments": 121,
+      "shares": 352,
+      "saves": 223,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18147187969599192",
+      "date": "2026-11-07",
+      "caption": "CABE UM PROGRAMA DE AUDITÓRIO NO YOUTUBE?\n\nO apresentador João Silva falou do assunto e da importância do que chamou de ",
+      "url": "https://www.instagram.com/reel/DfcxmpQsME0/",
+      "tags": [
+        "#brahmanocharla",
         "#melittanocharla",
-        "#absolutnocharla"
+        "#fornerianocharla",
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 16790,
-      "reach": 12515,
-      "likes": 483,
-      "comments": 12,
-      "shares": 7,
-      "saves": 15,
+      "views": 10046,
+      "reach": 7660,
+      "likes": 283,
+      "comments": 6,
+      "shares": 3,
+      "saves": 6,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -201,102 +391,23 @@
       }
     },
     {
-      "id": "17905611432601192",
-      "date": "2026-11-06",
-      "caption": "VAI TER MUITA GENTE DE OLHO NESSE JOGO! 👀\n\nVitória e Fluminense se enfrentam nesta sexta (6) em um jogo que interessa, e",
-      "url": "https://www.instagram.com/p/DfZ6RknB26h/",
+      "id": "17919627510259231",
+      "date": "2026-11-07",
+      "caption": "IMAGINA DAR UMA CANETA NO SEU ÍDOLO? E ELE SER O XAVI? 👀😂\n\nMarcos Senna jogou MUITA bola e contou o episódio em que deu ",
+      "url": "https://www.instagram.com/reel/DfcnWJksiRN/",
       "tags": [
-        "#charlafutebol"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 79,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18134628670704340",
-      "date": "2026-11-06",
-      "caption": "SAVARINO ABRE O PLACAR PRO FLU NO BARRADÃO! ⚽️\n\nEm bela jogada pela direita com Guga e Canobbio, Savarino fez o desvio a",
-      "url": "https://www.instagram.com/reel/DfaycUJBuj8/",
-      "tags": [
-        "#brahmanocharla",
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 3901,
-      "reach": 3067,
-      "likes": 100,
-      "comments": 1,
-      "shares": 0,
-      "saves": 2,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17878767720634248",
-      "date": "2026-11-06",
-      "caption": "O APRENDIZADO COM A EXPERIÊNCIA! 💡\n\nNa Charla com o Téo José, ele contou um pouco sobre os aprendizados que adquiriu ao ",
-      "url": "https://www.instagram.com/reel/DfapcaIp4Jn/",
-      "tags": [
+        "#chatgptnocharla",
         "#brahmanocharla",
         "#penaltynocharla",
-        "#assainocharla",
-        "#melittanocharla"
+        "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 17227,
-      "reach": 11661,
-      "likes": 531,
-      "comments": 2,
-      "shares": 6,
-      "saves": 20,
+      "views": 420621,
+      "reach": 266655,
+      "likes": 17576,
+      "comments": 217,
+      "shares": 1137,
+      "saves": 455,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -322,294 +433,12 @@
       }
     },
     {
-      "id": "17933240766161532",
-      "date": "2026-11-06",
-      "caption": "ESSA RESENHA É ABSURDA! KKKKKKKKKK\n\nUm preocupado com o carro, outro preocupado com organização... E o Maradona? Preocup",
-      "url": "https://www.instagram.com/reel/DfahD33g4EF/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
+      "id": "8tmmNBQj-N4",
+      "date": "2026-11-07",
+      "caption": "Gente Nossa #004 - Fruta do Pé",
       "type": "VIDEO",
-      "views": 50703,
-      "reach": 33592,
-      "likes": 1902,
-      "comments": 36,
-      "shares": 373,
-      "saves": 112,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18130203538836230",
-      "date": "2026-11-06",
-      "caption": "TÁ NO AR O GENTE NOSSA #004 🎤📺\n\nA resenha da semana é com o Breno Bené e Júlia Batista, do Fruta do Pé. Um papo de sambi",
-      "url": "https://www.instagram.com/p/DfaduoevUyc/",
-      "tags": [
-        "#004"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 1201,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18413215396095150",
-      "date": "2026-11-06",
-      "caption": "APRENDIZADO NA PRÁTICA!\n\nTéo José contou como foi seu início no automobilismo e falou bastidores de uma vez que narrou s",
-      "url": "https://www.instagram.com/reel/DfaWqcru41r/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#melittanocharla"
-      ],
-      "type": "VIDEO",
-      "views": 22282,
-      "reach": 15482,
-      "likes": 1055,
-      "comments": 31,
-      "shares": 34,
-      "saves": 24,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18116105717031568",
-      "date": "2026-11-06",
-      "caption": "FLAMENGO E PALMEIRAS ESTÃO EM OUTRO NÍVEL?\n\nComparando com o que Senna e Prost fizerem na Fórmula 1, Joanna de Assis fal",
-      "url": "https://www.instagram.com/reel/DfaQcGhsdlL/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#absolutnocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 29660,
-      "reach": 19180,
-      "likes": 743,
-      "comments": 70,
-      "shares": 46,
-      "saves": 15,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17992781112114805",
-      "date": "2026-11-06",
-      "caption": "Charla #778 - Téo José\n\nNarrador e apresentador, dono de uma voz marcante e narrações históricas, Téo José é o convidado",
-      "url": "https://www.instagram.com/p/DfaLmTEM80M/",
-      "tags": [
-        "#778"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 181,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18386390851238171",
-      "date": "2026-11-06",
-      "caption": "TEMOS NOVIDADOS NO SANTOS!\n\nJoanna de Assis repercutiu na Charla de Quinta sobre o pai do Neymar ser o novo CEO do clube",
-      "url": "https://www.instagram.com/reel/DfaJ4rQNWsR/",
-      "tags": [
-        "#brahmanocharla",
-        "#assainocharla",
-        "#absolutnocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 12126,
-      "reach": 8869,
-      "likes": 295,
-      "comments": 15,
-      "shares": 22,
-      "saves": 7,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "TpPUlCoAjtg",
-      "date": "2026-11-06",
-      "caption": "FLUMINENSE JOGA PELA VAGA NO G4, VASCO SE PREPARA PRA SEMI DA COPA DO BRASIL | CHARLA DE QUINTA #413",
-      "type": "VIDEO",
-      "views": 25950,
-      "likes": 876,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "RLSyhE9jjTk",
-      "date": "2026-11-06",
-      "caption": "BOTAFOGO VENCE E GANHA TRANQUILIDADE NO BRASILEIRÃO",
-      "type": "VIDEO",
-      "views": 2565,
-      "likes": 65,
+      "views": 6103,
+      "likes": 174,
       "comments": 5,
       "shares": 0,
       "saves": 0,
@@ -638,319 +467,13 @@
       }
     },
     {
-      "id": "kGC5gG_utjQ",
-      "date": "2026-11-06",
-      "caption": "DISCUSSÃO SOBRE RELAÇÃO ENTRE PALMEIRAS E VASCO PEGA FOGO NO CHARLA",
+      "id": "cVLrX6aMY8w",
+      "date": "2026-11-07",
+      "caption": "VITÓRIA x FLUMINENSE | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
       "type": "VIDEO",
-      "views": 19165,
-      "likes": 486,
-      "comments": 147,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "vqX2Ep6G55I",
-      "date": "2026-11-06",
-      "caption": "BRUNO AZEVEDO PROJETA A VOLTA ENTRE VASCO E PALMEIRAS PELA COPA DO BRASIL",
-      "type": "VIDEO",
-      "views": 15362,
-      "likes": 356,
-      "comments": 29,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "TykYD77tMmU",
-      "date": "2026-11-06",
-      "caption": "VIRADA DO VASCO SOBRE O ATHLETICO DÁ ESPERANÇAS PARA A COPA DO BRASIL?",
-      "type": "VIDEO",
-      "views": 14071,
-      "likes": 383,
-      "comments": 15,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "oehBxlRuMss",
-      "date": "2026-11-06",
-      "caption": "BRUNO AZEVEDO VAI À LOUCURA APÓS MAIS UM ERRO DE ARBITRAGEM CONTRA O VASCO",
-      "type": "VIDEO",
-      "views": 3368,
-      "likes": 74,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "GLHIWPVwc2k",
-      "date": "2026-11-06",
-      "caption": "TODA A VERDADE SOBRE A RELAÇÃO DO PEDRO COM A TORCIDA DO FLAMENGO",
-      "type": "VIDEO",
-      "views": 4642,
-      "likes": 109,
-      "comments": 17,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "xksL7v3WpzQ",
-      "date": "2026-11-06",
-      "caption": "LEONARDO JARDIM MERECE PERMANECER NO FLAMENGO PARA 2027?",
-      "type": "VIDEO",
-      "views": 5190,
-      "likes": 116,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "JZODZN3tdWU",
-      "date": "2026-11-06",
-      "caption": "GEORGE ISRAEL E RODRIGO SANTOS NO CHARLA!",
-      "type": "VIDEO",
-      "views": 4249,
-      "likes": 79,
+      "views": 23066,
+      "likes": 308,
       "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "HatnPqxatk0",
-      "date": "2026-11-06",
-      "caption": "CARRASCAL É UM DOS MELHORES JOGADORES DO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 2808,
-      "likes": 77,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "6H2A4nigumY",
-      "date": "2026-11-06",
-      "caption": "FLAMENGO TEVE SORTE NA RETA FINAL DO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 17559,
-      "likes": 392,
-      "comments": 39,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "_2Y9FahTnRc",
-      "date": "2026-11-06",
-      "caption": "Charla #778 - Téo José [Narrador e Apresentador]",
-      "type": "VIDEO",
-      "views": 15039,
-      "likes": 409,
-      "comments": 6,
       "shares": 0,
       "saves": 0,
       "watch_minutes": 0,
@@ -980,12 +503,114 @@
       }
     },
     {
-      "id": "bq_x0HmqvR8",
-      "date": "2026-11-06",
-      "caption": "RODA de SAMBA com FRUTA DO PÉ no GENTE NOSSA",
+      "id": "aVByfJZBpN8",
+      "date": "2026-11-07",
+      "caption": "NEYMAR PAI É O NOVO CEO DO SANTOS",
       "type": "VIDEO",
-      "views": 2274,
-      "likes": 31,
+      "views": 8195,
+      "likes": 82,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "_oTvP0vu_Uk",
+      "date": "2026-11-07",
+      "caption": "JOGADOR DUBLÊ NO CHARLA NA MIX",
+      "type": "VIDEO",
+      "views": 4637,
+      "likes": 116,
+      "comments": 9,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "fK_XbfHqCgE",
+      "date": "2026-11-07",
+      "caption": "O FLUMINENSE REENCONTROU O FUTEBOL COM O MARCÃO?",
+      "type": "VIDEO",
+      "views": 6595,
+      "likes": 197,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "TLjmJ2IS2Zs",
+      "date": "2026-11-07",
+      "caption": "NARRAÇÃO ABSURDA DO SHOW DO FLUMINENSE EM SALVADOR",
+      "type": "VIDEO",
+      "views": 2087,
+      "likes": 39,
       "comments": 2,
       "shares": 0,
       "saves": 0,
