@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T17:30:51.731547",
-  "date": "2026-11-09",
+  "generated_at": "2026-11-11T17:43:45.445038",
+  "date": "2026-11-10",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 36,
+    "total_posts": 37,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,273 +12,60 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18637941787038089",
-    "melhor_post_caption": "TEM VEZES QUE É MELHOR FICAR FORA DA DISPUTA? 👀\n\nTeve declaração polêmica com aquele leve tom que o ",
-    "melhor_post_views": 67716,
+    "melhor_post_id": "18107832083202338",
+    "melhor_post_caption": "ERA UM TIME OU UMA SELEÇÃO? 😨\n\nAo ser perguntado sobre qual foi o melhor time que ele já viu jogar, ",
+    "melhor_post_views": 624459,
     "sponsor_stats": {
       "#brahmanocharla": {
-        "posts": 5,
-        "views": 164739,
-        "likes": 8298,
-        "comments": 612
+        "posts": 7,
+        "views": 1248459,
+        "likes": 69790,
+        "comments": 3368
       },
       "#penaltynocharla": {
-        "posts": 5,
-        "views": 164739,
-        "likes": 8298,
-        "comments": 612
-      },
-      "#melittanocharla": {
-        "posts": 4,
-        "views": 115370,
-        "likes": 5623,
-        "comments": 557
-      },
-      "#absolutnocharla": {
-        "posts": 4,
-        "views": 115370,
-        "likes": 5623,
-        "comments": 557
-      },
-      "#charlanopremiere": {
-        "posts": 1,
-        "views": 148070,
-        "likes": 4718,
-        "comments": 89
+        "posts": 7,
+        "views": 1248459,
+        "likes": 69790,
+        "comments": 3368
       },
       "#assainocharla": {
-        "posts": 1,
-        "views": 49369,
-        "likes": 2675,
-        "comments": 55
+        "posts": 4,
+        "views": 873699,
+        "likes": 56353,
+        "comments": 1706
       },
       "#granfinonocharla": {
-        "posts": 1,
-        "views": 49369,
-        "likes": 2675,
-        "comments": 55
+        "posts": 7,
+        "views": 1248459,
+        "likes": 69790,
+        "comments": 3368
       },
-      "#779": {
+      "#charlanamix": {
+        "posts": 1,
+        "views": 16935,
+        "likes": 543,
+        "comments": 2
+      },
+      "#780": {
         "posts": 1,
         "views": 0,
-        "likes": 504,
+        "likes": 138,
         "comments": 2
+      },
+      "#melittanocharla": {
+        "posts": 3,
+        "views": 374760,
+        "likes": 13437,
+        "comments": 1662
       }
     }
   },
   "posts": [
     {
-      "id": "18637941787038089",
-      "date": "2026-11-09",
-      "caption": "TEM VEZES QUE É MELHOR FICAR FORA DA DISPUTA? 👀\n\nTeve declaração polêmica com aquele leve tom que o Phill sempre traz na",
-      "url": "https://www.instagram.com/reel/DfiHt3HhqK_/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 67716,
-      "reach": 45982,
-      "likes": 2881,
-      "comments": 474,
-      "shares": 841,
-      "saves": 77,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17912554164568753",
-      "date": "2026-11-09",
-      "caption": "O PALMEIRAS TÁ DIFERENTE! 👀\n\nJoanna de Assis trouxe a comparação do Palmeiras nas duas semifinais das copas. Pra ela, a ",
-      "url": "https://www.instagram.com/reel/DfiAkANOw5D/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 13691,
-      "reach": 9884,
-      "likes": 296,
-      "comments": 3,
-      "shares": 2,
-      "saves": 12,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18003585258009552",
-      "date": "2026-11-09",
-      "caption": "CALMA, AZEVEDO! O SONHO NÃO ACABOU! 🤣🤣\n\nBetão, Blu e Phill não perdoaram o Azevedo na charla de quinta de hoje. Tiveram ",
-      "url": "https://www.instagram.com/reel/Dfh8tFjN0aB/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 14586,
-      "reach": 10764,
-      "likes": 423,
-      "comments": 23,
-      "shares": 32,
-      "saves": 9,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17890922229687036",
-      "date": "2026-11-09",
-      "caption": "TEM QUE VALORIZAR O PUMITA!\n\nNa charla de quinta de hoje, o Enzo fez questão de destacar a temporada do Puma Rodríguez, ",
-      "url": "https://www.instagram.com/reel/DfhyqZ8BQOz/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 19377,
-      "reach": 13903,
-      "likes": 2023,
-      "comments": 57,
-      "shares": 24,
-      "saves": 21,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18118092542085917",
-      "date": "2026-11-09",
-      "caption": "NÃO É FÁCIL, AZEVEDO... 😂\n\nSe liga nas reações do Bruno Azevedo durante Vasco e Palmeiras.\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DfgCA3Iuu-J/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 148070,
-      "reach": 96823,
-      "likes": 4718,
-      "comments": 89,
-      "shares": 60,
-      "saves": 108,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18098090987480304",
-      "date": "2026-11-09",
-      "caption": "TRAJANO É UM GÊNIO DE REVELAR NARRADORES?\n\nPaulo Calçade falou do jornalista e comentou dos narradores que estouraram no",
-      "url": "https://www.instagram.com/reel/DfidIfkOVwH/",
+      "id": "18107832083202338",
+      "date": "2026-11-10",
+      "caption": "ERA UM TIME OU UMA SELEÇÃO? 😨\n\nAo ser perguntado sobre qual foi o melhor time que ele já viu jogar, Paulo Calçade trouxe",
+      "url": "https://www.instagram.com/reel/DfkbfPAOrah/",
       "tags": [
         "#brahmanocharla",
         "#penaltynocharla",
@@ -286,12 +73,12 @@
         "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 49369,
-      "reach": 32253,
-      "likes": 2675,
-      "comments": 55,
-      "shares": 70,
-      "saves": 70,
+      "views": 624459,
+      "reach": 427765,
+      "likes": 36652,
+      "comments": 1193,
+      "shares": 11834,
+      "saves": 1446,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -317,18 +104,18 @@
       }
     },
     {
-      "id": "18193361944413272",
-      "date": "2026-11-09",
-      "caption": "A POESIA DE MESTRE CANDEIA! 😍🎶\n\nNo último episódio do Gente Nossa, Breno Bené trouxe no nosso papo mais uma poesia linda",
-      "url": "https://www.instagram.com/reel/DfiWPRtucvK/",
+      "id": "18127060966880210",
+      "date": "2026-11-10",
+      "caption": "CHEGOU A NOSSA AGENDA DA SEMANA! 🤩\n\nCom mais uma Tour SP recheada de resenhas absurdas, e a programação do Charla que vo",
+      "url": "https://www.instagram.com/p/DfkYwbcBmPE/",
       "tags": [],
-      "type": "VIDEO",
-      "views": 35424,
-      "reach": 26475,
-      "likes": 2919,
-      "comments": 54,
-      "shares": 301,
-      "saves": 158,
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 36,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -354,17 +141,219 @@
       }
     },
     {
-      "id": "18107785559633800",
-      "date": "2026-11-09",
-      "caption": "Charla #779 - Paulo Calçade\n\nJornalista e comentarista da ESPN, Paulo Calçade é o convidado do dia na tour de SP. \n\nÉ o ",
-      "url": "https://www.instagram.com/p/DfiSgC_P95X/",
+      "id": "18237511855325916",
+      "date": "2026-11-10",
+      "caption": "IMAGINA ESSA MORAL TODA SIMPLESMENTE COM A ALICIA KEYS?! 😱\n\nDe uma roda de samba intimista na casa do Caetano Veloso, at",
+      "url": "https://www.instagram.com/reel/DfkUrKxBd43/",
       "tags": [
-        "#779"
+        "#charlanamix"
+      ],
+      "type": "VIDEO",
+      "views": 16935,
+      "reach": 12609,
+      "likes": 543,
+      "comments": 2,
+      "shares": 37,
+      "saves": 17,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17975376387151624",
+      "date": "2026-11-10",
+      "caption": "HOJE TEM JÚLIO BAPTISTA NO CHARLA! 👏🏼\n\nEx-jogador consagrado, com passagem na seleção e em clubes gigantes pelo mundo, e",
+      "url": "https://www.instagram.com/p/DfkOiJRvSsv/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 116,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18104279090680400",
+      "date": "2026-11-10",
+      "caption": "A COBRANÇA POR UM FUTEBOL BRILHANTE DO PALMEIRAS É EXAGERADA?\n\nUsando como exemplo o Flamengo do Jorge Jesus, de 2019, P",
+      "url": "https://www.instagram.com/reel/Dfis2DHMaqp/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 47134,
+      "reach": 31493,
+      "likes": 2755,
+      "comments": 138,
+      "shares": 253,
+      "saves": 96,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18168649717491468",
+      "date": "2026-11-10",
+      "caption": "O VASCO VAI DAR TRABALHO QUANDO ORGANIZAR A CASA?\n\nPaulo Calçade falou do futuro do Vasco com os novos investimentos e c",
+      "url": "https://www.instagram.com/reel/DfiqQxuN6xP/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 183410,
+      "reach": 124464,
+      "likes": 16482,
+      "comments": 367,
+      "shares": 1255,
+      "saves": 364,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18202215121386353",
+      "date": "2026-11-10",
+      "caption": "O 7 A 1 NA VISÃO DO CALÇADE!\n\nO jornalista falou da preparação que aconteceu na seleção alemã, a partir de 2002, para ch",
+      "url": "https://www.instagram.com/reel/Dfine6chiIe/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 18696,
+      "reach": 12639,
+      "likes": 464,
+      "comments": 8,
+      "shares": 8,
+      "saves": 13,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18375534595215724",
+      "date": "2026-11-10",
+      "caption": "Charla #780 - Júlio Baptista\n\nEx-jogador e atual treinador de futebol, Júlio Baptista é o convidado do dia na tour de SP",
+      "url": "https://www.instagram.com/p/DflEbSthnKG/",
+      "tags": [
+        "#780"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 504,
+      "likes": 138,
       "comments": 2,
       "shares": 0,
       "saves": 0,
@@ -393,18 +382,23 @@
       }
     },
     {
-      "id": "18121197527117701",
-      "date": "2026-11-09",
-      "caption": "SEGUNDOU COM PAULO CALÇADE NO CHARLA! 👏🏻\n\nJornalista e comentarista da ESPN, Paulo Calçade dá o pontapé inicial na nossa",
-      "url": "https://www.instagram.com/p/DfiO7MZtbZG/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 186,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
+      "id": "17891454060486564",
+      "date": "2026-11-10",
+      "caption": "ESSA EU QUERO VER A RESPOSTA NOS COMENTÁRIOS! 👀\n\n#BrahmaNoCharla #PenaltyNoCharla #MelittaNoCharla #GranfinoNoCharla",
+      "url": "https://www.instagram.com/reel/DflDpcixHm3/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 60304,
+      "reach": 42448,
+      "likes": 2981,
+      "comments": 302,
+      "shares": 1467,
+      "saves": 161,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -430,18 +424,23 @@
       }
     },
     {
-      "id": "18145878397590770",
-      "date": "2026-11-09",
-      "caption": "ALÔ, SÃO PAULO! CHEGAMOS, HEIN? \n\nBora pra mais uma tour absurda e com convidados de peso. Fica ligado pra não perder na",
-      "url": "https://www.instagram.com/p/DfiO0EGhMRu/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 379,
-      "comments": 14,
-      "shares": 0,
-      "saves": 0,
+      "id": "18024859646928622",
+      "date": "2026-11-10",
+      "caption": "CARLOS VINÍCIUS NO FLAMENGO? 👀🔴⚫️\n\nO Flamengo entrou no circuito de interessados pela contratação do atacante Carlos Vin",
+      "url": "https://www.instagram.com/reel/Dfklv0hAISF/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 303564,
+      "reach": 218030,
+      "likes": 9851,
+      "comments": 1356,
+      "shares": 3065,
+      "saves": 262,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -467,16 +466,24 @@
       }
     },
     {
-      "id": "ja_oNJvY3SE",
-      "date": "2026-11-09",
-      "caption": "VASCO JOGA BEM E VENCE O PALMEIRAS, MAS PARA NAS MÃOS DE CARLOS MIGUEL! | CHARLA DE QUINTA #415",
+      "id": "18110579642578014",
+      "date": "2026-11-10",
+      "caption": "TODA FORÇA E MELHORAS PRO MUSIALA! 🙏🏽\n\nO Enzo trouxe, diretamente da Europa, informações sobre a notícia que chocou o mu",
+      "url": "https://www.instagram.com/reel/DfkgSGovRh7/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
       "type": "VIDEO",
-      "views": 46848,
-      "likes": 1530,
-      "comments": 13,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 10892,
+      "reach": 8300,
+      "likes": 605,
+      "comments": 4,
+      "shares": 26,
+      "saves": 20,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -501,114 +508,12 @@
       }
     },
     {
-      "id": "vL3NSnKc9U4",
-      "date": "2026-11-09",
-      "caption": "Charla #779 - Paulo Calçade [Comentarista ESPN]",
+      "id": "ZY0S-6lIiB0",
+      "date": "2026-11-10",
+      "caption": "FEYJÃO NO CHARLA",
       "type": "VIDEO",
-      "views": 21120,
-      "likes": 626,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "wScMKW6iel0",
-      "date": "2026-11-09",
-      "caption": "POR QUE AYRTON SENNA É O MAIOR PILOTO DA HISTÓRIA DO AUTOMOBILISMO?",
-      "type": "VIDEO",
-      "views": 6131,
-      "likes": 141,
-      "comments": 15,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "_m-w93GpDjU",
-      "date": "2026-11-09",
-      "caption": "OS MELHORES BORDÕES DO TÉO JOSÉ",
-      "type": "VIDEO",
-      "views": 7663,
-      "likes": 228,
-      "comments": 15,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "-BIU6zxS65w",
-      "date": "2026-11-09",
-      "caption": "TÉO JOSÉ REVELA A ORIGEM DO APELIDO RONY RÚSTICO",
-      "type": "VIDEO",
-      "views": 2249,
-      "likes": 56,
+      "views": 3486,
+      "likes": 73,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -637,13 +542,13 @@
       }
     },
     {
-      "id": "q2RM5KhwtPk",
-      "date": "2026-11-09",
-      "caption": "TÉO JOSÉ ABRE O JOGO SOBRE A SUA SAÍDA DO SBT",
+      "id": "kN3JEbgRRIE",
+      "date": "2026-11-10",
+      "caption": "Gente Nossa #005 - Délcio Luiz",
       "type": "VIDEO",
-      "views": 80044,
-      "likes": 1316,
-      "comments": 79,
+      "views": 1,
+      "likes": 1,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -671,13 +576,13 @@
       }
     },
     {
-      "id": "YXJg4C84oBg",
-      "date": "2026-11-09",
-      "caption": "COMO ERA O SILVIO SANTOS NOS BASTIDORES DO SBT?",
+      "id": "vHCzBmWrT9g",
+      "date": "2026-11-10",
+      "caption": "Charla #784 - Badauí [Vocalista do CPM22]",
       "type": "VIDEO",
-      "views": 15791,
-      "likes": 530,
-      "comments": 11,
+      "views": 2,
+      "likes": 5,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -705,317 +610,11 @@
       }
     },
     {
-      "id": "DeMeVFQ9etA",
-      "date": "2026-11-09",
-      "caption": "TODA A VERDADE SOBRE A CRISE ABSURDA DO GOIÁS",
+      "id": "m-MZ5cfk5nE",
+      "date": "2026-11-10",
+      "caption": "Charla #783 - Júnior Penta [Campeão do Mundo 2002]",
       "type": "VIDEO",
-      "views": 69711,
-      "likes": 1351,
-      "comments": 146,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Y0_1omaJbck",
-      "date": "2026-11-09",
-      "caption": "JORNALISTAS VIRARAM INFLUENCIADORES?",
-      "type": "VIDEO",
-      "views": 2518,
-      "likes": 71,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "9PK8KVXBSfE",
-      "date": "2026-11-09",
-      "caption": "TÉO JOSÉ RELEMBRA O DIA DA MORTE DO LUCIANO DO VALLE",
-      "type": "VIDEO",
-      "views": 7796,
-      "likes": 151,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "eMpU3eY0X7c",
-      "date": "2026-11-09",
-      "caption": "AULA INCRÍVEL DO TÉO JOSÉ SOBRE O JORNALISMO ESPORTIVO ATUAL",
-      "type": "VIDEO",
-      "views": 9848,
-      "likes": 247,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "RsnmtpbuOoc",
-      "date": "2026-11-09",
-      "caption": "TÉO JOSÉ ABRE O JOGO SOBRE O FIM DA TV PSN",
-      "type": "VIDEO",
-      "views": 5317,
-      "likes": 134,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "b8UcM6sf7UM",
-      "date": "2026-11-09",
-      "caption": "MARADONA LEVOU O TÉO JOSÉ À LOUCURA EM SÃO PAULO 🤣🤣🤣",
-      "type": "VIDEO",
-      "views": 22374,
-      "likes": 448,
-      "comments": 12,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "lSA2hHkMwqw",
-      "date": "2026-11-09",
-      "caption": "OS BASTIDORES ABSURDOS DA TV PSN NOS ESTADOS UNIDOS",
-      "type": "VIDEO",
-      "views": 30108,
-      "likes": 602,
-      "comments": 15,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "klOsgqi1bYs",
-      "date": "2026-11-09",
-      "caption": "TÉO JOSÉ CONTA OS MAIORES PERRENGUES QUE PASSOU NARRANDO NA RÁDIO 🤣🤣🤣",
-      "type": "VIDEO",
-      "views": 7292,
-      "likes": 196,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "E__EfNdM9jY",
-      "date": "2026-11-09",
-      "caption": "TÉO JOSÉ REVELA AS SUAS REFERÊNCIAS NA NARRAÇÃO ESPORTIVA",
-      "type": "VIDEO",
-      "views": 2575,
-      "likes": 109,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "2lspPixltaQ",
-      "date": "2026-11-09",
-      "caption": "CHARLA DE QUINTA #418",
-      "type": "VIDEO",
-      "views": 0,
+      "views": 2,
       "likes": 2,
       "comments": 0,
       "shares": 0,
@@ -1045,12 +644,12 @@
       }
     },
     {
-      "id": "QBIwiynCmpU",
-      "date": "2026-11-09",
-      "caption": "CHARLA DE QUINTA #418",
+      "id": "ZV29daMviG0",
+      "date": "2026-11-10",
+      "caption": "Charla #781 - Flávio Prado [Jornalista]",
       "type": "VIDEO",
       "views": 0,
-      "likes": 3,
+      "likes": 4,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1079,12 +678,80 @@
       }
     },
     {
-      "id": "wc_rsshLGZE",
-      "date": "2026-11-09",
-      "caption": "CHARLA DE QUINTA #417",
+      "id": "oPrQ8ghAUCU",
+      "date": "2026-11-10",
+      "caption": "BRUNO AZEVEDO VAI À LOUCURA COM PROVOCAÇÕES APÓS ELIMINAÇÃO DO VASCO",
       "type": "VIDEO",
-      "views": 0,
-      "likes": 3,
+      "views": 44917,
+      "likes": 944,
+      "comments": 130,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "M2q1u8U8xPw",
+      "date": "2026-11-10",
+      "caption": "ELIMINAÇÃO DO VASCO NA COPA DO BRASIL PASSA DIRETAMENTE PELA ARBITRAGEM?",
+      "type": "VIDEO",
+      "views": 2221,
+      "likes": 49,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "-9tgb55mzWM",
+      "date": "2026-11-10",
+      "caption": "JOANNA DE ASSIS ANALISA O CONFRONTO DA FINAL DA COPA DO BRASIL",
+      "type": "VIDEO",
+      "views": 1045,
+      "likes": 6,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1114,11 +781,81 @@
     },
     {
       "id": "4Lhu0T_XZc4",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "caption": "ANCELOTTI VAI MUDAR O TIME? COMEÇOU MAIS UMA DATA FIFA! | CHARLA DE QUINTA #416",
       "type": "VIDEO",
-      "views": 5657,
-      "likes": 507,
+      "views": 22797,
+      "likes": 635,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "aKHOeLZLBKc",
+      "date": "2026-11-10",
+      "caption": "QUAL O MELHOR TIME DA HISTÓRIA DO FUTEBOL BRASILEIRO? PAULO CALÇADE RESPONDE",
+      "type": "VIDEO",
+      "views": 6507,
+      "likes": 122,
+      "comments": 15,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "DfMpFfLTNCY",
+      "date": "2026-11-10",
+      "caption": "FILIPE LUÍS É A GRANDE ESPERANÇA PARA O FUTURO DOS TREINADORES BRASILEIROS?",
+      "type": "VIDEO",
+      "views": 2041,
+      "likes": 48,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1147,12 +884,114 @@
       }
     },
     {
-      "id": "lmwzqzbq5tw",
-      "date": "2026-11-09",
-      "caption": "IMPORTÂNCIA ABSURDA DO CARLOS MIGUEL NO PALMEIRAS",
+      "id": "ogNmbi6JZeQ",
+      "date": "2026-11-10",
+      "caption": "COMO A IMIGRAÇÃO MUDOU A HISTÓRIA DO FUTEBOL FRANCÊS",
       "type": "VIDEO",
-      "views": 1323,
-      "likes": 25,
+      "views": 1798,
+      "likes": 45,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "IU_v8lof2iQ",
+      "date": "2026-11-10",
+      "caption": "PAULO CALÇADE EXPLICA O SUCESSO DO BARCELONA DE GUARDIOLA",
+      "type": "VIDEO",
+      "views": 10560,
+      "likes": 308,
+      "comments": 22,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "AyzgMBU7Fdk",
+      "date": "2026-11-10",
+      "caption": "QUEM JOGOU MAIS NA ESPANHA: MESSI OU RONALDINHO?",
+      "type": "VIDEO",
+      "views": 7423,
+      "likes": 230,
+      "comments": 61,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "_cTdAqZurUc",
+      "date": "2026-11-10",
+      "caption": "Charla #782 - Vampeta [Campeão do Mundo 2002]",
+      "type": "VIDEO",
+      "views": 1,
+      "likes": 4,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1181,13 +1020,13 @@
       }
     },
     {
-      "id": "Zf0Imij1iOc",
-      "date": "2026-11-09",
-      "caption": "ABEL FERREIRA É O MAIOR TREINADOR DA HISTÓRIA DO PALMEIRAS?",
+      "id": "UJwC0Jekd1A",
+      "date": "2026-11-10",
+      "caption": "BRASILEIRÃO TEM POTENCIAL PARA SE TORNAR UMA DAS MAIORES LIGAS DO MUNDO?",
       "type": "VIDEO",
-      "views": 8035,
-      "likes": 128,
-      "comments": 30,
+      "views": 7261,
+      "likes": 180,
+      "comments": 16,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1215,115 +1054,319 @@
       }
     },
     {
-      "id": "ORsK7xU7ufU",
-      "date": "2026-11-09",
-      "caption": "VASCO AINDA PODE SALVAR A TEMPORADA DE 2026?",
+      "id": "6IurEX6OTzE",
+      "date": "2026-11-10",
+      "caption": "VASCO VAI VOLTAR A BRIGAR POR TUDO EM 2027?",
       "type": "VIDEO",
-      "views": 4605,
-      "likes": 123,
+      "views": 32560,
+      "likes": 892,
+      "comments": 82,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "fDb4O31eu9Y",
+      "date": "2026-11-10",
+      "caption": "RELAÇÃO DO TORCEDOR BRASILEIRO COM O FUTEBOL NÃO É SAUDÁVEL?",
+      "type": "VIDEO",
+      "views": 738,
+      "likes": 26,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "u0G381eaJsg",
+      "date": "2026-11-10",
+      "caption": "TRABALHO DO ABEL FERREIRA NO PALMEIRAS É SUBVALORIZADO?",
+      "type": "VIDEO",
+      "views": 66323,
+      "likes": 1106,
+      "comments": 142,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "BfJbFvFju7Q",
+      "date": "2026-11-10",
+      "caption": "PAULO CALÇADE EXPLICA A GRANDE DIFERENÇA ENTRE AS GESTÕES DE PALMEIRAS E FLAMENGO",
+      "type": "VIDEO",
+      "views": 53431,
+      "likes": 912,
+      "comments": 107,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "I7Id9nGH5TM",
+      "date": "2026-11-10",
+      "caption": "SITUAÇÃO DESESPERADORA DO CORINTHIANS NO BRASILEIRÃO",
+      "type": "VIDEO",
+      "views": 3829,
+      "likes": 85,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "J8qnoSBYX00",
+      "date": "2026-11-10",
+      "caption": "TODA A VERDADE SOBRE A CRISE ABSURDA DO CORINTHIANS",
+      "type": "VIDEO",
+      "views": 29193,
+      "likes": 528,
+      "comments": 37,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "8v93yOE6Pag",
+      "date": "2026-11-10",
+      "caption": "PAULO CALÇADE EXPLICA O VERDADEIRO MOTIVO DO 7 A 1",
+      "type": "VIDEO",
+      "views": 15190,
+      "likes": 367,
+      "comments": 18,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "ZteiAcilCbg",
+      "date": "2026-11-10",
+      "caption": "REVELADO O MOTIVO DO FRACASSO DA SELEÇÃO BRASILEIRA NA COPA DO MUNDO DE 2006",
+      "type": "VIDEO",
+      "views": 2252,
+      "likes": 54,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "6Ribk7yew9M",
+      "date": "2026-11-10",
+      "caption": "PAULO CALÇADE DÁ DEPOIMENTO INCRÍVEL SOBRE A REALIDADE DA ESPN BRASIL",
+      "type": "VIDEO",
+      "views": 18220,
+      "likes": 380,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Khw51iRJ2EI",
+      "date": "2026-11-10",
+      "caption": "BASTIDORES INÉDITOS DO INÍCIO DA ESPN NO BRASIL",
+      "type": "VIDEO",
+      "views": 8611,
+      "likes": 192,
       "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "t6E-1jJYyc8",
-      "date": "2026-11-09",
-      "caption": "QUAIS DEVEM SER AS MUDANÇAS NO ELENCO DO VASCO PARA 2027?",
-      "type": "VIDEO",
-      "views": 9981,
-      "likes": 205,
-      "comments": 10,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "nWfPo4iQ7gg",
-      "date": "2026-11-09",
-      "caption": "ENZO E AZEVEDO ANALISAM A ELIMINAÇÃO DO VASCO NA COPA DO BRASIL",
-      "type": "VIDEO",
-      "views": 8859,
-      "likes": 256,
-      "comments": 24,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "3VWOeW4APlM",
-      "date": "2026-11-09",
-      "caption": "CHARLA DE QUINTA INICIA COM VALSA EM HOMENAGEM AO VASCO!",
-      "type": "VIDEO",
-      "views": 2758,
-      "likes": 107,
-      "comments": 11,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
