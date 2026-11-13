@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-12T17:56:54.919608",
-  "date": "2026-11-11",
+  "generated_at": "2026-11-13T17:32:13.631449",
+  "date": "2026-11-12",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 40,
+    "total_posts": 29,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,404 +12,78 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18254864059311079",
-    "melhor_post_caption": "COMO É QUE É, AZEVEDO? 😳😳\n\nEsse plot twist nem eu esperava! Corre aqui, @phill_ffc \n\n#BrahmaNoCharla",
-    "melhor_post_views": 33817,
+    "melhor_post_id": "18145527766717381",
+    "melhor_post_caption": "NEYMAR MERECIA TER VENCIDO O PRÊMIO DE MELHOR DO MUNDO NA CARREIRA?\n\nFlávio Prado destacou o talento",
+    "melhor_post_views": 204065,
     "sponsor_stats": {
       "#brahmanocharla": {
-        "posts": 13,
-        "views": 807814,
-        "likes": 46648,
-        "comments": 907
+        "posts": 6,
+        "views": 348084,
+        "likes": 28867,
+        "comments": 828
       },
       "#penaltynocharla": {
-        "posts": 13,
-        "views": 807814,
-        "likes": 46648,
-        "comments": 907
-      },
-      "#assainocharla": {
-        "posts": 9,
-        "views": 524602,
-        "likes": 31292,
-        "comments": 545
-      },
-      "#fornerianocharla": {
-        "posts": 8,
-        "views": 503700,
-        "likes": 30073,
-        "comments": 509
+        "posts": 6,
+        "views": 348084,
+        "likes": 28867,
+        "comments": 828
       },
       "#melittanocharla": {
-        "posts": 4,
-        "views": 283212,
-        "likes": 15356,
-        "comments": 362
+        "posts": 5,
+        "views": 330963,
+        "likes": 28092,
+        "comments": 816
+      },
+      "#absolutnocharla": {
+        "posts": 1,
+        "views": 204065,
+        "likes": 17341,
+        "comments": 697
+      },
+      "#782": {
+        "posts": 1,
+        "views": 0,
+        "likes": 113,
+        "comments": 1
+      },
+      "#fornerianocharla": {
+        "posts": 1,
+        "views": 45083,
+        "likes": 3734,
+        "comments": 46
+      },
+      "#chatgptnocharla": {
+        "posts": 3,
+        "views": 81815,
+        "likes": 7017,
+        "comments": 73
+      },
+      "#783": {
+        "posts": 1,
+        "views": 0,
+        "likes": 682,
+        "comments": 16
+      },
+      "#assainocharla": {
+        "posts": 1,
+        "views": 17121,
+        "likes": 775,
+        "comments": 12
       },
       "#granfinonocharla": {
         "posts": 1,
-        "views": 15424,
-        "likes": 421,
-        "comments": 16
-      },
-      "#absolutnocharla": {
-        "posts": 3,
-        "views": 267788,
-        "likes": 14935,
-        "comments": 346
-      },
-      "#leilanocharla": {
-        "posts": 1,
-        "views": 20902,
-        "likes": 1219,
-        "comments": 36
-      },
-      "#fornerianocharal": {
-        "posts": 1,
-        "views": 20902,
-        "likes": 1219,
-        "comments": 36
-      },
-      "#781": {
-        "posts": 1,
-        "views": 0,
-        "likes": 209,
-        "comments": 2
+        "views": 17121,
+        "likes": 775,
+        "comments": 12
       }
     }
   },
   "posts": [
     {
-      "id": "18254864059311079",
-      "date": "2026-11-11",
-      "caption": "COMO É QUE É, AZEVEDO? 😳😳\n\nEsse plot twist nem eu esperava! Corre aqui, @phill_ffc \n\n#BrahmaNoCharla\n#PenaltyNoCharla\n#A",
-      "url": "https://www.instagram.com/reel/Dfm_C2ahgNp/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 33817,
-      "reach": 20709,
-      "likes": 1772,
-      "comments": 54,
-      "shares": 77,
-      "saves": 39,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18094273589207486",
-      "date": "2026-11-11",
-      "caption": "“O TREINO ACABOU POR CAUSA DELE!” 😱\n\nOs jogos e os treinos de Zinedine Zidane eram sempre recitais. E o Júlio Baptista a",
-      "url": "https://www.instagram.com/reel/Dfm3px6Bd1t/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 50956,
-      "reach": 31271,
-      "likes": 3819,
-      "comments": 105,
-      "shares": 900,
-      "saves": 117,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18102382115379207",
-      "date": "2026-11-11",
-      "caption": "HOJE TEM FLÁVIO PRADO NO CHARLA! 🗞️👏🏼\n\nA nossa resenha de hoje é com o jornalista esportivo Flávio Prado. A Tour SP cont",
-      "url": "https://www.instagram.com/p/Dfm1hqhNy8e/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 146,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18138321919658756",
-      "date": "2026-11-11",
-      "caption": "COMEÇANDO A QUARTA-FEIRA SÓ COM CLÁSSICOS! 🎶\n\nE aí, faltou alguma no repertório do Charla? Teve até dancinha! Que talent",
-      "url": "https://www.instagram.com/reel/Dfmq-tahlKi/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 15424,
-      "reach": 10899,
-      "likes": 421,
-      "comments": 16,
-      "shares": 22,
-      "saves": 10,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17980784640132331",
-      "date": "2026-11-11",
-      "caption": "CHEGOU A NOSSA AGENDA DA SEMANA! 🤩\n\nCom mais uma Tour SP recheada de resenhas absurdas, e a programação do Charla que vo",
-      "url": "https://www.instagram.com/p/DfmjlfxN_Cc/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 114,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17931494463180913",
-      "date": "2026-11-11",
-      "caption": "IMAGINA SER APLAUDIDO NO ANFIELD? 🤯\n\nJogar na Premier League já é difícil, ainda mais contra o Liverpool em casa, daí im",
-      "url": "https://www.instagram.com/reel/DflaBg8BlqK/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 37827,
-      "reach": 25651,
-      "likes": 1780,
-      "comments": 15,
-      "shares": 125,
-      "saves": 24,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18119029414819718",
-      "date": "2026-11-11",
-      "caption": "ESSA APRESENTAÇÃO É HISTÓRICA! 😂\n\nImagina ser apresentado em um clube dentro de um carro forte? Júlio Baptista falou na ",
-      "url": "https://www.instagram.com/reel/DflTbYDRY9U/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 186512,
-      "reach": 111767,
-      "likes": 8531,
-      "comments": 92,
-      "shares": 394,
-      "saves": 228,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18127598686905447",
-      "date": "2026-11-11",
-      "caption": "JÚLIO BAPTISTA FEZ FALTA NAS SELEÇÕES DE 2002 E 2006?\n\nO ex-jogador e craque do meio de campo comentou sobre seu tempo n",
-      "url": "https://www.instagram.com/reel/DflNgrHBgY3/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 23528,
-      "reach": 14331,
-      "likes": 773,
-      "comments": 17,
-      "shares": 29,
-      "saves": 28,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18418978711081203",
-      "date": "2026-11-11",
-      "caption": "FLÁVIO PRADO FALA DO PAI DO NEYMAR COMO CEO DO SANTOS!\n\nO jornalista elogiou o trabalho que vem sendo feito no clube e c",
-      "url": "https://www.instagram.com/reel/DfnqvqPsjnL/",
+      "id": "18145527766717381",
+      "date": "2026-11-12",
+      "caption": "NEYMAR MERECIA TER VENCIDO O PRÊMIO DE MELHOR DO MUNDO NA CARREIRA?\n\nFlávio Prado destacou o talento do camisa 10 e comp",
+      "url": "https://www.instagram.com/reel/DfpkNAeNG0x/",
       "tags": [
         "#brahmanocharla",
         "#penaltynocharla",
@@ -417,12 +91,12 @@
         "#absolutnocharla"
       ],
       "type": "VIDEO",
-      "views": 146120,
-      "reach": 100621,
-      "likes": 8440,
-      "comments": 114,
-      "shares": 806,
-      "saves": 235,
+      "views": 204065,
+      "reach": 126703,
+      "likes": 17341,
+      "comments": 697,
+      "shares": 2611,
+      "saves": 845,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -448,730 +122,379 @@
       }
     },
     {
-      "id": "18136587238812918",
-      "date": "2026-11-11",
-      "caption": "JÚLIO BAPTISTA FALA DAS MEDIDAS QUE TOMOU NO SUB-20 DO SÃO PAULO!\n\nDa redução no uso do celular para criar conexão entre",
-      "url": "https://www.instagram.com/reel/DfnmUYSPZRi/",
+      "id": "17868612171677878",
+      "date": "2026-11-12",
+      "caption": "Charla #782 - Júnior Penta\n\nUm dos melhores laterais do futebol brasileiro, campeão do mundo com o Brasil em 2002, Júnio",
+      "url": "https://www.instagram.com/p/DfpeuAVMMK-/",
       "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 52361,
-      "reach": 33524,
-      "likes": 3843,
-      "comments": 66,
-      "shares": 341,
-      "saves": 102,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18059646671654917",
-      "date": "2026-11-11",
-      "caption": "\"NÃO BATE PRA NÃO ACORDAR!\" 😂\n\nJúlio Baptista contou como foi vivenciar o auge do Ronaldinho Gaúcho no Barcelona e falou",
-      "url": "https://www.instagram.com/reel/DfnkuAFMHFO/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 96417,
-      "reach": 63789,
-      "likes": 8302,
-      "comments": 139,
-      "shares": 982,
-      "saves": 239,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18130656181916668",
-      "date": "2026-11-11",
-      "caption": "O MAIOR DA HISTÓRIA! 👑🎙️\n\nPara o Flávio Prado, o maior narrador da história é ele, Silvio Luiz, com seu jeito único e su",
-      "url": "https://www.instagram.com/reel/DfnjADwPd8W/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 90139,
-      "reach": 60847,
-      "likes": 3823,
-      "comments": 133,
-      "shares": 102,
-      "saves": 116,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18291107152288102",
-      "date": "2026-11-11",
-      "caption": "ISSO AQUI É PRA EMOCIONAR, PO... 🥹\n\nOlhar pra trás e ver onde chegamos é um orgulho ABSURDO. Da equipe pequena com duas ",
-      "url": "https://www.instagram.com/p/Dfnf7mxFQi2/",
-      "tags": [],
-      "type": "CAROUSEL_ALBUM",
-      "views": 0,
-      "reach": 0,
-      "likes": 971,
-      "comments": 27,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18442975345180913",
-      "date": "2026-11-11",
-      "caption": "VAMOS FALAR SOBRE VAR? 👀\n\nJoanna de Assis traz um debate importante demais, levantando a questão do uso do VAR no futebo",
-      "url": "https://www.instagram.com/reel/DfnezDqBbz5/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 9302,
-      "reach": 7252,
-      "likes": 208,
-      "comments": 25,
-      "shares": 8,
-      "saves": 4,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18025703828715209",
-      "date": "2026-11-11",
-      "caption": "\"PELÉ ERA A SOMA DO CRISTIANO RONALDO COM MESSI!\"\n\nFlávio Prado, que era amigo pessoal do rei do futebol, falou do talen",
-      "url": "https://www.instagram.com/reel/DfnY2Heha4g/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 31529,
-      "reach": 20342,
-      "likes": 2672,
-      "comments": 99,
-      "shares": 414,
-      "saves": 117,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17968272453210638",
-      "date": "2026-11-11",
-      "caption": "BRUNO AZEVEDO 🤝 LEILA PEREIRA\n\nNa Charla de Quinta de hoje, Azevedo acionou o poder da amizade e convidou Leila Pereira ",
-      "url": "https://www.instagram.com/reel/DfnVXjaB_2X/",
-      "tags": [
-        "#leilanocharla",
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharal"
-      ],
-      "type": "VIDEO",
-      "views": 20902,
-      "reach": 13970,
-      "likes": 1219,
-      "comments": 36,
-      "shares": 8,
-      "saves": 15,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18120763544009281",
-      "date": "2026-11-11",
-      "caption": "Charla #781 - Flávio Prado\n\nReferência na comunicação e no jornalismo esportivo, Flávio Prado é o nosso entrevistado de ",
-      "url": "https://www.instagram.com/p/DfnLH-ttrYS/",
-      "tags": [
-        "#781"
+        "#782"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 209,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18386474242230766",
-      "date": "2026-11-11",
-      "caption": "CHARLA COM FLÁVIO PRADO NO AR! 🎙️\n\nVem, que tá imperdível! Estamos ao vivo com a referência no jornalismo esportivo Fláv",
-      "url": "https://www.instagram.com/reel/DfnKdnluuZ6/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 3952,
-      "reach": 3255,
-      "likes": 107,
-      "comments": 3,
-      "shares": 0,
-      "saves": 3,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18001662795019592",
-      "date": "2026-11-11",
-      "caption": "O COLÔMBIA TÁ INDO PRA PREMIER LEAGUE? 👀\n\nEnzo trouxe notícias diretamente da Inglaterra sobre o interesse de clubes de ",
-      "url": "https://www.instagram.com/reel/DfnDZyRBBab/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 22282,
-      "reach": 16083,
-      "likes": 1253,
-      "comments": 21,
-      "shares": 12,
-      "saves": 13,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "npqGQ2YmSlQ",
-      "date": "2026-11-11",
-      "caption": "Charla #780 - Júlio Baptista [Ex-jogador e Técnico]",
-      "type": "VIDEO",
-      "views": 28803,
-      "likes": 638,
-      "comments": 10,
-      "shares": 0,
-      "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "nuOcKog3qBs",
-      "date": "2026-11-11",
-      "caption": "VASCO CHEGARÁ FORTE NO MERCADO PARA 2027?",
-      "type": "VIDEO",
-      "views": 24400,
-      "likes": 574,
-      "comments": 33,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "xRD68xV4uto",
-      "date": "2026-11-11",
-      "caption": "O VASCO AINDA PODE SONHAR COM UMA VAGA NA LIBERTADORES?",
-      "type": "VIDEO",
-      "views": 5471,
-      "likes": 99,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "BcFAthpJcg8",
-      "date": "2026-11-11",
-      "caption": "DECLARAÇÃO POLÊMICA DO RAPHINHA EXPLICA MOMENTO DA SELEÇÃO BRASILEIRA?",
-      "type": "VIDEO",
-      "views": 2285,
-      "likes": 47,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "-YcHA6-w-rQ",
-      "date": "2026-11-11",
-      "caption": "ENTENDA TUDO SOBRE O CASO DE SAÚDE DO MUSIALA",
-      "type": "VIDEO",
-      "views": 1830,
-      "likes": 37,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "f1BLnZxiGYg",
-      "date": "2026-11-11",
-      "caption": "FLA E VASCO NA BRIGA POR JOHN? CARLOS VINICIUS NO MENGO? CUIABANO EM DEFINITIVO?",
-      "type": "VIDEO",
-      "views": 12661,
-      "likes": 244,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ZV29daMviG0",
-      "date": "2026-11-11",
-      "caption": "Charla #781 - Flávio Prado [Jornalista]",
-      "type": "VIDEO",
-      "views": 33880,
-      "likes": 1011,
-      "comments": 26,
-      "shares": 0,
-      "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "wc_rsshLGZE",
-      "date": "2026-11-11",
-      "caption": "OS CLUBES CARIOCAS COMEÇARAM A SE MOVIMENTAR!QUEM CHEGA E QUEM SAI? | CHARLA DE QUINTA #417",
-      "type": "VIDEO",
-      "views": 26219,
-      "likes": 751,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "3hNQIoRAHLI",
-      "date": "2026-11-11",
-      "caption": "JÚLIO BAPTISTA ABRE O JOGO SOBRE PROIBIÇÕES POLÊMICAS QUE IMPÔS NA BASE DO SÃO PAULO",
-      "type": "VIDEO",
-      "views": 9179,
-      "likes": 240,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "kDOkg3-I9R8",
-      "date": "2026-11-11",
-      "caption": "JÚLIO BAPTISTA REVELA A SUA FILOSOFIA ADOTADA PARA TREINAR A BASE DO SÃO PAULO",
-      "type": "VIDEO",
-      "views": 2764,
-      "likes": 72,
+      "likes": 113,
       "comments": 1,
       "shares": 0,
       "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18415225480094885",
+      "date": "2026-11-12",
+      "caption": "UM MINUTO PARA O FIM DO MUNDO? CALMA! ANTES TEM CHARLA! 🤪\n\nHoje também tem Badauí, vocalista do CPM22 e ícone da música ",
+      "url": "https://www.instagram.com/p/DfpRx05P4q-/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 141,
+      "comments": 10,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18347452567249907",
+      "date": "2026-11-12",
+      "caption": "DIA DE PENTACAMPEÃO NO CHARLA! 🏆🤩\n\nHoje tem resenha com Júnior, campeão do mundo em 2002 e ídolo do Palmeiras.\n\nNão dá p",
+      "url": "https://www.instagram.com/p/DfpPI3Xut3p/",
+      "tags": [],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 71,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18198571567402475",
+      "date": "2026-11-12",
+      "caption": "\"ESSE SHOW FOI MARCANTE PRA NÓS!\"\n\nBadaui falou da emoção de tocar pela primeira vez no Rock in Rio, logo no Palco Mundo",
+      "url": "https://www.instagram.com/reel/DfqJb0XM0JY/",
+      "tags": [
+        "#fornerianocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 45083,
+      "reach": 31275,
+      "likes": 3734,
+      "comments": 46,
+      "shares": 175,
+      "saves": 105,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18101383442656402",
+      "date": "2026-11-12",
+      "caption": "O QUE JÚNIOR PENTA ACHA DO ABEL FERREIRA? 👀\n\nCom seu nome marcado na história do Verdão, o lateral falou do treinador po",
+      "url": "https://www.instagram.com/reel/DfqDA7BNEJf/",
+      "tags": [
+        "#chatgptnocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 60285,
+      "reach": 40247,
+      "likes": 5837,
+      "comments": 53,
+      "shares": 215,
+      "saves": 127,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18115982224863589",
+      "date": "2026-11-12",
+      "caption": "COMO É SER CONVOCADO PRA UMA COPA E SER CAMPEÃO? 🏆\n\nUm sentimento que é para poucos e que o Júnior Penta viveu. Se liga ",
+      "url": "https://www.instagram.com/reel/Dfp58fUiu7j/",
+      "tags": [
+        "#chatgptnocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 11998,
+      "reach": 9321,
+      "likes": 793,
+      "comments": 10,
+      "shares": 23,
+      "saves": 11,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18195703216392757",
+      "date": "2026-11-12",
+      "caption": "Charla #783 - Badaui\n\nVoz por trás de muitas músicas que amamos e cantamos em karaokê, carro e em casa, Badaui, vocalist",
+      "url": "https://www.instagram.com/p/Dfp1DIUiYXl/",
+      "tags": [
+        "#783"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 682,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18662443654034645",
+      "date": "2026-11-12",
+      "caption": "\"FALTA AO BRASIL VALORIZAR MAIS SEUS ÍDOLOS!\"\n\nJúnior Penta, campeão do mundo por clube e seleção, além da Libertadores,",
+      "url": "https://www.instagram.com/reel/Dfpy9BrCRTj/",
+      "tags": [
+        "#chatgptnocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 9532,
+      "reach": 6028,
+      "likes": 387,
+      "comments": 10,
+      "shares": 3,
+      "saves": 9,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18471747163190043",
+      "date": "2026-11-12",
+      "caption": "A BASE BRASILEIRA PRECISA MUDAR O PENSAMENTO NA FORMAÇÃO DE ATLETAS?\n\nPaulo Calçade falou da base brasileira, do sumiço ",
+      "url": "https://www.instagram.com/reel/DfpwIphCaRN/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 17121,
+      "reach": 11665,
+      "likes": 775,
+      "comments": 12,
+      "shares": 75,
+      "saves": 38,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "2lspPixltaQ",
+      "date": "2026-11-12",
+      "caption": "DOUGLAS SANTOS CONFIRMA SONDAGEM DO FLA! RAYAN VAI SER TITULAR DA SELEÇÃO? | CHARLA DE QUINTA #418",
+      "type": "VIDEO",
+      "views": 22830,
+      "likes": 708,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
@@ -1197,13 +520,13 @@
       }
     },
     {
-      "id": "pl1k4YtH1bQ",
-      "date": "2026-11-11",
-      "caption": "JÚLIO BAPTISTA RELEMBRA APRESENTAÇÃO DENTRO DE CARRO-FORTE NO CRUZEIRO",
+      "id": "dXw77VU7GBk",
+      "date": "2026-11-12",
+      "caption": "VAMPETA É SUBVALORIZADO COMO COMENTARISTA?",
       "type": "VIDEO",
-      "views": 7003,
-      "likes": 152,
-      "comments": 8,
+      "views": 111531,
+      "likes": 2199,
+      "comments": 118,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1231,182 +554,12 @@
       }
     },
     {
-      "id": "LeqdhfsVL24",
-      "date": "2026-11-11",
-      "caption": "JÚLIO BAPTISTA REVELA COMO FOI JOGAR AO LADO DO HENRY",
+      "id": "4Hg1GlNB7aA",
+      "date": "2026-11-12",
+      "caption": "FLÁVIO PRADO REVELA O QUE PENSA SOBRE A CAZÉ TV",
       "type": "VIDEO",
-      "views": 6298,
-      "likes": 179,
-      "comments": 11,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "MUAKUSVxjas",
-      "date": "2026-11-11",
-      "caption": "TODA A VERDADE SOBRE OS BASTIDORES DE ARSÈNE WENGER NO ARSENAL",
-      "type": "VIDEO",
-      "views": 5042,
-      "likes": 142,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Mh7UIfRjGlw",
-      "date": "2026-11-11",
-      "caption": "RONALDINHO ASSOMBRAVA OS ADVERSÁRIOS DO BARCELONA NA ESPANHA",
-      "type": "VIDEO",
-      "views": 9005,
-      "likes": 261,
-      "comments": 28,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "wzrCxwVmXFE",
-      "date": "2026-11-11",
-      "caption": "REVELADO O VERDADEIRO MOTIVO DA DEMISSÃO DO LUXEMBURGO NO REAL MADRID",
-      "type": "VIDEO",
-      "views": 44339,
-      "likes": 820,
-      "comments": 41,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "qA_ZW7ghqEA",
-      "date": "2026-11-11",
-      "caption": "GENIALIDADE DO ZIDANE IMPRESSIONAVA ATÉ OS CRAQUES NO REAL MADRID",
-      "type": "VIDEO",
-      "views": 16212,
-      "likes": 420,
-      "comments": 30,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "k7La8DcrQ-8",
-      "date": "2026-11-11",
-      "caption": "DUNGA FOI INJUSTIÇADO NAS SUAS PASSAGENS COMO TREINADOR NA SELEÇÃO BRASILEIRA?",
-      "type": "VIDEO",
-      "views": 1098,
-      "likes": 25,
+      "views": 2587,
+      "likes": 72,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -1435,13 +588,13 @@
       }
     },
     {
-      "id": "iWek5STrIR0",
-      "date": "2026-11-11",
-      "caption": "BASTIDORES INÉDITOS DA HISTÓRICA FINAL DA COPA AMÉRICA DE 2007",
+      "id": "P9rIwkfqx8c",
+      "date": "2026-11-12",
+      "caption": "COMO SURGIU O PROGRAMA CLUBE DOS ESPORTISTAS COM SILVIO LUIZ?",
       "type": "VIDEO",
-      "views": 7276,
-      "likes": 184,
-      "comments": 8,
+      "views": 5246,
+      "likes": 174,
+      "comments": 6,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1469,13 +622,13 @@
       }
     },
     {
-      "id": "VVrZ2uxR6uo",
-      "date": "2026-11-11",
-      "caption": "HABILIDADE ABSURDA DO RONALDINHO NA SELEÇÃO BRASILEIRA",
+      "id": "vmLxcJ08qn0",
+      "date": "2026-11-12",
+      "caption": "GENIALIADADE DO SILVIO LUIZ NA NARRAÇÃO ESPORTIVA BRASILEIRA",
       "type": "VIDEO",
-      "views": 5346,
-      "likes": 156,
-      "comments": 1,
+      "views": 14860,
+      "likes": 384,
+      "comments": 28,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -1503,12 +656,318 @@
       }
     },
     {
-      "id": "pNUaz5hOLTk",
-      "date": "2026-11-11",
-      "caption": "JÚLIO BAPTISTA REVELA COMO A IDA PARA A EUROPA MUDOU A SUA CARREIRA",
+      "id": "lCPic0DGVoA",
+      "date": "2026-11-12",
+      "caption": "A IMPRENSA PAULISTA PERSEGUE O FLAMENGO?",
       "type": "VIDEO",
-      "views": 9298,
-      "likes": 244,
+      "views": 30271,
+      "likes": 750,
+      "comments": 54,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "OcFOPvV6seA",
+      "date": "2026-11-12",
+      "caption": "BASTIDORES DA RELAÇÃO ENTRE NEYMAR E SANTOS",
+      "type": "VIDEO",
+      "views": 10772,
+      "likes": 195,
+      "comments": 14,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "pc9a_X0NVWM",
+      "date": "2026-11-12",
+      "caption": "AS POLÊMICAS POR TRÁS DO CASO PORTUGUESA",
+      "type": "VIDEO",
+      "views": 9890,
+      "likes": 412,
+      "comments": 156,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "GFyxgIpH870",
+      "date": "2026-11-12",
+      "caption": "VASCO VAI AMEAÇAR A HEGEMONIA DE FLAMENGO E PALMEIRAS NO BRASIL?",
+      "type": "VIDEO",
+      "views": 6959,
+      "likes": 181,
+      "comments": 16,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "SSdvzOniMt0",
+      "date": "2026-11-12",
+      "caption": "FLÁVIO PRADO FAZ FORTE DECLARAÇÃO SOBRE A SITUAÇÃO DO CORINTHIANS",
+      "type": "VIDEO",
+      "views": 36303,
+      "likes": 702,
+      "comments": 56,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "jMjlWovy2yA",
+      "date": "2026-11-12",
+      "caption": "SEGREDO DO CABRINI PARA SER UM DOS MAIORES REPÓRTERES DA HISTÓRIA",
+      "type": "VIDEO",
+      "views": 7045,
+      "likes": 173,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "CiZsqq0SUls",
+      "date": "2026-11-12",
+      "caption": "FLÁVIO PRADO ABRE O JOGO SOBRE ABEL FERREIRA",
+      "type": "VIDEO",
+      "views": 11306,
+      "likes": 302,
+      "comments": 59,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "eHHAD60QV3s",
+      "date": "2026-11-12",
+      "caption": "QUEM FOI MAIOR: MESSI OU PELÉ?",
+      "type": "VIDEO",
+      "views": 1224,
+      "likes": 41,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "OwQGtFd6_Vk",
+      "date": "2026-11-12",
+      "caption": "IMPORTÂNCIA ABSURDA DE PELÉ E ZICO PARA A IMAGEM DO FUTEBOL BRASILEIRO",
+      "type": "VIDEO",
+      "views": 3041,
+      "likes": 110,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "zWwPuH3WmRY",
+      "date": "2026-11-12",
+      "caption": "HISTÓRIAS DO PELÉ QUE VOCÊ NUNCA OUVIU",
+      "type": "VIDEO",
+      "views": 15740,
+      "likes": 374,
       "comments": 15,
       "shares": 0,
       "saves": 0,
@@ -1537,15 +996,121 @@
       }
     },
     {
-      "id": "bT5aaUPdAPo",
-      "date": "2026-11-11",
-      "caption": "ASCENSÃO METEÓRICA DO KAKÁ CHOCOU A TODOS NO SÃO PAULO",
+      "id": "-oTBBZn6VTg",
+      "date": "2026-11-12",
+      "caption": "FLÁVIO PRADO FAZ DESABAFO FORTE SOBRE MOMENTO POLÍTICO DO SÃO PAULO",
       "type": "VIDEO",
-      "views": 43735,
-      "likes": 729,
-      "comments": 34,
+      "views": 17523,
+      "likes": 376,
+      "comments": 45,
       "shares": 0,
       "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "qeD6eAVuGGU",
+      "date": "2026-11-12",
+      "caption": "CARLOS VINICIUS ACERTOU COM O VASCO? LINO DE SAÍDA DO FLA? MARTINELLI DE VOLTA?",
+      "type": "VIDEO",
+      "views": 18342,
+      "likes": 259,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "vHCzBmWrT9g",
+      "date": "2026-11-12",
+      "caption": "Charla #783 - Badauí [Vocalista do CPM22]",
+      "type": "VIDEO",
+      "views": 18374,
+      "likes": 498,
+      "comments": 13,
+      "shares": 1,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "m-MZ5cfk5nE",
+      "date": "2026-11-12",
+      "caption": "Charla #782 - Júnior Penta [Campeão do Mundo 2002]",
+      "type": "VIDEO",
+      "views": 16918,
+      "likes": 393,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
