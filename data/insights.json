@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-14T16:23:45.461539",
-  "date": "2026-11-13",
+  "generated_at": "2026-11-15T16:50:24.680081",
+  "date": "2026-11-14",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 25,
+    "total_posts": 19,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,62 +12,76 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "17908363953599315",
-    "melhor_post_caption": "ESSA VAI NA ALMA! 🥹\n\n“O Bem” é uma poesia fora de série, daquelas pra cantar em lágrimas. Mas já ima",
-    "melhor_post_views": 95592,
+    "melhor_post_id": "18122601049984104",
+    "melhor_post_caption": "É DIA DE BRASILEIRÃO!\n\nPara cumprir o jogo atrasado, válido pela 21ª rodada, Chapecoense e Vasco ent",
+    "melhor_post_views": 0,
     "sponsor_stats": {
-      "#fornerianocharla": {
-        "posts": 2,
-        "views": 296572,
-        "likes": 21825,
-        "comments": 332
-      },
-      "#penaltynocharla": {
-        "posts": 4,
-        "views": 352803,
-        "likes": 24585,
-        "comments": 407
-      },
-      "#melittanocharla": {
+      "#charlafutebol": {
         "posts": 1,
-        "views": 261171,
-        "likes": 19367,
-        "comments": 278
+        "views": 0,
+        "likes": 171,
+        "comments": 0
       },
       "#brahmanocharla": {
         "posts": 4,
-        "views": 352803,
-        "likes": 24585,
-        "comments": 407
+        "views": 276041,
+        "likes": 14058,
+        "comments": 587
+      },
+      "#penaltynocharla": {
+        "posts": 4,
+        "views": 276041,
+        "likes": 14058,
+        "comments": 587
       },
       "#assainocharla": {
         "posts": 3,
-        "views": 91632,
-        "likes": 5218,
-        "comments": 129
+        "views": 196560,
+        "likes": 8983,
+        "comments": 506
       },
-      "#absolutnocharla": {
+      "#granfinonocharla": {
         "posts": 2,
-        "views": 56231,
-        "likes": 2760,
-        "comments": 75
+        "views": 182305,
+        "likes": 8527,
+        "comments": 504
+      },
+      "#fornerianocharla": {
+        "posts": 1,
+        "views": 14255,
+        "likes": 456,
+        "comments": 2
+      },
+      "#chatgptnocharla": {
+        "posts": 1,
+        "views": 79481,
+        "likes": 5075,
+        "comments": 81
+      },
+      "#melittanocharla": {
+        "posts": 1,
+        "views": 79481,
+        "likes": 5075,
+        "comments": 81
       }
     }
   },
   "posts": [
     {
-      "id": "17908363953599315",
-      "date": "2026-11-13",
-      "caption": "ESSA VAI NA ALMA! 🥹\n\n“O Bem” é uma poesia fora de série, daquelas pra cantar em lágrimas. Mas já imaginou quando ela foi",
-      "url": "https://www.instagram.com/reel/DfsuNd6MmeF/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 95592,
-      "reach": 72997,
-      "likes": 8850,
-      "comments": 279,
-      "shares": 2110,
-      "saves": 277,
+      "id": "18122601049984104",
+      "date": "2026-11-14",
+      "caption": "É DIA DE BRASILEIRÃO!\n\nPara cumprir o jogo atrasado, válido pela 21ª rodada, Chapecoense e Vasco entram em campo neste s",
+      "url": "https://www.instagram.com/p/DfujWEYgnAw/",
+      "tags": [
+        "#charlafutebol"
+      ],
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 171,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -93,23 +107,23 @@
       }
     },
     {
-      "id": "18147492706591213",
-      "date": "2026-11-13",
-      "caption": "A HISTÓRIA DO CPM 22 É FANTÁSTICA! 🔥\n\nBadaui contou como foi começar a cantar em uma banda, mesmo sem pensar em ter uma,",
-      "url": "https://www.instagram.com/reel/Dfsml8lO0yB/",
+      "id": "18138287857678604",
+      "date": "2026-11-14",
+      "caption": "\"CORINTHIANS FALIU, QUEBROU!\"\n\nPaulo Calçade falou da situação que o Timão se encontra, da questão financeira do clube e",
+      "url": "https://www.instagram.com/reel/DfuekmPMfoE/",
       "tags": [
-        "#fornerianocharla",
+        "#brahmanocharla",
         "#penaltynocharla",
-        "#melittanocharla",
-        "#brahmanocharla"
+        "#assainocharla",
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 261171,
-      "reach": 181632,
-      "likes": 19367,
-      "comments": 278,
-      "shares": 1549,
-      "saves": 615,
+      "views": 149790,
+      "reach": 102070,
+      "likes": 6462,
+      "comments": 369,
+      "shares": 1423,
+      "saves": 253,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -135,10 +149,52 @@
       }
     },
     {
-      "id": "18499949593107125",
-      "date": "2026-11-13",
-      "caption": "O JOGO DA VIDA DO JÚLIO BAPTISTA! 🤩\n\nQuem não lembra desse jogaço, com a atuação prime da seleção? Júlio contou na nossa",
-      "url": "https://www.instagram.com/reel/DfskSzhBQyY/",
+      "id": "18091097951290314",
+      "date": "2026-11-14",
+      "caption": "RONALDINHO OU MESSI?\n\nPaulo Calçade mandou a letra sobre esse debate, que tem muito pano pra manga. O que não faltam são",
+      "url": "https://www.instagram.com/reel/DfuRSA1Bi8Z/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 32515,
+      "reach": 22548,
+      "likes": 2065,
+      "comments": 135,
+      "shares": 324,
+      "saves": 87,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17914316874557243",
+      "date": "2026-11-14",
+      "caption": "JÚLIO BAPTISTA NO SÃO PAULO? 😳\n\nNa nossa charla, o ex-jogador e atual técnico do sub-20 do São Paulo Júlio Baptista, res",
+      "url": "https://www.instagram.com/reel/Dfs3gQ0uPRP/",
       "tags": [
         "#brahmanocharla",
         "#penaltynocharla",
@@ -146,12 +202,12 @@
         "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 35401,
-      "reach": 25824,
-      "likes": 2458,
-      "comments": 54,
-      "shares": 76,
-      "saves": 35,
+      "views": 14255,
+      "reach": 9596,
+      "likes": 456,
+      "comments": 2,
+      "shares": 9,
+      "saves": 17,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -177,18 +233,18 @@
       }
     },
     {
-      "id": "18135576064672718",
-      "date": "2026-11-13",
-      "caption": "POV: VOCÊ ESTÁ PASSANDO UM DIA DE JOGO COM O PATO! 😍\n\nVem sentir como é estar ao lado de um craque na véspera, durante e",
-      "url": "https://www.instagram.com/reel/DfsdMyJh7qV/",
+      "id": "18104983412354012",
+      "date": "2026-11-14",
+      "caption": "A DUPLA DE MILHÕES! 🤩\n\nDélcio Luiz e Prateado são responsáveis por muitos sucessos que embalaram os anos 90. Mal se conh",
+      "url": "https://www.instagram.com/reel/DfvH8Q-P69O/",
       "tags": [],
       "type": "VIDEO",
-      "views": 29814,
-      "reach": 22328,
-      "likes": 1003,
-      "comments": 16,
-      "shares": 31,
-      "saves": 24,
+      "views": 18701,
+      "reach": 13928,
+      "likes": 1232,
+      "comments": 48,
+      "shares": 185,
+      "saves": 30,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -214,23 +270,23 @@
       }
     },
     {
-      "id": "18031129184746727",
-      "date": "2026-11-13",
-      "caption": "O VASCO DE COPAS JÁ É REALIDADE? 👀\n\nA postura e a expectativa do time do Vasco, sobretudo na Copa do Brasil, vem mudando",
-      "url": "https://www.instagram.com/reel/DfsP0ANgkka/",
+      "id": "18091710602273170",
+      "date": "2026-11-14",
+      "caption": "\"O PRIMEIRO A CHEGAR E O ÚLTIMO A SAIR DOS TREINOS!\"\n\nJúnior Penta rasgou elogios ao ex-goleiro e hoje treinador Rogério",
+      "url": "https://www.instagram.com/reel/Dfu6EfwM39b/",
       "tags": [
-        "#brahmanocharla",
+        "#chatgptnocharla",
         "#penaltynocharla",
-        "#assainocharla",
-        "#absolutnocharla"
+        "#melittanocharla",
+        "#brahmanocharla"
       ],
       "type": "VIDEO",
-      "views": 27413,
-      "reach": 18629,
-      "likes": 1654,
-      "comments": 52,
-      "shares": 17,
-      "saves": 36,
+      "views": 79481,
+      "reach": 45706,
+      "likes": 5075,
+      "comments": 81,
+      "shares": 334,
+      "saves": 188,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -256,54 +312,12 @@
       }
     },
     {
-      "id": "17907588999355223",
-      "date": "2026-11-13",
-      "caption": "RECEBEMOS UMA LIGAÇÃO DO MARCÃO AO VIVO! 🤯😂\n\nTurma, dia lindo! Respira que é de graça e te falar: quem não assiste Charl",
-      "url": "https://www.instagram.com/reel/DfsMwYUhuv7/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#absolutnocharla"
-      ],
+      "id": "kN3JEbgRRIE",
+      "date": "2026-11-14",
+      "caption": "Gente Nossa #005 - Délcio Luiz",
       "type": "VIDEO",
-      "views": 28818,
-      "reach": 21089,
-      "likes": 1106,
-      "comments": 23,
-      "shares": 62,
-      "saves": 23,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "QBIwiynCmpU",
-      "date": "2026-11-13",
-      "caption": "GUARDIOLA VINDO PRO BRASIL! ANCELOTTI VAI MUDAR O TIME PRA AMANHÃ! | CHARLA DE QUINTA #419",
-      "type": "VIDEO",
-      "views": 21605,
-      "likes": 619,
+      "views": 7201,
+      "likes": 241,
       "comments": 7,
       "shares": 0,
       "saves": 0,
@@ -334,522 +348,12 @@
       }
     },
     {
-      "id": "jeeBjObVojA",
-      "date": "2026-11-13",
-      "caption": "ROGÉRIO FLAUSINO, DO JOTA QUEST, NO CHARLA",
+      "id": "Ii6QXCoOtl8",
+      "date": "2026-11-14",
+      "caption": "SOSA E TM FORA CONTRA A CHAPE? PAQUETÁ VOLTA CONTA O FURACÃO? RYAN MUDA DE POSIÇÃO NA SELEÇA?",
       "type": "VIDEO",
-      "views": 8872,
-      "likes": 202,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "4C-rfWamyTs",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR PENTA É SUBVALORIZADO?",
-      "type": "VIDEO",
-      "views": 1543,
-      "likes": 36,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "uK2n93w3sLA",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR DESABAFA SOBRE A FASE ATUAL DO SÃO PAULO",
-      "type": "VIDEO",
-      "views": 2352,
-      "likes": 46,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "eY_iMyLbywU",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR PENTA ELENCA OS MELHORES LATERAIS DA HISTÓRIA DO FUTEBOL BRASILEIRO",
-      "type": "VIDEO",
-      "views": 2208,
-      "likes": 68,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "2Tlw9LpCAvQ",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR RELEMBRA A PASSAGEM DE ADRIANO IMPERADOR PELA ITÁLIA",
-      "type": "VIDEO",
-      "views": 13674,
-      "likes": 244,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "gr7S1bhCEso",
-      "date": "2026-11-13",
-      "caption": "REVELADO O SEGREDO DO SÃO PAULO PARA SER CAMPEÃO DO MUNDO EM 2005",
-      "type": "VIDEO",
-      "views": 5932,
-      "likes": 155,
-      "comments": 10,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "jjsvsl3xnfY",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR RESPONDE QUEM JOGOU MAIS ENTRE MARCOS E ROGÉRIO CENI",
-      "type": "VIDEO",
-      "views": 1299,
-      "likes": 36,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "R13otZP_ImE",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR REVELA OS DETALHES DA MAIOR TRETA DA HISTÓRIA DO DERBY",
-      "type": "VIDEO",
-      "views": 2459,
-      "likes": 81,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "fzgVc600vTI",
-      "date": "2026-11-13",
-      "caption": "JUNIOR REVELA BASTIDORES DA FINAL DO MUNDIAL DE 99",
-      "type": "VIDEO",
-      "views": 3498,
-      "likes": 110,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "qu08Ora4EVg",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR RELEMBRA A CAMPANHA DO TÍTULO DA LIBERTADORES DE 99 COM O PALMEIRAS",
-      "type": "VIDEO",
-      "views": 2051,
-      "likes": 57,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "5lNB6boDMEI",
-      "date": "2026-11-13",
-      "caption": "REVELADO O MOTIVO DA SELEÇÃO BRASILEIRA NÃO REVELAR MAIS LATERAIS",
-      "type": "VIDEO",
-      "views": 868,
-      "likes": 20,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "RbsyjseBJsQ",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR ABRE O CORAÇÃO AO FALAR SOBRE A SENSAÇÃO DE SER CAMPEÃO DO MUNDO",
-      "type": "VIDEO",
-      "views": 560,
-      "likes": 18,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "GwkXeIh9EqE",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR PENTA REVELA PORQUE O RONALDINHO É UM DOS MELHORES JOGADORES DA HISTÓRIA DO FUTEBOL",
-      "type": "VIDEO",
-      "views": 6115,
-      "likes": 131,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ctrfLs51tf8",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR ACHOU QUE IA BARRAR O ROBERTO CARLOS NA COPA DO MUNDO DE 2002 🤣🤣🤣",
-      "type": "VIDEO",
-      "views": 7604,
-      "likes": 167,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "bUMSeQCS8do",
-      "date": "2026-11-13",
-      "caption": "ALEX É O JOGADOR MAIS INJUSTIÇADO DA HISTÓRIA DA SELEÇÃO BRASILEIRA?",
-      "type": "VIDEO",
-      "views": 4629,
-      "likes": 110,
-      "comments": 27,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "4SWy4nv1Z4Q",
-      "date": "2026-11-13",
-      "caption": "RIVALDO JÁ DAVA SINAIS DE GENIALIDADE NO PALMEIRAS",
-      "type": "VIDEO",
-      "views": 1073,
-      "likes": 24,
+      "views": 7461,
+      "likes": 118,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -878,12 +382,114 @@
       }
     },
     {
-      "id": "3r4yTUB05fU",
-      "date": "2026-11-13",
-      "caption": "PALMEIRAS DE 96 ENCANTOU O FUTEBOL BRASILEIRO",
+      "id": "-y63IGbPx48",
+      "date": "2026-11-14",
+      "caption": "BADAUÍ RELEMBRA OS SEUS MELHORES MOMENTOS NO ROCKGOL",
       "type": "VIDEO",
-      "views": 885,
-      "likes": 32,
+      "views": 4605,
+      "likes": 67,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "p6aTOX1Rm4c",
+      "date": "2026-11-14",
+      "caption": "BADAUÍ REVELA TUDO SOBRE O SEU DESENTENDIMENTO COM O CHORÃO",
+      "type": "VIDEO",
+      "views": 6900,
+      "likes": 132,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "-B8mkF0Cx2Q",
+      "date": "2026-11-14",
+      "caption": "BADAUÍ ABRE O JOGO SOBRE A RELAÇÃO DO CPM22 COM RICK BONADIO",
+      "type": "VIDEO",
+      "views": 4954,
+      "likes": 63,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "w-7CUmtR_tM",
+      "date": "2026-11-14",
+      "caption": "BADAUÍ RELEMBRA SHOW HISTÓRICO DA CPM22 NO ROCK IN RIO",
+      "type": "VIDEO",
+      "views": 1335,
+      "likes": 49,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -912,13 +518,217 @@
       }
     },
     {
-      "id": "BMgfIvymW6U",
-      "date": "2026-11-13",
-      "caption": "JÚNIOR CONTA AS MELHORES HISTÓRIAS DO APARTAMENTO MAIS RESENHA DO FUTEBOL BRASILEIRO 🤣🤣🤣",
+      "id": "wy6jiwd1BVc",
+      "date": "2026-11-14",
+      "caption": "BASTIDORES DA COMPOSIÇÃO DA MÚSICA UM MINUTO PARA O FIM DO MUNDO",
       "type": "VIDEO",
-      "views": 15014,
-      "likes": 363,
-      "comments": 4,
+      "views": 4812,
+      "likes": 112,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "1jrTF_yJmmQ",
+      "date": "2026-11-14",
+      "caption": "IMPORTÂNCIA DA MTV PARA O SUCESSO DA BANDA CPM22",
+      "type": "VIDEO",
+      "views": 1275,
+      "likes": 26,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "F03PDfygnlg",
+      "date": "2026-11-14",
+      "caption": "VOCALISTA DA CPM 22 EXPLICA A DIFERENÇA DO CENÁRIO DO ROCK NACIONAL ATUAL",
+      "type": "VIDEO",
+      "views": 9193,
+      "likes": 140,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "c_RW0MsD-lE",
+      "date": "2026-11-14",
+      "caption": "CONHEÇA A HISTÓRIA DE COMO SURGIU A BANDA CPM 22",
+      "type": "VIDEO",
+      "views": 5048,
+      "likes": 82,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "3i2tQSom7SE",
+      "date": "2026-11-14",
+      "caption": "LIGAÇÃO INCRÍVEL ENTRE O SKATE E O PUNK ROCK BRASILEIRO",
+      "type": "VIDEO",
+      "views": 1166,
+      "likes": 26,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "qgnz6rl7QUQ",
+      "date": "2026-11-14",
+      "caption": "BADAUÍ DESABAFA SOBRE A FASE ATUAL DO CORINTHIANS",
+      "type": "VIDEO",
+      "views": 867,
+      "likes": 16,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "J4A0yu52X6Y",
+      "date": "2026-11-14",
+      "caption": "BADAUÍ ABRE O CORAÇÃO AO FALAR DA SUA RELAÇÃO COM O CORINTHIANS",
+      "type": "VIDEO",
+      "views": 4994,
+      "likes": 98,
+      "comments": 5,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
