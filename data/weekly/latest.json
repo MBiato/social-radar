@@ -1,293 +1,331 @@
 {
-  "generated_at": "2026-11-09T20:27:22.383292",
-  "period_start": "2026-11-02",
-  "period_end": "2026-11-08",
-  "week_label": "2026-11-02 a 2026-11-08",
+  "generated_at": "2026-11-16T20:00:45.739034",
+  "period_start": "2026-11-09",
+  "period_end": "2026-11-15",
+  "week_label": "2026-11-09 a 2026-11-15",
   "metrics": {
-    "total_posts": 147,
-    "instagram_posts": 84,
-    "youtube_posts": 63,
-    "total_views": 4581909,
-    "total_likes": 201594,
-    "total_comments": 6072
+    "total_posts": 187,
+    "instagram_posts": 68,
+    "youtube_posts": 119,
+    "total_views": 8084162,
+    "total_likes": 363162,
+    "total_comments": 13174
   },
   "sponsor_stats": {
     "#brahmanocharla": {
-      "posts": 43,
-      "views": 2154725,
-      "likes": 92982,
-      "comments": 2527,
+      "posts": 45,
+      "views": 4372094,
+      "likes": 267330,
+      "comments": 8527,
       "tag": "#brahmanocharla"
     },
     "#penaltynocharla": {
-      "posts": 19,
-      "views": 1393658,
-      "likes": 58465,
-      "comments": 1776,
+      "posts": 42,
+      "views": 4298676,
+      "likes": 262586,
+      "comments": 8486,
       "tag": "#penaltynocharla"
     },
-    "#melittanocharla": {
-      "posts": 21,
-      "views": 1328829,
-      "likes": 54135,
-      "comments": 1680,
-      "tag": "#melittanocharla"
-    },
-    "#charlanopremiere": {
-      "posts": 21,
-      "views": 1246448,
-      "likes": 68247,
-      "comments": 2189,
-      "tag": "#charlanopremiere"
-    },
-    "#granfinonocharla": {
-      "posts": 14,
-      "views": 1021322,
-      "likes": 37243,
-      "comments": 1305,
-      "tag": "#granfinonocharla"
-    },
     "#assainocharla": {
-      "posts": 17,
-      "views": 1000948,
-      "likes": 45404,
-      "comments": 1010,
+      "posts": 22,
+      "views": 2184587,
+      "likes": 129114,
+      "comments": 3624,
       "tag": "#assainocharla"
     },
+    "#melittanocharla": {
+      "posts": 20,
+      "views": 2114089,
+      "likes": 133472,
+      "comments": 4862,
+      "tag": "#melittanocharla"
+    },
+    "#granfinonocharla": {
+      "posts": 13,
+      "views": 1833050,
+      "likes": 97801,
+      "comments": 4643,
+      "tag": "#granfinonocharla"
+    },
     "#fornerianocharla": {
-      "posts": 12,
-      "views": 491779,
-      "likes": 16716,
-      "comments": 366,
+      "posts": 13,
+      "views": 1265020,
+      "likes": 84550,
+      "comments": 1305,
       "tag": "#fornerianocharla"
     },
-    "#chatgptnocharla": {
-      "posts": 1,
-      "views": 485252,
-      "likes": 20155,
-      "comments": 238,
-      "tag": "#chatgptnocharla"
-    },
     "#absolutnocharla": {
-      "posts": 12,
-      "views": 374160,
-      "likes": 17394,
-      "comments": 590,
+      "posts": 10,
+      "views": 782598,
+      "likes": 49200,
+      "comments": 2029,
       "tag": "#absolutnocharla"
     },
+    "#chatgptnocharla": {
+      "posts": 5,
+      "views": 390130,
+      "likes": 29552,
+      "comments": 467,
+      "tag": "#chatgptnocharla"
+    },
+    "#charlanopremiere": {
+      "posts": 1,
+      "views": 159779,
+      "likes": 5048,
+      "comments": 93,
+      "tag": "#charlanopremiere"
+    },
     "#charlafutebol": {
-      "posts": 19,
-      "views": 220761,
-      "likes": 14667,
-      "comments": 282,
+      "posts": 4,
+      "views": 73418,
+      "likes": 4920,
+      "comments": 41,
       "tag": "#charlafutebol"
     },
-    "#004": {
+    "#leilanocharla": {
       "posts": 1,
-      "views": 0,
-      "likes": 1432,
-      "comments": 10,
-      "tag": "#004"
+      "views": 27878,
+      "likes": 1483,
+      "comments": 42,
+      "tag": "#leilanocharla"
     },
-    "#778": {
+    "#fornerianocharal": {
       "posts": 1,
-      "views": 0,
-      "likes": 209,
-      "comments": 7,
-      "tag": "#778"
+      "views": 27878,
+      "likes": 1483,
+      "comments": 42,
+      "tag": "#fornerianocharal"
     },
-    "#777": {
+    "#charlanamix": {
+      "posts": 1,
+      "views": 19384,
+      "likes": 601,
+      "comments": 4,
+      "tag": "#charlanamix"
+    },
+    "#782": {
       "posts": 1,
       "views": 0,
-      "likes": 406,
-      "comments": 13,
-      "tag": "#777"
+      "likes": 129,
+      "comments": 2,
+      "tag": "#782"
+    },
+    "#783": {
+      "posts": 1,
+      "views": 0,
+      "likes": 823,
+      "comments": 23,
+      "tag": "#783"
+    },
+    "#781": {
+      "posts": 1,
+      "views": 0,
+      "likes": 222,
+      "comments": 2,
+      "tag": "#781"
+    },
+    "#780": {
+      "posts": 1,
+      "views": 0,
+      "likes": 156,
+      "comments": 2,
+      "tag": "#780"
+    },
+    "#779": {
+      "posts": 1,
+      "views": 0,
+      "likes": 570,
+      "comments": 3,
+      "tag": "#779"
     }
   },
   "top_posts": [
     {
-      "id": "17919627510259231",
-      "date": "2026-11-07",
-      "caption": "IMAGINA DAR UMA CANETA NO SEU ÍDOLO? E ELE SER O XAVI? 👀😂\n\nMarcos Senna jogou MUITA bola e contou o episódio em que deu ",
-      "url": "https://www.instagram.com/reel/DfcnWJksiRN/",
-      "tags": [
-        "#chatgptnocharla",
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla"
-      ],
-      "type": "VIDEO",
-      "views": 485252,
-      "reach": 310379,
-      "likes": 20155,
-      "comments": 238,
-      "shares": 1289,
-      "saves": 515,
-      "platform": "instagram"
-    },
-    {
-      "id": "18121620926515710",
-      "date": "2026-11-02",
-      "caption": "NOTÍCIA EXCLUSIVA DA JOANNA! 😳\n\nNa Charla de Quinta de hoje, Joanna de Assis trouxe informações sobre o caso Seedorf, qu",
-      "url": "https://www.instagram.com/reel/DfP0mQIv8Wu/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 246162,
-      "reach": 169256,
-      "likes": 9015,
-      "comments": 503,
-      "shares": 5512,
-      "saves": 307,
-      "platform": "instagram"
-    },
-    {
-      "id": "17940004683122763",
-      "date": "2026-11-05",
-      "caption": "QUEM NÃO AMA O NETO, TÁ VIVENDO ERRADO!\n\nO Craque Neto foi pauta na charla que tivemos com o apresentador João Silva. Co",
-      "url": "https://www.instagram.com/reel/DfXytS9BogY/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 155660,
-      "reach": 107445,
-      "likes": 6829,
-      "comments": 83,
-      "shares": 126,
-      "saves": 157,
-      "platform": "instagram"
-    },
-    {
-      "id": "18122777638979546",
-      "date": "2026-11-08",
-      "caption": "QUE JOGADA, QUE GOL! VOLTA A FRENTE O VASCO! 💢⚽️⚽️\n\nEm jogada ensaiada na cobrança de falta, Puma Rodríguez recoloca o V",
-      "url": "https://www.instagram.com/reel/DffzQykhXO3/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 148433,
-      "reach": 105839,
-      "likes": 16452,
-      "comments": 300,
-      "shares": 782,
-      "saves": 203,
-      "platform": "instagram"
-    },
-    {
-      "id": "18120832054988209",
-      "date": "2026-11-08",
-      "caption": "A CLASSIFICAÇÃO TEM NOME! CARLOS MIGUEL É O HERÓI DESSA SEMIFINAL! 🔥⚽️\n\nBrilhando em mais uma disputa, Carlos Miguel peg",
-      "url": "https://www.instagram.com/reel/Dff6hO9NNtu/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 140834,
-      "reach": 103233,
-      "likes": 11796,
-      "comments": 359,
-      "shares": 2565,
-      "saves": 248,
-      "platform": "instagram"
-    },
-    {
-      "id": "18072047384792315",
-      "date": "2026-11-08",
-      "caption": "CORTOU PRA DENTRO E BATEU BONITO!\n\nO lateral do Palmeiras partiu para o ataque, trouxe a bola pra perna direita e mandou",
-      "url": "https://www.instagram.com/reel/Dffy0DDhWW_/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 135716,
-      "reach": 103816,
-      "likes": 9642,
-      "comments": 201,
-      "shares": 2065,
-      "saves": 181,
-      "platform": "instagram"
-    },
-    {
-      "id": "18175733596460211",
-      "date": "2026-11-05",
-      "caption": "AQUI O CARPETE CHOROU! 😂\n\nFica aqui a nossa solidariedade ao pequeno copo de café que DESPENCOU da mesa durante o gol do",
-      "url": "https://www.instagram.com/reel/DfV7iU_B3F1/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 130120,
-      "reach": 92277,
-      "likes": 5537,
-      "comments": 107,
-      "shares": 244,
-      "saves": 76,
-      "platform": "instagram"
-    },
-    {
-      "id": "18108969181957052",
-      "date": "2026-11-02",
-      "caption": "A DISCUSSÃO TEM QUE SER OUTRA! 👀\n\nAo comentar sobre os erros da partida de ontem, o Phill fez um alerta importante, faze",
-      "url": "https://www.instagram.com/reel/DfQCJsev_6I/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 107248,
-      "reach": 69401,
-      "likes": 2771,
-      "comments": 190,
-      "shares": 72,
-      "saves": 77,
-      "platform": "instagram"
-    },
-    {
-      "id": "18053949167810833",
-      "date": "2026-11-05",
-      "caption": "TEM DIA QUE É NOITE...\n\nMatheus Martins tentou duas vezes, mas o gol não saiu. Se liga nos lances!\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DfWAUGTvban/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 100023,
-      "reach": 63041,
-      "likes": 3683,
-      "comments": 443,
-      "shares": 366,
-      "saves": 32,
-      "platform": "instagram"
-    },
-    {
-      "id": "18121057064067668",
-      "date": "2026-11-07",
-      "caption": "AYRTON SENNA É O GOAT DO AUTOMOBILISMO? 👀\n\nUma máquina de vencer. Foi assim que Téo José identificou Ayrton Senna da Sil",
-      "url": "https://www.instagram.com/reel/Dfc_axUsk2B/",
+      "id": "18107832083202338",
+      "date": "2026-11-10",
+      "caption": "ERA UM TIME OU UMA SELEÇÃO? 😨\n\nAo ser perguntado sobre qual foi o melhor time que ele já viu jogar, Paulo Calçade trouxe",
+      "url": "https://www.instagram.com/reel/DfkbfPAOrah/",
       "tags": [
         "#brahmanocharla",
         "#penaltynocharla",
         "#assainocharla",
-        "#melittanocharla"
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 98772,
-      "reach": 70778,
-      "likes": 6985,
-      "comments": 132,
-      "shares": 457,
-      "saves": 301,
+      "views": 764070,
+      "reach": 524933,
+      "likes": 44661,
+      "comments": 1503,
+      "shares": 14869,
+      "saves": 1740,
+      "platform": "instagram"
+    },
+    {
+      "id": "18147492706591213",
+      "date": "2026-11-13",
+      "caption": "A HISTÓRIA DO CPM 22 É FANTÁSTICA! 🔥\n\nBadaui contou como foi começar a cantar em uma banda, mesmo sem pensar em ter uma,",
+      "url": "https://www.instagram.com/reel/Dfsml8lO0yB/",
+      "tags": [
+        "#fornerianocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 375733,
+      "reach": 268950,
+      "likes": 27731,
+      "comments": 383,
+      "shares": 2304,
+      "saves": 833,
+      "platform": "instagram"
+    },
+    {
+      "id": "18024859646928622",
+      "date": "2026-11-10",
+      "caption": "CARLOS VINÍCIUS NO FLAMENGO? 👀🔴⚫️\n\nO Flamengo entrou no circuito de interessados pela contratação do atacante Carlos Vin",
+      "url": "https://www.instagram.com/reel/Dfklv0hAISF/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 317277,
+      "reach": 230674,
+      "likes": 10200,
+      "comments": 1418,
+      "shares": 3174,
+      "saves": 260,
+      "platform": "instagram"
+    },
+    {
+      "id": "18145527766717381",
+      "date": "2026-11-12",
+      "caption": "NEYMAR MERECIA TER VENCIDO O PRÊMIO DE MELHOR DO MUNDO NA CARREIRA?\n\nFlávio Prado destacou o talento do camisa 10 e comp",
+      "url": "https://www.instagram.com/reel/DfpkNAeNG0x/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 240090,
+      "reach": 151075,
+      "likes": 20573,
+      "comments": 867,
+      "shares": 3377,
+      "saves": 1022,
+      "platform": "instagram"
+    },
+    {
+      "id": "q2RM5KhwtPk",
+      "date": "2026-11-09",
+      "caption": "TÉO JOSÉ ABRE O JOGO SOBRE A SUA SAÍDA DO SBT",
+      "type": "VIDEO",
+      "views": 228475,
+      "likes": 3393,
+      "comments": 173,
+      "shares": 69,
+      "saves": 0,
+      "watch_minutes": 472877,
+      "avg_view_duration_sec": 286,
+      "platform": "youtube"
+    },
+    {
+      "id": "18119029414819718",
+      "date": "2026-11-11",
+      "caption": "ESSA APRESENTAÇÃO É HISTÓRICA! 😂\n\nImagina ser apresentado em um clube dentro de um carro forte? Júlio Baptista falou na ",
+      "url": "https://www.instagram.com/reel/DflTbYDRY9U/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 201868,
+      "reach": 122849,
+      "likes": 9102,
+      "comments": 96,
+      "shares": 405,
+      "saves": 238,
+      "platform": "instagram"
+    },
+    {
+      "id": "18168649717491468",
+      "date": "2026-11-10",
+      "caption": "O VASCO VAI DAR TRABALHO QUANDO ORGANIZAR A CASA?\n\nPaulo Calçade falou do futuro do Vasco com os novos investimentos e c",
+      "url": "https://www.instagram.com/reel/DfiqQxuN6xP/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 201249,
+      "reach": 135719,
+      "likes": 18060,
+      "comments": 383,
+      "shares": 1302,
+      "saves": 379,
+      "platform": "instagram"
+    },
+    {
+      "id": "dXw77VU7GBk",
+      "date": "2026-11-12",
+      "caption": "VAMPETA É SUBVALORIZADO COMO COMENTARISTA?",
+      "type": "VIDEO",
+      "views": 194102,
+      "likes": 3594,
+      "comments": 177,
+      "shares": 78,
+      "saves": 0,
+      "watch_minutes": 309091,
+      "avg_view_duration_sec": 256,
+      "platform": "youtube"
+    },
+    {
+      "id": "18418978711081203",
+      "date": "2026-11-11",
+      "caption": "FLÁVIO PRADO FALA DO PAI DO NEYMAR COMO CEO DO SANTOS!\n\nO jornalista elogiou o trabalho que vem sendo feito no clube e c",
+      "url": "https://www.instagram.com/reel/DfnqvqPsjnL/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 183705,
+      "reach": 126915,
+      "likes": 10333,
+      "comments": 125,
+      "shares": 1054,
+      "saves": 290,
+      "platform": "instagram"
+    },
+    {
+      "id": "18138287857678604",
+      "date": "2026-11-14",
+      "caption": "\"CORINTHIANS FALIU, QUEBROU!\"\n\nPaulo Calçade falou da situação que o Timão se encontra, da questão financeira do clube e",
+      "url": "https://www.instagram.com/reel/DfuekmPMfoE/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#assainocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 181517,
+      "reach": 124773,
+      "likes": 7527,
+      "comments": 442,
+      "shares": 1706,
+      "saves": 265,
       "platform": "instagram"
     }
   ],

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T16:50:24.680081",
-  "date": "2026-11-14",
+  "generated_at": "2026-11-16T20:00:45.405898",
+  "date": "2026-11-15",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 19,
+    "total_posts": 9,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,76 +12,119 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18122601049984104",
-    "melhor_post_caption": "É DIA DE BRASILEIRÃO!\n\nPara cumprir o jogo atrasado, válido pela 21ª rodada, Chapecoense e Vasco ent",
-    "melhor_post_views": 0,
+    "melhor_post_id": "17914721100487717",
+    "melhor_post_caption": "UM JOGO PRA HISTÓRIA! 🏆\n\nJúnior Penta contou pra gente como foi estar em campo no São Paulo x Liverp",
+    "melhor_post_views": 176726,
     "sponsor_stats": {
-      "#charlafutebol": {
-        "posts": 1,
-        "views": 0,
-        "likes": 171,
-        "comments": 0
-      },
       "#brahmanocharla": {
-        "posts": 4,
-        "views": 276041,
-        "likes": 14058,
-        "comments": 587
+        "posts": 6,
+        "views": 397357,
+        "likes": 27475,
+        "comments": 436
       },
       "#penaltynocharla": {
-        "posts": 4,
-        "views": 276041,
-        "likes": 14058,
-        "comments": 587
-      },
-      "#assainocharla": {
         "posts": 3,
-        "views": 196560,
-        "likes": 8983,
-        "comments": 506
+        "views": 323939,
+        "likes": 22731,
+        "comments": 395
       },
-      "#granfinonocharla": {
+      "#melittanocharla": {
         "posts": 2,
-        "views": 182305,
-        "likes": 8527,
-        "comments": 504
-      },
-      "#fornerianocharla": {
-        "posts": 1,
-        "views": 14255,
-        "likes": 456,
-        "comments": 2
+        "views": 283644,
+        "likes": 21671,
+        "comments": 386
       },
       "#chatgptnocharla": {
         "posts": 1,
-        "views": 79481,
-        "likes": 5075,
-        "comments": 81
+        "views": 176726,
+        "likes": 14109,
+        "comments": 273
       },
-      "#melittanocharla": {
+      "#charlafutebol": {
+        "posts": 3,
+        "views": 73418,
+        "likes": 4744,
+        "comments": 41
+      },
+      "#assainocharla": {
         "posts": 1,
-        "views": 79481,
-        "likes": 5075,
-        "comments": 81
+        "views": 40295,
+        "likes": 1060,
+        "comments": 9
+      },
+      "#granfinonocharla": {
+        "posts": 1,
+        "views": 40295,
+        "likes": 1060,
+        "comments": 9
+      },
+      "#fornerianocharla": {
+        "posts": 1,
+        "views": 106918,
+        "likes": 7562,
+        "comments": 113
       }
     }
   },
   "posts": [
     {
-      "id": "18122601049984104",
-      "date": "2026-11-14",
-      "caption": "É DIA DE BRASILEIRÃO!\n\nPara cumprir o jogo atrasado, válido pela 21ª rodada, Chapecoense e Vasco entram em campo neste s",
-      "url": "https://www.instagram.com/p/DfujWEYgnAw/",
+      "id": "17914721100487717",
+      "date": "2026-11-15",
+      "caption": "UM JOGO PRA HISTÓRIA! 🏆\n\nJúnior Penta contou pra gente como foi estar em campo no São Paulo x Liverpool, pelo Mundial de",
+      "url": "https://www.instagram.com/reel/Dfw82kohUFx/",
       "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#chatgptnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 176726,
+      "reach": 124487,
+      "likes": 14109,
+      "comments": 273,
+      "shares": 1049,
+      "saves": 383,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18134522776775553",
+      "date": "2026-11-15",
+      "caption": "O OBJETIVO DO VASCO NA RETA FINAL MUDOU? \n\nRodrigo Machado falou após a vitória do Vasco diante da Chape, a chegada nos ",
+      "url": "https://www.instagram.com/reel/DfvtIyAvZ-X/",
+      "tags": [
+        "#brahmanocharla",
         "#charlafutebol"
       ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 171,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
+      "type": "VIDEO",
+      "views": 47752,
+      "reach": 37698,
+      "likes": 3847,
+      "comments": 35,
+      "shares": 25,
+      "saves": 21,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -107,10 +150,90 @@
       }
     },
     {
-      "id": "18138287857678604",
-      "date": "2026-11-14",
-      "caption": "\"CORINTHIANS FALIU, QUEBROU!\"\n\nPaulo Calçade falou da situação que o Timão se encontra, da questão financeira do clube e",
-      "url": "https://www.instagram.com/reel/DfuekmPMfoE/",
+      "id": "18171495802411918",
+      "date": "2026-11-15",
+      "caption": "BRUNO DUARTE MARCA MAIS UM!\n\nGrande jogada do Loide Augusto, que cruzou para Bruno Duarte, em grande noite, marcar o seg",
+      "url": "https://www.instagram.com/reel/DfvmFZUhctp/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 15005,
+      "reach": 10723,
+      "likes": 651,
+      "comments": 3,
+      "shares": 6,
+      "saves": 4,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17931513801181193",
+      "date": "2026-11-15",
+      "caption": "SAI NA FRENTE O VASCÃO! ⚽\n\nFora de casa, contra a Chape, o Gigante da Colina se lançou ao ataque e chegou ao primeiro go",
+      "url": "https://www.instagram.com/reel/DfvfkTWh6lV/",
+      "tags": [
+        "#brahmanocharla",
+        "#charlafutebol"
+      ],
+      "type": "VIDEO",
+      "views": 10661,
+      "reach": 8116,
+      "likes": 246,
+      "comments": 3,
+      "shares": 5,
+      "saves": 1,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17907601413602904",
+      "date": "2026-11-15",
+      "caption": "\"ELES CONTRATARAM O NOME, NÃO O TREINADOR!\"\n\nSeedorf como treinador do Corinthians, na situação que o time se encontra, ",
+      "url": "https://www.instagram.com/reel/DfxluzAMCAr/",
       "tags": [
         "#brahmanocharla",
         "#penaltynocharla",
@@ -118,12 +241,12 @@
         "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 149790,
-      "reach": 102070,
-      "likes": 6462,
-      "comments": 369,
-      "shares": 1423,
-      "saves": 253,
+      "views": 40295,
+      "reach": 27180,
+      "likes": 1060,
+      "comments": 9,
+      "shares": 12,
+      "saves": 28,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -149,144 +272,23 @@
       }
     },
     {
-      "id": "18091097951290314",
-      "date": "2026-11-14",
-      "caption": "RONALDINHO OU MESSI?\n\nPaulo Calçade mandou a letra sobre esse debate, que tem muito pano pra manga. O que não faltam são",
-      "url": "https://www.instagram.com/reel/DfuRSA1Bi8Z/",
+      "id": "17910769158327355",
+      "date": "2026-11-15",
+      "caption": "QUEM NUNCA CANTOU ESSA NO KARAOKÊ, TÁ VIVENDO MUITO ERRADO!\n\nBadaui falou como foi para criar e lançar os sucessos Um Mi",
+      "url": "https://www.instagram.com/reel/DfxYEEWMz13/",
       "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 32515,
-      "reach": 22548,
-      "likes": 2065,
-      "comments": 135,
-      "shares": 324,
-      "saves": 87,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17914316874557243",
-      "date": "2026-11-14",
-      "caption": "JÚLIO BAPTISTA NO SÃO PAULO? 😳\n\nNa nossa charla, o ex-jogador e atual técnico do sub-20 do São Paulo Júlio Baptista, res",
-      "url": "https://www.instagram.com/reel/Dfs3gQ0uPRP/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#fornerianocharla"
-      ],
-      "type": "VIDEO",
-      "views": 14255,
-      "reach": 9596,
-      "likes": 456,
-      "comments": 2,
-      "shares": 9,
-      "saves": 17,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18104983412354012",
-      "date": "2026-11-14",
-      "caption": "A DUPLA DE MILHÕES! 🤩\n\nDélcio Luiz e Prateado são responsáveis por muitos sucessos que embalaram os anos 90. Mal se conh",
-      "url": "https://www.instagram.com/reel/DfvH8Q-P69O/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 18701,
-      "reach": 13928,
-      "likes": 1232,
-      "comments": 48,
-      "shares": 185,
-      "saves": 30,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18091710602273170",
-      "date": "2026-11-14",
-      "caption": "\"O PRIMEIRO A CHEGAR E O ÚLTIMO A SAIR DOS TREINOS!\"\n\nJúnior Penta rasgou elogios ao ex-goleiro e hoje treinador Rogério",
-      "url": "https://www.instagram.com/reel/Dfu6EfwM39b/",
-      "tags": [
-        "#chatgptnocharla",
+        "#fornerianocharla",
         "#penaltynocharla",
         "#melittanocharla",
         "#brahmanocharla"
       ],
       "type": "VIDEO",
-      "views": 79481,
-      "reach": 45706,
-      "likes": 5075,
-      "comments": 81,
-      "shares": 334,
-      "saves": 188,
+      "views": 106918,
+      "reach": 67520,
+      "likes": 7562,
+      "comments": 113,
+      "shares": 570,
+      "saves": 279,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -312,17 +314,17 @@
       }
     },
     {
-      "id": "kN3JEbgRRIE",
-      "date": "2026-11-14",
-      "caption": "Gente Nossa #005 - Délcio Luiz",
+      "id": "9tPi-V3pIvM",
+      "date": "2026-11-15",
+      "caption": "O VASCO VAI JOGAR A LIBERTADORES EM 2027?",
       "type": "VIDEO",
-      "views": 7201,
-      "likes": 241,
-      "comments": 7,
+      "views": 14559,
+      "likes": 272,
+      "comments": 26,
       "shares": 0,
       "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
+      "watch_minutes": 8291,
+      "avg_view_duration_sec": 254,
       "platform": "youtube",
       "analysis": {
         "score": 5,
@@ -348,151 +350,17 @@
       }
     },
     {
-      "id": "Ii6QXCoOtl8",
-      "date": "2026-11-14",
-      "caption": "SOSA E TM FORA CONTRA A CHAPE? PAQUETÁ VOLTA CONTA O FURACÃO? RYAN MUDA DE POSIÇÃO NA SELEÇA?",
+      "id": "jqMeQv_T_tc",
+      "date": "2026-11-15",
+      "caption": "NARRAÇÃO DA VITÓRIA DO VASCO CONTRA A CHAPECOENSE!",
       "type": "VIDEO",
-      "views": 7461,
-      "likes": 118,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "-y63IGbPx48",
-      "date": "2026-11-14",
-      "caption": "BADAUÍ RELEMBRA OS SEUS MELHORES MOMENTOS NO ROCKGOL",
-      "type": "VIDEO",
-      "views": 4605,
-      "likes": 67,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "p6aTOX1Rm4c",
-      "date": "2026-11-14",
-      "caption": "BADAUÍ REVELA TUDO SOBRE O SEU DESENTENDIMENTO COM O CHORÃO",
-      "type": "VIDEO",
-      "views": 6900,
-      "likes": 132,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "-B8mkF0Cx2Q",
-      "date": "2026-11-14",
-      "caption": "BADAUÍ ABRE O JOGO SOBRE A RELAÇÃO DO CPM22 COM RICK BONADIO",
-      "type": "VIDEO",
-      "views": 4954,
-      "likes": 63,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "w-7CUmtR_tM",
-      "date": "2026-11-14",
-      "caption": "BADAUÍ RELEMBRA SHOW HISTÓRICO DA CPM22 NO ROCK IN RIO",
-      "type": "VIDEO",
-      "views": 1335,
-      "likes": 49,
+      "views": 1904,
+      "likes": 25,
       "comments": 0,
       "shares": 0,
       "saves": 0,
+      "watch_minutes": 143,
+      "avg_view_duration_sec": 46,
       "platform": "youtube",
       "analysis": {
         "score": 5,
@@ -518,219 +386,17 @@
       }
     },
     {
-      "id": "wy6jiwd1BVc",
-      "date": "2026-11-14",
-      "caption": "BASTIDORES DA COMPOSIÇÃO DA MÚSICA UM MINUTO PARA O FIM DO MUNDO",
+      "id": "-phJH_db_cQ",
+      "date": "2026-11-15",
+      "caption": "CHAPECOENSE x VASCO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
       "type": "VIDEO",
-      "views": 4812,
-      "likes": 112,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "1jrTF_yJmmQ",
-      "date": "2026-11-14",
-      "caption": "IMPORTÂNCIA DA MTV PARA O SUCESSO DA BANDA CPM22",
-      "type": "VIDEO",
-      "views": 1275,
-      "likes": 26,
+      "views": 74955,
+      "likes": 782,
       "comments": 2,
-      "shares": 0,
+      "shares": 10,
       "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "F03PDfygnlg",
-      "date": "2026-11-14",
-      "caption": "VOCALISTA DA CPM 22 EXPLICA A DIFERENÇA DO CENÁRIO DO ROCK NACIONAL ATUAL",
-      "type": "VIDEO",
-      "views": 9193,
-      "likes": 140,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "c_RW0MsD-lE",
-      "date": "2026-11-14",
-      "caption": "CONHEÇA A HISTÓRIA DE COMO SURGIU A BANDA CPM 22",
-      "type": "VIDEO",
-      "views": 5048,
-      "likes": 82,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "3i2tQSom7SE",
-      "date": "2026-11-14",
-      "caption": "LIGAÇÃO INCRÍVEL ENTRE O SKATE E O PUNK ROCK BRASILEIRO",
-      "type": "VIDEO",
-      "views": 1166,
-      "likes": 26,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "qgnz6rl7QUQ",
-      "date": "2026-11-14",
-      "caption": "BADAUÍ DESABAFA SOBRE A FASE ATUAL DO CORINTHIANS",
-      "type": "VIDEO",
-      "views": 867,
-      "likes": 16,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "J4A0yu52X6Y",
-      "date": "2026-11-14",
-      "caption": "BADAUÍ ABRE O CORAÇÃO AO FALAR DA SUA RELAÇÃO COM O CORINTHIANS",
-      "type": "VIDEO",
-      "views": 4994,
-      "likes": 98,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
+      "watch_minutes": 98654,
+      "avg_view_duration_sec": 120,
       "platform": "youtube",
       "analysis": {
         "score": 5,
