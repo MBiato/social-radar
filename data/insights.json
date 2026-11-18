@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-17T18:57:52.525386",
-  "date": "2026-11-16",
+  "generated_at": "2026-11-18T18:40:12.167248",
+  "date": "2026-11-17",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 35,
+    "total_posts": 17,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,85 +12,67 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18078737792723948",
-    "melhor_post_caption": "“O TORCEDOR NÃO TEM EXPECTATIVA NA SELEÇÃO”\n\nNo debate sobre seleção brasileira e a data FIFA, Phill",
-    "melhor_post_views": 9628,
+    "melhor_post_id": "18161256247519148",
+    "melhor_post_caption": "GIULIANO FALA DA FINAL NOS PÊNALTIS CONTRA O FLAMENGO NA COPA DO BRASIL!\n\nA comemoração do Gabigol f",
+    "melhor_post_views": 367590,
     "sponsor_stats": {
-      "#granfinonocharla": {
-        "posts": 3,
-        "views": 86287,
-        "likes": 3610,
-        "comments": 365
-      },
-      "#fornerianocharla": {
-        "posts": 3,
-        "views": 86287,
-        "likes": 3610,
-        "comments": 365
-      },
-      "#melittanocharla": {
-        "posts": 3,
-        "views": 86287,
-        "likes": 3610,
-        "comments": 365
-      },
-      "#assainocharla": {
-        "posts": 3,
-        "views": 86287,
-        "likes": 3610,
-        "comments": 365
-      },
-      "#784": {
-        "posts": 1,
-        "views": 0,
-        "likes": 749,
-        "comments": 0
-      },
       "#brahmanocharla": {
-        "posts": 2,
-        "views": 132991,
-        "likes": 15055,
-        "comments": 264
+        "posts": 4,
+        "views": 525811,
+        "likes": 18001,
+        "comments": 2211
       },
       "#penaltynocharla": {
-        "posts": 2,
-        "views": 132991,
-        "likes": 15055,
-        "comments": 264
+        "posts": 4,
+        "views": 525811,
+        "likes": 18001,
+        "comments": 2211
       },
-      "#absolutnocharla": {
-        "posts": 2,
-        "views": 132991,
-        "likes": 15055,
-        "comments": 264
+      "#melittanocharla": {
+        "posts": 4,
+        "views": 525811,
+        "likes": 18001,
+        "comments": 2211
       },
-      "#chatgptnocharla": {
+      "#granfinonocharla": {
+        "posts": 2,
+        "views": 476522,
+        "likes": 16137,
+        "comments": 2169
+      },
+      "#785": {
         "posts": 1,
-        "views": 24375,
-        "likes": 994,
-        "comments": 16
+        "views": 0,
+        "likes": 96,
+        "comments": 4
+      },
+      "#assainocharla": {
+        "posts": 2,
+        "views": 49289,
+        "likes": 1864,
+        "comments": 42
       }
     }
   },
   "posts": [
     {
-      "id": "18078737792723948",
-      "date": "2026-11-16",
-      "caption": "“O TORCEDOR NÃO TEM EXPECTATIVA NA SELEÇÃO”\n\nNo debate sobre seleção brasileira e a data FIFA, Phill trouxe seu sentimen",
-      "url": "https://www.instagram.com/reel/Df0EelzBkiU/",
+      "id": "18161256247519148",
+      "date": "2026-11-17",
+      "caption": "GIULIANO FALA DA FINAL NOS PÊNALTIS CONTRA O FLAMENGO NA COPA DO BRASIL!\n\nA comemoração do Gabigol foi fator fundamental",
+      "url": "https://www.instagram.com/reel/Df2jruigiP7/",
       "tags": [
-        "#granfinonocharla",
-        "#fornerianocharla",
+        "#brahmanocharla",
+        "#penaltynocharla",
         "#melittanocharla",
-        "#assainocharla"
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 9628,
-      "reach": 7012,
-      "likes": 200,
-      "comments": 12,
-      "shares": 2,
-      "saves": 0,
+      "views": 367590,
+      "reach": 223692,
+      "likes": 13297,
+      "comments": 2080,
+      "shares": 878,
+      "saves": 695,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -116,23 +98,23 @@
       }
     },
     {
-      "id": "18111562673361544",
-      "date": "2026-11-16",
-      "caption": "SEMANA COMEÇANDO COM TRETA NA CHARLA DE QUINTA! 🚨\n\nCom os ânimos exaltados, a mesa virou um Fluminense x Vasco em plena ",
-      "url": "https://www.instagram.com/reel/Df0AkKItVmy/",
+      "id": "17986146797899067",
+      "date": "2026-11-17",
+      "caption": "\"ERA INTER X INTER, JÁ TINHAM PROJETADO A FINAL!\"\n\nGiuliano falou da derrota do Internacional, no mundial, contra o Maze",
+      "url": "https://www.instagram.com/reel/Df2gs3sJlpw/",
       "tags": [
-        "#granfinonocharla",
-        "#fornerianocharla",
+        "#brahmanocharla",
+        "#penaltynocharla",
         "#melittanocharla",
-        "#assainocharla"
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 64808,
-      "reach": 43442,
-      "likes": 3080,
-      "comments": 324,
-      "shares": 118,
-      "saves": 88,
+      "views": 108932,
+      "reach": 73493,
+      "likes": 2840,
+      "comments": 89,
+      "shares": 243,
+      "saves": 158,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -158,128 +140,17 @@
       }
     },
     {
-      "id": "18107680640201053",
-      "date": "2026-11-16",
-      "caption": "PRA COMEÇAR A SEMANA NAQUELE CLIMA… 🥰\n\nVamos relembrar uma parte do primeiro musical do Gente Nossa, com João Martins e ",
-      "url": "https://www.instagram.com/reel/Dfz8jgHPqn0/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 48131,
-      "reach": 36261,
-      "likes": 3270,
-      "comments": 105,
-      "shares": 693,
-      "saves": 173,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18113884037247037",
-      "date": "2026-11-16",
-      "caption": "Charla #784 - Aline Dias e Jefferson Mello\n\nO diretor do \"Camisas Negras\", Jefferson Mello, e a atriz Aline Dias, são os",
-      "url": "https://www.instagram.com/p/Dfz7JQcPlzw/",
+      "id": "18061076084590910",
+      "date": "2026-11-17",
+      "caption": "Charla #785 - Giuliano \n\nEx-jogador, com passagem por seleção e por grandes clubes do Brasil e do exterior, Giuliano é o",
+      "url": "https://www.instagram.com/p/Df2f-6wszyE/",
       "tags": [
-        "#784"
+        "#785"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 749,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18011432498781958",
-      "date": "2026-11-16",
-      "caption": "“CAMISAS NEGRAS QUE GUARDO NA MEMÓRIA!”\n\nA Charla de hoje é com a atriz Aline Dias e o diretor Jefferson Mello, do filme",
-      "url": "https://www.instagram.com/p/Dfz6gqMAb2h/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 107,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18127453165927308",
-      "date": "2026-11-16",
-      "caption": "SE LIGA NA NOSSA AGENDA DE PROGRAMAS DA SEMANA!\n\nChegou mais uma semana do Charla Podcast com muita resenha boa. Vem com",
-      "url": "https://www.instagram.com/p/Dfz1FEPhi43/",
-      "tags": [],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 197,
+      "likes": 96,
       "comments": 4,
       "shares": 0,
       "saves": 0,
@@ -308,16 +179,16 @@
       }
     },
     {
-      "id": "18274857289306226",
-      "date": "2026-11-16",
-      "caption": "CHEGANDO COM A NOSSA AGENDA DE JOGOS DA SEMANA! 🔥⚽️\n\nBrasileirão pegando fogo nessa reta final decisiva, e você vai conf",
-      "url": "https://www.instagram.com/p/DfzzGPaR2sZ/",
+      "id": "17881320357564648",
+      "date": "2026-11-17",
+      "caption": "DIA DE CHARLA COM UM CARA QUE JOGAVA DEMAIS! 🔥👏🏻\n\nJogador de seleção brasileira, grandes clubes brasileiros e vários no ",
+      "url": "https://www.instagram.com/p/Df2LN5evw0c/",
       "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 93,
-      "comments": 0,
+      "likes": 338,
+      "comments": 7,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -345,181 +216,23 @@
       }
     },
     {
-      "id": "18144096943624168",
-      "date": "2026-11-16",
-      "caption": "\"O VASCO TEM UMA HISTÓRIA REALMENTE MUITO BONITA!\" \n\nComo surgiu a ideia de construir um estádio para o Vasco? Jefferson",
-      "url": "https://www.instagram.com/reel/Df0huS-Bxqt/",
+      "id": "18033574346885751",
+      "date": "2026-11-17",
+      "caption": "O QUE ACONTECEU NO FINAL DO PROGRAMA HOJE? 🤣🤣\n\nNão sabemos que multiverso é esse mas se liga no react 🤣\n\n#BrahmaNoCharla",
+      "url": "https://www.instagram.com/reel/Df28G6ZBm5m/",
       "tags": [
         "#brahmanocharla",
-        "#penaltynocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 112542,
-      "reach": 77708,
-      "likes": 13677,
-      "comments": 234,
-      "shares": 2590,
-      "saves": 397,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18123133276974421",
-      "date": "2026-11-16",
-      "caption": "MAIS UMA CANETADA DOS DEUSES! 😍\n\nNesse clima, a gente traz mais esse clássico que com certeza você já cantou de braços a",
-      "url": "https://www.instagram.com/reel/Df0iV5nsrPE/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 30359,
-      "reach": 24453,
-      "likes": 2483,
-      "comments": 46,
-      "shares": 196,
-      "saves": 81,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18101999168564405",
-      "date": "2026-11-16",
-      "caption": "AS JOGADAS EM CAMISAS NEGRAS SÃO REAIS! 🤯👏🏻\n\nJefferson Mello, diretor do filme \"Camisas Negras\", contou como as cenas de",
-      "url": "https://www.instagram.com/reel/Df0YT_XBgUw/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 20449,
-      "reach": 13762,
-      "likes": 1378,
-      "comments": 30,
-      "shares": 223,
-      "saves": 41,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18136038772705897",
-      "date": "2026-11-16",
-      "caption": "JÚNIOR PENTA TAVA TRAUMATIZADO POR CAUSA DO BECKHAM! 😂\n\nNa charla que tivemos, Júnior Penta respondeu a pergunta do noss",
-      "url": "https://www.instagram.com/reel/Df0VPjIAhd-/",
-      "tags": [
-        "#chatgptnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 24375,
-      "reach": 17049,
-      "likes": 994,
-      "comments": 16,
-      "shares": 118,
-      "saves": 13,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18008884253793841",
-      "date": "2026-11-16",
-      "caption": "CORINTHIANS SEM YURI ALBERTO NO BRASILEIRÃO! 🚨\n\nO clube paulista não obteve êxito no recurso, e a punição do atacante fo",
-      "url": "https://www.instagram.com/reel/Df0UJAHNNA7/",
-      "tags": [
-        "#granfinonocharla",
-        "#fornerianocharla",
         "#melittanocharla",
+        "#penaltynocharla",
         "#assainocharla"
       ],
       "type": "VIDEO",
-      "views": 11851,
-      "reach": 8094,
-      "likes": 330,
-      "comments": 29,
-      "shares": 25,
-      "saves": 9,
+      "views": 26280,
+      "reach": 18827,
+      "likes": 864,
+      "comments": 33,
+      "shares": 331,
+      "saves": 60,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -545,12 +258,88 @@
       }
     },
     {
-      "id": "FuXF9tNNqZc",
-      "date": "2026-11-16",
-      "caption": "FLUMINENSE x MIRASSOL | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "id": "17916487602503150",
+      "date": "2026-11-17",
+      "caption": "EU SEI QUE VOCÊ TÁ ARRUMANDO FOLGA PARA O DIA 19! 👀\n\nAlém do Enzo Grisalho e do adm aqui, quem mais tá ansioso para o la",
+      "url": "https://www.instagram.com/reel/Df2223xBKP8/",
+      "tags": [
+        "#brahmanocharla",
+        "#melittanocharla",
+        "#penaltynocharla",
+        "#assainocharla"
+      ],
       "type": "VIDEO",
-      "views": 3,
-      "likes": 2,
+      "views": 23009,
+      "reach": 16313,
+      "likes": 1000,
+      "comments": 9,
+      "shares": 28,
+      "saves": 25,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "0o8gdV1F11Y",
+      "date": "2026-11-17",
+      "caption": "VINI MARCA 3 VEZES E BRASIL GOLEIA SINGAPURA NA DATA FIFA | CHARLA DE QUINTA #421",
+      "type": "VIDEO",
+      "views": 27279,
+      "likes": 701,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "cMyuwfl4Pm8",
+      "date": "2026-11-17",
+      "caption": "IMPORTÂNCIA DA REPRESENTATIVIDADE NA TELEVISÃO BRASILEIRA",
+      "type": "VIDEO",
+      "views": 2524,
+      "likes": 9,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -579,13 +368,13 @@
       }
     },
     {
-      "id": "HdYshxF5i4Y",
-      "date": "2026-11-16",
-      "caption": "BRAGANTINO x VASCO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "id": "aOP1fWV7W38",
+      "date": "2026-11-17",
+      "caption": "A INCRÍVEL HISTÓRIA REVOLUCIONÁRIA DOS CAMISAS NEGRAS NO VASCO",
       "type": "VIDEO",
-      "views": 3,
-      "likes": 2,
-      "comments": 0,
+      "views": 11426,
+      "likes": 369,
+      "comments": 16,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -613,13 +402,13 @@
       }
     },
     {
-      "id": "o0aSuYS0QsU",
-      "date": "2026-11-16",
-      "caption": "Charla #784 - Aline Dias e Jefferson Mello [Filme Camisas Negras]",
+      "id": "lm-j1Yv9ju8",
+      "date": "2026-11-17",
+      "caption": "A REALIDADE ASSUSTADORA DAS TORCIDAS R@CISTAS NA EUROPA",
       "type": "VIDEO",
-      "views": 20479,
-      "likes": 332,
-      "comments": 11,
+      "views": 3803,
+      "likes": 50,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -647,13 +436,13 @@
       }
     },
     {
-      "id": "YSPoeIQSd1M",
-      "date": "2026-11-16",
-      "caption": "PALMEIRAS x FLAMENGO | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "id": "OQpYT35il3A",
+      "date": "2026-11-17",
+      "caption": "PRESENÇA DO R@CISMO NO FUTEBOL MODERNO",
       "type": "VIDEO",
-      "views": 0,
-      "likes": 1,
-      "comments": 0,
+      "views": 1394,
+      "likes": 22,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -681,13 +470,13 @@
       }
     },
     {
-      "id": "HRUi7nw8acU",
-      "date": "2026-11-16",
-      "caption": "SÃO PAULO x FLUMINENSE | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "id": "zrZt7UZi9mE",
+      "date": "2026-11-17",
+      "caption": "A LINDA HISTÓRIA POR TRÁS DO FILME CAMISAS NEGRAS",
       "type": "VIDEO",
-      "views": 1,
-      "likes": 3,
-      "comments": 0,
+      "views": 2455,
+      "likes": 84,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -715,318 +504,12 @@
       }
     },
     {
-      "id": "zJetPTyGobk",
-      "date": "2026-11-16",
-      "caption": "VASCO x INTERNACIONAL | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
+      "id": "kMATenjaNcU",
+      "date": "2026-11-17",
+      "caption": "IMPORTÂNCIA ABSURDA DO VINI JR NO COMBARE AO R@CISMO NA ESPANHA",
       "type": "VIDEO",
-      "views": 4,
-      "likes": 5,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "3BJUk3mgYkM",
-      "date": "2026-11-16",
-      "caption": "FLAMENGO x ATHLETICO-PR | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
-      "type": "VIDEO",
-      "views": 4,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "rp9N4hAdIWg",
-      "date": "2026-11-16",
-      "caption": "Charla #787 - Éder Luiz [Narrador]",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 4,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "c7Eeu4lkoMk",
-      "date": "2026-11-16",
-      "caption": "Charla #786 - Acadêmicos do Salgueiro [Igor Sorriso, Guilherme e Gustavo]",
-      "type": "VIDEO",
-      "views": 1,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Kzye4ii5oAQ",
-      "date": "2026-11-16",
-      "caption": "CHARLA DE QUINTA #424",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "JOEB9YGbguE",
-      "date": "2026-11-16",
-      "caption": "CHARLA DE QUINTA #423",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "-OFPQvn9OpI",
-      "date": "2026-11-16",
-      "caption": "CHARLA DE QUINTA #422",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 2,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "YPr3kRju7LM",
-      "date": "2026-11-16",
-      "caption": "Charla #785 - Giuliano [Ex-jogador]",
-      "type": "VIDEO",
-      "views": 1973,
-      "likes": 195,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "QNjhJg1Ms_Q",
-      "date": "2026-11-16",
-      "caption": "VASCO VENCE A CHAPE E SONHA COM LIBERTA! SELEÇÃO PERDE PRO JAPÃO E PREOCUPA! | CHARLA DE QUINTA #420",
-      "type": "VIDEO",
-      "views": 36281,
-      "likes": 1112,
-      "comments": 21,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "IaApOwFRMEI",
-      "date": "2026-11-16",
-      "caption": "FALTA DE IDENTIFICAÇÃO COM O TORCEDOR É O PRINCIPAL PROBLEMA DA SELEÇÃO BRASILEIRA?",
-      "type": "VIDEO",
-      "views": 3970,
-      "likes": 71,
+      "views": 1290,
+      "likes": 35,
       "comments": 2,
       "shares": 0,
       "saves": 0,
@@ -1055,251 +538,115 @@
       }
     },
     {
-      "id": "dP7KmeE-Sqg",
-      "date": "2026-11-16",
-      "caption": "BASTIDORES INÉDITOS NO RAPHINHA NA SELEÇÃO BRASILEIRA",
+      "id": "llkEgVlNmj4",
+      "date": "2026-11-17",
+      "caption": "TODA A VERDADE SOBRE O R@CISMO NO FUTEBOL FORA DO BRASIL",
       "type": "VIDEO",
-      "views": 5608,
-      "likes": 112,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "REITKNxoNJ0",
-      "date": "2026-11-16",
-      "caption": "ANCELOTTI MERECE MAIS CHANCES NO COMANDO DA SELEÇÃO BRASILEIRA",
-      "type": "VIDEO",
-      "views": 1367,
-      "likes": 14,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "7-uHVz4s0tg",
-      "date": "2026-11-16",
-      "caption": "ENZO ANALISA O FUTURO DO VASCO APÓS ELEIÇÕES E NOVA SAF",
-      "type": "VIDEO",
-      "views": 4525,
-      "likes": 92,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "yl7y8z2Fi7c",
-      "date": "2026-11-16",
-      "caption": "QUEM TERÁ UM 2027 MELHOR VASCO OU FLUMINENSE",
-      "type": "VIDEO",
-      "views": 2257,
-      "likes": 52,
-      "comments": 6,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "yAXpZAD58yY",
-      "date": "2026-11-16",
-      "caption": "QUEM TEVE UMA TEMPORADA MELHOR: VASCO OU FLUMINENSE?",
-      "type": "VIDEO",
-      "views": 12200,
-      "likes": 312,
-      "comments": 86,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "LjpvAJnQxHw",
-      "date": "2026-11-16",
-      "caption": "SITUAÇÃO DO FLUMINENSE PREOCUPA PARA 2027?",
-      "type": "VIDEO",
-      "views": 22598,
-      "likes": 407,
-      "comments": 57,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ka1RJJMLcTs",
-      "date": "2026-11-16",
-      "caption": "TRETA ABSURDA ENTRE ENZO E PHILL SOBRE VASCO E FLUMINENSE",
-      "type": "VIDEO",
-      "views": 14722,
-      "likes": 385,
-      "comments": 71,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "y0fxwWM8X8A",
-      "date": "2026-11-16",
-      "caption": "Gente Nossa #006 - Bom Gosto",
-      "type": "VIDEO",
-      "views": 0,
-      "likes": 1,
+      "views": 568,
+      "likes": 11,
       "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "n-Pnd3GB9VQ",
+      "date": "2026-11-17",
+      "caption": "FILME \"CAMISAS NEGRAS\" RETRATA A IMPORTÂNCIA DE FALAR SOBRE RACISMO NO FUTEBOL",
+      "type": "VIDEO",
+      "views": 518,
+      "likes": 16,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Pr0WezV7Cu4",
+      "date": "2026-11-17",
+      "caption": "LUCAS FERNANDO (PESO MEIO-PESADO DO UFC) NO CHARLA NA MIX",
+      "type": "VIDEO",
+      "views": 5080,
+      "likes": 59,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "iKEG5J9xZ1M",
+      "date": "2026-11-17",
+      "caption": "COMPRAMOS UM CLUBE NA INGLATERRA COM ALEXANDRE PATO?",
+      "type": "VIDEO",
+      "views": 9993,
+      "likes": 314,
+      "comments": 20,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
