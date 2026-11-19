@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-18T18:40:12.167248",
-  "date": "2026-11-17",
+  "generated_at": "2026-11-19T18:53:36.551888",
+  "date": "2026-11-18",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 17,
+    "total_posts": 29,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,183 +12,194 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18161256247519148",
-    "melhor_post_caption": "GIULIANO FALA DA FINAL NOS PÊNALTIS CONTRA O FLAMENGO NA COPA DO BRASIL!\n\nA comemoração do Gabigol f",
-    "melhor_post_views": 367590,
+    "melhor_post_id": "18139185982731093",
+    "melhor_post_caption": "AQUI É PAPO DE PEDIR EM CASAMENTO NA MESMA HORA! 😍\n\nSe você é um felizardo que passou por esse senti",
+    "melhor_post_views": 74975,
     "sponsor_stats": {
       "#brahmanocharla": {
         "posts": 4,
-        "views": 525811,
-        "likes": 18001,
-        "comments": 2211
+        "views": 46266,
+        "likes": 2147,
+        "comments": 82
       },
       "#penaltynocharla": {
         "posts": 4,
-        "views": 525811,
-        "likes": 18001,
-        "comments": 2211
+        "views": 46266,
+        "likes": 2147,
+        "comments": 82
       },
       "#melittanocharla": {
-        "posts": 4,
-        "views": 525811,
-        "likes": 18001,
-        "comments": 2211
+        "posts": 1,
+        "views": 8424,
+        "likes": 153,
+        "comments": 1
       },
       "#granfinonocharla": {
-        "posts": 2,
-        "views": 476522,
-        "likes": 16137,
-        "comments": 2169
+        "posts": 1,
+        "views": 8424,
+        "likes": 153,
+        "comments": 1
       },
-      "#785": {
+      "#absolutnocharla": {
+        "posts": 3,
+        "views": 37842,
+        "likes": 1994,
+        "comments": 81
+      },
+      "#charlafutebol": {
         "posts": 1,
         "views": 0,
-        "likes": 96,
-        "comments": 4
+        "likes": 40,
+        "comments": 2
       },
-      "#assainocharla": {
+      "#charlanopremiere": {
+        "posts": 1,
+        "views": 0,
+        "likes": 107,
+        "comments": 29
+      },
+      "#fornerianocharla": {
         "posts": 2,
-        "views": 49289,
-        "likes": 1864,
-        "comments": 42
+        "views": 18460,
+        "likes": 660,
+        "comments": 27
       }
     }
   },
   "posts": [
     {
-      "id": "18161256247519148",
-      "date": "2026-11-17",
-      "caption": "GIULIANO FALA DA FINAL NOS PÊNALTIS CONTRA O FLAMENGO NA COPA DO BRASIL!\n\nA comemoração do Gabigol foi fator fundamental",
-      "url": "https://www.instagram.com/reel/Df2jruigiP7/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 367590,
-      "reach": 223692,
-      "likes": 13297,
-      "comments": 2080,
-      "shares": 878,
-      "saves": 695,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17986146797899067",
-      "date": "2026-11-17",
-      "caption": "\"ERA INTER X INTER, JÁ TINHAM PROJETADO A FINAL!\"\n\nGiuliano falou da derrota do Internacional, no mundial, contra o Maze",
-      "url": "https://www.instagram.com/reel/Df2gs3sJlpw/",
-      "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#melittanocharla",
-        "#granfinonocharla"
-      ],
-      "type": "VIDEO",
-      "views": 108932,
-      "reach": 73493,
-      "likes": 2840,
-      "comments": 89,
-      "shares": 243,
-      "saves": 158,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18061076084590910",
-      "date": "2026-11-17",
-      "caption": "Charla #785 - Giuliano \n\nEx-jogador, com passagem por seleção e por grandes clubes do Brasil e do exterior, Giuliano é o",
-      "url": "https://www.instagram.com/p/Df2f-6wszyE/",
-      "tags": [
-        "#785"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 96,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17881320357564648",
-      "date": "2026-11-17",
-      "caption": "DIA DE CHARLA COM UM CARA QUE JOGAVA DEMAIS! 🔥👏🏻\n\nJogador de seleção brasileira, grandes clubes brasileiros e vários no ",
-      "url": "https://www.instagram.com/p/Df2LN5evw0c/",
+      "id": "18139185982731093",
+      "date": "2026-11-18",
+      "caption": "AQUI É PAPO DE PEDIR EM CASAMENTO NA MESMA HORA! 😍\n\nSe você é um felizardo que passou por esse sentimento, fala aqui nos",
+      "url": "https://www.instagram.com/reel/Df5JyE5uaHo/",
       "tags": [],
+      "type": "VIDEO",
+      "views": 74975,
+      "reach": 51112,
+      "likes": 3075,
+      "comments": 84,
+      "shares": 812,
+      "saves": 63,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "17957723421303748",
+      "date": "2026-11-18",
+      "caption": "\"O JOGADOR VIVE COMO SE FOSSE O ÚLTIMO DIA NA VIDA, ELE NÃO SE PLANEJA!\"\n\nGiuliano falou da importância do atleta se pre",
+      "url": "https://www.instagram.com/reel/Df5GWWVzoWv/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 8424,
+      "reach": 6507,
+      "likes": 153,
+      "comments": 1,
+      "shares": 10,
+      "saves": 6,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18131571139798725",
+      "date": "2026-11-18",
+      "caption": "\"CAMISAS NEGRAS\" É UM FILME PARA TODOS QUE AMAM FUTEBOL!\n\nJefferson Mello, diretor do filme que lança amanhã (19), falou",
+      "url": "https://www.instagram.com/reel/Df5EjDezOTu/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 19382,
+      "reach": 15887,
+      "likes": 1334,
+      "comments": 54,
+      "shares": 472,
+      "saves": 38,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18137456833764093",
+      "date": "2026-11-18",
+      "caption": "QUEM VAI SAIR COM A VITÓRIA? \n\nÉ noite de confronto de rubro-negros no Maraca e você vai acompanhar todas as emoções de ",
+      "url": "https://www.instagram.com/p/Df5DFn_T1e9/",
+      "tags": [
+        "#charlafutebol"
+      ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 338,
-      "comments": 7,
+      "likes": 40,
+      "comments": 2,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -216,23 +227,20 @@
       }
     },
     {
-      "id": "18033574346885751",
-      "date": "2026-11-17",
-      "caption": "O QUE ACONTECEU NO FINAL DO PROGRAMA HOJE? 🤣🤣\n\nNão sabemos que multiverso é esse mas se liga no react 🤣\n\n#BrahmaNoCharla",
-      "url": "https://www.instagram.com/reel/Df28G6ZBm5m/",
+      "id": "18108369773310505",
+      "date": "2026-11-18",
+      "caption": "É NOITE DE CHARLA NO PREMIERE, MANÉ! \n\nCorinthians e Botafogo entram em campo nesta quarta (18) em situações bem diferen",
+      "url": "https://www.instagram.com/p/Df4-rG3vPps/",
       "tags": [
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#penaltynocharla",
-        "#assainocharla"
+        "#charlanopremiere"
       ],
-      "type": "VIDEO",
-      "views": 26280,
-      "reach": 18827,
-      "likes": 864,
-      "comments": 33,
-      "shares": 331,
-      "saves": 60,
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 107,
+      "comments": 29,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -258,23 +266,18 @@
       }
     },
     {
-      "id": "17916487602503150",
-      "date": "2026-11-17",
-      "caption": "EU SEI QUE VOCÊ TÁ ARRUMANDO FOLGA PARA O DIA 19! 👀\n\nAlém do Enzo Grisalho e do adm aqui, quem mais tá ansioso para o la",
-      "url": "https://www.instagram.com/reel/Df2223xBKP8/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#penaltynocharla",
-        "#assainocharla"
-      ],
+      "id": "18020379338976966",
+      "date": "2026-11-18",
+      "caption": "MOMENTO PEDE CALMA, TORCEDORES! 🚨\n\nO trabalho na frente da seleção brasileira é complicado, e a gente tem que cobrar o b",
+      "url": "https://www.instagram.com/reel/Df5lSNwpLmY/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 23009,
-      "reach": 16313,
-      "likes": 1000,
-      "comments": 9,
-      "shares": 28,
-      "saves": 25,
+      "views": 8058,
+      "reach": 6673,
+      "likes": 227,
+      "comments": 22,
+      "shares": 3,
+      "saves": 2,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -300,12 +303,205 @@
       }
     },
     {
-      "id": "0o8gdV1F11Y",
-      "date": "2026-11-17",
-      "caption": "VINI MARCA 3 VEZES E BRASIL GOLEIA SINGAPURA NA DATA FIFA | CHARLA DE QUINTA #421",
+      "id": "18140231902634175",
+      "date": "2026-11-18",
+      "caption": "ELE VAI VOLTAR, NAÇÃO? 👀\n\nA temporada vai chegando ao final, e o questionamento do que será do futuro de Gabriel Barbosa",
+      "url": "https://www.instagram.com/reel/Df5c5wSv1cG/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#absolutnocharla",
+        "#fornerianocharla"
+      ],
       "type": "VIDEO",
-      "views": 27279,
-      "likes": 701,
+      "views": 9399,
+      "reach": 6886,
+      "likes": 295,
+      "comments": 16,
+      "shares": 10,
+      "saves": 12,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18121212142951396",
+      "date": "2026-11-18",
+      "caption": "QUEM NÃO TÁ ANSIOSO, TÁ VIVENDO ERRADO! 😂\n\nPor aqui, o adm já tá igual ao Betão. Quem mais aí tá no hype para o jogo? 👀👇",
+      "url": "https://www.instagram.com/reel/Df5YxJ1uUBg/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 9077,
+      "reach": 7154,
+      "likes": 402,
+      "comments": 11,
+      "shares": 40,
+      "saves": 1,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18126137164908945",
+      "date": "2026-11-18",
+      "caption": "\"HOJE, 90% DA TORCIDA DO CORINTHIANS TRATA O TITE COMO UM INGRATO!\"\n\nEnzo Grisalho falou de como será a volta do treinad",
+      "url": "https://www.instagram.com/reel/Df5Mle0sOks/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#absolutnocharla",
+        "#fornerianocharla"
+      ],
+      "type": "VIDEO",
+      "views": 9061,
+      "reach": 7426,
+      "likes": 365,
+      "comments": 11,
+      "shares": 0,
+      "saves": 1,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "-OFPQvn9OpI",
+      "date": "2026-11-18",
+      "caption": "FLAMENGO RECEBE O ATHLETICO PRA FICAR PERTO DA TAÇA! BOTAFOGO PRECISA VENCER | CHARLA DE QUINTA #422",
+      "type": "VIDEO",
+      "views": 22875,
+      "likes": 766,
+      "comments": 12,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "YPr3kRju7LM",
+      "date": "2026-11-18",
+      "caption": "Charla #785 - Giuliano [Ex-jogador]",
+      "type": "VIDEO",
+      "views": 27275,
+      "likes": 409,
+      "comments": 6,
+      "shares": 0,
+      "saves": 0,
+      "watch_minutes": 0,
+      "avg_view_duration_sec": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "6HrzOD-HP1w",
+      "date": "2026-11-18",
+      "caption": "GIULIANO FAZ REVELAÇÃO SURPREENDENTE SOBRE GABIGOL NA FINAL DA COPA DO BRASIL DE 2022",
+      "type": "VIDEO",
+      "views": 3659,
+      "likes": 114,
       "comments": 12,
       "shares": 0,
       "saves": 0,
@@ -334,13 +530,13 @@
       }
     },
     {
-      "id": "cMyuwfl4Pm8",
-      "date": "2026-11-17",
-      "caption": "IMPORTÂNCIA DA REPRESENTATIVIDADE NA TELEVISÃO BRASILEIRA",
+      "id": "xP-T03_7Ueo",
+      "date": "2026-11-18",
+      "caption": "BASTIDORES JAMAIS REVELADOS DE VITOR PEREIRA NO CORINTHIANS",
       "type": "VIDEO",
-      "views": 2524,
-      "likes": 9,
-      "comments": 0,
+      "views": 22105,
+      "likes": 333,
+      "comments": 48,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -368,113 +564,11 @@
       }
     },
     {
-      "id": "aOP1fWV7W38",
-      "date": "2026-11-17",
-      "caption": "A INCRÍVEL HISTÓRIA REVOLUCIONÁRIA DOS CAMISAS NEGRAS NO VASCO",
+      "id": "_7iwXxJe4Sc",
+      "date": "2026-11-18",
+      "caption": "A REALIDADE DA LIGA ÁRABE ANTES DOS INVESTIMENTOS MILIONÁRIOS",
       "type": "VIDEO",
-      "views": 11426,
-      "likes": 369,
-      "comments": 16,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "lm-j1Yv9ju8",
-      "date": "2026-11-17",
-      "caption": "A REALIDADE ASSUSTADORA DAS TORCIDAS R@CISTAS NA EUROPA",
-      "type": "VIDEO",
-      "views": 3803,
-      "likes": 50,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "OQpYT35il3A",
-      "date": "2026-11-17",
-      "caption": "PRESENÇA DO R@CISMO NO FUTEBOL MODERNO",
-      "type": "VIDEO",
-      "views": 1394,
-      "likes": 22,
-      "comments": 4,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "zrZt7UZi9mE",
-      "date": "2026-11-17",
-      "caption": "A LINDA HISTÓRIA POR TRÁS DO FILME CAMISAS NEGRAS",
-      "type": "VIDEO",
-      "views": 2455,
+      "views": 3372,
       "likes": 84,
       "comments": 4,
       "shares": 0,
@@ -504,13 +598,13 @@
       }
     },
     {
-      "id": "kMATenjaNcU",
-      "date": "2026-11-17",
-      "caption": "IMPORTÂNCIA ABSURDA DO VINI JR NO COMBARE AO R@CISMO NA ESPANHA",
+      "id": "9uYhTLM7t44",
+      "date": "2026-11-18",
+      "caption": "GIULIANO ABRE O JOGO SOBRE A SUA PASSAGEM PELO ZENIT",
       "type": "VIDEO",
-      "views": 1290,
-      "likes": 35,
-      "comments": 2,
+      "views": 9784,
+      "likes": 173,
+      "comments": 9,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -538,13 +632,13 @@
       }
     },
     {
-      "id": "llkEgVlNmj4",
-      "date": "2026-11-17",
-      "caption": "TODA A VERDADE SOBRE O R@CISMO NO FUTEBOL FORA DO BRASIL",
+      "id": "tznImquX4Sc",
+      "date": "2026-11-18",
+      "caption": "AULA INCRÍVEL DO GIULIANO SOBRE SAÚDE FINANCEIRA E MENTAL DOS ATLETAS",
       "type": "VIDEO",
-      "views": 568,
-      "likes": 11,
-      "comments": 0,
+      "views": 19346,
+      "likes": 297,
+      "comments": 16,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -572,12 +666,46 @@
       }
     },
     {
-      "id": "n-Pnd3GB9VQ",
-      "date": "2026-11-17",
-      "caption": "FILME \"CAMISAS NEGRAS\" RETRATA A IMPORTÂNCIA DE FALAR SOBRE RACISMO NO FUTEBOL",
+      "id": "-cdulN_1jNU",
+      "date": "2026-11-18",
+      "caption": "GIULIANO ABRE O JOGO SOBRE PORQUE ESCOLHEU O GRÊMIO NA SUA VOLTA AO BRASIL",
       "type": "VIDEO",
-      "views": 518,
-      "likes": 16,
+      "views": 14408,
+      "likes": 217,
+      "comments": 37,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "BYmm0R1VJeo",
+      "date": "2026-11-18",
+      "caption": "A REALIDADE QUE NINGUÉM SABE SOBRE VIVER NA UCRÂNIA",
+      "type": "VIDEO",
+      "views": 7726,
+      "likes": 124,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -606,12 +734,12 @@
       }
     },
     {
-      "id": "Pr0WezV7Cu4",
-      "date": "2026-11-17",
-      "caption": "LUCAS FERNANDO (PESO MEIO-PESADO DO UFC) NO CHARLA NA MIX",
+      "id": "3EjLnPH8lIg",
+      "date": "2026-11-18",
+      "caption": "BASTIDORES INÉDITOS DA DERROTA DO INTER PARA O MAZEMBE NO MUNDIAL",
       "type": "VIDEO",
-      "views": 5080,
-      "likes": 59,
+      "views": 1297,
+      "likes": 30,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -640,13 +768,319 @@
       }
     },
     {
-      "id": "iKEG5J9xZ1M",
-      "date": "2026-11-17",
-      "caption": "COMPRAMOS UM CLUBE NA INGLATERRA COM ALEXANDRE PATO?",
+      "id": "Ut54XCcANSg",
+      "date": "2026-11-18",
+      "caption": "GIULIANO FOI FUNDAMENTAL PARA O INTER NO TÍTULO DA LIBERTADORES DE 2010?",
       "type": "VIDEO",
-      "views": 9993,
-      "likes": 314,
-      "comments": 20,
+      "views": 2125,
+      "likes": 45,
+      "comments": 8,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "iyiQ3xtjYrI",
+      "date": "2026-11-18",
+      "caption": "GOL DO GIULIANO CLASSIFICOU O INTER CONTRA O ESTUDIANTES NA LIBERTADORES",
+      "type": "VIDEO",
+      "views": 7331,
+      "likes": 121,
+      "comments": 5,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "7BcqHfJ5zR4",
+      "date": "2026-11-18",
+      "caption": "BASTIDORES MALUCOS DO MÁRIO SÉRGIO NO INTER",
+      "type": "VIDEO",
+      "views": 5924,
+      "likes": 110,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "w4o99Q_WHH4",
+      "date": "2026-11-18",
+      "caption": "TODA A VERDADE SOBRE A ÚLTIMA RODADA DO BRASILEIRÃO DE 2009",
+      "type": "VIDEO",
+      "views": 1706,
+      "likes": 38,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "cywzcW-w1ug",
+      "date": "2026-11-18",
+      "caption": "GIULIANO RELEMBRA OS BASTIDORES DA SUA CHEGADA AO INTER",
+      "type": "VIDEO",
+      "views": 13250,
+      "likes": 210,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "oMht60e6BjY",
+      "date": "2026-11-18",
+      "caption": "MENGÃO SEM GRANA? GABI VOLTANDO? GÓMEZ NA BARCA DO VASCÃO?",
+      "type": "VIDEO",
+      "views": 12830,
+      "likes": 245,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "B0xPSfw8dnc",
+      "date": "2026-11-18",
+      "caption": "A REALIDADE DA LIGA ÁRABE ANTES DOS INVESTIMENTOS MILIONÁRIOS",
+      "type": "VIDEO",
+      "views": 8510,
+      "likes": 134,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "foPIQX_gu9o",
+      "date": "2026-11-18",
+      "caption": "QUEM JOGA MAIS ANDRÉS GÓMEZ OU GONZALO PLATA?",
+      "type": "VIDEO",
+      "views": 9822,
+      "likes": 144,
+      "comments": 102,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "qhFnF1C-hIc",
+      "date": "2026-11-18",
+      "caption": "IMPORTÂNCIA ABSURDA DO JOGO DO VASCO CONTRA O INTER",
+      "type": "VIDEO",
+      "views": 16307,
+      "likes": 346,
+      "comments": 38,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "IhcJ5AtwP34",
+      "date": "2026-11-18",
+      "caption": "MOVIMENTOS DO VASCO PARA 2027 MANDAM UM RECADO PARA A TORCIDA",
+      "type": "VIDEO",
+      "views": 19167,
+      "likes": 411,
+      "comments": 37,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
