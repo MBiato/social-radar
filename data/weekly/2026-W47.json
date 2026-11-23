@@ -1,0 +1,306 @@
+{
+  "generated_at": "2026-11-23T21:55:15.030979",
+  "period_start": "2026-11-16",
+  "period_end": "2026-11-22",
+  "week_label": "2026-11-16 a 2026-11-22",
+  "metrics": {
+    "total_posts": 194,
+    "instagram_posts": 94,
+    "youtube_posts": 100,
+    "total_views": 7332483,
+    "total_likes": 356803,
+    "total_comments": 12909
+  },
+  "sponsor_stats": {
+    "#charlanopremiere": {
+      "posts": 28,
+      "views": 3837941,
+      "likes": 195598,
+      "comments": 5837,
+      "tag": "#charlanopremiere"
+    },
+    "#brahmanocharla": {
+      "posts": 32,
+      "views": 1527095,
+      "likes": 94924,
+      "comments": 4378,
+      "tag": "#brahmanocharla"
+    },
+    "#penaltynocharla": {
+      "posts": 16,
+      "views": 1132606,
+      "likes": 66500,
+      "comments": 3584,
+      "tag": "#penaltynocharla"
+    },
+    "#granfinonocharla": {
+      "posts": 10,
+      "views": 795634,
+      "likes": 36361,
+      "comments": 3095,
+      "tag": "#granfinonocharla"
+    },
+    "#melittanocharla": {
+      "posts": 10,
+      "views": 755086,
+      "likes": 25404,
+      "comments": 2912,
+      "tag": "#melittanocharla"
+    },
+    "#absolutnocharla": {
+      "posts": 9,
+      "views": 478177,
+      "likes": 45160,
+      "comments": 1085,
+      "tag": "#absolutnocharla"
+    },
+    "#assainocharla": {
+      "posts": 10,
+      "views": 337385,
+      "likes": 13401,
+      "comments": 837,
+      "tag": "#assainocharla"
+    },
+    "#charlafutebol": {
+      "posts": 16,
+      "views": 276581,
+      "likes": 19321,
+      "comments": 510,
+      "tag": "#charlafutebol"
+    },
+    "#fornerianocharla": {
+      "posts": 8,
+      "views": 243838,
+      "likes": 17009,
+      "comments": 674,
+      "tag": "#fornerianocharla"
+    },
+    "#chatgptnocharla": {
+      "posts": 1,
+      "views": 41531,
+      "likes": 1573,
+      "comments": 21,
+      "tag": "#chatgptnocharla"
+    },
+    "#787": {
+      "posts": 1,
+      "views": 0,
+      "likes": 133,
+      "comments": 2,
+      "tag": "#787"
+    },
+    "#006": {
+      "posts": 1,
+      "views": 0,
+      "likes": 198,
+      "comments": 3,
+      "tag": "#006"
+    },
+    "#786": {
+      "posts": 1,
+      "views": 0,
+      "likes": 588,
+      "comments": 11,
+      "tag": "#786"
+    },
+    "#785": {
+      "posts": 1,
+      "views": 0,
+      "likes": 104,
+      "comments": 4,
+      "tag": "#785"
+    },
+    "#784": {
+      "posts": 1,
+      "views": 0,
+      "likes": 830,
+      "comments": 1,
+      "tag": "#784"
+    }
+  },
+  "top_posts": [
+    {
+      "id": "18154746505554084",
+      "date": "2026-11-19",
+      "caption": "LANCE POLÊMICO NA ARENA! 😳\n\nNo jogo agitado de hoje, teve esse lance do Justino em cima do Kaio César, que tava partindo",
+      "url": "https://www.instagram.com/reel/Df6G6w-BOWT/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 717493,
+      "reach": 483456,
+      "likes": 14373,
+      "comments": 1648,
+      "shares": 4493,
+      "saves": 468,
+      "platform": "instagram"
+    },
+    {
+      "id": "18137353462663616",
+      "date": "2026-11-21",
+      "caption": "SAMUEL LINO MARCOU O GOL DO TÍTULO! ⚽🏆\n\nNo melhor estilo do Mengão, Samuel Lino recebeu de frente para o Carlos Miguel e",
+      "url": "https://www.instagram.com/reel/DgBPXVxMSL4/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 426444,
+      "reach": 338576,
+      "likes": 33474,
+      "comments": 728,
+      "shares": 7454,
+      "saves": 617,
+      "platform": "instagram"
+    },
+    {
+      "id": "18161256247519148",
+      "date": "2026-11-17",
+      "caption": "GIULIANO FALA DA FINAL NOS PÊNALTIS CONTRA O FLAMENGO NA COPA DO BRASIL!\n\nA comemoração do Gabigol foi fator fundamental",
+      "url": "https://www.instagram.com/reel/Df2jruigiP7/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#melittanocharla",
+        "#granfinonocharla"
+      ],
+      "type": "VIDEO",
+      "views": 378353,
+      "reach": 230816,
+      "likes": 13535,
+      "comments": 2126,
+      "shares": 899,
+      "saves": 666,
+      "platform": "instagram"
+    },
+    {
+      "id": "18105108788362088",
+      "date": "2026-11-19",
+      "caption": "NÃO PRECISA FALAR MAIS NADA, NÉ?! 🤷🏻‍♂️🤣\n\nOlha a reação do mini torcedor do Corinthians nesse lance. Teve até direito a ",
+      "url": "https://www.instagram.com/reel/Df6M74HhTtN/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 341491,
+      "reach": 231027,
+      "likes": 25720,
+      "comments": 728,
+      "shares": 13426,
+      "saves": 803,
+      "platform": "instagram"
+    },
+    {
+      "id": "18079882814454754",
+      "date": "2026-11-19",
+      "caption": "MAIS UM DELE! VIROU GOLEADA!! 😱\n\nKaio César marca mais um gol, e o Corinthians anota o terceiro contra o Botafogo em cas",
+      "url": "https://www.instagram.com/reel/Df6EqDsBwtR/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 331251,
+      "reach": 255414,
+      "likes": 15672,
+      "comments": 274,
+      "shares": 3715,
+      "saves": 277,
+      "platform": "instagram"
+    },
+    {
+      "id": "17947682355364786",
+      "date": "2026-11-21",
+      "caption": "A TAÇA JÁ É DO FLAMENGO, PO! 🤣🤣\n\nQuem disse que não ia ter taça na comemoração em São Paulo? O Mengão levou uma e comemo",
+      "url": "https://www.instagram.com/reel/DgBRYrQhgYV/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 322773,
+      "reach": 241357,
+      "likes": 39821,
+      "comments": 787,
+      "shares": 7429,
+      "saves": 735,
+      "platform": "instagram"
+    },
+    {
+      "id": "17988406371091613",
+      "date": "2026-11-19",
+      "caption": "AÍ NÃO, VITINHO! 😳\n\nMesmo impedido, não dá pra perder esse gol, né?! Se liga na reação da nossa transmissão 🤣\n\n🎙️Bruno C",
+      "url": "https://www.instagram.com/reel/Df5-vSWBJZk/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 263299,
+      "reach": 182813,
+      "likes": 1235,
+      "comments": 28,
+      "shares": 39,
+      "saves": 24,
+      "platform": "instagram"
+    },
+    {
+      "id": "17999642793021303",
+      "date": "2026-11-21",
+      "caption": "MATHEUS FICOU MALUCO COM O GOL DO LINO! 🏆\n\nO flamenguista que não comemorou MUITO o gol do Lino e fez alguma doidera, tá",
+      "url": "https://www.instagram.com/reel/DgBZ0lSttYZ/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 192758,
+      "reach": 121621,
+      "likes": 17963,
+      "comments": 333,
+      "shares": 650,
+      "saves": 250,
+      "platform": "instagram"
+    },
+    {
+      "id": "18156690334530833",
+      "date": "2026-11-19",
+      "caption": "MEMPHIS DEPAY AMPLIA PRO TIMÃO! ⚽️⚽️\n\nEle voltou a marcar! Memphis faz o segundo do Corinthians ainda no primeiro tempo,",
+      "url": "https://www.instagram.com/reel/Df58t_wBV8y/",
+      "tags": [
+        "#charlanopremiere"
+      ],
+      "type": "VIDEO",
+      "views": 177612,
+      "reach": 137215,
+      "likes": 6165,
+      "comments": 156,
+      "shares": 763,
+      "saves": 94,
+      "platform": "instagram"
+    },
+    {
+      "id": "18144096943624168",
+      "date": "2026-11-16",
+      "caption": "\"O VASCO TEM UMA HISTÓRIA REALMENTE MUITO BONITA!\" \n\nComo surgiu a ideia de construir um estádio para o Vasco? Jefferson",
+      "url": "https://www.instagram.com/reel/Df0huS-Bxqt/",
+      "tags": [
+        "#brahmanocharla",
+        "#penaltynocharla",
+        "#absolutnocharla"
+      ],
+      "type": "VIDEO",
+      "views": 163289,
+      "reach": 116576,
+      "likes": 19423,
+      "comments": 337,
+      "shares": 3746,
+      "saves": 567,
+      "platform": "instagram"
+    }
+  ],
+  "ai_summary": {
+    "resumo_semana": "—",
+    "destaque_semana": "—",
+    "padroes": [],
+    "recomendacoes": [],
+    "analise_patrocinadores": "—",
+    "proximo_foco": "—"
+  }
+}

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-22T17:38:52.716704",
-  "date": "2026-11-21",
+  "generated_at": "2026-11-23T21:55:14.640994",
+  "date": "2026-11-22",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 25,
+    "total_posts": 7,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,65 +12,38 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18390155410238724",
-    "melhor_post_caption": "“VEM NO MEU SAMBA” ou “BATE DE FRENTE”? 👀\n\nVocê sabia dessa mudança da letra? E aí, prefere qual ver",
-    "melhor_post_views": 42304,
+    "melhor_post_id": "17900425278612977",
+    "melhor_post_caption": "AS DUAS PAIXÕES EM JOGO! 🤣👀\n\nO Charla colocou (ou pelo menos tentou colocar 🤣) os mestres de bateria",
+    "melhor_post_views": 10271,
     "sponsor_stats": {
+      "#charlafutebol": {
+        "posts": 3,
+        "views": 9621,
+        "likes": 808,
+        "comments": 28
+      },
       "#brahmanocharla": {
-        "posts": 2,
-        "views": 63172,
-        "likes": 5208,
-        "comments": 138
-      },
-      "#granfinonocharla": {
         "posts": 1,
-        "views": 42304,
-        "likes": 4489,
-        "comments": 130
-      },
-      "#charlanopremiere": {
-        "posts": 14,
-        "views": 1314582,
-        "likes": 105573,
-        "comments": 2229
-      },
-      "#penaltynocharla": {
-        "posts": 1,
-        "views": 20868,
-        "likes": 719,
-        "comments": 8
-      },
-      "#assainocharla": {
-        "posts": 1,
-        "views": 20868,
-        "likes": 719,
-        "comments": 8
-      },
-      "#absolutnocharla": {
-        "posts": 1,
-        "views": 20868,
-        "likes": 719,
-        "comments": 8
+        "views": 9621,
+        "likes": 537,
+        "comments": 27
       }
     }
   },
   "posts": [
     {
-      "id": "18390155410238724",
-      "date": "2026-11-21",
-      "caption": "“VEM NO MEU SAMBA” ou “BATE DE FRENTE”? 👀\n\nVocê sabia dessa mudança da letra? E aí, prefere qual versão?\n\nO fato é que é",
-      "url": "https://www.instagram.com/reel/DgAjuG4hTjF/",
-      "tags": [
-        "#brahmanocharla",
-        "#granfinonocharla"
-      ],
+      "id": "17900425278612977",
+      "date": "2026-11-22",
+      "caption": "AS DUAS PAIXÕES EM JOGO! 🤣👀\n\nO Charla colocou (ou pelo menos tentou colocar 🤣) os mestres de bateria do Salgueiro, Guilh",
+      "url": "https://www.instagram.com/reel/DgDIWqPMqIX/",
+      "tags": [],
       "type": "VIDEO",
-      "views": 42304,
-      "reach": 32443,
-      "likes": 4489,
-      "comments": 130,
-      "shares": 629,
-      "saves": 187,
+      "views": 10271,
+      "reach": 7633,
+      "likes": 306,
+      "comments": 14,
+      "shares": 13,
+      "saves": 4,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -96,18 +69,55 @@
       }
     },
     {
-      "id": "17918906121541499",
-      "date": "2026-11-21",
-      "caption": "É DIA DE CHARLA NO PREMIERE COM UM JOGO ABSURDO! 🔥\n\nLíder e vice-líder frente a frente nesse sabadão. O Palmeiras quer a",
-      "url": "https://www.instagram.com/p/DgAcgxYB8pv/",
+      "id": "18211560754373114",
+      "date": "2026-11-22",
+      "caption": "FALA A VERDADE, VOCÊ CANTA COMO? 👀\n\nEssa “confusão” na letra quase fez o Bom Gosto não gravar a música que ganhou o país",
+      "url": "https://www.instagram.com/reel/DgC6uu9sKcL/",
+      "tags": [],
+      "type": "VIDEO",
+      "views": 36360,
+      "reach": 24022,
+      "likes": 1068,
+      "comments": 31,
+      "shares": 66,
+      "saves": 47,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18199669015400095",
+      "date": "2026-11-22",
+      "caption": "O JOGO PRA MANTER O SONHO VIVO! 🤩\n\nO Bragantino recebe o Vasco em um confronto direto na busca por uma vaga na Libertado",
+      "url": "https://www.instagram.com/p/DgC0OSohPaX/",
       "tags": [
-        "#charlanopremiere"
+        "#charlafutebol"
       ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 132,
-      "comments": 9,
+      "likes": 92,
+      "comments": 0,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -135,60 +145,20 @@
       }
     },
     {
-      "id": "17872076079658895",
-      "date": "2026-11-21",
-      "caption": "“DE LONGE, O PIOR MOMENTO DA MINHA CARREIRA” 🥺\n\nFoi assim que Éder Luiz relatou o dia 1º de maio de 1994, dia em que ele",
-      "url": "https://www.instagram.com/reel/DgASx8MBRNB/",
+      "id": "18011341241990863",
+      "date": "2026-11-22",
+      "caption": "HOJE TEM JOGÃO NO MARACA E NO CHARLA FUTEBOL! ⚽️\n\nCom objetivos diferentes na tabela, Fluminense e Mirassol precisam da ",
+      "url": "https://www.instagram.com/p/DgCyJJEhaZ3/",
       "tags": [
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla",
-        "#absolutnocharla"
+        "#charlafutebol"
       ],
-      "type": "VIDEO",
-      "views": 20868,
-      "reach": 14746,
-      "likes": 719,
-      "comments": 8,
-      "shares": 8,
-      "saves": 46,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17921754432526569",
-      "date": "2026-11-21",
-      "caption": "OS BASTIDORES DOS SUCESSOS! 🎧\n\nA produção de um sucesso é sempre cheia de muitos detalhes e dúvidas.\n\nJá imaginou se ele",
-      "url": "https://www.instagram.com/reel/Df-6y50Bt-M/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 9267,
-      "reach": 7647,
-      "likes": 211,
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 179,
       "comments": 1,
-      "shares": 5,
-      "saves": 2,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -214,57 +184,19 @@
       }
     },
     {
-      "id": "17999642793021303",
-      "date": "2026-11-21",
-      "caption": "MATHEUS FICOU MALUCO COM O GOL DO LINO! 🏆\n\nO flamenguista que não comemorou MUITO o gol do Lino e fez alguma doidera, tá",
-      "url": "https://www.instagram.com/reel/DgBZ0lSttYZ/",
+      "id": "18101116751424791",
+      "date": "2026-11-22",
+      "caption": "NO APAGAR DAS LUZES, VENCE O FLUMINENSE! ⚽️\n\nNos acréscimos do segundo tempo, Riquelme Felipe abre o placar e garante a ",
+      "url": "https://www.instagram.com/reel/DgEB6Yfh0uA/",
       "tags": [
-        "#charlanopremiere"
+        "#charlafutebol",
+        "#brahmanocharla"
       ],
       "type": "VIDEO",
-      "views": 160067,
-      "reach": 99082,
-      "likes": 14623,
-      "comments": 296,
-      "shares": 506,
-      "saves": 210,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18350764906250148",
-      "date": "2026-11-21",
-      "caption": "O AUTOR DO GOL DO TÍTULO E CRAQUE DO BRASILEIRÃO: SAMUEL LINO! 🏆\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DgBUkLau6TE/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 17606,
-      "reach": 13058,
-      "likes": 873,
-      "comments": 29,
+      "views": 9621,
+      "reach": 7632,
+      "likes": 537,
+      "comments": 27,
       "shares": 5,
       "saves": 6,
       "platform": "instagram",
@@ -292,478 +224,13 @@
       }
     },
     {
-      "id": "18222944362342341",
-      "date": "2026-11-21",
-      "caption": "VOLTOU PRA CASA PRA SER CAMPEÃO, PAQUETÁ! 🏆👏🏻\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DgBTu-6uiro/",
-      "tags": [
-        "#charlanopremiere"
-      ],
+      "id": "xJ1n_bWt9z4",
+      "date": "2026-11-22",
+      "caption": "FLAMENGO CAMPEÃO BRASILEIRO NA VOZ DE BRUNO CANTARELLI",
       "type": "VIDEO",
-      "views": 33668,
-      "reach": 27699,
-      "likes": 1860,
-      "comments": 33,
-      "shares": 28,
-      "saves": 16,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18132105817862961",
-      "date": "2026-11-21",
-      "caption": "TEM QUE COLOCAR UMA ESTÁTUA DO ARRASCA NO CLUBE! O CRAQUE DO MENGÃO FALOU DEPOIS DE MAIS UM TÍTULO!\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DgBS9tFsYAN/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 15306,
-      "reach": 11838,
-      "likes": 1087,
-      "comments": 42,
-      "shares": 16,
-      "saves": 14,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18073559453604933",
-      "date": "2026-11-21",
-      "caption": "COM VOCÊS, O TREINADOR DO DECA DO MENGÃO! 👏🏻🏆\n\n#CharlaNoPremiere",
-      "url": "https://www.instagram.com/reel/DgBSTTVuAvA/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 17181,
-      "reach": 13150,
-      "likes": 541,
-      "comments": 22,
-      "shares": 2,
-      "saves": 3,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17947682355364786",
-      "date": "2026-11-21",
-      "caption": "A TAÇA JÁ É DO FLAMENGO, PO! 🤣🤣\n\nQuem disse que não ia ter taça na comemoração em São Paulo? O Mengão levou uma e comemo",
-      "url": "https://www.instagram.com/reel/DgBRYrQhgYV/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 270819,
-      "reach": 195491,
-      "likes": 37077,
-      "comments": 720,
-      "shares": 6766,
-      "saves": 676,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18124003855743857",
-      "date": "2026-11-21",
-      "caption": "É DECA! O FLAMENGO É CAMPEÃO DO BRASILEIRÃO!\n\nNarração ABSURDA do Canta no apito final para você ver, rever e rever mais",
-      "url": "https://www.instagram.com/reel/DgBQid_uhjb/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 91666,
-      "reach": 74893,
-      "likes": 7122,
-      "comments": 119,
-      "shares": 1805,
-      "saves": 156,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18137353462663616",
-      "date": "2026-11-21",
-      "caption": "SAMUEL LINO MARCOU O GOL DO TÍTULO! ⚽🏆\n\nNo melhor estilo do Mengão, Samuel Lino recebeu de frente para o Carlos Miguel e",
-      "url": "https://www.instagram.com/reel/DgBPXVxMSL4/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 365260,
-      "reach": 285731,
-      "likes": 31978,
-      "comments": 688,
-      "shares": 7158,
-      "saves": 586,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18109173995353915",
-      "date": "2026-11-21",
-      "caption": "UM GIGANTE NO GOL!\n\nNo primeiro tempo, o Fla pressionou e tentou o gol, mas Carlos Miguel operou dois milagres! \n\n#Charl",
-      "url": "https://www.instagram.com/reel/DgBKdM8t1XJ/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 86903,
-      "reach": 57175,
-      "likes": 797,
-      "comments": 28,
-      "shares": 11,
-      "saves": 14,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18122276597091537",
-      "date": "2026-11-21",
-      "caption": "POR MUITO POUCO NÃO SAIU O SEGUNDO!\n\nDe novo pelo alto o Palmeiras criou oportunidade de gol, dessa vez com Gustavo Góme",
-      "url": "https://www.instagram.com/reel/DgBHO4gtkyX/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 43403,
-      "reach": 29726,
-      "likes": 603,
-      "comments": 18,
-      "shares": 25,
-      "saves": 5,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "17894170095687221",
-      "date": "2026-11-21",
-      "caption": "O PALMEIRAS SAI NA FRENTE! ⚽\n\nEm jogada aérea, o Verdão chegou ao ataque pela ponta e no cruzamento do Giay, Arias cabec",
-      "url": "https://www.instagram.com/reel/DgBGc0tsPaH/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 82302,
-      "reach": 54326,
-      "likes": 2145,
-      "comments": 29,
-      "shares": 46,
-      "saves": 26,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18101681258537996",
-      "date": "2026-11-21",
-      "caption": "IH, RAPAZ! 👀\n\nSeja na arquibancada ou fora dela, muitas provocações ao Flamengo no estádio do Palmeiras pela ausência do",
-      "url": "https://www.instagram.com/reel/DgBAKVepV_J/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 110235,
-      "reach": 79128,
-      "likes": 6496,
-      "comments": 163,
-      "shares": 1147,
-      "saves": 123,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18120080575824102",
-      "date": "2026-11-21",
-      "caption": "QUANTO VAI SER ESSE JOGÃO? 👀\n\nTá começando o nosso pré-jogo no Premiere e é partida que vale muito! Palmeiras e Flamengo",
-      "url": "https://www.instagram.com/reel/DgA5M7qJ1i8/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "VIDEO",
-      "views": 20166,
-      "reach": 16188,
-      "likes": 239,
-      "comments": 33,
-      "shares": 10,
-      "saves": 2,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "y0fxwWM8X8A",
-      "date": "2026-11-21",
-      "caption": "Gente Nossa #006 - Bom Gosto",
-      "type": "VIDEO",
-      "views": 5378,
-      "likes": 78,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "vsEUMoqwc-A",
-      "date": "2026-11-21",
-      "caption": "IMPORTÂNCIA DO PROJETO FRUTA DO PÉ PARA LEVAR CULTURA E EDUCAÇÃO À ZONA OESTE DO RIO DE JANEIRO",
-      "type": "VIDEO",
-      "views": 1186,
-      "likes": 5,
-      "comments": 0,
+      "views": 37110,
+      "likes": 1315,
+      "comments": 39,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -791,183 +258,13 @@
       }
     },
     {
-      "id": "-1vneLZW_rM",
-      "date": "2026-11-21",
-      "caption": "COMO O PROJETO FRUTA DO PÉ SE TORNOU UM SUCESSO NO RIO DE JANEIRO",
+      "id": "GkhsMcSj1Sk",
+      "date": "2026-11-22",
+      "caption": "NARRAÇÃO ABSURDA DO GOL DA VITÓRIA DO FLUMINENSE CONTRA O MIRASSOL",
       "type": "VIDEO",
-      "views": 630,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "aPngoPLmKlI",
-      "date": "2026-11-21",
-      "caption": "A IMPORTÂNCIA E INFLUÊNCIA DE OUTROS ESTILOS MUSICAIS PARA O SAMBA",
-      "type": "VIDEO",
-      "views": 830,
-      "likes": 7,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "I6t_A7z534g",
-      "date": "2026-11-21",
-      "caption": "A IMPORTÂNCIA DO PROTAGONISMO FEMININO NAS RODAS DE SAMBA",
-      "type": "VIDEO",
-      "views": 627,
-      "likes": 3,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "08Owkhe_BDU",
-      "date": "2026-11-21",
-      "caption": "CONHEÇA A HISTÓRIA POR TRÁS DO PROJETO DE SAMBA FRUTA DO PÉ",
-      "type": "VIDEO",
-      "views": 690,
-      "likes": 6,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "uBycUPLKPkU",
-      "date": "2026-11-21",
-      "caption": "BEPE ‘CANCELA’ AEROFLA! KAIO CESAR NO VASCO? TITE AMEAÇADO?",
-      "type": "VIDEO",
-      "views": 12265,
-      "likes": 158,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "2iSDw_Oyev8",
-      "date": "2026-11-21",
-      "caption": "BRUNO CANTARELLI NARRA O TÍTULO DO FLAMENGO NO BRASILEIRÃO",
-      "type": "VIDEO",
-      "views": 34850,
-      "likes": 1185,
-      "comments": 33,
+      "views": 2189,
+      "likes": 62,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
