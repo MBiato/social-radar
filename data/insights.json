@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T19:26:16.116746",
-  "date": "2026-11-25",
+  "generated_at": "2026-11-27T19:21:56.341501",
+  "date": "2026-11-26",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 26,
+    "total_posts": 12,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,58 +12,64 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "17919782607541576",
-    "melhor_post_caption": "NÃO É POSSÍVEL QUE VOCÊ ACHOU QUE NÃO IA TER CHARLA NA FINAL DA LIBERTADORES 2026! 🤷‍♂️\n\nE dessa vez",
-    "melhor_post_views": 44951,
+    "melhor_post_id": "17960487894295674",
+    "melhor_post_caption": "BADAUÍ É MUITO CORINTHIANS! 🦅🤘🏻\n\nO que chegou primeiro na vida do vocalista do CPM 22: o rock ou o T",
+    "melhor_post_views": 31023,
     "sponsor_stats": {
-      "#absolutnocharla": {
-        "posts": 2,
-        "views": 61951,
-        "likes": 2911,
-        "comments": 50
+      "#melittanocharla": {
+        "posts": 3,
+        "views": 48298,
+        "likes": 4478,
+        "comments": 96
       },
       "#brahmanocharla": {
-        "posts": 1,
-        "views": 17000,
-        "likes": 518,
-        "comments": 12
-      },
-      "#penaltynocharla": {
-        "posts": 1,
-        "views": 17000,
-        "likes": 518,
-        "comments": 12
+        "posts": 3,
+        "views": 34861,
+        "likes": 2813,
+        "comments": 94
       },
       "#assainocharla": {
-        "posts": 1,
-        "views": 17000,
-        "likes": 518,
-        "comments": 12
+        "posts": 2,
+        "views": 17275,
+        "likes": 2252,
+        "comments": 65
+      },
+      "#fornerianocharla": {
+        "posts": 2,
+        "views": 17275,
+        "likes": 2252,
+        "comments": 65
+      },
+      "#absolutnocharla": {
+        "posts": 2,
+        "views": 17275,
+        "likes": 2252,
+        "comments": 65
       },
       "#charlanamix": {
-        "posts": 1,
-        "views": 54914,
-        "likes": 1833,
-        "comments": 286
+        "posts": 2,
+        "views": 73938,
+        "likes": 1748,
+        "comments": 33
       }
     }
   },
   "posts": [
     {
-      "id": "17919782607541576",
-      "date": "2026-11-25",
-      "caption": "NÃO É POSSÍVEL QUE VOCÊ ACHOU QUE NÃO IA TER CHARLA NA FINAL DA LIBERTADORES 2026! 🤷‍♂️\n\nE dessa vez, com o time reforça",
-      "url": "https://www.instagram.com/reel/DgLIt-kh6Ax/",
+      "id": "17960487894295674",
+      "date": "2026-11-26",
+      "caption": "BADAUÍ É MUITO CORINTHIANS! 🦅🤘🏻\n\nO que chegou primeiro na vida do vocalista do CPM 22: o rock ou o Timão? Se liga na res",
+      "url": "https://www.instagram.com/reel/DgNzVQvBGMg/",
       "tags": [
-        "#absolutnocharla"
+        "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 44951,
-      "reach": 33732,
-      "likes": 2393,
-      "comments": 38,
-      "shares": 39,
-      "saves": 51,
+      "views": 31023,
+      "reach": 21483,
+      "likes": 2226,
+      "comments": 31,
+      "shares": 94,
+      "saves": 52,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -89,60 +95,24 @@
       }
     },
     {
-      "id": "17884765284630592",
-      "date": "2026-11-25",
-      "caption": "“O ANCELOTTI TEM QUE ENTENDER ESSA QUESTÃO!” ‼️\n\nEnzo Grisalho bateu um papo exclusivo com o pentacampeão Roque Jr, dire",
-      "url": "https://www.instagram.com/reel/DgK-JiqBQCy/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 24747,
-      "reach": 17732,
-      "likes": 821,
-      "comments": 21,
-      "shares": 14,
-      "saves": 11,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18228059371338417",
-      "date": "2026-11-25",
-      "caption": "“O FLAMENGO TEM QUE SER RESPONSÁVEL!”👀🔴⚫️\n\nA fala recente do presidente BAP sobre a situação financeira do Flamengo no p",
-      "url": "https://www.instagram.com/reel/DgLogn5B3Ux/",
+      "id": "18588228802074863",
+      "date": "2026-11-26",
+      "caption": "CHARLA MUITO F*DA! 🔥\n\nDurante a Charla de Quinta de hoje, tivemos uma charla com o Diego Aguirre, treinador e ídolo do P",
+      "url": "https://www.instagram.com/p/DgNrGYMh5rx/",
       "tags": [
         "#brahmanocharla",
-        "#penaltynocharla",
         "#assainocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
         "#absolutnocharla"
       ],
-      "type": "VIDEO",
-      "views": 17000,
-      "reach": 11900,
-      "likes": 518,
-      "comments": 12,
-      "shares": 4,
-      "saves": 13,
+      "type": "IMAGE",
+      "views": 0,
+      "reach": 0,
+      "likes": 1439,
+      "comments": 23,
+      "shares": 0,
+      "saves": 0,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -168,20 +138,59 @@
       }
     },
     {
-      "id": "18137539906673337",
-      "date": "2026-11-25",
-      "caption": "“TEM QUE FALAR MAIS!”\n\nNa nossa Charla na Mix com Diogo Nogueira, ele e Canta trocaram ideia sobre o carnaval e os enred",
-      "url": "https://www.instagram.com/reel/DgLd7Q4Bf6G/",
+      "id": "17881013706634318",
+      "date": "2026-11-26",
+      "caption": "ESSE SERVIÇO DE BORDO NÓS GOSTAMOS DEMAIS! 😋🍻\n\nEnquanto todos se preparam para uma final tensa, nervosa e de muita inten",
+      "url": "https://www.instagram.com/reel/DgNVUcyBtoE/",
+      "tags": [
+        "#brahmanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 17586,
+      "reach": 13312,
+      "likes": 561,
+      "comments": 29,
+      "shares": 53,
+      "saves": 2,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18232999783329454",
+      "date": "2026-11-26",
+      "caption": "IMAGINA VER SUA MÚSICA NA TELEVISÃO?\n\nEm tempos sem YouTube e outras plataformas, esperar pelo seu clipe na tv era um ev",
+      "url": "https://www.instagram.com/reel/DgOJOkpBly1/",
       "tags": [
         "#charlanamix"
       ],
       "type": "VIDEO",
-      "views": 54914,
-      "reach": 43302,
-      "likes": 1833,
-      "comments": 286,
-      "shares": 438,
-      "saves": 102,
+      "views": 19125,
+      "reach": 15367,
+      "likes": 269,
+      "comments": 2,
+      "shares": 3,
+      "saves": 12,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -207,16 +216,21 @@
       }
     },
     {
-      "id": "uebztM1DFlM",
-      "date": "2026-11-25",
-      "caption": "Charla #788 - Jeffinho [Jogador do Liaoning Tieren]",
+      "id": "18160653343519666",
+      "date": "2026-11-26",
+      "caption": "SABIA QUE O DIOGO NOGUEIRA POR MUITO POUCO NÃO FOI JOGADOR DE FUTEBOL? 🤯\n\nSe liga nessa história que o cantor contou pra",
+      "url": "https://www.instagram.com/reel/DgOG-wRhr9L/",
+      "tags": [
+        "#charlanamix"
+      ],
       "type": "VIDEO",
-      "views": 15046,
-      "likes": 306,
-      "comments": 20,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
+      "views": 54813,
+      "reach": 42783,
+      "likes": 1479,
+      "comments": 31,
+      "shares": 183,
+      "saves": 40,
+      "platform": "instagram",
       "analysis": {
         "score": 5,
         "status": "normal",
@@ -241,13 +255,56 @@
       }
     },
     {
-      "id": "A4Okhxu6xAI",
-      "date": "2026-11-25",
-      "caption": "BRASILEIRÃO AINDA TEM DECISÕES IMPORTANTES! QUEM CAI? QUEM VAI PRA LIBERTA? | CHARLA DE QUINTA #427",
+      "id": "18036884927674789",
+      "date": "2026-11-26",
+      "caption": "BOTAFOGO TÁ EM UMA SITUAÇÃO COMPLICADA... \n\nCantarelli falou do risco ainda presente do Glorioso encarar um rebaixamento",
+      "url": "https://www.instagram.com/reel/DgN_8L6BfeY/",
+      "tags": [
+        "#brahmanocharla",
+        "#assainocharla",
+        "#melittanocharla",
+        "#fornerianocharla",
+        "#absolutnocharla"
+      ],
       "type": "VIDEO",
-      "views": 30074,
-      "likes": 1058,
-      "comments": 12,
+      "views": 17275,
+      "reach": 13122,
+      "likes": 813,
+      "comments": 42,
+      "shares": 120,
+      "saves": 8,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "Ho_gZuf3POc",
+      "date": "2026-11-26",
+      "caption": "DAVID DO VASCO É PRESO! QUAIS VÃO SER OS REBAIXADOS EM 2026? | CHARLA DE QUINTA #428",
+      "type": "VIDEO",
+      "views": 39171,
+      "likes": 1197,
+      "comments": 9,
       "shares": 0,
       "saves": 0,
       "watch_minutes": 0,
@@ -277,13 +334,13 @@
       }
     },
     {
-      "id": "hGTK5wzRa54",
-      "date": "2026-11-25",
-      "caption": "NOVO EMPRÉSTIMO DO VASCO PREOCUPA PARA 2027?",
+      "id": "wAQQYwY9EVA",
+      "date": "2026-11-26",
+      "caption": "DECLARAÇÃO DO BAP SOBRE FINANÇAS DO FLAMENGO CAUSA POLÊMICA",
       "type": "VIDEO",
-      "views": 16631,
-      "likes": 291,
-      "comments": 13,
+      "views": 27111,
+      "likes": 454,
+      "comments": 168,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -311,488 +368,12 @@
       }
     },
     {
-      "id": "i_EYlHBe5es",
-      "date": "2026-11-25",
-      "caption": "ENZO E AZEVEDO CRITICAM POSTURA DO NEYMAR NA DERROTA DO SANTOS PARA O GRÊMIO",
+      "id": "P-qbZ2iHLYA",
+      "date": "2026-11-26",
+      "caption": "MARTINELLI NO PALMEIRAS? JARDIM EM SILÊNCIO  SOBRE PERMANÊNCIA! JAIR NO FLU?",
       "type": "VIDEO",
-      "views": 7405,
-      "likes": 121,
-      "comments": 9,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "Ldx-Jmn8_XU",
-      "date": "2026-11-25",
-      "caption": "QUEM SERÃO OS ÚLTIMOS DOIS REBAIXADOS NO BRASILEIRÃO?",
-      "type": "VIDEO",
-      "views": 6461,
-      "likes": 93,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "zQga93sx67Q",
-      "date": "2026-11-25",
-      "caption": "GOLEADA HUMILHANTE DO VITÓRIA SOBRE O INTER NO BEIRA RIO",
-      "type": "VIDEO",
-      "views": 3028,
-      "likes": 44,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "iJr7GO0_zpA",
-      "date": "2026-11-25",
-      "caption": "QUAL SERÁ O FUTURO DO BOTAFOGO?",
-      "type": "VIDEO",
-      "views": 2897,
-      "likes": 59,
-      "comments": 7,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "dOoEQLVBaR8",
-      "date": "2026-11-25",
-      "caption": "TRABALHO DESASTROSO DO TITE NO BOTAFOGO",
-      "type": "VIDEO",
-      "views": 9835,
-      "likes": 212,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "41nti1f4hus",
-      "date": "2026-11-25",
-      "caption": "SITUAÇÃO DESESPERADORA DO BOTAFOGO NO CAMPEONATO BRASILEIRO",
-      "type": "VIDEO",
-      "views": 1483,
-      "likes": 68,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "H-vjLLQxK6U",
-      "date": "2026-11-25",
-      "caption": "TITE FICA NO BOTAFOGO? MARCOS ANTÔNIO NO VASCO? NATÃ RENOVANDO COM O FLU?",
-      "type": "VIDEO",
-      "views": 9543,
-      "likes": 150,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "zbYhp8N9ug8",
-      "date": "2026-11-25",
-      "caption": "JEFFINHO REVELA COMO É O CHERKI NOS BASTIDORES",
-      "type": "VIDEO",
-      "views": 53148,
-      "likes": 733,
-      "comments": 20,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "tQVr77tu1Rk",
-      "date": "2026-11-25",
-      "caption": "BASTIDORES INÉDITOS DA VIAGEM DO BOTAFOGO AO MUNDIAL DE 2024",
-      "type": "VIDEO",
-      "views": 10978,
-      "likes": 204,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "mZ3GllXs0ZU",
-      "date": "2026-11-25",
-      "caption": "QUAL É O NÍVEL DA LIGA CHINESA EM 2026?",
-      "type": "VIDEO",
-      "views": 2991,
-      "likes": 46,
-      "comments": 2,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "WzUS1BbPsU8",
-      "date": "2026-11-25",
-      "caption": "A REALIDADE QUE NINGUÉM SABE SOBRE MORAR NA CHINA",
-      "type": "VIDEO",
-      "views": 52541,
-      "likes": 806,
-      "comments": 105,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "AqSa0-gcsWQ",
-      "date": "2026-11-25",
-      "caption": "JEFFINHO DESABAFA SOBRE A SUA VOLTA FRUSTRANTE AO BOTAFOGO",
-      "type": "VIDEO",
-      "views": 3169,
-      "likes": 54,
-      "comments": 0,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "7dzL0TxEBTQ",
-      "date": "2026-11-25",
-      "caption": "JEFFINHO MANDA RECADO SOBRE TÍTULO DA LIBERTADORES DO BOTAFOGO",
-      "type": "VIDEO",
-      "views": 8194,
-      "likes": 241,
-      "comments": 19,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "6U4jv_asG4Q",
-      "date": "2026-11-25",
-      "caption": "REVELADO O SEGREDO DO SUCESSO DO BOTAFOGO DE 2024",
-      "type": "VIDEO",
-      "views": 6033,
-      "likes": 124,
-      "comments": 5,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "8X8g7sjxKAY",
-      "date": "2026-11-25",
-      "caption": "JEFFINHO FICOU INDIGNADO APÓS MARCAR GOL IMPORTANTE DO BOTAFOGO NA LIBERTADORES",
-      "type": "VIDEO",
-      "views": 4232,
-      "likes": 111,
+      "views": 7805,
+      "likes": 130,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -821,13 +402,13 @@
       }
     },
     {
-      "id": "7Ziqmu1JRrs",
-      "date": "2026-11-25",
-      "caption": "COMO ERA ENFRENTAR O MESSI NA EUROPA?",
+      "id": "rTv23r2vzys",
+      "date": "2026-11-26",
+      "caption": "QUAL SERÁ A ESTRATÉGIA DO VASCO NO MERCADO DE TRANSFERÊNCIAS PARA 2027?",
       "type": "VIDEO",
-      "views": 3105,
-      "likes": 79,
-      "comments": 1,
+      "views": 39341,
+      "likes": 614,
+      "comments": 68,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -855,13 +436,13 @@
       }
     },
     {
-      "id": "XZtx6vPvWWw",
-      "date": "2026-11-25",
-      "caption": "JEFFINHO REVELA OS BASTIDORES DA SUA IDA AO LYON",
+      "id": "8g8_BMlbZks",
+      "date": "2026-11-26",
+      "caption": "SIMULAÇÃO DO CHARLA REVELA O FINAL DO ANO DO BOTAFOGO",
       "type": "VIDEO",
-      "views": 2761,
-      "likes": 71,
-      "comments": 0,
+      "views": 52688,
+      "likes": 837,
+      "comments": 74,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
@@ -889,47 +470,13 @@
       }
     },
     {
-      "id": "xEygirlWvaI",
-      "date": "2026-11-25",
-      "caption": "IMPORTÂNCIA ABSURDA DO LUÍS CASTRO PARA A CARREIRA DO JEFFINHO",
+      "id": "HxHgri9rhDg",
+      "date": "2026-11-26",
+      "caption": "TRETA SOBRE O NEYMAR PEGA FOGO NA BANCADA DO CHARLA",
       "type": "VIDEO",
-      "views": 5064,
-      "likes": 146,
-      "comments": 3,
-      "shares": 0,
-      "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "ZWjArwML6wU",
-      "date": "2026-11-25",
-      "caption": "OS DESAFIOS QUE O JEFFINHO ENFRENTOU PARA SE TORNAR PROFISSIONAL",
-      "type": "VIDEO",
-      "views": 2396,
-      "likes": 65,
-      "comments": 2,
+      "views": 19270,
+      "likes": 361,
+      "comments": 75,
       "shares": 0,
       "saves": 0,
       "platform": "youtube",
