@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-30T16:33:49.544630",
-  "date": "2026-10-29",
+  "generated_at": "2026-11-28T17:58:18.273109",
+  "date": "2026-11-27",
   "summary": {
     "score_medio": 5.0,
-    "total_posts": 22,
+    "total_posts": 21,
     "total_alertas": 0,
     "padroes": [
       "—",
@@ -12,201 +12,73 @@
     ],
     "recomendacao_amanha": "—",
     "insight_principal": "—",
-    "melhor_post_id": "18102659240378561",
-    "melhor_post_caption": "“ACENDA TUDO O QUE FOR DE ACENDER!” 💨\n\nE claro que o samba-enredo não poderia deixar de estar no nos",
-    "melhor_post_views": 12165,
+    "melhor_post_id": "18115854740580803",
+    "melhor_post_caption": "“NÓS, URUGUAIOS, TEMOS MUITO ORGULHO DELE!” 🇺🇾🤩\n\nDiego Aguirre falou sobre a genialidade de Arrascae",
+    "melhor_post_views": 35376,
     "sponsor_stats": {
-      "#charlafutebol": {
-        "posts": 3,
-        "views": 19567,
-        "likes": 942,
-        "comments": 27
-      },
-      "#fornerianocharla": {
-        "posts": 3,
-        "views": 40282,
-        "likes": 1212,
-        "comments": 114
-      },
       "#brahmanocharla": {
-        "posts": 5,
-        "views": 91200,
-        "likes": 2990,
-        "comments": 111
+        "posts": 3,
+        "views": 66478,
+        "likes": 4641,
+        "comments": 90
       },
-      "#charlanopremiere": {
-        "posts": 4,
-        "views": 248741,
-        "likes": 14383,
-        "comments": 434
-      },
-      "#chatgptnocharla": {
+      "#absolutnocharla": {
         "posts": 1,
-        "views": 44391,
-        "likes": 1402,
-        "comments": 21
-      },
-      "#penaltynocharla": {
-        "posts": 1,
-        "views": 44391,
-        "likes": 1402,
-        "comments": 21
+        "views": 35376,
+        "likes": 2077,
+        "comments": 17
       },
       "#assainocharla": {
         "posts": 1,
-        "views": 44391,
-        "likes": 1402,
-        "comments": 21
+        "views": 35376,
+        "likes": 2077,
+        "comments": 17
+      },
+      "#fornerianocharla": {
+        "posts": 1,
+        "views": 35376,
+        "likes": 2077,
+        "comments": 17
+      },
+      "#charlafutebol": {
+        "posts": 1,
+        "views": 0,
+        "likes": 121,
+        "comments": 4
       },
       "#melittanocharla": {
         "posts": 2,
-        "views": 27242,
-        "likes": 964,
-        "comments": 78
+        "views": 51520,
+        "likes": 1518,
+        "comments": 15
       },
-      "#absolutnocharla": {
-        "posts": 2,
-        "views": 27242,
-        "likes": 964,
-        "comments": 78
-      },
-      "#776": {
+      "#granfinonocharla": {
         "posts": 1,
-        "views": 0,
-        "likes": 367,
-        "comments": 1
+        "views": 17041,
+        "likes": 1697,
+        "comments": 63
       }
     }
   },
   "posts": [
     {
-      "id": "18102659240378561",
-      "date": "2026-10-29",
-      "caption": "“ACENDA TUDO O QUE FOR DE ACENDER!” 💨\n\nE claro que o samba-enredo não poderia deixar de estar no nosso papo com Inácio R",
-      "url": "https://www.instagram.com/reel/DfFVkdnhbRP/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 12165,
-      "reach": 9371,
-      "likes": 312,
-      "comments": 7,
-      "shares": 13,
-      "saves": 6,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18210129472368899",
-      "date": "2026-10-29",
-      "caption": "CLÁSSICO DOS MILHÕES NO CHARLA FUTEBOL! 🔥⚽️\n\nVasco x Flamengo se enfrentam hoje no Nilton Santos, com muita coisa em jog",
-      "url": "https://www.instagram.com/p/DfFOlHhJyec/",
+      "id": "18115854740580803",
+      "date": "2026-11-27",
+      "caption": "“NÓS, URUGUAIOS, TEMOS MUITO ORGULHO DELE!” 🇺🇾🤩\n\nDiego Aguirre falou sobre a genialidade de Arrascaeta, destacando o sen",
+      "url": "https://www.instagram.com/reel/DgQNNjoh5y7/",
       "tags": [
-        "#charlafutebol"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 318,
-      "comments": 15,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18132644578691806",
-      "date": "2026-10-29",
-      "caption": "CORINTHIANS VAI SE LIVRAR DO REBAIXAMENTO? 👀\n\nJoanna de Assis comparou o Timão atual com o de 2007, rebaixado. E as notí",
-      "url": "https://www.instagram.com/reel/DfFEJWFs85O/",
-      "tags": [],
-      "type": "VIDEO",
-      "views": 19455,
-      "reach": 14247,
-      "likes": 829,
-      "comments": 97,
-      "shares": 438,
-      "saves": 35,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18356870848172799",
-      "date": "2026-10-29",
-      "caption": "\"O TRICOLOR SAI COM UMA VITÓRIA GIGANTESCA!\" \n\nRodrigo Machado falou da virada, no finalzinho, do Fluminense diante do I",
-      "url": "https://www.instagram.com/reel/DfD1P7nAJJI/",
-      "tags": [
+        "#brahmanocharla",
+        "#absolutnocharla",
+        "#assainocharla",
         "#fornerianocharla"
       ],
       "type": "VIDEO",
-      "views": 13040,
-      "reach": 10780,
-      "likes": 248,
-      "comments": 36,
-      "shares": 1,
-      "saves": 1,
+      "views": 35376,
+      "reach": 24235,
+      "likes": 2077,
+      "comments": 17,
+      "shares": 19,
+      "saves": 44,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -232,96 +104,18 @@
       }
     },
     {
-      "id": "17913683349506297",
-      "date": "2026-10-29",
-      "caption": "O FLUZÃO VIRA O JOGO NO FINAL! 🤯🇭🇺\n\nDepois da bola cruzada na área, a oportunidade pintou para o Lucho Acosta e ele não ",
-      "url": "https://www.instagram.com/reel/DfDvoDip0kx/",
+      "id": "18027757088939987",
+      "date": "2026-11-27",
+      "caption": "HOJE TEM CONFRONTO DIRETO NO CHARLA FUTEBOL! 🔥⚽️\n\nFluminense x Cruzeiro se enfrentam no Maracanã na briga pela terceira ",
+      "url": "https://www.instagram.com/p/DgQEW4Ih-lQ/",
       "tags": [
-        "#brahmanocharla",
         "#charlafutebol"
       ],
-      "type": "VIDEO",
-      "views": 13496,
-      "reach": 10918,
-      "likes": 499,
-      "comments": 11,
-      "shares": 6,
-      "saves": 6,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18170419918467095",
-      "date": "2026-10-29",
-      "caption": "FLU EMPATA COM UM GOLAÇO!\n\nDaqueles chutes que pega na veia, Hércules pegou de primeira de fora da área e marcou um gola",
-      "url": "https://www.instagram.com/reel/DfDuMDsPrPE/",
-      "tags": [
-        "#brahmanocharla",
-        "#charlafutebol"
-      ],
-      "type": "VIDEO",
-      "views": 6071,
-      "reach": 6256,
-      "likes": 125,
-      "comments": 1,
-      "shares": 1,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18412283545094741",
-      "date": "2026-10-29",
-      "caption": "DESCANSE EM PAZ, DEDECO! 😕🙏🏻\n\nInfluencer e streamer de e-sports, e um grande parceiro do Charla, André Luiz (o Dedeco) n",
-      "url": "https://www.instagram.com/p/DfDtWrtMB-u/",
-      "tags": [],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 79538,
-      "comments": 1475,
+      "likes": 121,
+      "comments": 4,
       "shares": 0,
       "saves": 0,
       "platform": "instagram",
@@ -349,20 +143,20 @@
       }
     },
     {
-      "id": "18120991814083407",
-      "date": "2026-10-29",
-      "caption": "QUAL CHANCE FOI MAIS INACREDITÁVEL? 🤯\n\nNa primeira etapa do clássico, em questão de minutos Arroyo e Reinier perderam es",
-      "url": "https://www.instagram.com/reel/DfGNaMUt-DF/",
+      "id": "18088833665338943",
+      "date": "2026-11-27",
+      "caption": "QUEM É O FAVORITO PRA LEVAR ESSA LIBERTADORES? 👀\n\nDiego Aguirre deu sua opinião na nossa charla mais que especial, diret",
+      "url": "https://www.instagram.com/reel/DgQBeToBrpt/",
       "tags": [
-        "#charlanopremiere"
+        "#melittanocharla"
       ],
       "type": "VIDEO",
-      "views": 56051,
-      "reach": 39385,
-      "likes": 452,
-      "comments": 91,
-      "shares": 42,
-      "saves": 13,
+      "views": 36356,
+      "reach": 28042,
+      "likes": 1118,
+      "comments": 14,
+      "shares": 69,
+      "saves": 25,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -388,20 +182,20 @@
       }
     },
     {
-      "id": "18096625844448036",
-      "date": "2026-10-29",
-      "caption": "KAIO JORGE NÃO PERDOA! ⚽\n\nDepois do cruzamento ABSURDO do Arroyo, Kaio Jorge ligou o faro artilheiro e abriu o placar pa",
-      "url": "https://www.instagram.com/reel/DfGLJTYBSm3/",
+      "id": "18145149844717105",
+      "date": "2026-11-27",
+      "caption": "CRUZEIRO SAI NA FRENTE NO MARACANÃ! 🦊\n\nKaio Jorge recebeu bom passe no ataque, bateu cruzado, sem chance de defesas para",
+      "url": "https://www.instagram.com/reel/DgQ2DBLBr9K/",
       "tags": [
-        "#charlanopremiere"
+        "#brahmanocharla"
       ],
       "type": "VIDEO",
-      "views": 165350,
-      "reach": 121965,
-      "likes": 13367,
-      "comments": 287,
-      "shares": 2449,
-      "saves": 252,
+      "views": 14061,
+      "reach": 10057,
+      "likes": 867,
+      "comments": 10,
+      "shares": 2,
+      "saves": 7,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -427,20 +221,60 @@
       }
     },
     {
-      "id": "17953817130320790",
-      "date": "2026-10-29",
-      "caption": "ARENA MRV TÁ DO JEITO QUE TODO AMANTE DE FUTEBOL GOSTA!\n\nSe liga como foi a festa no estádio na entrada das equipes. Mui",
-      "url": "https://www.instagram.com/reel/DfGGdJaJMJN/",
+      "id": "17979053121173143",
+      "date": "2026-11-27",
+      "caption": "SALGUEIRO 2027 🤩🔴⚪️\n\nÉ contando essa história rica de cultura e ancestralidade que o Salgueiro vem brigar pelo décimo tí",
+      "url": "https://www.instagram.com/reel/DgQw2BlBzmW/",
       "tags": [
-        "#charlanopremiere"
+        "#brahmanocharla",
+        "#granfinonocharla"
       ],
       "type": "VIDEO",
-      "views": 27340,
-      "reach": 20790,
-      "likes": 456,
-      "comments": 38,
+      "views": 17041,
+      "reach": 13107,
+      "likes": 1697,
+      "comments": 63,
+      "shares": 210,
+      "saves": 46,
+      "platform": "instagram",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "18104120372077494",
+      "date": "2026-11-27",
+      "caption": "AGUIRRE RASGA ELOGIOS AO NEYMAR!\n\nNa nossa Charla de ontem, o Diego Aguirre, treinador do Peñarol, falou do camisa 10 do",
+      "url": "https://www.instagram.com/reel/DgQoOc3h4qx/",
+      "tags": [
+        "#melittanocharla"
+      ],
+      "type": "VIDEO",
+      "views": 15164,
+      "reach": 11404,
+      "likes": 400,
+      "comments": 1,
       "shares": 5,
-      "saves": 5,
+      "saves": 22,
       "platform": "instagram",
       "analysis": {
         "score": 5,
@@ -466,138 +300,15 @@
       }
     },
     {
-      "id": "18151820998505593",
-      "date": "2026-10-29",
-      "caption": "QUEM VAI VENCER O CLÁSSICO MINEIRO? DIZ AÍ!\n\nJá estamos ao vivo no Premiere pra acompanhar todas as emoções de Atlético-",
-      "url": "https://www.instagram.com/reel/DfGDKfOpu9L/",
+      "id": "18110524634322491",
+      "date": "2026-11-27",
+      "caption": "O VERDÃO TÁ DE VOLTA PRO CENTENÁRIO PRA BUSCAR MAIS UMA! 🚀🏆🟢\n\nA mesma cidade, o mesmo estádio, o mesmo objetivo. \n\nO Pal",
+      "url": "https://www.instagram.com/p/DgQiMqGB9EW/",
       "tags": [],
-      "type": "VIDEO",
-      "views": 11024,
-      "reach": 8441,
-      "likes": 340,
-      "comments": 93,
-      "shares": 6,
-      "saves": 1,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18082743146349465",
-      "date": "2026-10-29",
-      "caption": "ELE QUASE LARGOU TUDO! 😱\n\nMarcos Senna contou pra gente sobre o início da sua trajetória, em que ele quase largou o fute",
-      "url": "https://www.instagram.com/reel/DfF1J6uBtK9/",
-      "tags": [
-        "#chatgptnocharla",
-        "#brahmanocharla",
-        "#penaltynocharla",
-        "#assainocharla"
-      ],
-      "type": "VIDEO",
-      "views": 44391,
-      "reach": 31699,
-      "likes": 1402,
-      "comments": 21,
-      "shares": 35,
-      "saves": 49,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18145506166588501",
-      "date": "2026-10-29",
-      "caption": "BASTIDORES DO CORINTHIANS! 👀\n\nJoanna de Assis trouxe informações apuradas sobre como estão os conturbados bastidores do ",
-      "url": "https://www.instagram.com/reel/DfFn1QahnhC/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
-      "type": "VIDEO",
-      "views": 7541,
-      "reach": 5755,
-      "likes": 292,
-      "comments": 7,
-      "shares": 1,
-      "saves": 5,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18047071310821853",
-      "date": "2026-10-29",
-      "caption": "Charla #776 - Marcos Senna\n\nO ídolo do Villarreal e o campeão da Eurocopa pela Espanha é o nosso convidado de hoje. Rese",
-      "url": "https://www.instagram.com/p/DfFmFv9vZ4E/",
-      "tags": [
-        "#776"
-      ],
       "type": "IMAGE",
       "views": 0,
       "reach": 0,
-      "likes": 367,
+      "likes": 79,
       "comments": 1,
       "shares": 0,
       "saves": 0,
@@ -626,94 +337,13 @@
       }
     },
     {
-      "id": "18133191226761796",
-      "date": "2026-10-29",
-      "caption": "CLÁSSICO MINEIRO NO CHARLA NO PREMIERE! 🔥🔥\n\nGalo x Cruzeiro é o jogaço do Charla no Premiere hoje, com a transmissão daq",
-      "url": "https://www.instagram.com/p/DfFg0WQB8NH/",
-      "tags": [
-        "#charlanopremiere"
-      ],
-      "type": "IMAGE",
-      "views": 0,
-      "reach": 0,
-      "likes": 108,
-      "comments": 18,
-      "shares": 0,
-      "saves": 0,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "18571626496074506",
-      "date": "2026-10-29",
-      "caption": "SITUAÇÃO PREOCUPANTE NO FOGÃO! 🚨\n\nNa nossa charla de hoje, Joanna de Assis trouxe a situação delicada em que o Botafogo ",
-      "url": "https://www.instagram.com/reel/DfFfu7ohx-Y/",
-      "tags": [
-        "#brahmanocharla",
-        "#melittanocharla",
-        "#fornerianocharla",
-        "#absolutnocharla"
-      ],
+      "id": "He16oeBMDOU",
+      "date": "2026-11-27",
+      "caption": "FLU E CRUZEIRO SE ENFRENTAM NO MARACA! AMANHÃ TEM FINAL DA LIBERTADORES! | CHARLA DE QUINTA #429",
       "type": "VIDEO",
-      "views": 19701,
-      "reach": 14891,
-      "likes": 672,
-      "comments": 71,
-      "shares": 110,
-      "saves": 23,
-      "platform": "instagram",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "tAQv6X96pm0",
-      "date": "2026-10-29",
-      "caption": "FLUMINENSE x INTERNACIONAL | AO VIVO | BRASILEIRÃO 2026 | Charla Futebol",
-      "type": "VIDEO",
-      "views": 13579,
-      "likes": 192,
-      "comments": 0,
+      "views": 22796,
+      "likes": 707,
+      "comments": 2,
       "shares": 0,
       "saves": 0,
       "watch_minutes": 0,
@@ -743,12 +373,12 @@
       }
     },
     {
-      "id": "zDfaOfIs3mk",
-      "date": "2026-10-29",
-      "caption": "CARLOS VINICIUS NO VASCO? SÃO JANUÁRIO COM MAIS CAPACIDADE? DANILO RENOVA COM O FLA!",
+      "id": "vK-hZpMCmZQ",
+      "date": "2026-11-27",
+      "caption": "PALMEIRAS x ESTUDIANTES | AO VIVO | FINAL DA LIBERTADORES 2026 | DIRETO DO ESTÁDIO | Charla Futebol",
       "type": "VIDEO",
-      "views": 5435,
-      "likes": 74,
+      "views": 3,
+      "likes": 2,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -777,12 +407,80 @@
       }
     },
     {
-      "id": "5VfgfVVxOfA",
-      "date": "2026-10-29",
-      "caption": "FLUMINENSE SUPERA ATUAÇÃO RUIM E CONQUISTA 3 PONTOS CONTRA O INTERNACIONAL",
+      "id": "C20vvcfZ92A",
+      "date": "2026-11-27",
+      "caption": "VASCO VAI RESCINDIR COM DVD? MARÇAL SÓ EM 2027! ALISSON SAINDO DO FLU?",
       "type": "VIDEO",
-      "views": 1509,
-      "likes": 19,
+      "views": 6462,
+      "likes": 155,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "txEs0EVmLks",
+      "date": "2026-11-27",
+      "caption": "“ELE É INDISCUTÍVEL, UM FENÔMENO!” #MelittaNoCharla",
+      "type": "VIDEO",
+      "views": 1694,
+      "likes": 30,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "N6UOWs0Txhk",
+      "date": "2026-11-27",
+      "caption": "TEM FAVORITO PRA FINAL DE AMANHÃ? Com a palavra, Diego Aguirre. #MelittaNoCharla",
+      "type": "VIDEO",
+      "views": 2386,
+      "likes": 50,
       "comments": 0,
       "shares": 0,
       "saves": 0,
@@ -811,87 +509,287 @@
       }
     },
     {
-      "id": "AdxI-dZj1lQ",
-      "date": "2026-10-29",
-      "caption": "NARRAÇÃO EMOCIONANTE DA VIRADA ELETRIZANTE DO FLUMINENSE CONTRA O INTERNACIONAL",
+      "id": "qW-fGUbf5T8",
+      "date": "2026-11-27",
+      "caption": "COMO ERA ENFRENTAR O NEYMAR EM 2011?",
       "type": "VIDEO",
-      "views": 2005,
+      "views": 1917,
+      "likes": 25,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "m6zmknFXmZY",
+      "date": "2026-11-27",
+      "caption": "QUAL O MAIOR JOGADOR DA HISTÓRIA DO FUTEBOL URUGUAIO?",
+      "type": "VIDEO",
+      "views": 2214,
+      "likes": 44,
+      "comments": 7,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "RKjtMwo6ZbM",
+      "date": "2026-11-27",
+      "caption": "DIEGO AGUIRRE ABRE O JOGO SOBRE A FASE DO INTERNACIONAL",
+      "type": "VIDEO",
+      "views": 1851,
+      "likes": 33,
+      "comments": 1,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "90YsTiDuqkY",
+      "date": "2026-11-27",
+      "caption": "DIEGO AGUIRRE ANALISA A FINAL DA LIBERTADORES ENTRE PALMEIRAS E ESTUDIANTES",
+      "type": "VIDEO",
+      "views": 1641,
+      "likes": 23,
+      "comments": 3,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "XQuLNsn11iY",
+      "date": "2026-11-27",
+      "caption": "DIEGO AGUIRRE ABRE O JOGO SOBRE CONFRONTOS COM FLAMENGO E BOTAFOGO EM 2024",
+      "type": "VIDEO",
+      "views": 7042,
+      "likes": 158,
+      "comments": 2,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "REEnpPSFHIQ",
+      "date": "2026-11-27",
+      "caption": "DIEGO AGUIRRE ABRE O JOGO SOBRE O MOMENTO ATUAL DA SELEÇÃO URUGUAIA",
+      "type": "VIDEO",
+      "views": 465,
+      "likes": 9,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "wCHKy24ntoE",
+      "date": "2026-11-27",
+      "caption": "COMO O ARRASCAETA É VISTO NO URUGUAI?",
+      "type": "VIDEO",
+      "views": 3051,
+      "likes": 68,
+      "comments": 4,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "9kK2M1f3_V0",
+      "date": "2026-11-27",
+      "caption": "AS CIFRAS MILIONÁRIAS DO FUTEBOL BRASILEIRO ACABARAM COM A COMPETITIVIDADE DA LIBERTADORES?",
+      "type": "VIDEO",
+      "views": 513,
+      "likes": 6,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "platform": "youtube",
+      "analysis": {
+        "score": 5,
+        "status": "normal",
+        "resumo": "Análise indisponível.",
+        "thumb": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "titulo": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "legenda": {
+          "nota": "medio",
+          "analise": "—",
+          "sugestao": "—"
+        },
+        "causa_baixa": "",
+        "padrao": "—"
+      }
+    },
+    {
+      "id": "MiKnUv_M810",
+      "date": "2026-11-27",
+      "caption": "AGUIRRE ABRE O CORAÇÃO AO FALAR DA SUA IDOLATRIA NO PENÃROL",
+      "type": "VIDEO",
+      "views": 1075,
       "likes": 48,
       "comments": 0,
       "shares": 0,
       "saves": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "advqSWyjnz4",
-      "date": "2026-10-29",
-      "caption": "Charla #776 - Marcos Senna [Ídolo do Villarreal]",
-      "type": "VIDEO",
-      "views": 13408,
-      "likes": 208,
-      "comments": 8,
-      "shares": 0,
-      "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
-      "platform": "youtube",
-      "analysis": {
-        "score": 5,
-        "status": "normal",
-        "resumo": "Análise indisponível.",
-        "thumb": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "titulo": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "legenda": {
-          "nota": "medio",
-          "analise": "—",
-          "sugestao": "—"
-        },
-        "causa_baixa": "",
-        "padrao": "—"
-      }
-    },
-    {
-      "id": "cVbBTTHFxXI",
-      "date": "2026-10-29",
-      "caption": "FLU VOLTA A VENCER NO BRASILEIRÃO! QUEM LEVA O CLÁSSICO DE HOJE? | CHARLA DE QUINTA #406",
-      "type": "VIDEO",
-      "views": 26514,
-      "likes": 897,
-      "comments": 1,
-      "shares": 0,
-      "saves": 0,
-      "watch_minutes": 0,
-      "avg_view_duration_sec": 0,
       "platform": "youtube",
       "analysis": {
         "score": 5,
